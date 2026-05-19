@@ -76,10 +76,10 @@ public final class Tpa_2 {
         O = "textures/entity/zombie/zombie.png";
         A = "Plant";
         Z = "shaders/post/wobble.json";
-        ja = 0x9A2345DC ^ 0x9A23C4E6;
+        ja = 33082 /* ZKM Deobf Int */;
         l = "GL11.GL_DEPTH_SCALE";
         v = "Invoke error";
-        c = Double.longBitsToDouble(0x331F400AAF59FB12L ^ 0xCF324C8576E4FB0L);
+        c = 0.8873D /* ZKM Deobf */;
         C = "MiniDotDressedItem{item=";
         r = "\u041f\u043e\u0438\u0441\u043a";
         j = "allowCommands";
@@ -92,9 +92,9 @@ public final class Tpa_2 {
         P = "BOLD";
         Ka = "leaves_(?:birch|birch_opaque|jungle|jungle_opaque|oak|oak_opaque|spruce|spruce_opaque)?";
         i = "AES/CFB8/NoPadding";
-        S = Float.intBitsToFloat(0xC4044827 ^ 0x7AC884EA);
+        S = -0.4000000059604645F /* ZKM Deobf */;
         f = "renderlistcamera";
-        y = 0xEA790C29 ^ 0x1786F3D6;
+        y = 4261412863 /* ZKM Deobf Int */;
         Aa = "fence_gate";
         h = ", Duration: ";
         F = "blackstone";
@@ -103,7 +103,7 @@ public final class Tpa_2 {
         t = "%d";
         s = "\u0413\u0440\u043e\u043c\u043a\u043e\u0441\u0442\u044c \u043c\u0438\u043a\u0440\u043e\u0444\u043e\u043d\u0430";
         B = "commands.scoreboard.players.list.player.empty";
-        M = Double.longBitsToDouble(0xC8C4B70337E915CEL ^ 0x884BF70337E915CEL);
+        M = 1000.0D /* ZKM Deobf */;
         ga = "FallHurtMax";
         Ha = "bedrock_old";
         H = "minecraft:enchanting_table";
@@ -113,24 +113,24 @@ public final class Tpa_2 {
         p = "of.options.shaders.TEX_MAG_FIL_S";
         Da = "green_wool";
         G = 0x228C7133086193B4L ^ 0x228C7133F4C80687L;
-        z = 0x6D7BEC66 ^ 0x6D7BEC44;
-        D = Double.longBitsToDouble(0x90F130CAAB526C13L ^ 0x50A130CAAB526C13L);
+        z = 34 /* ZKM Deobf Int */;
+        D = -64.0D /* ZKM Deobf */;
         q = "characters[";
         k = "OLD_HAND_LIGHT";
-        W = 0xF3F2BBAA ^ 0xF3F2BA99;
+        W = 307 /* ZKM Deobf Int */;
         n = "5b";
         K = "game.hostile.swim.splash";
         Ga = "of.options.FAST_RENDER";
-        e = 0x6BCCE855 ^ 0x6BCCEBA5;
+        e = 1008 /* ZKM Deobf Int */;
         N = "DD";
         g = "GL11.GL_RGBA_MODE";
         b = "com.intellij.rt.execution.application.AppMainV2";
         m = "options.stream.mic_toggle.talk";
         x = "door";
         u = "bow2";
-        Ja = Float.intBitsToFloat(0x6EC1D298 ^ 0x2ECD1E55);
+        Ja = 2.200000047683716F /* ZKM Deobf */;
         I = "AbsorptionAmount";
-        fa = Double.longBitsToDouble(0xB5C4BC7AB042E5F9L ^ 0x8A60C69BF042E5F9L);
+        fa = 0.03999999910593033D /* ZKM Deobf */;
         ca = "GL12.GL_UNSIGNED_SHORT_5_6_5";
     }
 }

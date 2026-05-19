@@ -66,8 +66,8 @@ public final class VPa {
         e = "REMOTE";
         r = "cubes";
         Z = "OS: ";
-        W = Double.longBitsToDouble(0xD59F3C742FF019CAL ^ 0xEA4F3C742FF019CAL);
-        D = Float.intBitsToFloat(0xDC4D26A ^ 0x3084D26A);
+        W = 0.25D /* ZKM Deobf */;
+        D = 0.046875F /* ZKM Deobf */;
         H = "Couldn't parse '";
         I = "Missing protocol";
         l = "textures/blocks/bookshelf.png";
@@ -87,10 +87,10 @@ public final class VPa {
         g = "commands.give.item.notFound";
         m = "application/x-www-form-urlencoded";
         S = ".<init>";
-        A = 0x1B6D7305 ^ 0xE4928CBA;
+        A = 4294967231 /* ZKM Deobf Int */;
         h = "spawn_egg";
         w = "PET_RIGHT";
-        i = Float.intBitsToFloat(0x8C21E45D ^ 0xB2387DC7);
+        i = 0.15000000596046448F /* ZKM Deobf */;
         d = "Pet";
         G = "GL13.GL_TEXTURE15";
         T = "proxyPort";
@@ -104,7 +104,7 @@ public final class VPa {
         p = "HARD";
         b = "Sprite size: ";
         a = "WIDTHANIM";
-        Y = 0x11CA9255 ^ 0x11C7355E;
+        Y = 894731 /* ZKM Deobf Int */;
         f = "Less weights defined than tiles, expanding weights: ";
         y = "Empty pattern for aisle";
         fa = "Shape23123";

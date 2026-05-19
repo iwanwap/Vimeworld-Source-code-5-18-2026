@@ -75,18 +75,18 @@ public final class eua {
         V = "title_";
         z = "birch_stairs";
         Ja = "builtin/customblock/";
-        Aa = 0x2E43F584 ^ 0x2E43F0FC;
+        Aa = 1400 /* ZKM Deobf Int */;
         T = "an array (";
         N = "Failed to load dynamic items ";
         K = "facing=west,half=bottom,shape=inner_right";
-        n = Float.intBitsToFloat(0xD6DB4511 ^ 0x691789DC);
-        G = 0x2E65362A ^ 0x2E654313;
+        n = -1.600000023841858F /* ZKM Deobf */;
+        G = 30009 /* ZKM Deobf Int */;
         O = "Inventory";
         X = " is missing block data, skipping";
         d = "integer";
         L = "ambient";
         ca = "c";
-        g = 0xC69E87BC ^ 0xC69E8C9E;
+        g = 2850 /* ZKM Deobf Int */;
         q = "SHADER_PACK";
         o = "black_currant";
         Y = "@";
@@ -98,12 +98,12 @@ public final class eua {
         f = "green_concrete";
         e = "[ \t]*const[ \t]*bool[ \t]*(\\w+)Clear[ \t]*=[ \t]*false[ \t]*;.*";
         J = "Colormap not found: ";
-        fa = 0x168BD40F ^ 0xC9824BD1;
+        fa = 3741949918 /* ZKM Deobf Int */;
         u = "Track Edit";
-        A = 0xE1DC5CA0 ^ 0xE1DCC032;
-        P = 0x32A5AD8E ^ 0x32A5ED8A;
-        W = 0x6508D525 ^ 0x65085564;
-        l = Float.intBitsToFloat(0x2000375D ^ 0x9F19AEC7);
+        A = 40082 /* ZKM Deobf Int */;
+        P = 16388 /* ZKM Deobf Int */;
+        W = 32833 /* ZKM Deobf Int */;
+        l = -0.6000000238418579F /* ZKM Deobf */;
         Ha = "createWorld.customize.flat.title";
         B = "of.options.shaders.CLOUD_SHADOW";
         Q = "commands.scoreboard.teams.leave.failure";
@@ -122,7 +122,7 @@ public final class eua {
         M = "Shape20";
         r = "OUTDATED_CLIENT";
         Z = "visible";
-        C = Float.intBitsToFloat(0x875202CB ^ 0xC7F202CB);
+        C = 5.0F /* ZKM Deobf */;
         F = "headTurn";
     }
 

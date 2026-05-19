@@ -66,8 +66,8 @@ public final class mra_1 {
 
     static {
         t = "7b";
-        q = Float.intBitsToFloat(0x26CA3769 ^ 0x672A3769);
-        Z = 0x46952972 ^ 0xB96AD6EE;
+        q = 28.0F /* ZKM Deobf */;
+        Z = 4294967196 /* ZKM Deobf Int */;
         J = "menu.multiplayer";
         p = "exposed_copper_grate";
         c = "Banner";
@@ -87,18 +87,18 @@ public final class mra_1 {
         Ga = "AUTHENTICATING";
         P = "commands.scoreboard.teams.option.usage";
         O = "eye";
-        Ka = Float.intBitsToFloat(0x36D0A637 ^ 0x9F3713D);
+        Ka = 0.6399999856948853F /* ZKM Deobf */;
         K = "icePacked";
         Y = "cracked_brick_monster_egg";
-        T = 0x355B88B4 ^ 0x355B0BD0;
+        T = 33636 /* ZKM Deobf Int */;
         o = "SET_WARNING_TIME";
-        s = 0x9AC8DF75 ^ 0x9A487820;
+        s = 8431445 /* ZKM Deobf Int */;
         S = ", allocated: ";
         k = "_double_slab";
-        u = Float.intBitsToFloat(0x8A5DCD34 ^ 0x4BFA1A3E);
+        u = -20.979999542236328F /* ZKM Deobf */;
         D = "of.options.shaders.TEX_MIN_FIL_B";
         M = "RANDOM_MOBS";
-        j = Double.longBitsToDouble(0x4B5DD4F5C17FAC9AL ^ 0x8B3894F5C17FAC9AL);
+        j = -170.0D /* ZKM Deobf */;
         b = "minecraft:emitter_shape_disc";
         F = "pitch";
         a = "Fighters";

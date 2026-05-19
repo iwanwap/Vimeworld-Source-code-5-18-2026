@@ -69,16 +69,16 @@ public final class aPa_1 {
     }
 
     static {
-        E = 0xD268D49D ^ 0xD26854F9;
+        E = 32868 /* ZKM Deobf Int */;
         H = "textures/font/unicode_page_%02x.png";
-        Ga = Float.intBitsToFloat(0x1C0054E3 ^ 0xA25F3B31);
+        Ga = -0.21819999814033508F /* ZKM Deobf */;
         C = "\u00a78";
         y = "watercolorX.png";
-        k = Float.intBitsToFloat(0xE2385C0 ^ 0x303BCD56);
+        k = 0.14871439337730408F /* ZKM Deobf */;
         A = "endFadeIn";
         J = "Source";
         ca = "\u0000\u0002\u0000\u0001\u0001\u0002\u0002\u0000\u0000\u0000\u0001\u0004\u0002\u1009\u0000";
-        Y = 0xC8BB4742 ^ 0xC8BB462A;
+        Y = 360 /* ZKM Deobf Int */;
         u = "andesiteSize";
         p = "facing=west,half=top,shape=inner_right";
         W = "Retry entities";
@@ -87,8 +87,8 @@ public final class aPa_1 {
         X = "nether_wart_block";
         n = "target";
         t = "Piece1.Shape102";
-        S = 0xFC0AAB1B ^ 0xFC0A2FF9;
-        m = Double.longBitsToDouble(0xEEDFFEE4A9AD68FEL ^ 0xD76BB6AF5746AA5EL);
+        S = 34018 /* ZKM Deobf Int */;
+        m = 1e-30D /* ZKM Deobf */;
         x = "TIMEOUT";
         r = "Could not save resource ";
         I = "commands.give.usage";
@@ -97,12 +97,12 @@ public final class aPa_1 {
         j = "minecraft:air";
         D = "dstrgb";
         d = "diamond_shovel";
-        s = 0x4018BE19 ^ 0x4018BCFF;
+        s = 742 /* ZKM Deobf Int */;
         ja = "FRLeg.Shape39";
         c = "visibleFinish_";
         f = "&e/cam set <\u043d\u043e\u043c\u0435\u0440>&f: \u041e\u0431\u043d\u043e\u0432\u0438\u0442\u044c \u0442\u043e\u0447\u043a\u0443 \u043d\u0430 \u0442\u0435\u043a\u0443\u0449\u0443\u044e \u043f\u043e\u0437\u0438\u0446\u0438\u044e";
         Ka = "map.";
-        Ha = 0xF442E583 ^ 0xF442E786;
+        Ha = 517 /* ZKM Deobf Int */;
         e = "nextDelay_";
         w = "+0+1-2-3&4-4+13";
         Q = "Unable to load item model: '";
@@ -116,13 +116,13 @@ public final class aPa_1 {
         g = "ID %02d - %s, ver %d. Features enabled: %b";
         v = "Encountered an exception when loading model definition of '";
         T = "BLUE";
-        o = 0xDE9DE872 ^ 0xDE9DEAF2;
+        o = 640 /* ZKM Deobf Int */;
         R = "Failed compress self voice";
         O = "text_";
-        Ja = 0x54B43E98 ^ 0x54B4BA4B;
+        Ja = 34003 /* ZKM Deobf Int */;
         M = "y0";
         Aa = "textures/pet/enderman.png";
-        L = 0xE50F97D6 ^ 0xE50F81D7;
+        L = 5633 /* ZKM Deobf Int */;
         l = "LOWER";
         B = "BEZIER";
         fa = "destroyProgress";

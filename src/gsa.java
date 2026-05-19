@@ -69,7 +69,7 @@ public final class gsa {
         z = "disconnect.loginFailedInfo";
         I = "menu.returnToGame";
         V = "selectWorld.resultFolder";
-        Y = 0xF8893A4 ^ 0xFAF1EA4;
+        Y = 2592000 /* ZKM Deobf Int */;
         o = " and FS ";
         W = "crackedDeepslateTiles";
         L = ": Don't know what ";
@@ -80,10 +80,10 @@ public final class gsa {
         Ha = "ss";
         u = " is ";
         m = "east=false,north=false,south=true,west=true";
-        Ja = 0x2AE18056 ^ 0x2AE180D2;
+        Ja = 132 /* ZKM Deobf Int */;
         ca = "Right41";
         M = "UNRECOGNIZED";
-        Ga = 0x915D5A82 ^ 0x6EFDFA22;
+        Ga = 4288716960 /* ZKM Deobf Int */;
         Z = "GL11.GL_MAX_PROJECTION_STACK_DEPTH";
         j = ".fsh";
         G = "of.options.animation.dynamic";
@@ -95,13 +95,13 @@ public final class gsa {
         n = "Couldn't load layered image";
         U = "tile.beacon.secondary";
         T = "polishedDeepslateWall";
-        E = Float.intBitsToFloat(0x13BB5223 ^ 0x52F2656F);
+        E = 12.576000213623047F /* ZKM Deobf */;
         k = 0x6C1C5E6A65F7BL ^ 0x6C1C5E6A65ECBL;
         w = "burn";
         x = "ALL_OUTSIDE";
         J = "shadowtex1";
-        X = 0xC0F8C8E4 ^ 0x3FF8C8E4;
-        S = 0xE7050F14 ^ 0xE7AFA5BE;
+        X = 4278190080 /* ZKM Deobf Int */;
+        S = 11184810 /* ZKM Deobf Int */;
         a = "lookat_xyz";
         P = "wall_sign";
         ga = "preserveEnergy";
@@ -111,7 +111,7 @@ public final class gsa {
         f = "<NULL>";
         A = "yvalCase_";
         R = "m";
-        t = 0x88730FEC ^ 0x88734082;
+        t = 20334 /* ZKM Deobf Int */;
         K = "GL11.GL_LINE_STIPPLE";
         s = "Left.Shape41123";
         i = 0x17AEEC4620A694F4L ^ 0x17AEEC46C5E7ACDBL;
@@ -121,13 +121,13 @@ public final class gsa {
         fa = "STARS";
         F = " R ";
         Da = "heldBlockLightValue";
-        C = 0x9FCC28ED ^ 0x9F419B8D;
-        c = 0x169F45CF ^ 0x169F41CE;
+        C = 9286496 /* ZKM Deobf Int */;
+        c = 1025 /* ZKM Deobf Int */;
         D = "RGB32F";
         Ka = "Pose";
         g = "RightLeg3";
         v = "frames[";
-        d = Double.longBitsToDouble(0xB98EFCD914977F27L ^ 0x866152CD6E763889L);
+        d = 0.99D /* ZKM Deobf */;
     }
 
     public gsa() {

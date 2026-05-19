@@ -87,7 +87,7 @@ public final class Xpa {
         U = "Front.1a";
         p = "LeftLeg.Shape10";
         Y = "second can't be >= size: ";
-        x = 0x561F6365 ^ 0x561F6205;
+        x = 352 /* ZKM Deobf Int */;
         Z = "watershadow";
         V = "Shape45";
         P = "GL11.GL_PIXEL_MAP_I_TO_I_SIZE";
@@ -98,8 +98,8 @@ public final class Xpa {
         q = " is a vertical slab and should have 1 texture, got ";
         H = "angleAnim_";
         K = "GL11.GL_LUMINANCE4_ALPHA4";
-        t = Float.intBitsToFloat(0x8F08342A ^ 0x30E8342A);
-        N = Float.intBitsToFloat(0x31E27964 ^ 0xF14EB5A9);
+        t = -1.75F /* ZKM Deobf */;
+        N = -5.400000095367432F /* ZKM Deobf */;
         O = "stat.pigOneCm";
         r = "cloth";
         W = "OpenGL 1.4 is ";
@@ -112,10 +112,10 @@ public final class Xpa {
         T = "atlasSize";
         y = "Deleting level ";
         z = "hoverEvent";
-        o = Double.longBitsToDouble(0x17C359A2D99457BL ^ 0x412C759A2D99457BL);
+        o = 65.0D /* ZKM Deobf */;
         b = "makeBread";
-        R = Float.intBitsToFloat(0x6547E5E8 ^ 0x5B8B2925);
-        h = Float.intBitsToFloat(0xB6F80097 ^ 0x7679990D);
+        R = 0.4000000059604645F /* ZKM Deobf */;
+        h = -4.050000190734863F /* ZKM Deobf */;
         M = "commands.enchant.cantCombine";
         s = "Couldn't load skin ";
         Q = "destroy_stage_[0-9]";

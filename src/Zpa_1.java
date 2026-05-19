@@ -70,10 +70,10 @@ public final class Zpa_1 {
     static {
         B = "Pig";
         D = "east";
-        L = Float.intBitsToFloat(0x6420F51C ^ 0x5976824C);
+        L = 0.05235987901687622F /* ZKM Deobf */;
         j = "assets/minecraft/models/block/cube_all.json";
-        p = 0x18568F8B ^ 0x18560EA4;
-        o = Float.intBitsToFloat(0x91B7F1D7 ^ 0xD19197B1);
+        p = 33071 /* ZKM Deobf Int */;
+        o = 2.5999999046325684F /* ZKM Deobf */;
         Aa = "hide-hotbar";
         g = "potion.damageBoost";
         a = "lookat_y";
@@ -82,15 +82,15 @@ public final class Zpa_1 {
         W = "lightmap";
         b = "Error while parsing: %s";
         X = "potion.waterBreathing";
-        P = Double.longBitsToDouble(0x2D43571FB1F7BED3L ^ 0x12A091B85E6A0CFEL);
-        Q = 0xAD552301 ^ 0xAD552230;
+        P = 0.618D /* ZKM Deobf */;
+        Q = 305 /* ZKM Deobf Int */;
         v = "foodLevel";
         J = "variable.particle_lifetime";
         S = "nose";
         Ka = "ScaleItems";
         U = "golden_rail";
         c = "GL11.GL_TEXTURE_COMPONENTS";
-        I = 0xCBB53D41 ^ 0xCBB53DAD;
+        I = 236 /* ZKM Deobf Int */;
         T = "durability";
         Ha = ", italic=";
         N = "Amplifier";
@@ -98,11 +98,11 @@ public final class Zpa_1 {
         F = "1-dstalpha";
         ja = "PENDING";
         Y = "GROUP";
-        e = Double.longBitsToDouble(0xC6F69F157112B26BL ^ 0x86A61F157112B26BL);
-        R = 0x8C89358F ^ 0x8C894A1B;
+        e = 66.0D /* ZKM Deobf */;
+        R = 32660 /* ZKM Deobf Int */;
         G = "GL11.GL_COLOR_ARRAY";
         l = "ofOcclusionFancy:";
-        ca = Double.longBitsToDouble(0x616DA289B700C8EL ^ 0x39F5E91BDB700C8EL);
+        ca = 0.6000000238418579D /* ZKM Deobf */;
         K = "lit_redstone_ore";
         k = "stripe_right";
         A = "Could not load camera path";
@@ -125,7 +125,7 @@ public final class Zpa_1 {
         C = "netherite_leggings";
         H = "east=true,north=false,south=false,up=false,west=true";
         w = "Java model not found for item ";
-        i = 0xA2C5DCFF ^ 0xA2C59233;
+        i = 20172 /* ZKM Deobf Int */;
         x = "type";
         t = "Set listener of {} to {}";
     }

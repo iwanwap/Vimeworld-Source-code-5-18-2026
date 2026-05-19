@@ -84,7 +84,7 @@ public final class wta {
         ja = "dispenser";
         r = "Piece1.Shape5";
         X = "direction_z";
-        Ha = 0x4697FE7 ^ 0x4697392;
+        Ha = 3189 /* ZKM Deobf Int */;
         g = "gl_caps[ARB_depth_buffer_float]";
         W = "facing=west,half=bottom,shape=inner_left";
         Ka = "detector_rail";
@@ -104,25 +104,25 @@ public final class wta {
         y = "UNDEFINED BEHAVIOR";
         e = "drag_";
         Y = ", serialize=";
-        A = Float.intBitsToFloat(0x444B44C7 ^ 0x7A8FDCCF);
+        A = 0.3839724063873291F /* ZKM Deobf */;
         V = "crimsonNylium";
-        c = 0x5960561E ^ 0x5997BFBD;
-        Q = Float.intBitsToFloat(0xCBC72D73 ^ 0xB114B15);
+        c = 16247203 /* ZKM Deobf Int */;
+        Q = -6.699999809265137F /* ZKM Deobf */;
         Aa = "NUMERICAL_VALUE";
         s = "Missing ";
         N = "zombie/zombie";
-        Z = 0xBD3084C ^ 0xB7388EC;
+        Z = 10518688 /* ZKM Deobf Int */;
         M = "Patterns";
-        q = Float.intBitsToFloat(0x52B810A7 ^ 0x1CD67B8F);
+        q = 1000000000.0F /* ZKM Deobf */;
         p = " not exists";
         h = "WOOD_DOOR";
         R = "villager/farmer";
-        F = 0x6D1C97C5 ^ 0x6D1C94E1;
+        F = 804 /* ZKM Deobf Int */;
         u = "Unknown? (Got ";
         z = "Back.12b";
         x = "Texteria.printPacketsForReal";
         m = "awkward";
-        d = 0x9A020504 ^ 0x9A0207DF;
+        d = 731 /* ZKM Deobf Int */;
         fa = "Could not save transform_outfit";
     }
 }

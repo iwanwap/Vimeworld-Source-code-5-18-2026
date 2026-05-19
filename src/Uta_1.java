@@ -72,7 +72,7 @@ public final class Uta_1 {
         n = "SMOOTH_BIOMES";
         A = "deepslate_tile_slab";
         Ja = "Downloading Resource Pack";
-        V = 0xD449DF07 ^ 0x23B620F8;
+        V = 4160749567 /* ZKM Deobf Int */;
         t = "explode";
         I = "createWorld.customize.custom.lavaLakeChance";
         M = "Unknown element type: ";
@@ -81,8 +81,8 @@ public final class Uta_1 {
         Da = "easeInOutCubic";
         a = "Chunk to be generated";
         h = "ISOMETRICDISABLE";
-        G = 0x76798C08 ^ 0x76798F29;
-        q = Float.intBitsToFloat(0x3724A677 ^ 0xF61AC011);
+        G = 801 /* ZKM Deobf Int */;
+        q = -11.899999618530273F /* ZKM Deobf */;
         s = "Default value cannot be lower than minimum value!";
         r = "1-srcalpha";
         ja = "\u041c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0439";
@@ -93,10 +93,10 @@ public final class Uta_1 {
         l = "shadowProjectionInverse";
         U = "textures/body/garlands3.png";
         o = "Natural Textures: Parsing configuration \"";
-        P = 0x3F00406 ^ 0x31A9795;
+        P = 15373203 /* ZKM Deobf Int */;
         g = "commands.setblock.outOfWorld";
         E = "gl_caps[ARB_base_instance]";
-        k = 0xE779C425 ^ 0xE74A8897;
+        k = 3361970 /* ZKM Deobf Int */;
         Aa = "vimepass";
         Ga = "assetsDir";
         T = "LanServerPinger: ";
@@ -110,22 +110,22 @@ public final class Uta_1 {
         C = "Shape68123";
         Ha = "ai";
         O = "Old Format";
-        Z = 0xE7837933 ^ 0x187C84CC;
-        W = Float.intBitsToFloat(0x76136852 ^ 0x363AF1C8);
+        Z = 4294966783 /* ZKM Deobf Int */;
+        W = 2.6500000953674316F /* ZKM Deobf */;
         x = "Who set us up the TNT?";
         R = "files";
         D = "Left.Shape60123";
         i = "of.options.quality";
-        y = 0xAB0AC0D6 ^ 0xAB0AD6D5;
-        F = 0xCF713E71 ^ 0xCF713711;
+        y = 5635 /* ZKM Deobf Int */;
+        F = 2400 /* ZKM Deobf Int */;
         c = "polished_deepslate_slab_double";
         Ka = "bone";
-        H = 0x74798241 ^ 0x74798353;
+        H = 274 /* ZKM Deobf Int */;
         p = "enabled";
         b = "rightHand";
         w = "unable to fit ";
         X = "glass_pane_top_pink";
-        B = 0x8D8560C9 ^ 0x8D85614E;
+        B = 391 /* ZKM Deobf Int */;
     }
 
     public Uta_1() {

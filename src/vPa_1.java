@@ -74,12 +74,12 @@ public final class vPa_1 {
         K = "brown_carpet";
         N = "selectServer.edit";
         H = 0x71F8AAF7CEDE9F15L ^ 0x71F8AAF7CEDE8C1CL;
-        S = 0x877160AE ^ 0x877161AF;
-        a = 0xFF735065 ^ 0xFF73509C;
-        Ka = 0x757ED795 ^ 0x757ED7DA;
+        S = 257 /* ZKM Deobf Int */;
+        a = 249 /* ZKM Deobf Int */;
+        Ka = 79 /* ZKM Deobf Int */;
         k = "available because ";
         L = "SPACE_AROUND";
-        Aa = 0x34AF8C9E ^ 0x34AF0851;
+        Aa = 33999 /* ZKM Deobf Int */;
         F = "streamBytesPerPixel:";
         W = "ENABLED";
         X = ", tint: ";
@@ -90,7 +90,7 @@ public final class vPa_1 {
         y = "Piece1.Shape11";
         R = "XX";
         v = "zero";
-        b = Float.intBitsToFloat(0x3C91B568 ^ 0x8391B568);
+        b = -0.5F /* ZKM Deobf */;
         d = "GL11.GL_PIXEL_MAP_I_TO_B_SIZE";
         O = "potion.prefix.harsh";
         i = "commands.save.failed";

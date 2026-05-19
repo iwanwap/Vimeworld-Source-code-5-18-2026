@@ -66,9 +66,9 @@ public final class BPa {
     static {
         m = "age_click_callback";
         G = "mob.chicken.step";
-        R = Float.intBitsToFloat(0x447CCF40 ^ 0x7B9E401C);
+        R = 1.7699999809265137F /* ZKM Deobf */;
         M = "mob.chicken.say";
-        p = 0xCF203AD4 ^ 0xCF3F25CB;
+        p = 2039583 /* ZKM Deobf Int */;
         c = "GL11.GL_PACK_SKIP_PIXELS";
         t = "Piece1.Shape24";
         o = "Couldn't load server icon";
@@ -88,12 +88,12 @@ public final class BPa {
         d = "of.options.DRIPPING_WATER_LAVA";
         x = "demo.reminder";
         N = "Tick span: ";
-        g = 0x3B966707 ^ 0x3B690767;
+        g = 16736352 /* ZKM Deobf Int */;
         ca = "Processed";
         u = "Unable to find spawn biome";
         K = "slime/magmacube";
         y = "XEXPR";
-        Ga = Float.intBitsToFloat(0xAF6D62B0 ^ 0x10728779);
+        Ga = -0.6245999932289124F /* ZKM Deobf */;
         e = "\u0000\u0014\u0000\u0001\u0001\u0014\u0014\u0000\u0000\u0000\u0001\f\u0002\u1208\u0000\u0003\u1002\u0001\u0004\u1004\u0002\u0005\u1004\u0003\u0006\u1004\u0004\u0007\u1007\u0005\b\u1004\u0006\t\u1007\u0007\n\u1009\b\u000b\u1004\t\f\u100c\n\r\u1009\u000e\u000e\u1009\u000f\u000f\u1009\u0010\u0010\u1009\u0011\u0011\u1009\u0012\u0012\u1007\f\u0013\u1007\r\u0014\u1208\u000b";
         S = "gbuffers_water";
         v = "Level seed";
@@ -102,7 +102,7 @@ public final class BPa {
         fa = "spreadGifSpeed_";
         j = "rawGoldBlock";
         B = "widthExpr_";
-        J = 0x362C79C0 ^ 0x362CF983;
+        J = 32835 /* ZKM Deobf Int */;
         E = "Tame";
         Ha = "ofDroppedItems";
         q = "gl_caps[ARB_draw_buffers_blend]";
@@ -113,17 +113,17 @@ public final class BPa {
         L = "SHIFT";
         X = "assets/minecraft/models/block/elerald_ore.json";
         w = "index";
-        n = Float.intBitsToFloat(0xBFD31FEC ^ 0x88F4DA40);
-        I = Float.intBitsToFloat(0xB10CBEEE ^ 0x71DCBEEE);
+        n = 9.999999747378752e-06F /* ZKM Deobf */;
+        I = -6.5F /* ZKM Deobf */;
         h = "air";
-        D = 0x9F6401C4 ^ 0x9F6601C4;
+        D = 131072 /* ZKM Deobf Int */;
         V = "S_X2";
         U = "\u0442\u043e\u043b\u044c\u043a\u043e \u0447\u0435\u0440\u0435\u0437 \u043b\u0430\u0443\u043d\u0447\u0435\u0440";
         T = "ENUM$VALUES";
-        Ja = 0x296DF991 ^ 0x296DF8BE;
+        Ja = 303 /* ZKM Deobf Int */;
         l = "cobbled_deepslate_slab";
         F = "andesite";
-        P = 0x7E0E9C46 ^ 0x7E0EB946;
+        P = 9472 /* ZKM Deobf Int */;
     }
 
     public BPa() {

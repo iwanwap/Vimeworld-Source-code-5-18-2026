@@ -70,7 +70,7 @@ public final class hQa {
     static {
         L = "--userProperties";
         M = "controls";
-        u = 0x6D84C3E3 ^ 0x6D24C31C;
+        u = 10486015 /* ZKM Deobf Int */;
         I = "achievement.buildBetterPickaxe";
         G = "wolf/wolf_tame";
         b = "outer_stairs";
@@ -78,16 +78,16 @@ public final class hQa {
         Ka = 0xC1585671FF5601CAL ^ 0xC1585671FF5601C6L;
         B = "constant is changed";
         K = "sub1_";
-        k = 0x7084662C ^ 0x705699D3;
+        k = 13828095 /* ZKM Deobf Int */;
         X = "Locked";
         s = "options.gamma.min";
         A = "customized";
-        x = Double.longBitsToDouble(0xE9A509CDC07D16FEL ^ 0xA98D09CDC07D16FEL);
+        x = 12.0D /* ZKM Deobf */;
         e = "VCR: audio end for {}";
         Z = "\u00a7b\u0417\u0438\u043c\u043d\u044f\u044f \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u044f";
         D = "east=false,north=false,south=false,west=false";
         t = "chainmail_boots";
-        a = 0xF3EEFCBA ^ 0xF3EEFC63;
+        a = 217 /* ZKM Deobf Int */;
         v = "CLASSNAME";
         y = "Right39";
         W = "jobs";
@@ -95,7 +95,7 @@ public final class hQa {
         r = "OpenGL 3.0 is ";
         E = "useLavaOceans";
         C = "minecraft:particle_motion_parametric";
-        w = 0x42EC2476 ^ 0x42EC3D70;
+        w = 6406 /* ZKM Deobf Int */;
         Ga = "nostril";
         P = "commands.tp.notSameDimension";
         N = "streamSendMetadata:";
@@ -105,7 +105,7 @@ public final class hQa {
         Y = "mob.silverfish.step";
         V = "Invalid path: ";
         Ja = "cat";
-        q = 0x8A5D0A63 ^ 0x8A5D0805;
+        q = 614 /* ZKM Deobf Int */;
         n = "samplers";
         Aa = "connect.connecting";
         m = "GL11.GL_FOG";
@@ -114,9 +114,9 @@ public final class hQa {
         H = "commands.players.list";
         o = "vertex: ";
         d = "Couldn't open link with rundll32";
-        h = Double.longBitsToDouble(0xCFE60D58B116676AL ^ 0xF009A34C3116676AL);
+        h = 0.9900000095367432D /* ZKM Deobf */;
         f = "textures/gui/title/mojang.png";
-        R = 0xC53B0620 ^ 0xC53B9AEB;
+        R = 40139 /* ZKM Deobf Int */;
         T = "mcpatcher/mob/";
         i = "origin";
         ca = "UP";
@@ -127,7 +127,7 @@ public final class hQa {
         l = ", array: ";
         O = "renderHint_";
         c = "frontleg";
-        p = Float.intBitsToFloat(0x37FAAA0 ^ 0x3CAAFFF5);
+        p = 1.6666666269302368F /* ZKM Deobf */;
     }
 }
 

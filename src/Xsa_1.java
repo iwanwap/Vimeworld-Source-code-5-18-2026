@@ -78,18 +78,18 @@ public final class Xsa_1 {
         l = "easeInQuint";
         Ka = "oxidized_cut_copper_slab";
         N = "GL11.GL_TEXTURE_WIDTH";
-        y = 0x266CEF48 ^ 0x266CEE57;
-        C = 0x649F3A14 ^ 0x649F39E6;
-        ca = 0xD0C0C16E ^ 0xD0C049F4;
+        y = 287 /* ZKM Deobf Int */;
+        C = 1010 /* ZKM Deobf Int */;
+        ca = 34970 /* ZKM Deobf Int */;
         H = "bricks";
         la = "options.stream.compression.high";
         L = "east=true,north=false,south=false,up=true,west=false";
         u = "weathered_cut_copper_stairs";
         G = "glass_pane_top_magenta";
-        D = 0x551761FA ^ 0x551791E4;
+        D = 61470 /* ZKM Deobf Int */;
         Y = "GL11.GL_BLEND_DST";
         E = "potion.saturation";
-        b = 0x4983A7F3 ^ 0x4983232F;
+        b = 34012 /* ZKM Deobf Int */;
         fa = "body.body";
         r = "GL11.GL_STENCIL_INDEX";
         g = "[Shaders] Invalid value, option: ";
@@ -97,19 +97,19 @@ public final class Xsa_1 {
         T = "POINTS";
         Z = "GL11.GL_ALPHA12";
         W = "stairsQuartz";
-        c = Float.intBitsToFloat(0x4BB245E1 ^ 0xB042387);
+        c = 5.699999809265137F /* ZKM Deobf */;
         M = "SOUND_NOT_SET";
         B = "Shape15";
         ga = "Video Settings";
-        x = 0xD5A10F45 ^ 0xD5A18B1E;
+        x = 33883 /* ZKM Deobf Int */;
         F = "Head.23";
-        t = 0xAD3EBC1 ^ 0xAD3EFCA;
+        t = 1035 /* ZKM Deobf Int */;
         h = "options.controls";
         P = "DOUBLE";
         O = "seeds_pumpkin";
         X = "Cauldron";
         K = "_concrete_powder";
-        i = Double.longBitsToDouble(0x29DF7371249B642BL ^ 0x960C404217A85718L);
+        i = -0.3D /* ZKM Deobf */;
         v = "black_carpet";
         ja = "emitter_transform_xy";
         o = "ofAutoSaveTicks:";
@@ -119,7 +119,7 @@ public final class Xsa_1 {
         e = "Missing particle!";
         A = "Internal exception";
         k = "pass";
-        d = Float.intBitsToFloat(0x3C57199A ^ 0xFC76EF67);
+        d = -2.5306999683380127F /* ZKM Deobf */;
         Ga = "Invalid minHeight: ";
         m = "q.player_pos_x";
         f = 0x77F9BBB372054826L ^ 0x77F9BBB372054D1FL;
@@ -128,7 +128,7 @@ public final class Xsa_1 {
         R = "' at pos ";
         Da = "half=top,variant=default";
         n = "slices_";
-        z = 0x5D623AE3 ^ 0x5D623A16;
+        z = 245 /* ZKM Deobf Int */;
         I = "DesertHills";
     }
 

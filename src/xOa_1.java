@@ -65,8 +65,8 @@ public final class xOa_1 {
 
     static {
         ja = "ofMipmapType:";
-        H = 0xCA965947 ^ 0xCA96C53B;
-        m = Float.intBitsToFloat(0x246A31DA ^ 0x19F2794C);
+        H = 40060 /* ZKM Deobf Int */;
+        m = 0.07435719668865204F /* ZKM Deobf */;
         y = "\u0000\u0006\u0001\u0000\u0001\u0006\u0006\u0000\u0000\u0000\u0001<\u0000\u0002<\u0000\u0003<\u0000\u0004<\u0000\u0005<\u0000\u0006<\u0000";
         X = "of.options.PROFILER";
         D = "Attempt ";
@@ -87,7 +87,7 @@ public final class xOa_1 {
         Ja = "Right56";
         N = "imageCase_";
         A = "flip";
-        p = 0x10746F19 ^ 0x10741A4D;
+        p = 30036 /* ZKM Deobf Int */;
         d = "Zombie reinforcement callee charge";
         Z = "redstoneDust";
         t = "oreEmerald";
@@ -101,29 +101,29 @@ public final class xOa_1 {
         j = "<rest>";
         u = "commands.fill.failed";
         c = "textures/gui/title/background/panorama_1.png";
-        K = 0x287FC945 ^ 0x287FCBA8;
+        K = 749 /* ZKM Deobf Int */;
         g = "deepslateGoldOre";
         I = "GL11.GL_INVALID_ENUM";
         F = "GL11.GL_NORMALIZE";
         O = "capes";
         V = "RIGHT_CLICK_AIR";
         G = "Wetness halflife: ";
-        w = Float.intBitsToFloat(0x4D645FB5 ^ 0x8D8DC62F);
+        w = -7.300000190734863F /* ZKM Deobf */;
         f = "Head.22";
-        T = Float.intBitsToFloat(0xC999AA02 ^ 0x921AA02);
+        T = -5.75F /* ZKM Deobf */;
         ca = "textures/entity/cow/mooshroom.png";
         h = " &a\u0441\u043a\u0440\u044b\u0442";
-        C = Float.intBitsToFloat(0xCC402CB5 ^ 0x8C264AD3);
+        C = 3.5999999046325684F /* ZKM Deobf */;
         v = "red_carpet";
         fa = "\u041f\u0440\u043e\u0446\u0435\u043d\u0442";
         a = "ofWeather:";
         s = "Couldn't delete file ";
-        b = Float.intBitsToFloat(0xDC87F74 ^ 0x3368A608);
+        b = 0.3141592741012573F /* ZKM Deobf */;
         L = "Couldn't open file";
         i = "mossy_cobblestone_wall";
-        B = Float.intBitsToFloat(0x1A893F1 ^ 0x3EC893F1);
+        B = 0.875F /* ZKM Deobf */;
         R = "MC_OS_MAC";
-        x = 0x4AF54738 ^ 0x4AF5B727;
+        x = 61471 /* ZKM Deobf Int */;
     }
 
     public xOa_1() {

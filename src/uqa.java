@@ -75,15 +75,15 @@ public final class uqa {
         O = "resinBlock";
         n = "stat.treasureFished";
         X = "CB3F55D3-645C-4F38-A497-9C13A33DB5CF";
-        Y = 0xB8C0D917 ^ 0xB8C0ACFD;
-        F = 0x51B90B2D ^ 0xAE46F489;
+        Y = 30186 /* ZKM Deobf Int */;
+        F = 4294967204 /* ZKM Deobf Int */;
         l = "textures/gui/container/brewing_stand.png";
         r = "item.fireworksCharge.fadeTo";
         c = "Savanna Plateau";
         v = "Java VM Version";
         z = "httpCacheDuration_";
         Q = "diamondMinHeight";
-        a = 0x9C4FFAC4 ^ 0x9C4FEEC3;
+        a = 5127 /* ZKM Deobf Int */;
         R = "DIV";
         i = "endStoneBrickStairs";
         U = "Don't be sad. I'll do better next time, I promise!";
@@ -94,10 +94,10 @@ public final class uqa {
         e = "dns:";
         Ga = "empty";
         t = "textures/body/fierywings_red.png";
-        A = 0xDB0B9254 ^ 0xDB9B02C4;
-        D = 0x6D2AE14F ^ 0x6D2A6A05;
-        Ha = 0xD0AF1A21 ^ 0xD0AF9AC1;
-        M = Double.longBitsToDouble(0x75BC98F88A9394C7L ^ 0x343004C08A9394C7L);
+        A = 9474192 /* ZKM Deobf Int */;
+        D = 35658 /* ZKM Deobf Int */;
+        Ha = 32992 /* ZKM Deobf Int */;
+        M = 60000000.0D /* ZKM Deobf */;
         N = "\u0434\u0440\u0443\u0437\u0435\u0439 \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u043e\u0432";
         H = "BUST";
         Aa = "FLLeg.FLL1";
@@ -109,7 +109,7 @@ public final class uqa {
         Da = ", value='";
         G = "GL11.GL_BLUE_SCALE";
         S = "ScreenSize";
-        u = Float.intBitsToFloat(0x2295BC96 ^ 0x9D268FA5);
+        u = -1.399999976158142F /* ZKM Deobf */;
         K = "scaleItems";
         C = "keyboard";
         ja = "open_file";
@@ -118,7 +118,7 @@ public final class uqa {
         P = "Startup";
         J = "Graham";
         I = "redSandstoneWall";
-        k = 0x55841AB4 ^ 0x55841989;
+        k = 829 /* ZKM Deobf Int */;
         T = "RL2";
         m = "GL11.GL_TEXTURE_LUMINANCE_SIZE";
         j = "_log_stripped";
@@ -126,14 +126,14 @@ public final class uqa {
         o = "commands.blockdata.usage";
         la = "ARBImaging.GL_BLEND_COLOR";
         ca = "oak_log_stripped";
-        b = 0x4EF95061 ^ 0x4EF9502C;
+        b = 77 /* ZKM Deobf Int */;
         Ja = "hoeGold";
-        y = Float.intBitsToFloat(0xCB3DC26A ^ 0xF4C10EA7);
+        y = 1.975000023841858F /* ZKM Deobf */;
         f = "\u041c\u0438\u043a\u0440\u043e\u0444\u043e\u043d";
         V = "bane_of_arthropods";
         q = "DisplaySlots";
-        g = 0xBEAA0311 ^ 0xBEAA0313;
-        E = 0xA2761DDE ^ 0xA2B683A3;
+        g = 2 /* ZKM Deobf Int */;
+        E = 12623485 /* ZKM Deobf Int */;
     }
 }
 

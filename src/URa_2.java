@@ -70,7 +70,7 @@ public final class URa_2 {
         z = "textures/pet/xmas_gift_yellow.png";
         m = "X X";
         x = "play-emote";
-        A = 0x204ED091 ^ 0x204EA5DF;
+        A = 30030 /* ZKM Deobf Int */;
         M = "GL12.GL_ALIASED_LINE_WIDTH_RANGE";
         N = "GL error 0x%04X: %s (Fb status 0x%04X) at %s\n";
         s = "GL12.GL_MAX_ELEMENTS_INDICES";
@@ -78,7 +78,7 @@ public final class URa_2 {
         y = "Accept-Encoding";
         n = "GL13.GL_COMPRESSED_RGB";
         D = "textures/entity/enderman/enderman.png";
-        Aa = 0x3BC8E0E5 ^ 0x3BC895AD;
+        Aa = 30024 /* ZKM Deobf Int */;
         H = "constant count is changed";
         V = "UUID";
         p = "gbuffers_terrain";
@@ -101,13 +101,13 @@ public final class URa_2 {
         e = "IN_WATER";
         w = "options.graphics";
         i = "fermented_spider_eye";
-        h = 0x339B4282 ^ 0x339B403B;
+        h = 697 /* ZKM Deobf Int */;
         f = "options.skinCustomisation.title";
         g = "COTTON";
-        v = 0x15938A60 ^ 0xEA571108;
+        v = 4291074920 /* ZKM Deobf Int */;
         P = "// ";
         L = "math.exp";
-        j = 0xB892133B ^ 0xB8D893C4;
+        j = 4882687 /* ZKM Deobf Int */;
         C = "27";
         l = "RandomMobs properties not found: ";
         b = "renderDistance_";

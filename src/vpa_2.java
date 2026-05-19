@@ -73,23 +73,23 @@ public final class vpa_2 {
 
     static {
         p = "createWorld.customize.flat.removeLayer";
-        o = 0x109157DC ^ 0x109157EE;
+        o = 50 /* ZKM Deobf Int */;
         Aa = "RawBiomeBlock";
-        i = 0x9D6325A3 ^ 0x9D6329D0;
-        Ja = 0xEC23AFF7 ^ 0xEC23AEDB;
+        i = 3187 /* ZKM Deobf Int */;
+        Ja = 300 /* ZKM Deobf Int */;
         R = "assets/minecraft/models/block/elerald_block.json";
-        j = Float.intBitsToFloat(0xDB2EB8FE ^ 0x64CFE660);
+        j = -1.760699987411499F /* ZKM Deobf */;
         B = "addServer.title";
         z = "COPPER";
         O = "os_architecture";
         K = "selectWorld.recreate";
-        N = 0xB54893EF ^ 0xB5DFFEA2;
+        N = 9923917 /* ZKM Deobf Int */;
         a = "Actions";
-        P = Float.intBitsToFloat(0x3E6F624E ^ 0x81266D95);
+        P = -0.7853981852531433F /* ZKM Deobf */;
         c = 0x61777DD9C591C2BCL ^ 0x61777DD9C591C2FCL;
-        w = Double.longBitsToDouble(0x6D4367C8282256CAL ^ 0x529FAB04E82256CAL);
+        w = 0.44999998807907104D /* ZKM Deobf */;
         d = "GL11.GL_RED_BITS";
-        fa = Double.longBitsToDouble(0xB7D924CF7FADFCFEL ^ 0x88322EF20F0E2BF4L);
+        fa = 0.845D /* ZKM Deobf */;
         v = "GL12.GL_SEPARATE_SPECULAR_COLOR";
         X = "[Shaders] Error: Not enough draw buffers, needed: ";
         k = "houstonia";
@@ -114,7 +114,7 @@ public final class vpa_2 {
         ga = "heldItemTooltips:";
         ja = "Invalid operation";
         x = "Affected screen";
-        W = 0xBA048058 ^ 0xBA0481CF;
+        W = 407 /* ZKM Deobf Int */;
         n = "commands.banip.invalid";
         l = " closed!";
         m = "SCROLLOFFSETANIM";
@@ -122,19 +122,19 @@ public final class vpa_2 {
         S = "uniform [ _a-zA-Z0-9]+ gaux3;.*";
         U = "Right4";
         Ka = "GL_FRAMEBUFFER_INCOMPLETE_READ_BUFFER";
-        h = 0x4393F364 ^ 0x43F9835D;
+        h = 6975545 /* ZKM Deobf Int */;
         H = "\\";
         Ia = "gui.all";
-        y = 0x79993124 ^ 0x79997E83;
+        y = 20391 /* ZKM Deobf Int */;
         D = "waxedOxidizedCopper";
         V = ", arguments length: ";
         f = "Invalid Month: ";
-        Ha = 0x7050C691 ^ 0x7050C4FA;
+        Ha = 619 /* ZKM Deobf Int */;
         u = "\u0000\u0005\u0002\u0001\u0001\u0005\u0005\u0000\u0000\u0000\u0001\u1208\u0000\u00029\u0000\u00039\u0000\u00049\u0001\u00059\u0001";
         Da = "stat.dispenserInspected";
         C = "T";
         s = "OwnerUUID";
-        g = Float.intBitsToFloat(0xFC48C232 ^ 0x3C640EFF);
+        g = -2.700000047683716F /* ZKM Deobf */;
         A = "M4";
     }
 }

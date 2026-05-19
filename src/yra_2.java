@@ -70,7 +70,7 @@ public final class yra_2 {
         s = "Dropper";
         Q = "Body.Shape25";
         y = "GL12.GL_UNSIGNED_INT_10_10_10_2";
-        e = 0xEFC2C0DD ^ 0xEFC25C8D;
+        e = 40016 /* ZKM Deobf Int */;
         K = "\u0000\u0004\u0000\u0000\u0001\u0004\u0004\u0000\u0000\u0000\u0001\n\u0002\n\u0003\u0208\u0004\u0004";
         G = "gl_caps[ARB_half_float_vertex]";
         Ja = "Details:";
@@ -82,13 +82,13 @@ public final class yra_2 {
         c = "ShowArms";
         f = "&a\u0422\u043e\u0447\u043a\u0430 &f";
         Ka = "0x";
-        q = 0x6333F5D5 ^ 0x63337100;
+        q = 34005 /* ZKM Deobf Int */;
         M = "sprintMode";
         P = "Back.13b";
-        Y = Double.longBitsToDouble(0x6FB8FCA19DE54C2AL ^ 0x2F28FCA19DE54C2AL);
+        Y = 1024.0D /* ZKM Deobf */;
         A = 0xBBFF4F1C43535BECL ^ 0xBBFF4F1C43535B8CL;
-        V = 0xF65E735D ^ 0xF65EF7BE;
-        O = 0x5C5F26BD ^ 0x5C91892B;
+        V = 34019 /* ZKM Deobf Int */;
+        O = 13545366 /* ZKM Deobf Int */;
         a = "https";
         Ha = "TextureAnimation: Source texture not found: ";
         U = "TEXT_STOPWATCH";
@@ -99,7 +99,7 @@ public final class yra_2 {
         T = "BOTTOM_LEFT";
         H = "Rendering entity in world";
         z = "carried";
-        k = 0xAB785ED3 ^ 0xAB785DCD;
+        k = 798 /* ZKM Deobf Int */;
         I = "HELD_ITEM_TOOLTIPS";
         Aa = "RightLeg.RL1";
         u = "game.player.hurt.fall.big";
@@ -112,7 +112,7 @@ public final class yra_2 {
         h = "\u0423\u0432\u0435\u043b\u0438\u0447\u0435\u043d\u0438\u0435 -";
         B = "frametime";
         p = "1.5x";
-        d = Double.longBitsToDouble(0x3BAC62A7BA0CC282L ^ 0x4281846FA0CC282L);
+        d = 0.009999999776482582D /* ZKM Deobf */;
         W = "JOINVOICECHAT";
         ca = "rotation_drag_coefficient";
         t = ",";
@@ -123,9 +123,9 @@ public final class yra_2 {
         g = "GL11.GL_TEXTURE_BLUE_SIZE";
         r = "\u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0440\u0430\u0431\u043e\u0442\u044b";
         j = "zval_";
-        fa = 0xFB8F1285 ^ 0xFB8F1028;
+        fa = 685 /* ZKM Deobf Int */;
         N = "pattern:";
-        w = 0xF492D711 ^ 0xF492520D;
+        w = 34076 /* ZKM Deobf Int */;
     }
 
     public yra_2() {

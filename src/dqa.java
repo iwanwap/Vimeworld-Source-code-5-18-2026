@@ -72,21 +72,21 @@ public final class dqa {
 
     static {
         U = "stainedGlass";
-        d = 0x5A1A8278 ^ 0x5A1A04DA;
+        d = 34466 /* ZKM Deobf Int */;
         i = "legacy_query";
-        L = 0xFE88BDAA ^ 0xFE91DBA7;
+        L = 1664525 /* ZKM Deobf Int */;
         Da = "commands.scoreboard.players.remove.usage";
         K = "SizeOnDisk";
         O = "!";
-        r = 0xAA12BCA3 ^ 0xAA123FC5;
+        r = 33638 /* ZKM Deobf Int */;
         o = "'->name: empty value";
         e = "Piece3";
         u = "AUDIO_END";
         Ja = "Pigscene";
         x = "CLOCK$";
-        G = 0xB0AB9780 ^ 0xB0AB9C92;
+        G = 2834 /* ZKM Deobf Int */;
         t = "uniform [ _a-zA-Z0-9]+ shadowcolor0;.*";
-        p = Float.intBitsToFloat(0xBE216379 ^ 0x1124561);
+        p = -0.6998000144958496F /* ZKM Deobf */;
         w = " to be a Int, was ";
         a = "Server";
         P = "block/";
@@ -95,10 +95,10 @@ public final class dqa {
         X = "[";
         Y = "Trap";
         Z = "options.stream.compression.low";
-        A = 0x5EE3CFBA ^ 0x5EE34B55;
+        A = 34031 /* ZKM Deobf Int */;
         Q = "shadowtex1Mipmap";
         R = "\u041a\u0435\u043d\u043d\u0438";
-        B = Float.intBitsToFloat(0x636332C2 ^ 0x5EDB632E);
+        B = 0.09000000357627869F /* ZKM Deobf */;
         y = "url_";
         C = "OMDZR";
         W = "of.options.ANIMATED_FLAME";
@@ -106,12 +106,12 @@ public final class dqa {
         Ka = "VCR: disconnected {}";
         I = "OpenGL Mipmap levels: Not available (GL12.GL_TEXTURE_MAX_LEVEL)";
         D = "shadow_";
-        H = 0x8481D352 ^ 0x8481DFE1;
+        H = 3251 /* ZKM Deobf Int */;
         S = "party info, leader: ";
         fa = 0x652F1381B7AC8279L ^ 0x652F1381B6AC8279L;
         g = "Right5";
         J = "Shape33123";
-        ga = 0x78E74D4C ^ 0x78B10978;
+        ga = 5653556 /* ZKM Deobf Int */;
         E = "Molang expression cannot be blank!";
         f = "offsetY_";
         ca = "ActiveEffects";
@@ -120,7 +120,7 @@ public final class dqa {
         k = "step";
         n = "DARK_OAK";
         h = "mob.horse.donkey.idle";
-        Ga = 0x5654BF86 ^ 0x5654AA80;
+        Ga = 5382 /* ZKM Deobf Int */;
         T = "vertexFormat_";
         N = "DSS";
         Aa = "&e2w&c3d&b4h&a5m&d6s&f7q - &e2 \u043d\u0435\u0434\u0435\u043b\u0438&f, &c3 \u0434\u043d\u044f&f, &b4 \u0447\u0430\u0441\u0430&f, &a5 \u043c\u0438\u043d\u0443\u0442&f, &d6 \u0441\u0435\u043a\u0443\u043d\u0434&f, 7 \u043c\u0438\u043b\u043b\u0438\u0441\u0435\u043a\u0443\u043d\u0434";
@@ -128,9 +128,9 @@ public final class dqa {
         q = "commands.ban.success";
         j = ", strikethrough=";
         F = " ticks per second\n\n";
-        m = Double.longBitsToDouble(0xF488670004FD60DEL ^ 0xCB618C851A453132L);
+        m = 0.81D /* ZKM Deobf */;
         la = "sand";
-        M = 0x688C9E53 ^ 0x688C9D67;
+        M = 820 /* ZKM Deobf Int */;
         s = "\n#define MC_GL_VERSION ";
         v = "Response out of order: ";
         c = "del dfbTextures";

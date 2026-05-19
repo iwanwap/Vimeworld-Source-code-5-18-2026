@@ -67,10 +67,10 @@ public final class Upa {
 
     static {
         ja = "txt:proto";
-        d = Float.intBitsToFloat(0xD3186EF2 ^ 0x6C1D500A);
+        d = -0.5204920768737793F /* ZKM Deobf */;
         T = "uv";
-        P = 0xFCB44FFA ^ 0xFCB44EB2;
-        ga = Float.intBitsToFloat(0x68E1D0A ^ 0x392EC476);
+        P = 328 /* ZKM Deobf Int */;
+        ga = 1.2566370964050293F /* ZKM Deobf */;
         x = "Texture animation: ";
         C = "BorderSizeLerpTarget";
         k = "commands.unbanip.success";
@@ -83,9 +83,9 @@ public final class Upa {
         Da = "Texteria";
         Ha = "createWorld.customize.custom.dungeonChance";
         I = "lucky_block";
-        A = 0xFC74A620 ^ 0xFC742350;
+        A = 34160 /* ZKM Deobf Int */;
         r = "BREWING_STAND";
-        l = 0x75785ACB ^ 0x756E4CDD;
+        l = 1447446 /* ZKM Deobf Int */;
         m = "SMOOTH_FPS";
         n = " >= ";
         U = "Unknown synced attribute modifier";
@@ -95,15 +95,15 @@ public final class Upa {
         h = "ofAnimatedFire";
         f = "Problem";
         fa = "AMETHYST";
-        O = Float.intBitsToFloat(0xD8AE17D2 ^ 0x9A1617D2);
-        Aa = Float.intBitsToFloat(0xEE766D89 ^ 0xAA0FAD89);
+        O = 92.0F /* ZKM Deobf */;
+        Aa = 999.0F /* ZKM Deobf */;
         K = "Size";
         s = "commands.playsound.playerTooFar";
         a = "GL13.GL_OPERAND2_RGB";
         c = "stat.boatOneCm";
         z = "\"layer";
         y = "SecurityHax hacked";
-        B = 0x198FB8A5 ^ 0x19BF8895;
+        B = 3158064 /* ZKM Deobf Int */;
         u = "stairsWoodJungle";
         e = "MC|PingHost";
         j = "stat.tradedWithVillager";
@@ -113,21 +113,21 @@ public final class Upa {
         R = "XXX";
         Y = "stat.armorCleaned";
         F = "Image9Slice ";
-        W = 0x9AB78714 ^ 0x9AB780C0;
+        W = 2004 /* ZKM Deobf Int */;
         ca = "controls.resetAll";
         Ka = "record_cat";
-        V = Float.intBitsToFloat(0x3FF03028 ^ 0xFF797511);
+        V = -4.289700031280518F /* ZKM Deobf */;
         G = "thunder";
         Z = "CLAMP";
         o = "BorderDamagePerBlock";
-        N = Double.longBitsToDouble(0xC168E6DB6ABEDE7AL ^ 0x7ED17F42F32747E0L);
+        N = -0.1D /* ZKM Deobf */;
         Ga = "\u0000\u0003\u0001\u0000\u0001\u0003\u0003\u0000\u0000\u0000\u0001\u0004\u0002<\u0000\u0003:\u0000";
         H = "STONE";
         w = "GL15.GL_ARRAY_BUFFER";
         p = "SelectedItemSlot";
         J = "LEFT_SLEEVE";
         v = "lines_x";
-        D = 0xE351EE4 ^ 0xE351EDC;
+        D = 56 /* ZKM Deobf Int */;
     }
 
     public Upa() {

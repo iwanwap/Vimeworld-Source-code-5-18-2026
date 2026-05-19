@@ -68,10 +68,10 @@ public final class DQa_1 {
         Z = "z_";
         M = "Unknown face: ";
         O = "right.Shape37";
-        S = Double.longBitsToDouble(0x230A107E74DE372DL ^ 0x631E107E74DE372DL);
+        S = 5.0D /* ZKM Deobf */;
         m = "Left.Shape47123";
         l = "of.options.FOG_START";
-        P = 0xB550F42B ^ 0xB500847B;
+        P = 5271632 /* ZKM Deobf Int */;
         V = "snowballpoof";
         F = "pi";
         h = "poisonous_potato";
@@ -83,17 +83,17 @@ public final class DQa_1 {
         Q = "key.categories.misc";
         u = "alignment_";
         A = "mudBrickSlab";
-        X = Double.longBitsToDouble(0x8E126BD771D7952L ^ 0x483126BD771D7952L);
-        K = Float.intBitsToFloat(0xE0E42AAC ^ 0x5FC4F3D7);
+        X = 16384.0D /* ZKM Deobf */;
+        K = -0.6283184885978699F /* ZKM Deobf */;
         j = "##";
         w = "liquid.water";
         fa = "gamerule";
         E = "GL11.GL_TEXTURE_GEN_MODE";
         J = "bow_pulling_1";
         z = "shadow pass";
-        ja = 0x89D4CA47 ^ 0x762B3547;
+        ja = 4294967040 /* ZKM Deobf Int */;
         L = "record_chirp";
-        Aa = 0x2A9F676C ^ 0x2A9F67AB;
+        Aa = 199 /* ZKM Deobf Int */;
         k = "GL11.GL_PROXY_TEXTURE_1D";
         x = "shadow drawbuffers pre-translucent";
         s = "Multipass connected textures: ";
@@ -102,7 +102,7 @@ public final class DQa_1 {
         Ga = "wait";
         d = "GL12.GL_UNSIGNED_BYTE_3_3_2";
         Ha = "UNLOCKED_DISABLED";
-        y = 0xFC7815C9 ^ 0xFC789E48;
+        y = 35713 /* ZKM Deobf Int */;
         W = "easeOutQuint";
         a = "Something changed";
         g = "UNDERLINE";
@@ -110,9 +110,9 @@ public final class DQa_1 {
         H = "commands.help.header";
         e = "endFadeOut";
         G = "Back.10b";
-        ca = Float.intBitsToFloat(0x54D3FF9 ^ 0xBA14A663);
+        ca = -0.8500000238418579F /* ZKM Deobf */;
         t = "Right.Right13";
-        q = Float.intBitsToFloat(0x9E834A2 ^ 0x480034A2);
+        q = 29.0F /* ZKM Deobf */;
         r = "_overlay";
         I = "red_nether_brick_slab";
         v = "GL11.GL_PIXEL_MAP_S_TO_S_SIZE";
@@ -122,7 +122,7 @@ public final class DQa_1 {
         R = "\\n";
         D = "mob.horse.gallop";
         c = "horsearmordiamond";
-        i = 0x721142FC ^ 0x72114F7C;
+        i = 3456 /* ZKM Deobf Int */;
         Y = "Shape21123";
     }
 

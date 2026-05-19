@@ -65,13 +65,13 @@ public final class jsa_1 {
     static {
         R = "p.price";
         Ga = "inwards";
-        s = Float.intBitsToFloat(0xAABADD26 ^ 0xEB927EF1);
+        s = 10.539999961853027F /* ZKM Deobf */;
         o = "body.body1";
         E = "APNG image size is larger than max supported texture size: ";
         S = "commands.kick.success.reason";
         i = "scaleyvalCase_";
         Ja = "terrainIconSize";
-        U = 0xE6A55E4F ^ 0x195A5E4F;
+        U = 4294901760 /* ZKM Deobf Int */;
         P = "&a \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0430";
         V = "GL11.GL_EDGE_FLAG_ARRAY_STRIDE";
         Q = "Primary";
@@ -79,12 +79,12 @@ public final class jsa_1 {
         K = "GL11.GL_COLOR_ARRAY_SIZE";
         B = "serverTime_";
         G = "Screen name";
-        m = 0xAAB469CB ^ 0xAAB47DC8;
+        m = 5123 /* ZKM Deobf Int */;
         r = "#@!@# Game crashed! Crash report saved to: #@!@# ";
         e = "ONE_PLAYER_DATA";
         F = "facing=west,half=top,shape=inner_left";
         L = "gl_caps[ARB_pixel_buffer_object]";
-        j = 0x683CEC56 ^ 0x683C608A;
+        j = 36060 /* ZKM Deobf Int */;
         J = "settings";
         W = "drop.water";
         q = "ADDBB";
@@ -101,27 +101,27 @@ public final class jsa_1 {
         I = "textures/body/wings_black.png";
         D = "arm";
         T = "armorStatus:";
-        h = 0xC245E2A3 ^ 0xC2BF76BB;
+        h = 16421912 /* ZKM Deobf Int */;
         n = "Unexpected token '";
         y = "createWorld.customize.custom.useRavines";
         z = "createWorld.customize.custom.biomeDepthWeight";
         fa = "double_plant_paeonia_top";
-        Ka = Double.longBitsToDouble(0xE42988AC4DAACAFFL ^ 0xA44088AC4DAACAFFL);
+        Ka = 200.0D /* ZKM Deobf */;
         N = "texts/splashes.txt";
         f = "double_plant_grass_top";
         a = "selectWorld.deleteWarning";
         x = "iron_pickaxe";
-        c = Float.intBitsToFloat(0xF249E13C ^ 0x4DFB5983);
+        c = -1.3962630033493042F /* ZKM Deobf */;
         Z = "Could not lookup user whitelist entry for ";
         g = "GUI_SCALE";
-        u = 0xFBAC17F8 ^ 0xFBAC1550;
+        u = 680 /* ZKM Deobf Int */;
         O = "COMPILING";
         ja = "MSCrossing";
         Y = "gradientAnim_";
         l = "NeSCRT";
         p = "heart";
         w = "textures/body/fierywings_dark.png";
-        Aa = 0x13E7E847 ^ 0x13E76D31;
+        Aa = 34166 /* ZKM Deobf Int */;
     }
 
     public jsa_1() {

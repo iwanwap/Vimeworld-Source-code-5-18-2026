@@ -73,8 +73,8 @@ public final class SRa_1 {
         Q = "ice";
         r = "Modifier name cannot be empty";
         E = "yyyy-MM-dd 'at' HH:mm:ss z";
-        S = 0x5F001DA1 ^ 0x5F001FD0;
-        K = Float.intBitsToFloat(0xCEFDA191 ^ 0xFCD66DE6);
+        S = 625 /* ZKM Deobf Int */;
+        K = 9.99999993922529e-09F /* ZKM Deobf */;
         ja = "polishedDeepslateStairs";
         u = "quartz";
         U = "Entity's Momentum";
@@ -83,7 +83,7 @@ public final class SRa_1 {
         b = "\"";
         e = "east=false,north=false,south=true,west=false";
         l = "particle";
-        a = 0x74092F41 ^ 0x742C7DE4;
+        a = 2445989 /* ZKM Deobf Int */;
         Ja = "textures/pet/oliviapet.png";
         Ha = "rotten_flesh";
         v = "Unknown element kind ";
@@ -92,14 +92,14 @@ public final class SRa_1 {
         k = "EASE_OUT_QUAD";
         Z = 0xE25E3857240671BDL ^ 0xE25E38572406766FL;
         i = "GL11.GL_TEXTURE_HEIGHT";
-        H = 0xA4353E1D ^ 0xA435355C;
-        V = Float.intBitsToFloat(0x859BD68F ^ 0xC52BD68F);
+        H = 2881 /* ZKM Deobf Int */;
+        V = 5.5F /* ZKM Deobf */;
         q = "commands.scoreboard.objectives.list.count";
         m = "Unable to find field '";
         T = "impelX_";
-        d = 0x3047A4D2 ^ 0x304721CA;
+        d = 34072 /* ZKM Deobf Int */;
         Ka = "digging";
-        A = 0x9E2EDB94 ^ 0x9E2E5F6A;
+        A = 34046 /* ZKM Deobf Int */;
         C = "snooper_token";
         N = "Body.Shape3";
         n = "disable-change-perspective";
@@ -119,13 +119,13 @@ public final class SRa_1 {
         X = "mob.enderdragon.end";
         x = "bamboo_stairs";
         t = "stone_stairs";
-        c = Float.intBitsToFloat(0x9EE8F2D8 ^ 0x20257573);
+        c = -0.40142568945884705F /* ZKM Deobf */;
         J = "EXPLOSION_LARGE";
         h = "body.body6";
         s = "ofConnectedTextures:";
         j = "textures/blocks/glass.png";
         F = "commands.scoreboard.teams.add.displayTooLong";
-        L = 0x1D4CB852 ^ 0x1D4CB316;
+        L = 2884 /* ZKM Deobf Int */;
         fa = "GUI_CLASS";
         o = "relative_position";
     }

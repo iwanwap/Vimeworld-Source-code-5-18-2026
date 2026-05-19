@@ -73,25 +73,25 @@ public final class VQa_1 {
         Da = "deepslate_lapis_ore";
         y = "CLOUD_SHADOW";
         Ka = "GL15.GL_VERTEX_ATTRIB_ARRAY_BUFFER_BINDING";
-        d = 0x609802B1 ^ 0x609801A2;
+        d = 787 /* ZKM Deobf Int */;
         N = "Resuming channel {}";
         L = "Right57";
         B = "Shaders.init";
         Ga = "ConnectedTextures file not found: ";
         H = "But it works on my machine.";
         J = "jaw.jaw";
-        Z = Double.longBitsToDouble(0xA53BB71E6E5987DDL ^ 0x9AE44942FF88C9E1L);
+        Z = 0.4999D /* ZKM Deobf */;
         o = "Prefix";
         k = "fishing_rod";
         Ha = "F8";
         r = "cat/ocelot";
         U = "Happy new year!";
         ca = "skull_zombie";
-        Y = 0x58F8AA69 ^ 0x58F82E8C;
+        Y = 34021 /* ZKM Deobf Int */;
         fa = "acacia_trapdoor";
         b = "container.isLocked";
         s = "' contains illegal characters!";
-        g = 0xC0AD11D ^ 0xF38A515D;
+        g = 4286611520 /* ZKM Deobf Int */;
         O = "animations/pet/farmsunflower_animation.json";
         p = "Left.Shape55123";
         P = "World: (%d,%d,%d)";
@@ -101,13 +101,13 @@ public final class VQa_1 {
         I = "0.125";
         S = "kill";
         K = "HALLOWEEN";
-        h = 0x7AF843F5 ^ 0x7AF836C0;
+        h = 30005 /* ZKM Deobf Int */;
         V = "VC: Start connect";
         X = "LEG";
         E = "Zombie";
         Aa = "targets[";
         T = "water_flow";
-        D = Float.intBitsToFloat(0x5D215881 ^ 0x60772FD7);
+        D = 0.05235990136861801F /* ZKM Deobf */;
         t = ", I: ";
         c = "Hi. I'm Minecraft, and I'm a crashaholic.";
         j = "rearlegtip.main";
@@ -118,8 +118,8 @@ public final class VQa_1 {
         f = "MC_GL_VENDOR_NVIDIA";
         a = "WATER_BUBBLE";
         A = "GL13.GL_TEXTURE_COMPRESSED_IMAGE_SIZE";
-        q = 0x884C4BBA ^ 0x884CD7EE;
-        m = 0xAE702BC9 ^ 0xAE70A32C;
+        q = 40020 /* ZKM Deobf Int */;
+        m = 35045 /* ZKM Deobf Int */;
         C = "(open error)";
         w = "Ping: (1.6) from {}:{}";
         F = "Body.Shape14";
@@ -128,8 +128,8 @@ public final class VQa_1 {
         R = "connecting";
         u = "textColorValCase_";
         ja = ".";
-        G = 0x440B1EF8 ^ 0x440B1C53;
-        n = Float.intBitsToFloat(0x16756787 ^ 0x547D6787);
+        G = 683 /* ZKM Deobf Int */;
+        n = 34.0F /* ZKM Deobf */;
     }
 }
 

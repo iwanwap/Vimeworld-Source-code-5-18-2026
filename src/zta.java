@@ -65,7 +65,7 @@ public final class zta {
 
     static {
         Aa = "andesiteMaxHeight";
-        B = Float.intBitsToFloat(0x4724F162 ^ 0x4A3F162);
+        B = 270.0F /* ZKM Deobf */;
         d = "emerald";
         p = "slot.villager.";
         S = "stone_axe";
@@ -74,21 +74,21 @@ public final class zta {
         F = "hoeStone";
         y = "east=false,north=true,south=false,up=false,west=false";
         l = "@ ";
-        M = 0xD50BC9A0 ^ 0xD50BD1A0;
+        M = 6144 /* ZKM Deobf Int */;
         I = " tried to attack an invalid entity";
         J = "Shaders.uninit pre";
         r = "invalid something";
         D = "InhabitedTime";
-        n = Double.longBitsToDouble(0x225FE905D460694L ^ 0x4240FE905D460694L);
+        n = 168.0D /* ZKM Deobf */;
         k = "acacia_fence";
         Ha = "createWorld.customize.custom.preset.caveChaos";
-        Ga = 0x9EC6B279 ^ 0x9EC62EAF;
+        Ga = 40150 /* ZKM Deobf Int */;
         A = "mcpatcher/ctm/default/empty";
-        Ka = Float.intBitsToFloat(0x83964899 ^ 0xBC7BD61D);
+        Ka = 1.8564000129699707F /* ZKM Deobf */;
         e = "windowed";
         G = "Skipping bad option: ";
         o = "shadowMapResolution";
-        x = Float.intBitsToFloat(0x9AC1AC04 ^ 0x251FB70D);
+        x = -1.735200047492981F /* ZKM Deobf */;
         Y = "bottle_drinkable";
         g = "Could not decode gif ";
         U = "cleric";
@@ -104,8 +104,8 @@ public final class zta {
         W = "GL11.GL_OR";
         s = "commands.testforblock.failed.tile";
         X = "twitch_user_info";
-        q = Double.longBitsToDouble(0x29E9754547BE3FCCL ^ 0x1631B1DEE25D6C34L);
-        P = Float.intBitsToFloat(0x92CE80B9 ^ 0x5268E6DF);
+        q = 0.387D /* ZKM Deobf */;
+        P = -5.199999809265137F /* ZKM Deobf */;
         b = "Meshes";
         u = "hornCoralBlock";
         C = "ENTITYOPTION";
@@ -119,7 +119,7 @@ public final class zta {
         Ja = 0xEBE54FA9680DE247L ^ 0xEBE54FA9680DD4F7L;
         K = "DISABLED";
         ja = "pink_tulip";
-        Z = 0x5F551D3E ^ 0x5F551AEF;
+        Z = 2001 /* ZKM Deobf Int */;
         L = "chestplateDiamond";
         N = "POPPY";
         z = "warped_log_stripped";

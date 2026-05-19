@@ -68,7 +68,7 @@ public final class APa {
 
     static {
         Q = "sides";
-        D = Float.intBitsToFloat(0x37BB4D7B ^ 0xF74B4D7B);
+        D = -7.5F /* ZKM Deobf */;
         u = "\\*";
         q = "MinecartRideable";
         Z = "potatoBaked";
@@ -77,15 +77,15 @@ public final class APa {
         fa = "ON";
         ca = "options.framerateLimit.max";
         b = "vertical_slab";
-        a = 0xE39F2510 ^ 0xE39FA141;
+        a = 33873 /* ZKM Deobf Int */;
         y = "TileZ";
         C = "options.gamma.max";
-        g = Double.longBitsToDouble(0x2E125E02B9D79628L ^ 0x91C5543FC9744122L);
-        J = 0xF50EAE08 ^ 0xF50EAE71;
+        g = -0.36D /* ZKM Deobf */;
+        J = 121 /* ZKM Deobf Int */;
         ga = "tooltipDrawVanillaBackground_";
         w = "party/crown.png";
         X = "END_COMBAT";
-        e = 0xA519CE91 ^ 0xA519CCEF;
+        e = 638 /* ZKM Deobf Int */;
         T = "IN YOU FACE";
         f = "rightHands";
         K = "composite2";
@@ -94,15 +94,15 @@ public final class APa {
         N = "COPYTOCLIPBOARD";
         A = "GL11.GL_PIXEL_MAP_G_TO_G";
         Ga = "renderClouds:false";
-        Aa = 0xA48F29B0 ^ 0xA4CF29B0;
+        Aa = 4194304 /* ZKM Deobf Int */;
         Y = "head.main";
-        o = Float.intBitsToFloat(0xD7500EA8 ^ 0xEC60FCD4);
+        o = 0.0027000000700354576F /* ZKM Deobf */;
         k = "survival";
         la = "of.options.shaders.SPECULAR_MAP";
-        Ka = Float.intBitsToFloat(0x9B80B250 ^ 0x2519CD33);
+        Ka = -0.29980000853538513F /* ZKM Deobf */;
         I = "gbuffers_terrain_cutout_mip";
         x = "/usr/bin/open";
-        O = Float.intBitsToFloat(0xB86A4F16 ^ 0xFD51CF16);
+        O = 3000.0F /* ZKM Deobf */;
         s = "stat.useItem";
         P = "GL11.GL_NORMAL_ARRAY_POINTER";
         h = "mob.guardian.land.hit";
@@ -120,16 +120,16 @@ public final class APa {
         G = "{\"coordinateScale\":684.412, \"heightScale\":684.412, \"upperLimitScale\":512.0, \"lowerLimitScale\":512.0, \"depthNoiseScaleX\":200.0, \"depthNoiseScaleZ\":200.0, \"depthNoiseScaleExponent\":0.5, \"mainNoiseScaleX\":1000.0, \"mainNoiseScaleY\":3000.0, \"mainNoiseScaleZ\":1000.0, \"baseSize\":8.5, \"stretchY\":10.0, \"biomeDepthWeight\":1.0, \"biomeDepthOffset\":0.0, \"biomeScaleWeight\":1.0, \"biomeScaleOffset\":0.0, \"useCaves\":true, \"useDungeons\":true, \"dungeonChance\":8, \"useStrongholds\":true, \"useVillages\":true, \"useMineShafts\":true, \"useTemples\":true, \"useRavines\":true, \"useWaterLakes\":true, \"waterLakeChance\":4, \"useLavaLakes\":true, \"lavaLakeChance\":80, \"useLavaOceans\":false, \"seaLevel\":20 }";
         p = "Tail1";
         t = " instead of ";
-        F = 0x87615C7C ^ 0x8721A3FC;
+        F = 4259712 /* ZKM Deobf Int */;
         R = "GL11.GL_DIFFUSE";
         Da = "achievement.blazeRod";
         V = " Drop: ";
         M = "\u0000\u0019\u0000\u0001\u0001\u0019\u0019\u0000\u0000\u0000\u0001\u100f\u0000\u0002\u100f\u0001\u0003\u1004\u0002\u0004\u1006\u0003\u0005\u1001\u0004\u0006\u100c\u0005\u0007\u1001\u0007\b\u1001\b\t\u1009\t\n\u1007\n\u000b\u1208\u0006\f\u1004\u000b\r\u1001\f\u000e\u1001\r\u000f\u1001\u000e\u0010\u1001\u000f\u0011\u1001\u0010\u0012\u1001\u0011\u0013\u1001\u0012\u0014\u1208\u0013\u0015\u1208\u0014\u0016\u1208\u0015\u0017\u1208\u0016\u0018\u1208\u0017\u0019\u1208\u0018";
-        ja = Float.intBitsToFloat(0x626C6839 ^ 0xA0146839);
+        ja = -62.0F /* ZKM Deobf */;
         U = "iii";
-        L = 0x3823AF8 ^ 0x382BAB0;
+        L = 32840 /* ZKM Deobf Int */;
         H = "Server Connector #";
-        Ha = Float.intBitsToFloat(0x91C186DC ^ 0xADC294B3);
+        Ha = 0.00800000037997961F /* ZKM Deobf */;
     }
 
     public APa() {

@@ -64,11 +64,11 @@ public final class Wsa_2 {
     static {
         q = "{\"coordinateScale\":684.412, \"heightScale\":684.412, \"upperLimitScale\":2.0, \"lowerLimitScale\":64.0, \"depthNoiseScaleX\":200.0, \"depthNoiseScaleZ\":200.0, \"depthNoiseScaleExponent\":0.5, \"mainNoiseScaleX\":80.0, \"mainNoiseScaleY\":160.0, \"mainNoiseScaleZ\":80.0, \"baseSize\":8.5, \"stretchY\":12.0, \"biomeDepthWeight\":1.0, \"biomeDepthOffset\":0.0, \"biomeScaleWeight\":1.0, \"biomeScaleOffset\":0.0, \"useCaves\":true, \"useDungeons\":true, \"dungeonChance\":8, \"useStrongholds\":true, \"useVillages\":true, \"useMineShafts\":true, \"useTemples\":true, \"useRavines\":true, \"useWaterLakes\":true, \"waterLakeChance\":4, \"useLavaLakes\":true, \"lavaLakeChance\":80, \"useLavaOceans\":false, \"seaLevel\":6 }";
         d = "tf";
-        Q = Float.intBitsToFloat(0xDEF688AB ^ 0xE0834A24);
+        Q = 0.23999999463558197F /* ZKM Deobf */;
         U = "gl_caps[EXT_shader_image_load_store]";
         X = "thinglass_top";
         w = "purpurPillar";
-        x = 0x71613E98 ^ 0x71613C38;
+        x = 672 /* ZKM Deobf Int */;
         H = "MedvedYT";
         i = "ofWaterParticles";
         B = "XANIM";
@@ -76,7 +76,7 @@ public final class Wsa_2 {
         F = "Could not set level chunk heightmap, array length is ";
         R = "head.ear2";
         O = "bl";
-        Ha = 0x6CC3CB32 ^ 0x6CC3C9CC;
+        Ha = 766 /* ZKM Deobf Int */;
         a = "SCROLLOFFSETVAL_NOT_SET";
         r = "commands.kick.success";
         G = "swampgrass.png";
@@ -87,19 +87,19 @@ public final class Wsa_2 {
         L = "TIMES";
         y = "commands.banip.usage";
         o = "RIGHT_PANTS_LEG";
-        K = 0x7BFED530 ^ 0x7B012ACF;
-        I = Double.longBitsToDouble(0x47F76539709A9653L ^ 0x78870774A26B3FAFL);
+        K = 16777215 /* ZKM Deobf Int */;
+        I = 0.004D /* ZKM Deobf */;
         h = "hoeIron";
         P = "muted_";
         S = "textures/body/neonwings_green.png";
-        z = Float.intBitsToFloat(0xD27EFEB8 ^ 0xECF8F41E);
+        z = 0.26179999113082886F /* ZKM Deobf */;
         n = "GL11.GL_LESS";
         E = "GL11.GL_CURRENT_RASTER_TEXTURE_COORDS";
         b = "ELEMENT_HOVER";
         j = "enderPearl";
         v = "SUCCESSFULLY_LOADED";
         f = "brick";
-        Ka = 0x2409D45B ^ 0x24095C15;
+        Ka = 34894 /* ZKM Deobf Int */;
         ja = "stat.junkFished";
         Z = "slot.horse.";
         M = "Texture Downloader #";
@@ -111,7 +111,7 @@ public final class Wsa_2 {
         Y = "GL15.GL_READ_WRITE";
         Ga = "GL11.GL_MAP2_GRID_DOMAIN";
         c = "melonstem.png";
-        l = Float.intBitsToFloat(0x3D6BA9F5 ^ 0x1BF5401);
+        l = 0.026000000536441803F /* ZKM Deobf */;
         J = "\u0411\u044b\u043b\u043e \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0435\u043d\u043e \u0432\u043c\u0435\u0448\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e \u0432 \u0438\u0433\u0440\u0443.\n\u0418\u0437\u043c\u0435\u043d\u0435\u043d\u0430 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0445\u043e\u0434\u0430 \u0432\u0440\u0435\u043c\u0435\u043d\u0438 [1].";
         e = "gbuffers_terrain_cutout";
         m = "enchantment.level.2";

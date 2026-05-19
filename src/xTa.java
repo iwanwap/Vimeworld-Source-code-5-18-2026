@@ -72,9 +72,9 @@ public final class xTa {
         Ka = " with size ";
         n = "eTextInput_";
         C = "%.1f";
-        m = Float.intBitsToFloat(0x5AE6AA6D ^ 0x9B2133F7);
+        m = -24.950000762939453F /* ZKM Deobf */;
         E = "polishedTuff";
-        o = Double.longBitsToDouble(0x4C11C9A3A4080CE2L ^ 0xF3D1FB8410CC7C3BL);
+        o = -0.12653061224489795D /* ZKM Deobf */;
         u = "waterWalker";
         z = "gui/shadow.png";
         U = "streamMicVolume";
@@ -82,13 +82,13 @@ public final class xTa {
         ja = "down_x";
         w = "horizontal_range";
         j = "&a\u0412\u0441\u0435 \u0442\u043e\u0447\u043a\u0438 \u0443\u0434\u0430\u043b\u0435\u043d\u044b";
-        T = Float.intBitsToFloat(0xF84CD76E ^ 0x3F8F98EE);
-        i = Float.intBitsToFloat(0xBACC1E67 ^ 0x7A485D99);
+        T = -99999.0F /* ZKM Deobf */;
+        i = -4.133299827575684F /* ZKM Deobf */;
         Q = "NeMT";
         k = "Right35";
         e = "mcpatcher/cit/potion/";
         M = "commands.scoreboard.players.operation.notFound";
-        Ha = Double.longBitsToDouble(0x2CD4D1EC5AB93E99L ^ 0x135A69BDBAB93E99L);
+        Ha = 0.014999999664723873D /* ZKM Deobf */;
         Z = "ConnectedTextures";
         K = "entityShadows:";
         a = "netherWartBlock";
@@ -99,10 +99,10 @@ public final class xTa {
         W = "down_z";
         G = "ARC";
         x = ", limit is ";
-        J = Float.intBitsToFloat(0x9FAEB502 ^ 0xA25480DF);
+        J = 0.12217304855585098F /* ZKM Deobf */;
         L = "skins-index.bin";
         g = "Failed decode 'data:' image, base64 encoded: '";
-        y = 0x8311D646 ^ 0x8311DA14;
+        y = 3154 /* ZKM Deobf Int */;
         I = "multiplayer.texturePrompt.line1";
         A = "easeOutCirc";
         Ja = "useCaves";
@@ -117,13 +117,13 @@ public final class xTa {
         X = "oxeye_daisy";
         q = "acacia_log_stripped";
         O = "..";
-        h = 0x114B6693 ^ 0x114B67C7;
+        h = 340 /* ZKM Deobf Int */;
         P = "\u041f\u0440\u0438\u0432\u0430\u0442\u043d\u043e\u0435";
         v = "ofTrees:";
         b = "deepslateRedstoneOre";
         d = "commands.scoreboard.players.set.tagError";
         l = "uniform [ _a-zA-Z0-9]+ depthtex0;.*";
-        S = Float.intBitsToFloat(0x59424835 ^ 0x18F64835);
+        S = 22.5F /* ZKM Deobf */;
         c = "\u0000\u0003\u0000\u0000\u0001\u0003\u0003\u0000\u0000\u0000\u0001\u0006\u0002\u0004\u0003\u0004";
         t = "NoAI";
     }

@@ -66,7 +66,7 @@ public final class xqa {
 
     static {
         T = "facing=east,half=bottom,shape=outer_left";
-        s = Double.longBitsToDouble(0x3954549658E11419L ^ 0x783B9E9318E11419L);
+        s = 16666666.0D /* ZKM Deobf */;
         R = "facing=west,half=top,shape=straight";
         w = "15";
         i = "LPT2";
@@ -80,7 +80,7 @@ public final class xqa {
         N = "uv_size";
         n = "commands.setworldspawn.usage";
         m = "LeftLeg1";
-        d = 0xF8994894 ^ 0xF8994AEC;
+        d = 632 /* ZKM Deobf Int */;
         Q = "Block palette: ";
         y = "of.message.openglError";
         q = "outside";
@@ -90,7 +90,7 @@ public final class xqa {
         L = "Texteria: ";
         l = "options.renderDistance.tiny";
         k = ">&f: \u0421\u043a\u0440\u044b\u0442\u044c \u043f\u0443\u0442\u044c \u0441 \u0440\u0435\u0436\u0438\u043c\u0430\u043c\u0438 \u0441\u0433\u043b\u0430\u0436\u0438\u0432\u0430\u043d\u0438\u044f";
-        O = Float.intBitsToFloat(0xE1E3127E ^ 0xA519127E);
+        O = 2000.0F /* ZKM Deobf */;
         x = "dropper";
         Z = "ts";
         g = "golden_apple";
@@ -101,11 +101,11 @@ public final class xqa {
         Aa = "SeeFriendlyInvisibles";
         J = "primaryMesh";
         F = "q.player_has_effects";
-        t = 0xCA66AB94 ^ 0xCA66A9E9;
+        t = 637 /* ZKM Deobf Int */;
         G = "options.snooper.desc";
-        D = Double.longBitsToDouble(0x8C7CC002D95F9645L ^ 0xCCA93902D95F9645L);
+        D = 22500.0D /* ZKM Deobf */;
         v = " is missing level data, skipping";
-        V = 0xE1D8FFB9 ^ 0xE1D8F4BD;
+        V = 2820 /* ZKM Deobf Int */;
         Ka = "textures/entity/spider/spider.png";
         Ha = "shaking";
         U = "title";
@@ -117,7 +117,7 @@ public final class xqa {
         E = " open and ";
         Y = "commands.op.success";
         M = "Packet class";
-        W = 0x84758CB1 ^ 0x84758C72;
+        W = 195 /* ZKM Deobf Int */;
         h = "polished_blackstone_slab_double";
         S = "commands.scoreboard.objectives.setdisplay.successSet";
         X = "E";

@@ -71,14 +71,14 @@ public final class kta_2 {
 
     static {
         b = "entity.zombiehorse.name";
-        v = Float.intBitsToFloat(0x8268F1E7 ^ 0xC268F1E7);
-        Da = Double.longBitsToDouble(0x1EBAFE6918FF6A43L ^ 0x5EDC7E6918FF6A43L);
+        v = 2.0F /* ZKM Deobf */;
+        Da = 180.0D /* ZKM Deobf */;
         Y = " for more information.";
-        R = 0x10142CD4 ^ 0x107260E7;
+        R = 6704179 /* ZKM Deobf Int */;
         U = ", objectiveCriteria=";
-        Ja = 0x49F0F7AF ^ 0x49F0F440;
+        Ja = 1007 /* ZKM Deobf Int */;
         Ga = "localIds_";
-        Q = Float.intBitsToFloat(0x42D41FAD ^ 0x2372C9E);
+        Q = 7.099999904632568F /* ZKM Deobf */;
         ca = "Attribute is already registered!";
         X = "LOCKED";
         i = "0.37, 0, 0.63, 1";
@@ -88,7 +88,7 @@ public final class kta_2 {
         Ka = "chat.type.text";
         ga = "COMMON";
         w = "deepslateLapisOre";
-        t = Float.intBitsToFloat(0x59B5663E ^ 0x999CFFA4);
+        t = -2.6500000953674316F /* ZKM Deobf */;
         c = "DOTS";
         k = "pistonBase";
         W = "Failed while loading atlas \"{}\": {}";
@@ -104,7 +104,7 @@ public final class kta_2 {
         y = "deadBubbleCoralBlock";
         j = "RecordItem";
         Ha = "of.options.ANIMATED_TERRAIN";
-        a = 0x46459BD3 ^ 0x46459917;
+        a = 708 /* ZKM Deobf Int */;
         f = "bdo";
         u = "Entity Type";
         r = "Unable to write: ";
@@ -112,7 +112,7 @@ public final class kta_2 {
         E = "Colormap properties: ";
         H = "successed";
         V = "########0.00";
-        d = Double.longBitsToDouble(0xB0FD7DA5B8F768FL ^ 0x349E089CFB8F768FL);
+        d = 0.01745329238474369D /* ZKM Deobf */;
         e = "Players";
         M = "\u0000\u0007\u0000\u0001\u0001\u0007\u0007\u0000\u0000\u0000\u0001\u100c\u0000\u0002\u1004\u0002\u0003\u1009\u0003\u0004\u1009\u0004\u0005\u1009\u0005\u0006\u1009\u0006\u0007\u1208\u0001";
         m = "invertYMouse:";
@@ -123,12 +123,12 @@ public final class kta_2 {
         q = "SMOKE_NORMAL";
         G = "sheep/sheep";
         ja = "BODY_DEFAULT";
-        x = 0xA75C3B08 ^ 0xA75C39F9;
+        x = 753 /* ZKM Deobf Int */;
         n = "pink_stained_glass";
-        fa = 0xDD123F7D ^ 0xDD123964;
+        fa = 1561 /* ZKM Deobf Int */;
         F = "DLDetector";
-        l = 0x94E420A5 ^ 0x94E42237;
-        h = Double.longBitsToDouble(0x47ED76254EC59D9AL ^ 0x780281EBAEC59D9AL);
+        l = 658 /* ZKM Deobf Int */;
+        h = 0.9990000128746033D /* ZKM Deobf */;
         p = "Failed to load texture: ";
         T = "CustomSky";
         L = "diamond_axe";

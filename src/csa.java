@@ -65,10 +65,10 @@ public final class csa {
 
     static {
         Aa = "MC|Beacon";
-        ja = 0x7545DB4D ^ 0x7545940F;
+        ja = 20290 /* ZKM Deobf Int */;
         Ga = "flowerPot";
         D = "achievement.cookFish";
-        T = 0x909FB674 ^ 0x909FB74C;
+        T = 312 /* ZKM Deobf Int */;
         L = " moved too quickly! ";
         F = "Couldn't connect to server";
         k = "math.atan2";
@@ -85,7 +85,7 @@ public final class csa {
         I = "textures/pet/pinatapet.png";
         m = "REMOVE_2D";
         h = "Already open";
-        W = 0xC54B797C ^ 0xC54B776C;
+        W = 3600 /* ZKM Deobf Int */;
         ca = "fixedBiome";
         R = "UUIDLeast";
         S = "stonebrick";
@@ -93,20 +93,20 @@ public final class csa {
         g = "BLOCK_DUST";
         y = " block)";
         V = "GL15.GL_ELEMENT_ARRAY_BUFFER";
-        Q = 0x5398A4BA ^ 0x5398A5A3;
+        Q = 281 /* ZKM Deobf Int */;
         C = "LAGOMETER";
         f = "Piece1.Shape23";
         n = "commands.testfor.tagError";
         U = "rotation_";
-        r = Float.intBitsToFloat(0xC21D9BD0 ^ 0x839B9BD0);
+        r = 16.75F /* ZKM Deobf */;
         v = "textures/entity/endercrystal/endercrystal_beam.png";
         e = "body.scale";
         i = "getDesktop";
         c = "random.anvil_break";
-        M = 0x40CAB25E ^ 0x40CAB55F;
+        M = 1793 /* ZKM Deobf Int */;
         N = "Courbet";
-        fa = 0x81413CEF ^ 0x814149D2;
-        A = 0x458EB446 ^ 0x458EB417;
+        fa = 30013 /* ZKM Deobf Int */;
+        A = 81 /* ZKM Deobf Int */;
         X = "Right.Right53";
         b = "{trigs=";
         q = "Invulnerable";
@@ -114,11 +114,11 @@ public final class csa {
         O = "redstone_dust_line_overlay";
         w = "\n\tat ";
         z = "options.ao.max";
-        P = Float.intBitsToFloat(0xD34F6EF9 ^ 0x120F6EF9);
+        P = -12.0F /* ZKM Deobf */;
         s = "shake_";
         t = "GL11.GL_ALPHA_BIAS";
         Z = "Time ran backwards! Did the system time change?";
-        p = Float.intBitsToFloat(0xE892A1E1 ^ 0x2EB941E1);
+        p = -11000.0F /* ZKM Deobf */;
         j = "blockbuster:particle_collision_tinting";
         u = ", z=";
         Y = "localResources_";

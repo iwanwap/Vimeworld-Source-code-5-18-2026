@@ -80,11 +80,11 @@ public final class asa_1 {
         p = "commands.stats.usage";
         I = "soul_sand";
         v = "bow_pulling_2";
-        F = 0x1C2991A0 ^ 0x1C2993FF;
+        F = 607 /* ZKM Deobf Int */;
         d = "RED_TULIP";
         i = "Knockback Resistance";
         e = "msg";
-        t = Float.intBitsToFloat(0xE3B6137F ^ 0xDD56137F);
+        t = 0.4375F /* ZKM Deobf */;
         ja = "brewing";
         u = "screen.";
         q = "Kebab";
@@ -95,24 +95,24 @@ public final class asa_1 {
         Y = "\u0417\u0430 ";
         m = "OW KNOWS!";
         c = " | ";
-        o = Float.intBitsToFloat(0xF77E6E66 ^ 0xB0FE6E66);
+        o = 65536.0F /* ZKM Deobf */;
         M = "nickname_";
         h = "[ \t]*const[ \t]*float[ \t]*shadowDistanceRenderMul[ \t]*=[ \t]*-?[0-9.]+f?;.*";
-        C = 0xF472D914 ^ 0xE78C615;
+        C = 4194967297 /* ZKM Deobf Int */;
         Ja = "right.Shape33";
         D = "stream";
         H = "BIT_XOR";
         Q = "blocks/lava_still";
         Aa = "deepslate_copper_ore";
         P = "You are banned from this server!\nReason: ";
-        z = 0x5D766A40 ^ 0x5D767F44;
+        z = 5380 /* ZKM Deobf Int */;
         s = "createWorld.customize.custom.preset.waterWorld";
         j = "cache";
         R = "This doesn't make any sense!";
         W = "29";
         K = "square_top_right";
         O = 0xD58AF4AABEA454EAL ^ 0xD58AF4AABEA44A05L;
-        S = Float.intBitsToFloat(0x3A5E11D9 ^ 0xFB1ADD14);
+        S = -12.300000190734863F /* ZKM Deobf */;
         Ha = "IRON_DOOR";
         r = "chestplateCloth";
         n = "GL11.GL_ATTRIB_STACK_DEPTH";
@@ -121,7 +121,7 @@ public final class asa_1 {
         Ka = "Now with the same numbers";
         fa = 0xB2331CFF92BB9E48L ^ 0xB2331CFF92BB9DA0L;
         U = "Unable to play unknown soundEvent: {}";
-        Z = 0xB242B3D4 ^ 0xB24233A7;
+        Z = 32883 /* ZKM Deobf Int */;
     }
 
     public asa_1() {

@@ -64,7 +64,7 @@ public final class PTa_1 {
         N = "crimson_fence";
         D = "Clamp";
         P = "CAPE";
-        Aa = Double.longBitsToDouble(0x7C0B175A75562B7EL ^ 0x3C6E575A75562B7EL);
+        Aa = 170.0D /* ZKM Deobf */;
         m = "Right23";
         L = "abilities";
         Q = "gamma";
@@ -91,32 +91,32 @@ public final class PTa_1 {
         A = "MOD";
         H = "multiplayer.player.joined";
         W = "/party voice";
-        y = 0x5B1C8C73 ^ 0x5B1C0C46;
+        y = 32821 /* ZKM Deobf Int */;
         U = "spiderEye";
         E = "menu.returnToLobby";
         Z = "stat.mobKills";
-        Y = 0x32FAC294 ^ 0x32FA4A80;
+        Y = 34836 /* ZKM Deobf Int */;
         Ha = ", rotated=";
         x = "Right.Right51";
         Ga = "Shape17";
         o = "entity at ";
-        S = 0xEED9E350 ^ 0xEED9E1AB;
+        S = 763 /* ZKM Deobf Int */;
         O = "Shape30123";
         w = " vbo";
-        s = 0xCD997897 ^ 0xCD997A67;
+        s = 752 /* ZKM Deobf Int */;
         J = "mob.slime.big";
         X = "memory_total";
         i = "mob.cat.hitt";
         c = "woodSlab";
         r = "GL11.GL_RGB5";
-        q = 0xE9DA2F6A ^ 0xE9DA2E54;
+        q = 318 /* ZKM Deobf Int */;
         G = "GL11.GL_V2F";
         a = "Unable to play empty soundEvent: {}";
         Ka = "doDaylightCycle";
         M = "Left.Shape66123";
         fa = "mob.guardian.curse";
         t = "handDepthMul";
-        d = Float.intBitsToFloat(0x66CFF8DF ^ 0xA7BE6145);
+        d = -15.100000381469727F /* ZKM Deobf */;
         n = "assets/minecraft/models/block/gold_block.json";
     }
 

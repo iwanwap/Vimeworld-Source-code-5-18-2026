@@ -66,19 +66,19 @@ public final class bSa_1 {
 
     static {
         w = "dioriteMaxHeight";
-        L = 0xD08A8977 ^ 0xD0EAE917;
-        o = 0xAACEE0E5 ^ 0xAACE6594;
+        L = 6316128 /* ZKM Deobf Int */;
+        o = 34161 /* ZKM Deobf Int */;
         Ja = "\u041a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0430";
-        C = 0x20CE130A ^ 0x20CE9FD0;
+        C = 36058 /* ZKM Deobf Int */;
         G = "LanServerDetector #";
         x = "emote_id";
         y = "\u0432\u0438\u043c\u0435\u0440";
         e = "Ribbon8";
-        U = 0xD200A373 ^ 0xD20027A5;
+        U = 34006 /* ZKM Deobf Int */;
         Q = "gl_caps[gl_max_texture_image_units]";
         P = "GL11.GL_DOUBLE";
         ca = "commands.enchant.noItem";
-        V = Float.intBitsToFloat(0xAB8E5EB5 ^ 0x14806651);
+        V = -0.5555555820465088F /* ZKM Deobf */;
         h = "commands.enchant.success";
         fa = "GL14.GL_ONE_MINUS_CONSTANT_ALPHA";
         N = "item.unbreakable";
@@ -98,23 +98,23 @@ public final class bSa_1 {
         k = "Prefix cannot be null";
         H = "facing=south,half=top,shape=inner_left";
         D = "ENTER_COMBAT";
-        Da = 0xC1E9826F ^ 0xC1E98236;
+        Da = 89 /* ZKM Deobf Int */;
         K = "textures/entity/silverfish.png";
         Ha = "book.signButton";
         r = "stat.craftingTableInteraction";
-        a = 0x830879F9 ^ 0x83087907;
+        a = 254 /* ZKM Deobf Int */;
         i = "GL15.GL_STREAM_READ";
         n = "CustomBlock{type=";
         g = "Potion";
         O = "commands.scoreboard.teams.join.failure";
-        J = Float.intBitsToFloat(0x80BC9022 ^ 0xC1EC9022);
+        J = 13.0F /* ZKM Deobf */;
         j = "#  ";
         Y = "mob.skeleton.death";
         X = "Received packet length {} with {} actions";
         B = "addServer.enterName";
         u = "linear";
         v = "RandomMobs: ";
-        l = 0xB22F1049 ^ 0xB22F110D;
+        l = 324 /* ZKM Deobf Int */;
         S = "COMPARE";
         T = "px";
         W = "invisibility";
@@ -122,8 +122,8 @@ public final class bSa_1 {
         Z = "Shape29123";
         I = "fog-start";
         s = "\u041f\u043e\u0434\u043e\u0436\u0434\u0438\u0442\u0435, \u043f\u043e\u043a\u0430 \u043e\u043d \u0441\u043d\u043e\u0432\u0430 \u0438\u0445 \u0441\u043e\u0431\u0435\u0440\u0435\u0442";
-        Ka = 0x6D365482 ^ 0x6D365521;
-        b = 0xB0C5490C ^ 0xB0C54BF4;
+        Ka = 419 /* ZKM Deobf Int */;
+        b = 760 /* ZKM Deobf Int */;
         f = " 3.0 ";
         R = "pumpkinStem";
     }

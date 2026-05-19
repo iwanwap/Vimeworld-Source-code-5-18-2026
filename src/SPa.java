@@ -79,10 +79,10 @@ public final class SPa {
         p = "facing=north,half=bottom,shape=straight";
         N = "stairsWood";
         i = "A";
-        h = 0x37788C73 ^ 0x37788FFB;
+        h = 904 /* ZKM Deobf Int */;
         n = "Expected between 1 and 6 unique faces, got 0";
         q = "colortex2";
-        l = 0xBB558C4A ^ 0xBB558CE3;
+        l = 169 /* ZKM Deobf Int */;
         ca = "# #";
         j = "SpawnRange";
         m = "minecraft:mob.guardian.attack";
@@ -91,10 +91,10 @@ public final class SPa {
         U = "Expression '";
         V = "null";
         G = "TWEAK_BLOCK_DAMAGE";
-        b = Float.intBitsToFloat(0x8DFEC73 ^ 0x4A97EC73);
+        b = 50.0F /* ZKM Deobf */;
         k = "Atlases";
         J = "GL11.GL_DST_COLOR";
-        Ha = 0x616B20A5 ^ 0x617D5E23;
+        Ha = 1474182 /* ZKM Deobf Int */;
         F = "Left.Shape50123";
         a = "--- BEGIN PROFILE DUMP ---\n\n";
         Ga = "stat.damageDealt";
@@ -110,19 +110,19 @@ public final class SPa {
         R = "commands.worldborder.warning.usage";
         M = "ofFireworkParticles:";
         I = "ARMOR_TORSO";
-        Ka = Float.intBitsToFloat(0xE68C8081 ^ 0xD90CF576);
+        Ka = 1.003600001335144F /* ZKM Deobf */;
         w = "textures/entity/chest/normal.png";
-        X = Float.intBitsToFloat(0x3B5C06BD ^ 0x4DA0C2B);
+        X = 1.0471980571746826F /* ZKM Deobf */;
         o = "reason";
         y = "leggingsNetherite";
         Z = "cotton";
-        S = 0xA9438A6B ^ 0x56BC7589;
+        S = 4294967266 /* ZKM Deobf Int */;
         v = "GL_FRAMEBUFFER_INCOMPLETE_DRAW_BUFFER";
-        e = 0x766B8503 ^ 0x766BF045;
+        e = 30022 /* ZKM Deobf Int */;
         c = "rearleg";
-        T = 0x1D672088 ^ 0x1D6720CA;
+        T = 66 /* ZKM Deobf Int */;
         C = "reverse_";
-        K = 0xE4A4623E ^ 0xE4A42D0E;
+        K = 20272 /* ZKM Deobf Int */;
         g = "mob.horse.zombie.idle";
         r = "Unable to find EnumFacing with name '";
         L = "GL11.GL_BITMAP_TOKEN";
@@ -130,8 +130,8 @@ public final class SPa {
         P = "Sound engine started";
         Aa = "game.neutral.swim";
         z = "Chunk pos hash";
-        x = Double.longBitsToDouble(0xEE298BB9D5FD47DAL ^ 0xD1ADF158925353A1L);
-        s = 0x9D04C9A7 ^ 0x9DF43957;
+        x = 0.01D /* ZKM Deobf */;
+        s = 15790320 /* ZKM Deobf Int */;
     }
 }
 

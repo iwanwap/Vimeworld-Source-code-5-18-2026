@@ -67,14 +67,14 @@ public final class vsa {
 
     static {
         t = "getBrightness";
-        Y = 0xD610DDE4 ^ 0xD610D186;
-        K = Double.longBitsToDouble(0x86EFAA785663B04CL ^ 0xB93B7867A4873EC7L);
-        J = Float.intBitsToFloat(0x77A41BA3 ^ 0x4B241BA3);
+        Y = 3170 /* ZKM Deobf Int */;
+        K = 0.32532500000000003D /* ZKM Deobf */;
+        J = 0.015625F /* ZKM Deobf */;
         x = "timerDuration_";
         T = "eBeam_";
         F = "rabbit_foot";
         Ka = 0xB91BA0F2C02438FFL ^ 0x86E45F0D3FDBC700L;
-        fa = 0xC5D137A8 ^ 0xC5D1B238;
+        fa = 34192 /* ZKM Deobf Int */;
         g = "polishedTuffStairs";
         R = "HeightMap";
         w = "EASE_IN_BACK";
@@ -84,7 +84,7 @@ public final class vsa {
         q = "textures/pet/bomb.png";
         o = "\\[[-+\\d|,\\s]+\\]";
         h = "BLACK";
-        i = 0xDE106CFE ^ 0xDE10682B;
+        i = 1237 /* ZKM Deobf Int */;
         y = "goalTick";
         O = "commands.clone.success";
         D = "BEACON";
@@ -98,7 +98,7 @@ public final class vsa {
         Ga = ".item";
         N = "paleOakFence";
         s = "' for variant: '";
-        z = Float.intBitsToFloat(0x3C80F096 ^ 0x28FACBF);
+        z = 0.14000000059604645F /* ZKM Deobf */;
         ja = "deepslate_iron_ore";
         W = "GL11.GL_OUT_OF_MEMORY";
         f = "rain";
@@ -113,7 +113,7 @@ public final class vsa {
         P = "Shadow map distance: ";
         Z = "Piece2.Shape15";
         L = "stop";
-        S = 0xB5A19845 ^ 0xB5A199D8;
+        S = 413 /* ZKM Deobf Int */;
         V = "textures/gui/presets/drought.png";
         e = "keyTextShadow";
         n = "dirtSize";

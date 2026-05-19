@@ -70,18 +70,18 @@ public final class Bsa_2 {
 
     static {
         c = "achievement.killCow";
-        j = 0x95E5F0D6 ^ 0x95E5FB80;
-        u = Float.intBitsToFloat(0xD0BD9D75 ^ 0xEE17E38F);
+        j = 2902 /* ZKM Deobf Int */;
+        u = 0.3330000042915344F /* ZKM Deobf */;
         W = "EPIC";
         g = "{\"coordinateScale\":684.412, \"heightScale\":684.412, \"upperLimitScale\":512.0, \"lowerLimitScale\":512.0, \"depthNoiseScaleX\":200.0, \"depthNoiseScaleZ\":200.0, \"depthNoiseScaleExponent\":0.5, \"mainNoiseScaleX\":5000.0, \"mainNoiseScaleY\":1000.0, \"mainNoiseScaleZ\":5000.0, \"baseSize\":8.5, \"stretchY\":5.0, \"biomeDepthWeight\":2.0, \"biomeDepthOffset\":1.0, \"biomeScaleWeight\":4.0, \"biomeScaleOffset\":1.0, \"useCaves\":true, \"useDungeons\":true, \"dungeonChance\":8, \"useStrongholds\":true, \"useVillages\":true, \"useMineShafts\":true, \"useTemples\":true, \"useRavines\":true, \"useWaterLakes\":true, \"waterLakeChance\":4, \"useLavaLakes\":true, \"lavaLakeChance\":80, \"useLavaOceans\":false, \"seaLevel\":63 }";
         T = "TEXT_CLOCK";
         t = "!0 & !1 & 2 & !3 & 2+6";
-        P = 0xA7E661AC ^ 0xA7E660A3;
-        z = 0x9157CD3 ^ 0x9157DC2;
+        P = 271 /* ZKM Deobf Int */;
+        z = 273 /* ZKM Deobf Int */;
         fa = "6b";
         ca = "BRL1";
         C = "JUMP";
-        H = 0x843B3A3 ^ 0x843B315;
+        H = 182 /* ZKM Deobf Int */;
         I = "lang:";
         F = "Couldn't load credits";
         O = "Adding entity to track";
@@ -93,13 +93,13 @@ public final class Bsa_2 {
         y = "GL11.GL_KEEP";
         Q = "Shadow map interval size: ";
         A = "emoji";
-        n = 0x14C2EC37 ^ 0x14C2EC98;
+        n = 175 /* ZKM Deobf Int */;
         r = "Unable to get Z-rotated facing of ";
         Da = "old_wood_slab";
         a = "get";
         v = "bezier_right_value";
         s = "blue_concrete";
-        h = Float.intBitsToFloat(0x7BEDF450 ^ 0xC50B34D0);
+        h = -0.4506874084472656F /* ZKM Deobf */;
         q = "ofBetterGrass";
         e = "[Shaders] Invalid value: ";
         l = "screenshot.success";
@@ -109,7 +109,7 @@ public final class Bsa_2 {
         Y = "PLATINUM";
         R = "specularMapEnabled";
         V = "ThrownPotion";
-        x = Double.longBitsToDouble(0xB6F841010F253942L ^ 0x891041010F253942L);
+        x = 0.75D /* ZKM Deobf */;
         d = "Unable to parse metadata from ";
         ja = "dark_oak_stairs";
         D = "\u0000\u0001\u0000\u0000\u0001\u0001\u0001\u0000\u0001\u0000\u0001\u001b";
@@ -125,10 +125,10 @@ public final class Bsa_2 {
         L = "TileTicks";
         b = "commands.generic.entity.invalidType";
         J = "1-dstcolor";
-        Ha = Float.intBitsToFloat(0x5F0575CC ^ 0x9E0175CC);
-        U = Double.longBitsToDouble(0xBAD017066447BB4AL ^ 0x7B3017066447BB4AL);
+        Ha = -8.25F /* ZKM Deobf */;
+        U = -2147483648.0D /* ZKM Deobf */;
         k = "ENTITYACTION";
-        E = 0xAA3AEB66 ^ 0xAA3AEB01;
+        E = 103 /* ZKM Deobf Int */;
         f = "block/wall_inventory";
     }
 }

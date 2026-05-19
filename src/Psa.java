@@ -68,41 +68,41 @@ public final class Psa {
     static {
         j = "ViSmH";
         O = "polishedBlackstoneBrickSlab";
-        l = 0xDC675582 ^ 0xDC6757D8;
-        Ja = Float.intBitsToFloat(0x64F7099 ^ 0xC67F7099);
+        l = 602 /* ZKM Deobf Int */;
+        Ja = -2.75F /* ZKM Deobf */;
         Z = "RGBA16";
-        t = Double.longBitsToDouble(0x93A0DB77E8F8587CL ^ 0xD310DB77E8F8587CL);
+        t = 4096.0D /* ZKM Deobf */;
         ca = "_monster_egg";
         z = "REMOVE";
         Ka = "ati";
         G = "record_far";
-        ga = Double.longBitsToDouble(0x1DCEBB5E8089D5DCL ^ 0x5DDB46E5693272A9L);
+        ga = 5.497787143782138D /* ZKM Deobf */;
         h = "Couldn't save server list";
         I = "%s format: %s";
-        e = 0x9F922E1B ^ 0x9F920C1B;
+        e = 8704 /* ZKM Deobf Int */;
         y = "CLEAR3D";
         Y = "ARMOR_HEAD";
         F = "LastUpdate";
-        a = Float.intBitsToFloat(0xAFA3BABA ^ 0x6F15DCDC);
+        a = -5.699999809265137F /* ZKM Deobf */;
         R = "uniform [ _a-zA-Z0-9]+ gaux4;.*";
-        M = 0xCF8B2FEE ^ 0xCF8B2FD2;
+        M = 60 /* ZKM Deobf Int */;
         N = "Atlas path";
         S = "of.options.AF_LEVEL";
         Da = "cpu_cores";
         C = "diamond_chestplate";
         Ha = "rewardExp";
-        D = Float.intBitsToFloat(0x30BCE94E ^ 0x717FDA7D);
+        D = 24.399999618530273F /* ZKM Deobf */;
         B = "commands.scoreboard.teams.list.count";
         p = ", tool=";
         s = "TaigaHills";
         g = "on";
         V = "Z";
         Ga = "commands.xp.success";
-        n = 0xDAEBD499 ^ 0x25BBC489;
+        n = 4283437072 /* ZKM Deobf Int */;
         W = "registry";
         u = "birch_slab";
         o = "resistance";
-        K = 0xE61247EE ^ 0xE61243E2;
+        K = 1036 /* ZKM Deobf Int */;
         L = "Level Name";
         ja = "mob.wither.spawn";
         d = "&";
@@ -112,7 +112,7 @@ public final class Psa {
         w = "mob.creeper.death";
         T = "%s clear disabled";
         v = "coords_";
-        P = 0x189632DC ^ 0x1868CC22;
+        P = 16711422 /* ZKM Deobf Int */;
         X = "GL13.GL_PRIMARY_COLOR";
         k = "WWW";
         fa = "INGAME";
@@ -127,7 +127,7 @@ public final class Psa {
         c = "textures/entity/horse/horse_skeleton.png";
         A = "roll";
         i = "PORTABILITY";
-        m = 0x806CE674 ^ 0x806CE755;
+        m = 289 /* ZKM Deobf Int */;
     }
 
     public Psa() {

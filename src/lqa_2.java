@@ -73,7 +73,7 @@ public final class lqa_2 {
         q = "redstone_dust_cross";
         e = "\u0000#\u0001\u0000\u0001$#\u0000\u0000\u0000\u0001:\u0000\u0002<\u0000\u0003<\u0000\u0004<\u0000\u0005:\u0000\u0006<\u0000\u0007<\u0000\b<\u0000\t<\u0000\n<\u0000\u000b<\u0000\f<\u0000\r:\u0000\u000e<\u0000\u000f<\u0000\u0010<\u0000\u0011<\u0000\u0012<\u0000\u0013<\u0000\u0014:\u0000\u0015<\u0000\u0016<\u0000\u0018<\u0000\u0019<\u0000\u001a<\u0000\u001b<\u0000\u001c<\u0000\u001d<\u0000\u001e<\u0000\u001f<\u0000 <\u0000!<\u0000\"<\u0000#<\u0000$<\u0000";
         j = "bubbleCoralBlock";
-        ca = Double.longBitsToDouble(0x2C52B08780CF51BBL ^ 0xEC4AB08780CF51BBL);
+        ca = -6.0D /* ZKM Deobf */;
         r = "LIME";
         o = "DeathTime";
         la = "wake";
@@ -82,7 +82,7 @@ public final class lqa_2 {
         T = "' \u043d\u0435 \u0445\u0432\u0430\u0442\u0430\u0435\u0442 \u0433\u0440\u0430\u043d\u0435\u0439";
         c = "[Shaders] Worlds: ";
         t = "expirationDelay";
-        N = 0xA6B662D3 ^ 0xA6B6FEB5;
+        N = 40038 /* ZKM Deobf Int */;
         k = "Head.Shape10";
         ja = "SIZEANIM";
         n = "written_book";
@@ -90,8 +90,8 @@ public final class lqa_2 {
         K = "glass_pane_top_purple";
         Z = "achievement.requires";
         F = "layer4";
-        b = 0xB3BCB0D6 ^ 0xB3BCACD6;
-        W = Double.longBitsToDouble(0x87451B6F6C09511FL ^ 0xB8AF35E4CEE1EB30L);
+        b = 7168 /* ZKM Deobf Int */;
+        W = 0.8181818181818182D /* ZKM Deobf */;
         i = "gray_concrete_powder";
         S = "tile.bed.occupied";
         Q = "emotes:";
@@ -99,24 +99,24 @@ public final class lqa_2 {
         u = "HIGH";
         D = "Duplicate stat id: \"";
         y = "wheat";
-        p = 0x75AE86BC ^ 0x7576F98F;
+        p = 14188339 /* ZKM Deobf Int */;
         w = "File not found";
-        ga = Float.intBitsToFloat(0x5E9CFA49 ^ 0x1E5CFA49);
+        ga = 6.0F /* ZKM Deobf */;
         m = "cherry_fence_gate";
         H = "FAILED";
-        s = 0xBE31E13F ^ 0xBE31E133;
+        s = 12 /* ZKM Deobf Int */;
         J = "collection";
         Aa = "\u0420\u0435\u0436\u0438\u043c \u0441\u044a\u0451\u043c\u043a\u0438";
-        Ja = 0x489B5B71 ^ 0x489B5F79;
-        G = Float.intBitsToFloat(0xCDE0DF93 ^ 0x72F88094);
+        Ja = 1032 /* ZKM Deobf Int */;
+        G = -0.5952000021934509F /* ZKM Deobf */;
         z = "portalForcer";
         a = "easingExpr_";
-        I = 0x791FF42 ^ 0x791FE3F;
+        I = 381 /* ZKM Deobf Int */;
         X = "waxed_exposed_cut_copper_slab_double";
         E = "bitField0_";
         C = "mossy_stone_brick_stairs";
         V = "Head.Shape9";
-        l = Float.intBitsToFloat(0x7FB37D7D ^ 0x40E7079C);
+        l = 0.8299999833106995F /* ZKM Deobf */;
         L = "User Authenticator #";
         h = "spruce_fence";
         P = "ZANIM";
@@ -126,10 +126,10 @@ public final class lqa_2 {
         Ha = "options_";
         A = "light_blue_stained_glass";
         M = "GL11.GL_CCW";
-        f = 0x144809CE ^ 0x1448477D;
+        f = 20147 /* ZKM Deobf Int */;
         d = "ofFogStart:";
         R = "DIRT";
-        x = Double.longBitsToDouble(0x3A2B7C43545FCBFEL ^ 0x5D7B08F98930733L);
+        x = 1.8D /* ZKM Deobf */;
     }
 
     public lqa_2() {

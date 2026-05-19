@@ -72,16 +72,16 @@ public final class jpa_2 {
 
     static {
         a = "TextureAtlasSprite is not TextureAtlasSprite: ";
-        v = Float.intBitsToFloat(0xDDD0195F ^ 0x99FB0301);
+        v = 684.4119873046875F /* ZKM Deobf */;
         z = "pale_oak_trapdoor";
-        E = 0x95E58422 ^ 0x95E58449;
+        E = 107 /* ZKM Deobf Int */;
         Aa = "callback_";
         x = "demo.help.movementShort";
         s = "NN";
         m = "Left.Shape65123";
         b = "stone_pickaxe";
         q = "Entity's Block location";
-        r = 0xE710006A ^ 0x18EFFF93;
+        r = 4294967289 /* ZKM Deobf Int */;
         C = "blackstone_wall";
         Q = "Ticking player";
         G = "textures/entity/endermite.png";
@@ -95,7 +95,7 @@ public final class jpa_2 {
         k = "ZOMBIE";
         N = "GL11.GL_RENDER_MODE";
         ja = "count";
-        w = Float.intBitsToFloat(0x94657CC0 ^ 0xD55377A1);
+        w = 11.377778053283691F /* ZKM Deobf */;
         i = "%s:%s:%d";
         Da = "FLAX";
         D = "Village";
@@ -104,34 +104,34 @@ public final class jpa_2 {
         A = "cobbledDeepslateStairs";
         Z = "UINT";
         W = "snipeSkeleton";
-        O = 0xA9067FD0 ^ 0xA906783F;
+        O = 2031 /* ZKM Deobf Int */;
         V = "variable.particle_age";
         L = "Ribbon10";
         fa = "Invalid time: ";
-        X = Float.intBitsToFloat(0x83EB4D5 ^ 0xC914D2B3);
+        X = -10.649999618530273F /* ZKM Deobf */;
         t = "OUTER_RIGHT";
         Ka = "Head.13";
         e = "servers";
         u = "ofAoLevel";
         n = "commands.time.added";
         T = "Ribbon3";
-        P = Float.intBitsToFloat(0xFC91031D ^ 0xBF8A031D);
+        P = 155.0F /* ZKM Deobf */;
         R = "\u0000\b\u0000\u0001\u0001\b\b\u0000\u0000\u0000\u0001\u1004\u0000\u0002\u100a\u0001\u0003\u1208\u0002\u0004\u1208\u0003\u0005\u1006\u0004\u0006\u1007\u0005\u0007\u1007\u0006\b\u100a\u0007";
         ca = "SAND";
         h = "anvil_(?:top(?:_damaged_[1-2])?|base)";
         p = "shrub";
-        o = 0x94116B60 ^ 0x9411BF51;
-        y = Float.intBitsToFloat(0xB5E1A7ED ^ 0xF5503E77);
-        d = 0x25F2155C ^ 0x25F215E6;
+        o = 54321 /* ZKM Deobf Int */;
+        y = 5.550000190734863F /* ZKM Deobf */;
+        d = 186 /* ZKM Deobf Int */;
         S = "oak_door";
         c = "Illegal characters in chat";
         Y = "cake";
         Ga = "(Error finding world loc)";
-        Ha = Double.longBitsToDouble(0x8E328C99553BA2A1L ^ 0x31D1BFAA153BA2A1L);
+        Ha = -0.6000000238418579D /* ZKM Deobf */;
         j = "oak";
-        K = Float.intBitsToFloat(0xCD74856D ^ 0x8DA4856D);
+        K = 6.5F /* ZKM Deobf */;
         B = "show_item";
-        f = Float.intBitsToFloat(0xF0258E5A ^ 0xCFEC8181);
+        f = 1.5707963705062866F /* ZKM Deobf */;
         Ja = "duration.";
     }
 }

@@ -79,8 +79,8 @@ public final class Yqa {
         s = " u,v: ";
         N = "Properties";
         Ga = "TEX_MAG_FIL_S";
-        C = Float.intBitsToFloat(0xEFE1F6D2 ^ 0xD2AD3A1F);
-        L = Float.intBitsToFloat(0xFAB83CF ^ 0xCEC5E5A9);
+        C = 0.05000000074505806F /* ZKM Deobf */;
+        L = -14.899999618530273F /* ZKM Deobf */;
         S = "DiffuseSampler";
         Q = "commands.compare.outOfWorld";
         p = "java.naming.factory.initial";
@@ -90,22 +90,22 @@ public final class Yqa {
         n = "Executing command block";
         Ka = "dirtCount";
         Z = "WINDOW SYSTEM";
-        o = 0xA415B063 ^ 0xA415B0C6;
+        o = 165 /* ZKM Deobf Int */;
         e = "aberration";
-        Ha = Double.longBitsToDouble(0x76A6A01B0CC303CEL ^ 0x36E0201B0CC303CEL);
-        i = 0x102F1F31 ^ 0x102F1F39;
+        Ha = 45.0D /* ZKM Deobf */;
+        i = 8 /* ZKM Deobf Int */;
         y = "\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 VimeWorld";
         J = "mob.villager";
         m = "ITEM_TAKE";
         Ja = "item_frame";
         b = "right.Shape38";
         I = "potion.prefix.smooth";
-        r = 0xE3236280 ^ 0xE3236185;
+        r = 773 /* ZKM Deobf Int */;
         t = "guiScale:";
         B = "commands.publish.usage";
-        F = 0x3968A642 ^ 0x3968A4D7;
-        u = 0x60A9BF06 ^ 0x60A9B464;
-        Da = 0x713B9907 ^ 0x713B99F6;
+        F = 661 /* ZKM Deobf Int */;
+        u = 2914 /* ZKM Deobf Int */;
+        Da = 241 /* ZKM Deobf Int */;
         j = "GL11.GL_ADD";
         M = "circle";
         T = "DoubleItemOption{name='";
@@ -113,10 +113,10 @@ public final class Yqa {
         fa = "blocks/destroy_stage_3";
         a = "HALF_HORIZONTAL";
         v = "red_nether_brick_stairs";
-        D = 0xF72561C2 ^ 0xF72561EE;
+        D = 44 /* ZKM Deobf Int */;
         A = "GL11.GL_NORMAL_ARRAY";
         f = "hps";
-        V = Double.longBitsToDouble(0x8BA6D731D5501230L ^ 0xCB835731D5501230L);
+        V = 10.75D /* ZKM Deobf */;
         x = "stop-emote";
         ga = "GL11.GL_MATRIX_MODE";
         E = "levels";
@@ -131,7 +131,7 @@ public final class Yqa {
         ja = "cactus_(?:bottom|side|top)";
         U = "Back-face Solid";
         G = "Right17";
-        K = 0xD65EC92D ^ 0xD610731C;
+        K = 5159473 /* ZKM Deobf Int */;
     }
 }
 

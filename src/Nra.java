@@ -70,18 +70,18 @@ public final class Nra {
     static {
         F = "gravity_";
         fa = "2F";
-        Ja = 0x5D61D871 ^ 0x5DF841E8;
+        Ja = 10066329 /* ZKM Deobf Int */;
         L = "deepslate_diamond_ore";
-        V = Double.longBitsToDouble(0x17A4369FD6EB9E31L ^ 0x5770B49FD6EB9E31L);
+        V = 21000.0D /* ZKM Deobf */;
         t = "variable.";
         h = "effectTextColor";
         l = "\u0412\u044b \u0445\u043e\u0442\u0438\u0442\u0435 \u043a\u0443\u043f\u0438\u0442\u044c \u043f\u0440\u0435\u0434\u043c\u0435\u0442, \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u0435\u0449\u0435 \u043d\u0435\u0442 \u043d\u0430 \u0441\u0435\u0440\u0432\u0435\u0440\u0435.";
-        b = Double.longBitsToDouble(0x56E5641AEE7724A0L ^ 0x690AE41AEE7724A0L);
+        b = 0.984375D /* ZKM Deobf */;
         O = "/_/";
         v = "Right.Right19";
         E = "Right.Right27";
         p = "GL13.GL_SOURCE2_ALPHA";
-        y = 0xC055121B ^ 0xC0551FA8;
+        y = 3507 /* ZKM Deobf Int */;
         j = "\u0421\u043b\u0435\u0432\u0430";
         B = "easeInQuad";
         J = "\u0427\u0430\u0441\u0442\u0438\u0446\u044b";
@@ -89,7 +89,7 @@ public final class Nra {
         u = "pitch_";
         Z = "double_plant_paeonia_bootom";
         q = "offsetRight_";
-        c = 0xC71B52BD ^ 0xC71B51B9;
+        c = 772 /* ZKM Deobf Int */;
         G = "Rendering item";
         I = "options.chat.links.prompt";
         Ka = "TextureAnimation: Target texture not found: ";
@@ -98,7 +98,7 @@ public final class Nra {
         N = "_Evgexa_";
         Q = ", found ";
         K = "Merry X-mas!";
-        ja = 0x8527B6AA ^ 0x8527F9C7;
+        ja = 20333 /* ZKM Deobf Int */;
         P = "fullscreen:";
         X = "/default.png";
         f = "COM";
@@ -121,11 +121,11 @@ public final class Nra {
         o = "options.guiScale";
         ca = "q.player_yaw";
         R = 0x6B69DF30034D2295L ^ 0x6B69DF30034D22B3L;
-        Ga = Double.longBitsToDouble(0x283939D357246F9BL ^ 0x685FD9D357246F9BL);
+        Ga = 183.0D /* ZKM Deobf */;
         d = "Squid";
-        e = Float.intBitsToFloat(0x363CCBB2 ^ 0xBF0077F);
+        e = 0.10000000149011612F /* ZKM Deobf */;
         z = "GL13.GL_COMBINE_RGB";
-        D = Float.intBitsToFloat(0xB7DDED9F ^ 0x9A7D842);
+        D = -0.24434609711170197F /* ZKM Deobf */;
         s = "GL13.GL_TEXTURE6";
         T = "frontlegtip";
     }

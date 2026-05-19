@@ -68,10 +68,10 @@ public final class Pqa_3 {
 
     static {
         m = ", width=";
-        J = 0x2550ACE7 ^ 0x2550A1E2;
+        J = 3333 /* ZKM Deobf Int */;
         n = "PINK";
         R = "purpur_block";
-        a = 0x499FB855 ^ 0x49013918;
+        a = 10387789 /* ZKM Deobf Int */;
         L = "oreGold";
         D = "\n\n";
         Y = " bytes, new size ";
@@ -80,7 +80,7 @@ public final class Pqa_3 {
         v = "blockEmerald";
         r = "shadowAngle";
         U = "Left.Shape59123";
-        O = 0xAE2B5FAA ^ 0xAE2BDB73;
+        O = 34009 /* ZKM Deobf Int */;
         o = "hunger";
         s = "matchTiles";
         c = "waxed_copper_block";
@@ -93,20 +93,20 @@ public final class Pqa_3 {
         G = "Ribbon7";
         B = "EASE_IN_OUT_ELASTIC";
         S = "Minecraft 1.8.8 (VimeWorld: ";
-        z = Float.intBitsToFloat(0x9EAC24B0 ^ 0xA1E52B49);
+        z = 0.7853999733924866F /* ZKM Deobf */;
         E = "oxidized_cut_copper_stairs";
         g = "FlowerPot";
         k = "GL11.GL_RGBA4";
         P = "item.fireworksCharge.flicker";
-        i = 0x77E4B07A ^ 0x77E4B0AA;
+        i = 208 /* ZKM Deobf Int */;
         Ha = "/\\* DRAWBUFFERS:[0-7N]* \\*/.*";
-        I = 0xFA1B9D6D ^ 0xFA7FF909;
+        I = 6579300 /* ZKM Deobf Int */;
         w = ", frameHeight: ";
         Aa = "SkullOwner";
         Q = "Random spawn bonus";
         j = "x.json";
         X = "Failed to fetch input stream";
-        C = 0x50339180 ^ 0x50339952;
+        C = 2258 /* ZKM Deobf Int */;
         ja = "armorDirection:";
         Ka = "Radius";
         W = "Adding duplicate key '";
@@ -119,11 +119,11 @@ public final class Pqa_3 {
         h = "textures/body/wings_dragon_white.png";
         Ja = "netherite_boots";
         d = "keep";
-        fa = 0x9EEBF13C ^ 0x9EEBF062;
+        fa = 350 /* ZKM Deobf Int */;
         N = "):";
         V = " -> ";
         A = "commands.fill.success";
-        u = 0xE33501C1 ^ 0xE3358148;
+        u = 32905 /* ZKM Deobf Int */;
         q = "__";
         H = "dark_prismarine_slab";
     }

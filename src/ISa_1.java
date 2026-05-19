@@ -73,30 +73,30 @@ public final class ISa_1 {
     static {
         L = "Control";
         ga = "verdant";
-        I = 0xFEFBA255 ^ 0xFEFB2964;
+        I = 35633 /* ZKM Deobf Int */;
         T = "streamKbps:";
         A = "jungle_planks";
-        h = 0xEE3B2F0B ^ 0xEECD9D0A;
+        h = 16167425 /* ZKM Deobf Int */;
         n = "[Shaders] Error: ";
         p = "createWorld.customize.flat.addLayer";
         m = "mipmap";
         W = "GL15.GL_FOG_COORDINATE_ARRAY_BUFFER_BINDING";
         j = "potion.healthBoost";
         J = "variable.emitter_random_1";
-        Q = 0x8E7325DD ^ 0x8E732EDA;
+        Q = 2823 /* ZKM Deobf Int */;
         ja = "Loading ";
         G = "Scaled non power of 2: ";
         q = "Tall";
-        l = 0x109E5436 ^ 0x109E5F8E;
+        l = 3000 /* ZKM Deobf Int */;
         O = "ingotIron";
-        z = 0x9628663 ^ 0x9628B30;
+        z = 3411 /* ZKM Deobf Int */;
         X = "grid";
         r = "container.dropper";
         f = "stat.depleted";
         t = "block/fence_inventory";
         w = "level.dat";
         F = "Entity being loaded";
-        E = 0xBCC72D12 ^ 0xBCC72D34;
+        E = 38 /* ZKM Deobf Int */;
         P = " [pos ";
         K = "Head.11";
         Da = "armorTextColor:";
@@ -105,7 +105,7 @@ public final class ISa_1 {
         H = "textures/entity/horse/horse_markings_whitefield.png";
         la = "textures/blocks/destroy_stage_4.png";
         Ga = "max_health";
-        N = 0xBE539E4B ^ 0xBE539355;
+        N = 3358 /* ZKM Deobf Int */;
         g = "Head.33";
         x = "HALF_VERTICAL";
         B = "blockDiamond";
@@ -115,15 +115,15 @@ public final class ISa_1 {
         o = "pb";
         D = "R3_G3_B2";
         v = "brown_wool";
-        a = Float.intBitsToFloat(0x5184DBB ^ 0x47AC4DBB);
+        a = 90.0F /* ZKM Deobf */;
         d = "Entity being checked for collision";
-        ca = Double.longBitsToDouble(0xE91D4BC83C2EC479L ^ 0xD6E98704F0E208B4L);
+        ca = 1.3D /* ZKM Deobf */;
         k = "shadow endRender";
-        V = 0xDBA7AFA8 ^ 0xDBA7AEDA;
-        S = 0x60405447 ^ 0x6040554D;
+        V = 370 /* ZKM Deobf Int */;
+        S = 266 /* ZKM Deobf Int */;
         Z = "onClick_";
         y = "Couldn't read statistics file ";
-        u = Double.longBitsToDouble(0xF314FC419566B102L ^ 0xCCF4F470B38FC9D7L);
+        u = 0.501D /* ZKM Deobf */;
         c = "textures/blocks/destroy_stage_9.png";
         Ka = "stoneSlab2";
         C = "paleOakDoor";
@@ -133,7 +133,7 @@ public final class ISa_1 {
         Ha = "ACACIA_SAPLING";
         b = "o";
         Ja = "GL13.GL_TEXTURE3";
-        Y = 0xA093073D ^ 0xA09305C8;
+        Y = 757 /* ZKM Deobf Int */;
     }
 }
 

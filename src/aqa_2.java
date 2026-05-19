@@ -73,24 +73,24 @@ public final class aqa_2 {
         F = "gui.toMenu";
         P = "Game mode: %s (ID %d). Hardcore: %b. Cheats: %b";
         Ga = "pink_carpet";
-        Z = 0xAEFE2FC0 ^ 0xAEB211F0;
+        Z = 4996656 /* ZKM Deobf Int */;
         R = " MB) / ";
         o = "Plains";
-        Aa = 0x7355F706 ^ 0x7355F754;
-        O = Double.longBitsToDouble(0xEB9E4EBB5565455EL ^ 0x547828DD3565455EL);
+        Aa = 82 /* ZKM Deobf Int */;
+        O = -0.699999988079071D /* ZKM Deobf */;
         Ha = "EASE_OUT_SINE";
         v = "debonair";
         d = "createWorld.customize.flat.layer";
         U = "GL14.GL_DEPTH_COMPONENT16";
         j = "uniform [ _a-zA-Z0-9]+ gaux1;.*";
-        C = 0x7554E1E3 ^ 0x8AAB1A1C;
+        C = 4294966271 /* ZKM Deobf Int */;
         w = "assets/minecraft/models/block/coal_ore.json";
         b = "options.guiScale.x4";
         Y = "mob.horse.donkey.angry";
         l = "{\"timestamp\":0,\"profileId\":\"%uuid%\",\"profileName\":\"%name\",\"textures\":{\"SKIN\":{\"url\":\"https://mc.vimeworld.com/launcher/skins/%name%.png\"},\"CAPE\":{\"url\":\"https://mc.vimeworld.com/launcher/cloaks/%name%.png\"}}}";
         H = "13";
         a = "matchBlocks";
-        Ka = Float.intBitsToFloat(0x76B1ED73 ^ 0xB7DD21BE);
+        Ka = -14.800000190734863F /* ZKM Deobf */;
         fa = "DisabledSlots";
         X = "Source not defined: ";
         p = "SUSPENDED";
@@ -106,7 +106,7 @@ public final class aqa_2 {
         E = "math.mod";
         m = "\u041f\u0435\u0440\u0441\u043f\u0435\u043a\u0442\u0438\u0432\u0430";
         n = "hoverFinish_";
-        r = 0x7266B4B8 ^ 0x7266F4BA;
+        r = 16386 /* ZKM Deobf Int */;
         G = "VC: Send connect data";
         M = "), RGBA (";
         I = "layer";
@@ -117,7 +117,7 @@ public final class aqa_2 {
         i = "current_action";
         q = "Unable to get Y-rotated facing of ";
         c = "exposed_copper_trapdoor";
-        x = Float.intBitsToFloat(0x992A4E10 ^ 0x268DC419);
+        x = -1.308899998664856F /* ZKM Deobf */;
     }
 
     public aqa_2() {

@@ -74,12 +74,12 @@ public final class RQa_1 {
     static {
         l = "[ \t]*const[ \t]*float[ \t]*drynessHalflife[ \t]*=[ \t]*-?[0-9.]+f?;.*";
         Aa = "GENERIC";
-        w = Float.intBitsToFloat(0x893C6262 ^ 0xCA5C6262);
+        w = 224.0F /* ZKM Deobf */;
         r = "mob.zombie.hurt";
-        B = 0x60AD5600 ^ 0x60ADD68F;
+        B = 32911 /* ZKM Deobf Int */;
         q = "GL11.GL_STENCIL_CLEAR_VALUE";
-        b = 0x5EF4B0B0 ^ 0x5EF4B0FE;
-        L = 0xD1BE62FA ^ 0xD1BE604A;
+        b = 78 /* ZKM Deobf Int */;
+        L = 688 /* ZKM Deobf Int */;
         d = "VimeWorld.elapsedSkip";
         P = "Converting... ";
         Ha = "shadowcolor1";
@@ -89,10 +89,10 @@ public final class RQa_1 {
         S = "Unknown value type ";
         f = "\u0000\u0003\u0000\u0001\u0001\u0003\u0003\u0000\u0000\u0000\u0001\u0004\u0002\u1007\u0000\u0003\u1009\u0001";
         H = "meshes";
-        F = Float.intBitsToFloat(0x3FEF8AD8 ^ 0x10CAD71);
+        F = 0.44366195797920227F /* ZKM Deobf */;
         I = "\u0421\u0435\u0440\u0432\u0435\u0440 \u043d\u0430 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u043c \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u0438";
         Da = "LEGS_AROUND";
-        a = 0x7438AAA0 ^ 0x4FA260A0;
+        a = 1000000000 /* ZKM Deobf Int */;
         N = 0x5386474A0C8E97E6L ^ 0x5386474A0C8E97DAL;
         ca = 0x97428265192DA997L ^ 0x982E72B0062B36A3L;
         K = "heights.";
@@ -102,7 +102,7 @@ public final class RQa_1 {
         C = "\u0410\u0432\u0442\u043e\u0440";
         M = "Right.Right32";
         U = "leftHorn";
-        Z = 0x13C8116B ^ 0x13C88D11;
+        Z = 40058 /* ZKM Deobf Int */;
         Q = "ofProfiler";
         la = "of.options.ANIMATED_EXPLOSION";
         e = "wolf/wolf";
@@ -116,29 +116,29 @@ public final class RQa_1 {
         y = "ops.txt";
         c = "game.player.swim";
         o = "mycelium_top";
-        g = Float.intBitsToFloat(0xD34F7877 ^ 0x6C3AC67C);
+        g = -0.9599310755729675F /* ZKM Deobf */;
         D = "ASCENDING_EAST";
-        j = 0x4157C67 ^ 0x4156B65;
+        j = 5890 /* ZKM Deobf Int */;
         Y = "!0 & 1 & !2 & 3 & 3+6";
-        k = Double.longBitsToDouble(0x95A547EA60352710L ^ 0xD52024A1A692C88EL);
+        k = 684.412D /* ZKM Deobf */;
         Ia = "Unsupported protocol: ";
         Ga = "colortex1";
         p = "MODELRESOURCE";
-        m = Double.longBitsToDouble(0xC81044668E4872ABL ^ 0xF7FB7755BD7B4198L);
+        m = 0.85D /* ZKM Deobf */;
         J = "head.nostril";
         ja = "mycelium";
         z = "Unable to create attribute: ";
         fa = "glassBottle";
         O = "\\\"";
         Fa = "5D6F0BA2-1186-46AC-B896-C61C5CEE99CC";
-        Ka = Float.intBitsToFloat(0xCFF14B94 ^ 0x8CDB4B94);
-        n = 0x9CAB775D ^ 0x9CAB76EE;
-        s = 0x792752AD ^ 0x792759C8;
+        Ka = 170.0F /* ZKM Deobf */;
+        n = 435 /* ZKM Deobf Int */;
+        s = 2917 /* ZKM Deobf Int */;
         Ja = "ANGLEXVAL_NOT_SET";
         t = "-0+1+2-3+13&4-4";
         v = "LL1";
-        R = 0x63D49446 ^ 0x63D494C1;
-        x = 0xEB95DB19 ^ 0xEB95DA03;
+        R = 135 /* ZKM Deobf Int */;
+        x = 282 /* ZKM Deobf Int */;
         G = "\u0412\u044b\u043a\u043b\u044e\u0447\u0435\u043d\u044b";
     }
 

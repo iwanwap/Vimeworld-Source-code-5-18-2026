@@ -66,7 +66,7 @@ public final class sqa {
 
     static {
         U = "sensing";
-        d = 0x8BB82301 ^ 0x8BB81F01;
+        d = 15360 /* ZKM Deobf Int */;
         c = "0.55, 0, 1, 0.45";
         g = "Left.Shape72123";
         z = "of.options.CONNECTED_TEXTURES";
@@ -85,20 +85,20 @@ public final class sqa {
         J = "\" is defined as both ID ";
         G = "Stage";
         u = "Could not find resource: ";
-        Z = Float.intBitsToFloat(0x1B915CCF ^ 0x25D15CCF);
+        Z = 0.1875F /* ZKM Deobf */;
         f = "of.message.shaders.fr2";
         a = "NeCE";
         v = "X270_Y180";
         D = "Front.2b";
         P = "stairsWoodWarped";
         o = "\u0413\u0440\u0443\u0434\u044c";
-        e = 0x9BFAD4D1 ^ 0x9BFAD40E;
+        e = 223 /* ZKM Deobf Int */;
         p = "Shape47";
         C = "scrollSpeedMultiplier_";
         K = "Level name";
         w = "createWorld.customize.custom.spread";
         S = "textures/entity/horse/horse_white.png";
-        t = Float.intBitsToFloat(0x52B4F890 ^ 0x1183F890);
+        t = 183.0F /* ZKM Deobf */;
         Ha = "Getting biome";
         Y = "## ";
         W = "coefficient_of_restitution";
@@ -110,7 +110,7 @@ public final class sqa {
         k = "textures/entity/skeleton/wither_skeleton.png";
         M = "lapisCenterHeight";
         r = "head:";
-        x = 0xB19108DF ^ 0xB1910863;
+        x = 188 /* ZKM Deobf Int */;
         j = "Anvil";
         m = "Ribbon9";
         F = 0x92A62FCA53E165DAL ^ 0x92A62FCA53EBCBBAL;
@@ -121,7 +121,7 @@ public final class sqa {
         N = "explosion";
         Q = "FIGHTERS";
         l = "SmallFireball";
-        q = Float.intBitsToFloat(0xEE8DFC22 ^ 0xD0DAF61F);
+        q = 0.20999999344348907F /* ZKM Deobf */;
     }
 }
 

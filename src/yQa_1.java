@@ -66,7 +66,7 @@ public final class yQa_1 {
     }
 
     static {
-        R = 0x29A68B63 ^ 0x29A68A49;
+        R = 298 /* ZKM Deobf Int */;
         m = "lastServer";
         B = "take";
         K = "memory_max";
@@ -76,11 +76,11 @@ public final class yQa_1 {
         J = "Couldn't set pixel format";
         C = "\u041d\u0430\u043a\u043b\u043e\u043d \u0432\u043f\u0440\u0430\u0432\u043e";
         l = "red_sandstone_stairs";
-        j = 0x2A9AC601 ^ 0x2A9A39FE;
+        j = 65535 /* ZKM Deobf Int */;
         w = "TEXT";
         u = "GL11.GL_STENCIL_FUNC";
         X = "east=false,north=true,south=true,up=true,west=false";
-        T = Float.intBitsToFloat(0xF5CAFF9F ^ 0x35936605);
+        T = -3.4000000953674316F /* ZKM Deobf */;
         G = "7a";
         q = "mob.guardian.death";
         g = "Shape16";
@@ -93,11 +93,11 @@ public final class yQa_1 {
         F = "stripe_top";
         A = "enchantedBook";
         b = 0x6887B2F066277FFL ^ 0x6887B2F1B0482C8L;
-        f = 0x170FB2E3 ^ 0x170F361C;
+        f = 34047 /* ZKM Deobf Int */;
         h = "EASE_IN_OUT_EXPO";
         E = "commands.effect.notFound";
         S = "Unknown function: ";
-        fa = Float.intBitsToFloat(0x53948CEB ^ 0xEC836533);
+        fa = -0.593411922454834F /* ZKM Deobf */;
         Z = "GL13.GL_TEXTURE_CUBE_MAP_NEGATIVE_Y";
         V = "frontlegtip.main";
         p = "OMDYR";
@@ -106,7 +106,7 @@ public final class yQa_1 {
         n = "prismarine_brick_stairs";
         W = "MC_GL_VENDOR_XORG";
         Ga = "GL13.GL_TEXTURE14";
-        t = Float.intBitsToFloat(0x6F784CC7 ^ 0xAE744CC7);
+        t = -8.75F /* ZKM Deobf */;
         I = "Couldn't save chunk; already in use by another instance of Minecraft?";
         L = "assets/minecraft/blockstates/red_sand.json";
         k = "darkOakFence";
@@ -115,7 +115,7 @@ public final class yQa_1 {
         z = "STICKY";
         e = "stat.blocksButton";
         c = "textures/gui/title/background/panorama_4.png";
-        U = 0xBFF832A0 ^ 0xBFF8B29E;
+        U = 32830 /* ZKM Deobf Int */;
         Aa = "randomi";
         D = "Invalid left";
         P = "flower1";

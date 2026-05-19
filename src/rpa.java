@@ -71,7 +71,7 @@ public final class rpa {
         v = "tickBlocks";
         M = "Exception ticking world entities";
         g = "Left.Shape69123";
-        V = Float.intBitsToFloat(0x4A692E9D ^ 0xA3C7BC8);
+        V = 3.3333332538604736F /* ZKM Deobf */;
         D = "&a\u0412\u0441\u0435 \u043f\u0443\u0442\u0438 \u0441\u0433\u043b\u0430\u0436\u0438\u0432\u0430\u043d\u0438\u044f \u043f\u043e\u043a\u0430\u0437\u0430\u043d\u044b";
         t = 0xC260F1A770CFEBCL ^ 0xC260F1A770C8B8CL;
         i = ", operation=";
@@ -83,7 +83,7 @@ public final class rpa {
         q = "magenta_stained_glass";
         Q = "POINTER";
         z = ".line1";
-        m = 0xA1026095 ^ 0xA1029081;
+        m = 61460 /* ZKM Deobf Int */;
         ca = "commands.testforblock.success";
         Ka = "Shape51";
         E = "SUN_MOON";
@@ -97,7 +97,7 @@ public final class rpa {
         a = "Exception in UDPConnection";
         Aa = "bambooMosaicSlab";
         s = "variable.particle_random_3";
-        ja = Double.longBitsToDouble(0x848C353606C5CB55L ^ 0xBB55ACAFA6C5CB55L);
+        ja = 0.4000000059604645D /* ZKM Deobf */;
         U = "waxed_weathered_copper_grate";
         S = "mangrove_log_stripped";
         J = "double_plant_grass_bottom";
@@ -108,7 +108,7 @@ public final class rpa {
         r = "lineHeight_";
         n = "of.message.shaders.af1";
         C = "vimeworld";
-        B = Float.intBitsToFloat(0x654ECF2E ^ 0x275ACF2E);
+        B = 37.0F /* ZKM Deobf */;
         W = "GL11.GL_NEAREST_MIPMAP_LINEAR";
         f = "lightBlue";
         I = " ]]";
@@ -116,17 +116,17 @@ public final class rpa {
         b = "magma";
         T = " <";
         Ja = "Couldn't parse some MoLang expression!";
-        P = Float.intBitsToFloat(0x4404066A ^ 0x7B3EE722);
-        F = 0x8B3EE964 ^ 0x8B3EE9E5;
+        P = 0.7300000190734863F /* ZKM Deobf */;
+        F = 129 /* ZKM Deobf Int */;
         u = "editDuration_";
-        y = Float.intBitsToFloat(0x3FC987AE ^ 0xFE9187AE);
+        y = -13.5F /* ZKM Deobf */;
         o = "cyclic_";
         p = "setworldspawn";
         x = "Constants are not ok";
-        Ga = Float.intBitsToFloat(0xB4BCD7F8 ^ 0xF5241B35);
+        Ga = 19.100000381469727F /* ZKM Deobf */;
         d = "yellow_concrete_powder";
         Z = "lightgem";
-        R = 0xDE95141 ^ 0xD240DEA;
+        R = 13458603 /* ZKM Deobf Int */;
         Ha = "potion";
     }
 }

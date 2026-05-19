@@ -69,29 +69,29 @@ public final class qta_2 {
         L = "crimson_nylium";
         v = "Explosions";
         I = "north_east";
-        m = 0x92DC350B ^ 0x92DCB011;
+        m = 34074 /* ZKM Deobf Int */;
         V = "\u4fa2";
         Ga = "mesa";
-        y = 0xD7CE0122 ^ 0xD7CE9D6F;
+        y = 40013 /* ZKM Deobf Int */;
         p = "minecraft:particle_initial_speed";
         ca = "requiredVersion_";
         B = "creeper";
         e = "ExplosionRadius";
         j = "GL11.GL_TEXTURE_BINDING_2D";
         i = "rank";
-        U = 0x4E3C809A ^ 0xB5C37F65;
-        N = 0x50F9DF06 ^ 0x50F9DE86;
-        O = Float.intBitsToFloat(0xB02B0AE7 ^ 0x8FC19866);
+        U = 4227858431 /* ZKM Deobf Int */;
+        N = 384 /* ZKM Deobf Int */;
+        O = 1.832595944404602F /* ZKM Deobf */;
         H = "foot";
         Da = "commands.scoreboard.teams.empty.usage";
         F = "type_";
         R = "Right.Right9";
         T = "Left.Shape58123";
         b = "TEX_MIN_FIL_S";
-        X = Float.intBitsToFloat(0xD016435C ^ 0x6EEC7681);
+        X = -0.48869219422340393F /* ZKM Deobf */;
         a = "\u0000\u000b\u0000\u0001\u0001\u000b\u000b\u0000\u0002\u0000\u0001\u1208\u0000\u0002\u1006\u0001\u0003\u1006\u0002\u0004\u1007\u0003\u0005\u1006\u0004\u0006\u1006\u0005\u0007\u001b\b\u001b\t\u1004\u0006\n\u1009\u0007\u000b\u1004\b";
         A = "textures/entity/cat/siamese.png";
-        f = 0x74355EDE ^ 0x7435D666;
+        f = 35000 /* ZKM Deobf Int */;
         Ha = "GL11.GL_DEPTH_RANGE";
         Z = "GL12.GL_UNSIGNED_SHORT_1_5_5_5_REV";
         k = "_leaves";
@@ -101,11 +101,11 @@ public final class qta_2 {
         x = "minecraft:container";
         P = "chance";
         r = "tile.beacon.primary";
-        D = Float.intBitsToFloat(0xAC799464 ^ 0xED099464);
+        D = 15.0F /* ZKM Deobf */;
         G = "enchantment.damage.";
         o = "of.options.ANIMATED_WATER";
         d = "Entity being ticked";
-        S = Double.longBitsToDouble(0xB8F05BA57ECBD70FL ^ 0x870B68964DF8E43CL);
+        S = 1.7D /* ZKM Deobf */;
         l = "GL15.GL_STATIC_COPY";
         w = "mc_midTexCoord";
         s = "cooked_chicken";
@@ -115,7 +115,7 @@ public final class qta_2 {
         fa = "SPELL_WITCH";
         Q = "textures/entity/horse/horse_markings_blackdots.png";
         g = "Chunk: (at %d,%d,%d in %d,%d; contains blocks %d,0,%d to %d,255,%d)";
-        Ka = Double.longBitsToDouble(0x1D4416B022871F78L ^ 0x5AABE94FC2871F78L);
+        Ka = 3.4028234663852886e+38D /* ZKM Deobf */;
         Y = "\u0000\u0002\u0000\u0001\u0001\u0002\u0002\u0000\u0000\u0000\u0001\u1009\u0000\u0002\u1009\u0001";
         E = "item.emptyPotion.name";
         h = "ops.json";
@@ -124,7 +124,7 @@ public final class qta_2 {
         u = "Illegal position";
         n = "Tag type found";
         q = "key.sneak";
-        c = Float.intBitsToFloat(0x6C2A641 ^ 0xB91033AB);
+        c = -1.6452000141143799F /* ZKM Deobf */;
         Aa = "BaseComponent{style=";
     }
 

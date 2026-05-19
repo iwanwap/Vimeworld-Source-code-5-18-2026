@@ -72,8 +72,8 @@ public final class KTa_1 {
         fa = "\u041d\u0435 \u0443\u0434\u0430\u043b\u043e\u0441\u044c \u0432\u043a\u043b\u044e\u0447\u0438\u0442\u044c \u0448\u0443\u043c\u043e\u043f\u043e\u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435";
         Z = "VILLAGER_HAPPY";
         w = "SH5C";
-        r = Float.intBitsToFloat(0xABF46B7B ^ 0x95120D1D);
-        h = 0xB657CDEF ^ 0xB65746A6;
+        r = 0.44999998807907104F /* ZKM Deobf */;
+        h = 35657 /* ZKM Deobf Int */;
         X = "bambooMosaicStairs";
         m = "del programRef";
         o = "Colliding entity with block";
@@ -86,7 +86,7 @@ public final class KTa_1 {
         F = "arms";
         P = " fancy-clouds";
         N = "Shape58123";
-        M = Double.longBitsToDouble(0xCEE673515D1FCC0DL ^ 0x710DC514FCD50C8EL);
+        M = -0.866D /* ZKM Deobf */;
         Ha = "BRL3";
         Ga = "ofLazyChunkLoading";
         H = "shadowModelViewInverse";
@@ -105,7 +105,7 @@ public final class KTa_1 {
         s = "moonPosition";
         W = "_planks";
         q = "RESOURCEREQUEST";
-        Aa = Float.intBitsToFloat(0x8B4B01DC ^ 0x360B01DC);
+        Aa = -0.046875F /* ZKM Deobf */;
         G = "usedShadowColorBuffers: ";
         d = "Invalid connect in: ";
         K = "HOP";
@@ -113,7 +113,7 @@ public final class KTa_1 {
         L = "PartyRequest{username='";
         g = "LWJGL Version: ";
         I = "of.options.shaders.TEX_MIN_FIL_S";
-        A = 0xA39F9C14 ^ 0xA3741450;
+        A = 15435844 /* ZKM Deobf Int */;
         f = "of.options.TIME";
         R = "createWorld.customize.custom.preset.caveDelight";
         u = "wall_post";

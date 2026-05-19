@@ -71,11 +71,11 @@ public final class wOa_1 {
 
     static {
         Da = "birch_sapling";
-        I = 0xA3A4DF2 ^ 0xA3A55F0;
-        C = 0x68BEB92 ^ 0x68BE97A;
+        I = 6146 /* ZKM Deobf Int */;
+        C = 744 /* ZKM Deobf Int */;
         L = "SlotOutlineColor";
         la = "\u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435...";
-        x = Float.intBitsToFloat(0xD483384B ^ 0xEB00EF41);
+        x = 1.0299999713897705F /* ZKM Deobf */;
         P = "mobSpawner";
         d = "Piece2.Shape11";
         u = "ender_chest";
@@ -86,7 +86,7 @@ public final class wOa_1 {
         N = "angleX_";
         Q = "Very likely; Jar signature invalidated";
         s = "LeftHand.LH1";
-        z = Float.intBitsToFloat(0x2F785663 ^ 0x6BACD663);
+        z = 1700.0F /* ZKM Deobf */;
         m = "fast";
         fa = "ARMS_ON_TOP";
         g = "ADD";
@@ -94,10 +94,10 @@ public final class wOa_1 {
         Z = "body3";
         Ha = ".line2";
         A = "raw_gold_block";
-        k = 0x48DB5B23 ^ 0x48F9A46F;
-        G = Double.longBitsToDouble(0x15D29B8EC6D80C0CL ^ 0xAA7B021766D80C0CL);
+        k = 2293580 /* ZKM Deobf Int */;
+        G = -0.05000000074505806D /* ZKM Deobf */;
         U = "TNTFuse";
-        r = 0x31E3135B ^ 0x31E39304;
+        r = 32863 /* ZKM Deobf Int */;
         i = "Unexpected error";
         V = "collision_drag";
         T = "allowBlockAlternatives";
@@ -106,36 +106,36 @@ public final class wOa_1 {
         Ia = "PURPLE";
         v = "facing=north,half=bottom,shape=inner_right";
         R = "centered_";
-        t = 0x774E11D5 ^ 0x774E11C6;
+        t = 19 /* ZKM Deobf Int */;
         S = "dark_oak";
         q = "portal.trigger";
         e = "\u0420\u0435\u0436\u0438\u043c \u0440\u0430\u0446\u0438\u0438";
-        H = 0x5BECAAA9 ^ 0x5B1644E4;
+        H = 16445005 /* ZKM Deobf Int */;
         Y = "chest_name";
         Ja = "://mc.vimeworld.";
-        c = 0x5E171AC9 ^ 0x5E171639;
+        c = 3312 /* ZKM Deobf Int */;
         F = "minecraft:particle_initial_spin";
         E = "clearWeatherTime";
-        h = 0x749E7E17 ^ 0x749E7E02;
-        Ga = 0xBD02498B ^ 0xBD024B68;
-        w = Float.intBitsToFloat(0xC34DDB12 ^ 0xFC0DDB12);
+        h = 21 /* ZKM Deobf Int */;
+        Ga = 739 /* ZKM Deobf Int */;
+        w = 0.75F /* ZKM Deobf */;
         f = "heal";
         p = "of.options.shaderOptionsTitle";
         b = "rawIronBlock";
-        Aa = 0x156B3528 ^ 0x156B3939;
+        Aa = 3089 /* ZKM Deobf Int */;
         ga = "No weighted models for: ";
         K = "black_iron_ore";
         Fa = ", shaking=";
         D = "ClickEvent{action=";
         o = "paleOakSlab";
         ha = "mob.wolf.death";
-        a = 0x38D1DEDB ^ 0x38D1DCDC;
+        a = 519 /* ZKM Deobf Int */;
         M = "GL11.GL_MAP1_GRID_SEGMENTS";
         O = "stat.sprintOneCm";
         j = "UNLOCKED";
         J = ", material=";
         y = "z1";
-        ca = 0xEFD148A7 ^ 0xEFD107A5;
+        ca = 20226 /* ZKM Deobf Int */;
     }
 
     public wOa_1() {

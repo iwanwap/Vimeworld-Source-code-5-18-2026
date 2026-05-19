@@ -69,9 +69,9 @@ public final class osa {
         O = "hoveredPositionY_";
         ja = "shovelIron";
         n = "armorDirection";
-        B = 0xCC2A9EBE ^ 0xCC4CE18D;
-        m = 0x2BAB009C ^ 0x2BAB01CE;
-        b = Double.longBitsToDouble(0x5A2C4BC5070B4759L ^ 0x65FF78F6470B4759L);
+        B = 6717235 /* ZKM Deobf Int */;
+        m = 338 /* ZKM Deobf Int */;
+        b = 0.30000001192092896D /* ZKM Deobf */;
         r = "&e/cam follow-speed <\u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c>&f: \u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u043e\u0432\u043e\u0440\u043e\u0442\u0430 \u043a\u0430\u043c\u0435\u0440\u044b \u0437\u0430 \u0446\u0435\u043b\u044c\u044e";
         o = "enumConstants";
         A = "OMDXYR";
@@ -82,7 +82,7 @@ public final class osa {
         g = "gl_caps[EXT_gpu_program_parameters]";
         R = "assets/minecraft/models/block/cube_mirrored_all.json";
         Ga = "Not enough arguments for ";
-        c = 0xEE09F27B ^ 0xEE09F263;
+        c = 24 /* ZKM Deobf Int */;
         K = "textures/pet/";
         Z = "Expected aisle with height of ";
         F = "polishedDeepslateSlab";
@@ -99,18 +99,18 @@ public final class osa {
         h = "Shape31";
         j = "east=true,north=false,south=true,west=true";
         C = "textures/body/skyey_wings.png";
-        w = 0x5B51E45E ^ 0x5B517805;
+        w = 40027 /* ZKM Deobf Int */;
         Ha = "VC: Unexpected error in VoiceChatClient requestPlayerList";
         G = "[C]";
         v = "options.particles.all";
         t = "GL15.GL_INDEX_ARRAY_BUFFER_BINDING";
         i = "author";
-        x = 0x89935E82 ^ 0x89931F82;
+        x = 16640 /* ZKM Deobf Int */;
         y = "Using VBOs";
         E = "Property and user values have different lengths: ";
         I = "kissymissy";
         W = "0.68, -0.6, 0.32, 1.6";
-        Ja = 0xF5EBCF4A ^ 0xF5EBCFB5;
+        Ja = 255 /* ZKM Deobf Int */;
         U = "FILE";
         X = "Sorry :(";
         M = "R";
@@ -120,11 +120,11 @@ public final class osa {
         N = "GL11.GL_TEXTURE";
         Ka = "MUSIC";
         z = "Minecraft Version";
-        s = 0xB407959F ^ 0xB4071145;
+        s = 34010 /* ZKM Deobf Int */;
         q = "nether_green";
-        P = 0x224282DA ^ 0x223E2D1C;
+        P = 8171462 /* ZKM Deobf Int */;
         l = "fire.ignite";
-        Da = Float.intBitsToFloat(0xC6D609CB ^ 0xF9685377);
+        Da = 1.4871439933776855F /* ZKM Deobf */;
         f = "hide-mount-health";
     }
 

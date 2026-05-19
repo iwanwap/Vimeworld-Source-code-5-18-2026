@@ -74,7 +74,7 @@ public final class Cra_1 {
         B = "GL11.GL_POSITION";
         l = "REQUEST_STATS";
         V = "minidot";
-        k = Double.longBitsToDouble(0x5AFAF0F307F99B3DL ^ 0x6513D10853BDB625L);
+        k = 0.7853981633974483D /* ZKM Deobf */;
         F = ".vsh";
         P = "waxed_exposed_chiseled_copper";
         Z = "blazeRod";
@@ -82,9 +82,9 @@ public final class Cra_1 {
         Ka = "doorOak";
         h = "' at: ";
         x = "--assetIndex";
-        A = Double.longBitsToDouble(0xE8DA6E3D81301DC8L ^ 0xD734085BE1301DC8L);
+        A = 0.949999988079071D /* ZKM Deobf */;
         H = "FLOAT";
-        fa = Float.intBitsToFloat(0x40BC762E ^ 0x819C762E);
+        fa = -10.0F /* ZKM Deobf */;
         R = "shadowHardwareFiltering0";
         O = "stone_button";
         q = "gifStreaming_";
@@ -93,7 +93,7 @@ public final class Cra_1 {
         v = "items/potion_bottle_splash";
         c = "0.22, 1, 0.36, 1";
         s = "ENDER_PEARL";
-        K = 0xB240AFB8 ^ 0xB240A4F8;
+        K = 2880 /* ZKM Deobf Int */;
         Aa = "wooden_slab";
         D = "Post startup";
         o = "hideServerAddress";
@@ -113,10 +113,10 @@ public final class Cra_1 {
         m = "GL12.GL_UNSIGNED_SHORT_5_6_5_REV";
         r = "colortex0";
         Y = "Invalid json element: ";
-        f = 0x1BFB18B2 ^ 0x1B849B20;
+        f = 8356754 /* ZKM Deobf Int */;
         E = "Exception while updating neighbours";
         e = "options.chat.visibility.full";
-        S = 0xD2913F69 ^ 0xD2913F2C;
+        S = 69 /* ZKM Deobf Int */;
         C = "SUB";
         a = "resourcePack.incompatible.confirm.title";
         u = "Render target or texture '";

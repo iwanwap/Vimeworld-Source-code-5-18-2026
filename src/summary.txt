@@ -137,7 +137,7 @@ ZGa
 ----------------------------
 
 deserialize(com.google.gson.JsonElement java.lang.reflect.Type com.google.gson.JsonDeserializationContext )
-  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK], 3[CATCHBLOCK]], but top level block is 2[TRYBLOCK]
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [3[CATCHBLOCK], 0[TRYBLOCK]], but top level block is 2[TRYBLOCK]
 
 
 Lv_1
@@ -439,7 +439,7 @@ f(Fha int )
 i()
   Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK]], but top level block is 8[WHILELOOP]
 f()
-  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [4[CATCHBLOCK], 1[TRYBLOCK]], but top level block is 3[TRYBLOCK]
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK], 4[CATCHBLOCK]], but top level block is 3[TRYBLOCK]
 J(Fha int )
   Unable to fully structure code
   Could not resolve type clashes
@@ -783,7 +783,7 @@ jt_3
 J()
   Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [7[CATCHBLOCK]], but top level block is 4[TRYBLOCK]
 J(Kpa )
-  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [2[TRYBLOCK], 1[TRYBLOCK], 0[TRYBLOCK]], but top level block is 9[SWITCH]
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK], 1[TRYBLOCK], 2[TRYBLOCK]], but top level block is 9[SWITCH]
 
 
 Gg_1
@@ -819,7 +819,7 @@ BS_2
 J(com.google.gson.JsonArray )
   Unable to fully structure code
 J()
-  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK], 0[TRYBLOCK]], but top level block is 24[WHILELOOP]
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK], 1[TRYBLOCK]], but top level block is 24[WHILELOOP]
 
 
 Yba_2

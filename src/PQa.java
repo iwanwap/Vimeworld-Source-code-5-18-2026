@@ -82,9 +82,9 @@ public final class PQa {
         ca = "splitter";
         m = "redstoneDust(?:_(?:cross|line)(_overlay))?";
         Z = "palette.block.";
-        ja = Float.intBitsToFloat(0xE72FE260 ^ 0xA436E260);
+        ja = 153.0F /* ZKM Deobf */;
         i = "stripe_downright";
-        E = 0xAC9DE65B ^ 0xAC9D216C;
+        E = 50999 /* ZKM Deobf Int */;
         j = "createWorld.customize.custom.useLavaOceans";
         e = 0xA88DCD849CD746F7L ^ 0xA88DCD849CD74225L;
         v = "sign.edit";
@@ -93,16 +93,16 @@ public final class PQa {
         h = "head.nose";
         k = "GL11.GL_INT";
         z = "chiseledPolishedBlackstone";
-        C = Double.longBitsToDouble(0x66C5905E9A9E3A5EL ^ 0x26A4F05E9A9E3A5EL);
-        T = Float.intBitsToFloat(0x33EC0F85 ^ 0xDE9113D);
+        C = 139.0D /* ZKM Deobf */;
+        T = 0.12999999523162842F /* ZKM Deobf */;
         p = "firstperson_righthand";
         Da = "%=";
         K = ".dry.name";
         W = "flower_tulip_pink";
-        n = Float.intBitsToFloat(0x863CE34E ^ 0x47702F83);
+        n = -12.800000190734863F /* ZKM Deobf */;
         d = "Could not find uniform named ";
         B = "3a";
-        F = 0x149C6361 ^ 0x149CEF80;
+        F = 36065 /* ZKM Deobf Int */;
         U = "$";
         t = "gl_caps[ARB_compute_shader]";
         Ha = "playerKillCount";
@@ -110,7 +110,7 @@ public final class PQa {
         a = "Body.Shape20";
         Aa = "GL11.GL_EMISSION";
         Q = "brown_glazed_terracotta";
-        x = 0x923ED04C ^ 0x923E5030;
+        x = 32892 /* ZKM Deobf Int */;
         b = "blue_concrete_powder";
         c = "fish";
         s = "Failed to load options";
@@ -118,9 +118,9 @@ public final class PQa {
         Y = "GL11.GL_ALPHA_TEST_REF";
         u = "textures/misc/unknown_server.png";
         o = "record_wait";
-        D = 0x87EDDDA ^ 0x87EDC71;
+        D = 427 /* ZKM Deobf Int */;
         y = "Doors";
-        X = 0x2748327 ^ 0x27407ED;
+        X = 33994 /* ZKM Deobf Int */;
         P = "Error parsing: %s: %s";
         O = "chickenCooked";
         r = "mouseSensitivity:";
@@ -129,7 +129,7 @@ public final class PQa {
         fa = "blockdata";
         I = "textures/body/garlands5.png";
         S = "mod";
-        N = 0xF0A87B45 ^ 0xF0A87A41;
+        N = 260 /* ZKM Deobf Int */;
     }
 }
 

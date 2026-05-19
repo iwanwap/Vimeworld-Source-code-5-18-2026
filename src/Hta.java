@@ -70,11 +70,11 @@ public final class Hta {
     static {
         s = "finishFade_";
         Q = "attachment_";
-        c = 0x8820622F ^ 0x88207B25;
+        c = 6410 /* ZKM Deobf Int */;
         fa = "scaleY_";
         z = "Shape19123";
         Ka = "q.screen_width";
-        F = Float.intBitsToFloat(0x62093FA6 ^ 0x5D0BB0FA);
+        F = 0.5099999904632568F /* ZKM Deobf */;
         J = "Invalid value";
         C = "GL11.GL_FLAT";
         Ja = "streamMicVolume:";
@@ -90,15 +90,15 @@ public final class Hta {
         f = "Invalid language->'";
         T = "hasMore_";
         t = "\\G(\\w+)=([-!]?[\\w-]*)(?:$|,)";
-        K = 0x471C2374 ^ 0x471CA3DC;
+        K = 32936 /* ZKM Deobf Int */;
         I = "GL11.GL_MAP1_TEXTURE_COORD_2";
         ja = "\u0000\n\u0000\u0000\u0001\n\n\u0000\u0000\u0000\u0001\u0004\u0002\u0004\u0003\u0004\u0004\u0004\u0005\u0004\u0006\u0004\u0007\u0004\b\u0004\t\u0004\n\u0004";
         U = "GL12.GL_MAX_3D_TEXTURE_SIZE";
         S = "Unknown method: ";
         j = "sunPathRotation";
-        d = 0x3BA6AC61 ^ 0x3BA6AC97;
+        d = 246 /* ZKM Deobf Int */;
         M = "cyan_carpet";
-        k = 0x874FD31F ^ 0x874FD37E;
+        k = 97 /* ZKM Deobf Int */;
         A = "Right.Right7";
         i = "gui/keybinds/esc.png";
         n = "[Shaders] Invalid option: ";
@@ -107,10 +107,10 @@ public final class Hta {
         G = "NVFogDistance.GL_EYE_RADIAL_NV";
         L = "stat.entityKills";
         m = "action_";
-        o = 0xC2F343D3 ^ 0xC2F14BF3;
+        o = 133152 /* ZKM Deobf Int */;
         B = "renderDistance:";
         q = "GL11.GL_SPOT_EXPONENT";
-        X = Float.intBitsToFloat(0x3502C509 ^ 0xA0D9920);
+        X = 0.5600000023841858F /* ZKM Deobf */;
         H = "ghastTear";
         a = "LeftLeg4";
         Ga = "No tiles specified: ";
@@ -118,14 +118,14 @@ public final class Hta {
         P = "stripe_center";
         V = "  ";
         p = "OXEYE_DAISY";
-        Aa = Float.intBitsToFloat(0x99482CA ^ 0xC8B307D5);
+        Aa = -10.470000267028809F /* ZKM Deobf */;
         R = "oak_planks";
         b = "Add";
         x = "ITEM_CRACK";
         N = ", model: ";
         Y = "minecraft:blocks/fire_layer_0";
-        h = Double.longBitsToDouble(0xAD8DE16A4180EB7L ^ 0x4AB01E16A4180EB7L);
-        D = Float.intBitsToFloat(0x8EB21DFB ^ 0x4F3CE838);
+        h = 198.0D /* ZKM Deobf */;
+        D = -17.8700008392334F /* ZKM Deobf */;
         r = "\u042d\u0442\u043e\u0442 \u043f\u0440\u0435\u0434\u043c\u0435\u0442 \u043d\u0435\u043b\u044c\u0437\u044f \u043a\u0443\u043f\u0438\u0442\u044c.";
         W = "fboEnable";
     }

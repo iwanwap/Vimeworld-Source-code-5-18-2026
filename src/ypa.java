@@ -73,7 +73,7 @@ public final class ypa {
         u = " is a facing and should have 4 or 6 textures, got ";
         n = "mouseButton_";
         g = "math.lerprotate";
-        L = 0x455FDD3C ^ 0xC55FDD3C;
+        L = 2147483648 /* ZKM Deobf Int */;
         M = "AffectedItems";
         H = "emit";
         Ga = "STREAM_VOLUME_MIC";
@@ -82,12 +82,12 @@ public final class ypa {
         j = "\" at id ";
         Ha = "entity.KillerBunny.name";
         w = "S ";
-        ja = 0xA43DF33A ^ 0xA446DC84;
+        ja = 8073150 /* ZKM Deobf Int */;
         K = "MemoryResourceManager";
         e = "mob.pig.step";
         o = "polished_tuff_stairs";
-        N = 0x1DB4FC1 ^ 0x1DB012F;
-        G = 0xF172AD3B ^ 0xF172871A;
+        N = 20206 /* ZKM Deobf Int */;
+        G = 10785 /* ZKM Deobf Int */;
         Ka = "createWorld.customize.custom.maxHeight";
         B = "GL11.GL_AUX_BUFFERS";
         a = "EMITTER_YZ";
@@ -97,7 +97,7 @@ public final class ypa {
         q = "model_";
         v = "waxedOxidizedCutCopperSlab";
         R = "right.Shape39";
-        Y = Float.intBitsToFloat(0x14787EC8 ^ 0x528780C8);
+        Y = 32767.0F /* ZKM Deobf */;
         c = "Temper";
         S = "smooth_granite";
         s = "Armor Status HUD";
@@ -105,22 +105,22 @@ public final class ypa {
         A = "mossy_brick";
         f = "MIDDLE";
         O = "math.clamp";
-        U = 0x669B03BC ^ 0x66D44CF3;
+        U = 5197647 /* ZKM Deobf Int */;
         fa = "fence_ne";
         W = "CommandStats";
         m = "Preparing spawn area";
         P = "waterLakeChance";
         x = "EFFECT";
-        X = Double.longBitsToDouble(0xC0FCD03250F130A6L ^ 0x80ACD03250F130A6L);
+        X = 64.0D /* ZKM Deobf */;
         V = "silver_carpet";
         Z = " ms. ";
         h = "GL13.GL_TEXTURE21";
-        y = 0x45C8424B ^ 0xBA37BDBD;
+        y = 4294967286 /* ZKM Deobf Int */;
         l = "boots_";
         i = "Number of tiles does not equal width x height: ";
         Aa = "potion.prefix.awkward";
         r = "sin";
-        t = 0x9AC4C675 ^ 0x9AC4CB4C;
+        t = 3385 /* ZKM Deobf Int */;
         E = "PLAYPARTICLES";
     }
 

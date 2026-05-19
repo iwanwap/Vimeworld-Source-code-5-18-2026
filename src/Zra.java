@@ -76,14 +76,14 @@ public final class Zra {
     static {
         E = "\u0413\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u044c\u043d\u043e";
         w = "Playing sound {} for event {} as channel {}";
-        f = 0xE61B3967 ^ 0xE61B2467;
+        f = 7424 /* ZKM Deobf Int */;
         g = "GL11.GL_LINE_STRIP";
-        s = 0x76D1C9D4 ^ 0x76D1CADB;
+        s = 783 /* ZKM Deobf Int */;
         Ka = "east=false,north=false,south=true,up=true,west=true";
-        C = 0x15A4FADE ^ 0x15A47E84;
-        F = Double.longBitsToDouble(0x89E72DE3ECE7D71AL ^ 0x362EB47A757E4E80L);
+        C = 33882 /* ZKM Deobf Int */;
+        F = -0.2D /* ZKM Deobf */;
         ja = "commands.replaceitem.noContainer";
-        y = Float.intBitsToFloat(0xADC427F9 ^ 0x12422D6B);
+        y = -1.0471975803375244F /* ZKM Deobf */;
         Aa = "commands.xp.usage";
         z = "composite1";
         h = "waterWorker";
@@ -95,15 +95,15 @@ public final class Zra {
         O = "darkPrismarineStairs";
         e = "Right.Right37";
         V = "You have been IP banned.";
-        u = Float.intBitsToFloat(0x82569BD0 ^ 0xBD7C17C5);
+        u = 0.6661999821662903F /* ZKM Deobf */;
         R = "angleRotationY_";
-        k = 0x88287E8B ^ 0x88F0FF13;
+        k = 14188952 /* ZKM Deobf Int */;
         I = "STREAM_BYTES_PER_PIXEL";
-        D = 0xB76D1813 ^ 0xB76D9891;
-        p = 0x1796DF88 ^ 0x17D69F77;
-        Ga = 0x6EAE900 ^ 0x6EA6945;
+        D = 32898 /* ZKM Deobf Int */;
+        p = 4210943 /* ZKM Deobf Int */;
+        Ga = 32837 /* ZKM Deobf Int */;
         o = "block/cube";
-        W = 0xB46B18D5 ^ 0xB46B1CD0;
+        W = 1029 /* ZKM Deobf Int */;
         l = "elements";
         Z = "wall";
         X = "[VimeStorage] Could not save index to ";
@@ -121,12 +121,12 @@ public final class Zra {
         d = "minecraft:emitter_shape_sphere";
         P = "redstonecolor.png";
         n = "enchantmentTable";
-        Ha = Double.longBitsToDouble(0xB6075D70A094CFC3L ^ 0xF61B9F2F49E06C83L);
+        Ha = 7.189819D /* ZKM Deobf */;
         ca = "SkullAndRoses";
         M = "commands.clone.usage";
-        J = 0x27B71A03 ^ 0x27B718F7;
-        A = 0xD4790665 ^ 0xD4799A2D;
-        N = Double.longBitsToDouble(0x62DF3858D0FF87ABL ^ 0x22DA7858D0FF87ABL);
+        J = 756 /* ZKM Deobf Int */;
+        A = 40008 /* ZKM Deobf Int */;
+        N = 2.65625D /* ZKM Deobf */;
         Da = ", hexColor=";
         i = "! (Max is ";
         m = "\u0432\u0438\u043c\u0435\u0440\u043e\u0432";
@@ -139,7 +139,7 @@ public final class Zra {
         fa = "channel";
         v = "packetListener";
         r = "screenWidth_";
-        x = 0xD3488A56 ^ 0xD3488BD7;
+        x = 385 /* ZKM Deobf Int */;
     }
 }
 

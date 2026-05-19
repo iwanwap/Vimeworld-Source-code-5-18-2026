@@ -90,18 +90,18 @@ public final class xra {
         Aa = "LeftLeg2";
         P = ", maxPlayers: ";
         U = ", available: ";
-        K = Float.intBitsToFloat(0x9B3BBA78 ^ 0x248F6C4C);
+        K = -1.4127869606018066F /* ZKM Deobf */;
         v = "diamond_boots";
-        B = Float.intBitsToFloat(0x46D08230 ^ 0x790FE7CE);
+        B = 1.745300054550171F /* ZKM Deobf */;
         b = 0xB911B1916C44C6C2L ^ 0xB911B1916C44C066L;
-        R = 0x94BDF571 ^ 0x941D55D1;
+        R = 10526880 /* ZKM Deobf Int */;
         O = "del dfb";
-        Ga = Float.intBitsToFloat(0x8B631B18 ^ 0xC8131B18);
+        Ga = 240.0F /* ZKM Deobf */;
         F = "Right.Right3";
         Ha = "potion.prefix.clear";
         A = "\u0412\u044b \u0445\u043e\u0442\u0438\u0442\u0435 \u043a\u0443\u043f\u0438\u0442\u044c \u043f\u0440\u0435\u0434\u043c\u0435\u0442, \u043d\u043e \u043e\u043d \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439.";
         u = "Redwood Taiga Hills M";
-        T = 0xC71A9843 ^ 0xC71A9A8A;
+        T = 713 /* ZKM Deobf Int */;
         r = "container.enchant";
         Y = "Shape43";
         j = "of.options.SKY";
@@ -111,27 +111,27 @@ public final class xra {
         S = "'to' specifier exceeds the allowed boundaries: ";
         C = "weights";
         t = "java.vm.info";
-        V = 0x7B6659BB ^ 0x7B665B66;
+        V = 733 /* ZKM Deobf Int */;
         fa = "SS";
         m = "effectTextColor:";
         H = "of.options.CLEAR_WATER";
-        ja = 0x83997C82 ^ 0x83997C57;
+        ja = 213 /* ZKM Deobf Int */;
         N = "X180_Y0";
         z = "createWorld.customize.custom.waterLakeChance";
         f = "Unsupported mob type for RestrictOpenDoorGoal";
         p = "Right42";
         a = "swordGold";
-        M = 0xCF47D413 ^ 0xCF47D68C;
+        M = 671 /* ZKM Deobf Int */;
         i = "Can't inflate ";
         s = "No element selected";
-        k = 0x37E8517D ^ 0x37E8506B;
+        k = 278 /* ZKM Deobf Int */;
         L = "mob.wolf.whine";
-        e = Double.longBitsToDouble(0xA7A434230EC2F28L ^ 0x3597CC87346D4028L);
+        e = 0.9238D /* ZKM Deobf */;
         Ja = "Biome: ";
         h = "ARMOR_FEET";
         Q = "gl_caps[ARB_texture_border_clamp]";
         g = "ShadersMod version: 2.4.12";
-        Z = Float.intBitsToFloat(0xE812B7AA ^ 0x57A1CE0D);
+        Z = -1.40215003490448F /* ZKM Deobf */;
     }
 }
 

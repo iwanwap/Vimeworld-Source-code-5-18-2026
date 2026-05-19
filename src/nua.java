@@ -64,10 +64,10 @@ public final class nua {
     static {
         G = "mob.blaze.death";
         T = "Texture pack clouds: ";
-        j = Double.longBitsToDouble(0x8E1E77EE0674E444L ^ 0xCE7D57EE0674E444L);
+        j = 153.0D /* ZKM Deobf */;
         n = "Right30";
         U = "debug";
-        M = Float.intBitsToFloat(0xC2C9FF1C ^ 0x815FFF1C);
+        M = 300.0F /* ZKM Deobf */;
         v = "func";
         f = "key.hotbar.8";
         S = "current.cfg";
@@ -91,7 +91,7 @@ public final class nua {
         d = "GL15.GL_TEXTURE_COORD_ARRAY_BUFFER_BINDING";
         Z = "clay";
         m = "slot.container.";
-        E = Float.intBitsToFloat(0x47222BFB ^ 0x5162BFB);
+        E = 45.0F /* ZKM Deobf */;
         h = "decryptChunkCoords";
         P = "dried_kelp_block";
         Q = "Packet being sent";
@@ -99,7 +99,7 @@ public final class nua {
         J = "createWorld.customize.presets.title";
         N = "mob.zombiepig.zpig";
         t = "acquireIron";
-        b = 0xBE9F8F83 ^ 0xBE9F9682;
+        b = 6401 /* ZKM Deobf Int */;
         r = "commands.achievement.usage";
         g = "RED_SANDSTONE";
         l = "gravelMaxHeight";
@@ -107,13 +107,13 @@ public final class nua {
         Ha = "ogg";
         B = "Right51";
         L = "potion.prefix.buttered";
-        ja = Float.intBitsToFloat(0xB8D62EB8 ^ 0x78E51D8B);
+        ja = -2.799999952316284F /* ZKM Deobf */;
         fa = "commands.whitelist.remove.failed";
         Aa = "yOffset";
         O = "Server type";
         Y = "GL11.GL_STACK_OVERFLOW";
         A = "TRIM";
-        q = 0xC7BFE5A6 ^ 0x38401A07;
+        q = 4294967201 /* ZKM Deobf Int */;
         W = 0xC7D8BBE906998202L ^ 0xC7D8BBE90699824EL;
         u = 0x974FDCF66FAD5E47L ^ 0x974FDCF66FAD5EB8L;
         c = "SZ";

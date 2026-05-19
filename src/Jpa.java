@@ -71,23 +71,23 @@ public final class Jpa {
     static {
         h = "Left.Shape12123";
         W = "cobbledDeepslateWall";
-        z = 0x5ABAA708 ^ 0x5ABAA550;
-        n = 0xE3DE44D0 ^ 0xE3DE45F7;
-        X = 0x17631A46 ^ 0x17631147;
+        z = 600 /* ZKM Deobf Int */;
+        n = 295 /* ZKM Deobf Int */;
+        X = 2817 /* ZKM Deobf Int */;
         L = "commands.time.query";
         S = "DYNAMIC_FOV";
         H = "gamma:";
         fa = "CQ";
-        Z = 0x7EF55E11 ^ 0x7EF55D47;
+        Z = 854 /* ZKM Deobf Int */;
         R = ".properties";
         ga = "avg_tick_ms";
         Aa = "Steps";
         m = "game.tnt.primed";
-        i = Float.intBitsToFloat(0x44F44219 ^ 0x85BCB7DA);
+        i = -12.5600004196167F /* ZKM Deobf */;
         I = "bamboo_mosaic_slab_double";
         a = "smooth_diorite";
         f = "ADD_PLAYER";
-        Ga = 0x4AF7CCD9 ^ 0x4AF7CE75;
+        Ga = 684 /* ZKM Deobf Int */;
         U = "bookcase";
         c = "commands.generic.double.tooBig";
         M = "streamBytesPerPixel";
@@ -98,7 +98,7 @@ public final class Jpa {
         p = "Unsupported mob type for DoorInteractGoal";
         b = "unreferenced value";
         O = "THIRD PARTY";
-        Ha = 0xC088C0A3 ^ 0xC088C035;
+        Ha = 150 /* ZKM Deobf Int */;
         w = "chiseled";
         V = "([A-Z])([0-9]+)(.*)";
         q = "display";
@@ -110,8 +110,8 @@ public final class Jpa {
         l = "Invalid player action";
         t = "Connection";
         C = "IN_AIR";
-        s = 0xC9E4FE66 ^ 0xC9E4FFC0;
-        r = Float.intBitsToFloat(0xD271BB00 ^ 0x960BBB00);
+        s = 422 /* ZKM Deobf Int */;
+        r = 1000.0F /* ZKM Deobf */;
         k = "join";
         Y = " is a slab and should have 1 or 3 textures, got ";
         j = "rearfoot.main";
@@ -120,20 +120,20 @@ public final class Jpa {
         v = "EASY";
         ca = "FLAME";
         Ka = "#line ";
-        g = Float.intBitsToFloat(0x9ACD6DB7 ^ 0x24AE3E4F);
+        g = -0.22200000286102295F /* ZKM Deobf */;
         u = "^https?://(?:textures\\.minecraft\\.net/texture/[a-zA-Z0-9_.-]+|mc\\.vimeworld.(?:ru|com)/launcher/(?:skins|cloaks)/[%a-zA-Z0-9\u0410-\u042f\u0430-\u044f_.-]+\\.png(?:\\?.+)?)$";
         E = "Screen render details";
         Da = "impelYOnTop_";
         Ia = "resinBrickSlab";
-        y = Float.intBitsToFloat(0xA6CEB3BA ^ 0x99EEB3BA);
+        y = 0.625F /* ZKM Deobf */;
         F = "farmsunflower.animation";
         G = "CRACKED_STONEBRICK";
         A = "soundCategory_";
-        Ja = 0x402B3669 ^ 0x402B340A;
+        Ja = 611 /* ZKM Deobf Int */;
         o = "FLLeg.Shape34";
-        d = 0xF6C13E91 ^ 0xF708FD91;
-        K = 0xDDD40AE3 ^ 0xDDD47FA0;
-        B = Float.intBitsToFloat(0x7DF21F83 ^ 0x41D1C889);
+        d = 29999872 /* ZKM Deobf Int */;
+        K = 30019 /* ZKM Deobf Int */;
+        B = 0.009999999776482582F /* ZKM Deobf */;
     }
 
     public Jpa() {

@@ -71,7 +71,7 @@ public final class KSa {
     static {
         Ga = "GL11.GL_MAP_STENCIL";
         Ja = "CRIMSON";
-        x = 0x32214BBA ^ 0x32214B83;
+        x = 57 /* ZKM Deobf Int */;
         m = "Piece1.Shape25";
         ja = "Back.10a";
         B = "GL11.GL_PROJECTION";
@@ -79,10 +79,10 @@ public final class KSa {
         c = "bamboo_trapdoor";
         D = "REMOVE_PLAYER";
         W = "\u0412\u0440\u0435\u043c\u044f \u0431\u044b\u043b\u043e \u043f\u0435\u0440\u0435\u0432\u0435\u0434\u0435\u043d\u043e \u043d\u0430\u0437\u0430\u0434.\n\u042f \u0441\u043b\u043e\u043c\u0430\u043b\u0441\u044f..";
-        z = Float.intBitsToFloat(0x3504E450 ^ 0x77A4E450);
+        z = 80.0F /* ZKM Deobf */;
         U = "DEBUGBB";
         o = "renderPass";
-        e = Float.intBitsToFloat(0xFA2463AE ^ 0xBA2FC3F4);
+        e = 2.181662082672119F /* ZKM Deobf */;
         d = "UNLOCKED_HOVER";
         X = "life_time";
         v = "_glazed_terracotta";
@@ -103,7 +103,7 @@ public final class KSa {
         Z = "jukebox";
         s = "acceptTextures";
         r = "prismarineStairs";
-        M = Float.intBitsToFloat(0x976A5A83 ^ 0xD67BC319);
+        M = 9.100000381469727F /* ZKM Deobf */;
         p = "offsetBottom_";
         h = "\u0000(\u0006\u0001\u0001((\u0000\u0003\u0000\u0001\u1208\u0000\u0002\u1004\u0002\u0003\u100c\u0003\u0004\u001b\u00054\u0000\u00064\u0000\u00074\u0001\b4\u0001\t9\u0002\n9\u0002\u000b4\u0003\f4\u0003\r4\u0003\u000e4\u0004\u000f4\u0004\u00104\u0005\u00114\u0005\u0012\u021a\u0013\u1009\u0006\u0014\u1009\u0007\u0015\u1009\b\u0016\u1009\t\u0017\u1009\n\u0018\u1009\u000b\u0019\u1009\f\u001a\u1007\u0005\u001b\u023b\u0000\u001c\u023b\u0001\u001d\u023b\u0003\u001e\u023b\u0004\u001f\u023b\u0005 \u1208\u0004!\u021a\"\u023b\u0000#\u023b\u0001$\u023b\u0003%\u023b\u0004&\u023b\u0005'\u1009\r(\u100a\u0001";
         S = "enderChest";
@@ -114,18 +114,18 @@ public final class KSa {
         f = "endRender end";
         Ha = "yellowDust";
         C = "renderCompositeFinal";
-        F = Double.longBitsToDouble(0xE3D5371FF3459052L ^ 0xA3F7371FF3459052L);
+        F = 9.0D /* ZKM Deobf */;
         n = "darkOakTrapdoor";
         b = "Shape6123";
         Da = "GL11.GL_RGB4";
         Ka = "fire.fire";
-        J = 0x157BA0D9 ^ 0x157BEE16;
+        J = 20175 /* ZKM Deobf Int */;
         P = "Left.Shape25123";
-        Y = Float.intBitsToFloat(0xF8332D97 ^ 0x38832D97);
+        Y = -5.5F /* ZKM Deobf */;
         Aa = "GL11.GL_INDEX_MODE";
-        I = Float.intBitsToFloat(0x4DFC86FD ^ 0xC3C86FD);
+        I = 24.0F /* ZKM Deobf */;
         O = "allowRegexp_";
-        H = 0xDCEF2870 ^ 0xDCEF66BB;
+        H = 20171 /* ZKM Deobf Int */;
         u = "COW";
         L = "stairsNetherBrick";
         E = "container.chestDouble";

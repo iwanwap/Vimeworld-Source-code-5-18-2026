@@ -76,19 +76,19 @@ public final class Iqa {
 
     static {
         e = "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435 \u043c\u044b\u0448\u044c,";
-        C = 0x3FD15FA0 ^ 0x3F9D299C;
-        N = 0x8AE30EFA ^ 0x8AE38664;
+        C = 5011004 /* ZKM Deobf Int */;
+        N = 34974 /* ZKM Deobf Int */;
         i = "useNativeTransport:";
         Y = "tomato";
-        la = 0x2AF986D6 ^ 0x2AF9020D;
+        la = 34011 /* ZKM Deobf Int */;
         Ja = "left_sleeve";
         F = "Block";
         T = "dye_red";
         a = 0x6E093A006E614093L ^ 0x6E093A1E9F371B46L;
         H = "minecart";
         Ha = "GAME";
-        R = 0x52D0EC8E ^ 0x527771EA;
-        S = 0xB5B77952 ^ 0xB5FD3B45;
+        R = 10984804 /* ZKM Deobf Int */;
+        S = 4866583 /* ZKM Deobf Int */;
         X = "GL11.GL_TEXTURE_GREEN_SIZE";
         p = "tile.oreRedstone.name";
         r = "eImage_";
@@ -105,24 +105,24 @@ public final class Iqa {
         A = "PIG_ZOMBIE";
         q = "Invalid array length ";
         O = "pumpkin_seeds";
-        D = Float.intBitsToFloat(0xF3B07F91 ^ 0x32EE19F7);
+        D = -13.899999618530273F /* ZKM Deobf */;
         V = "protocol";
-        y = 0x9F7C73BE ^ 0x9F7CF3CF;
+        y = 32881 /* ZKM Deobf Int */;
         I = "Quite honestly, I wouldn't worry myself about that.";
         v = "RightLeg.Shape11";
         u = "GameType";
-        Aa = 0x5D94FD4 ^ 0x5D9C301;
+        Aa = 36053 /* ZKM Deobf Int */;
         W = "S";
-        m = 0x419B16E ^ 0x419B024;
+        m = 330 /* ZKM Deobf Int */;
         s = "Colors";
         ca = "GL Caps";
         Fa = "NORTH_WEST";
         f = "}";
-        E = 0xE6F14BD4 ^ 0xE69B3FF1;
-        t = 0xB24962B4 ^ 0xB2496256;
+        E = 6976549 /* ZKM Deobf Int */;
+        t = 226 /* ZKM Deobf Int */;
         J = "GET";
-        G = Float.intBitsToFloat(0x6593B0F8 ^ 0x259BE114);
-        M = 0xEB1CF3C8 ^ 0xEB1CF3A6;
+        G = 2.130000114440918F /* ZKM Deobf */;
+        M = 110 /* ZKM Deobf Int */;
         Q = "MC_GL_RENDERER_QUADRO";
         fa = "torch";
         Ka = "projectile_protection";
@@ -137,11 +137,11 @@ public final class Iqa {
         b = "mob.cat.meow";
         Ia = "GL14.GL_TEXTURE_LOD_BIAS";
         j = "tripWire(?:Source)?";
-        k = 0x39555892 ^ 0x3955D028;
+        k = 35002 /* ZKM Deobf Int */;
         ja = "knockback";
         w = "compass";
-        ha = 0xC6CC6117 ^ 0xC6960D96;
-        x = 0x90A63826 ^ 0x90A635BE;
+        ha = 5926017 /* ZKM Deobf Int */;
+        x = 3480 /* ZKM Deobf Int */;
     }
 }
 

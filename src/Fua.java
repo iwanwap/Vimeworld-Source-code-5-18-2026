@@ -78,15 +78,15 @@ public final class Fua {
         k = "actions";
         A = "skycolor0.png";
         H = "potion.hunger";
-        o = 0xF93A9B57 ^ 0xF93A99E3;
+        o = 692 /* ZKM Deobf Int */;
         Q = "generateShadowMipmap";
-        Y = Float.intBitsToFloat(0x4487931A ^ 0x5C7931A);
+        Y = 12.0F /* ZKM Deobf */;
         Aa = "Player being ticked";
-        v = Float.intBitsToFloat(0x93BEA6A6 ^ 0xAD31FA8F);
+        v = 0.2800000011920929F /* ZKM Deobf */;
         E = "`";
         Ga = "Left.Shape2123";
         q = "expires";
-        ja = 0xAC460CE7 ^ 0x53C64C2B;
+        ja = 4286595276 /* ZKM Deobf Int */;
         R = "rand";
         M = "acacia_stairs";
         h = "rightLeg1";
@@ -95,7 +95,7 @@ public final class Fua {
         u = "/assets/texteria/custom_blocks.json";
         C = "Skipping BlockEntity with id ";
         Z = " fps, ";
-        fa = 0x2F394A4D ^ 0x2F394AAB;
+        fa = 230 /* ZKM Deobf Int */;
         f = "Entrances";
         r = "cherry_slab";
         j = "LifeTime";
@@ -103,14 +103,14 @@ public final class Fua {
         W = "Group [";
         s = "bamboo_block";
         O = "angleY_";
-        l = Double.longBitsToDouble(0x11C799100A763EDDL ^ 0xAE0F99100A763EDDL);
-        I = 0xB86D2148 ^ 0xB86D2A58;
+        l = -0.1875D /* ZKM Deobf */;
+        I = 2832 /* ZKM Deobf Int */;
         P = "commands.scoreboard.players.test.success";
         m = "maxLength_";
         T = "25565";
         t = "10a";
         Ha = "dioriteSize";
-        J = 0xE8A367E3 ^ 0xE8A367B3;
+        J = 80 /* ZKM Deobf Int */;
         c = "vimeworld.net:25565";
         S = "fractionalMetrics_";
         n = "Item NBT";
@@ -123,7 +123,7 @@ public final class Fua {
         X = "LPT8";
         U = "initialized";
         y = "hand";
-        N = Float.intBitsToFloat(0xEDAE5382 ^ 0x2DA835E4);
+        N = -2.0999999046325684F /* ZKM Deobf */;
         i = "java.vendor";
         V = "magma_cream";
     }

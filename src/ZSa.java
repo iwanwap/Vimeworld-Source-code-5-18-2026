@@ -72,7 +72,7 @@ public final class ZSa {
     static {
         A = " # ";
         x = "commands.testforblock.failed.data";
-        l = 0x59FA032C ^ 0x59FA00C0;
+        l = 1004 /* ZKM Deobf Int */;
         z = "ENTITYTYPE";
         B = "rottenFlesh";
         Z = "LeftLeg.LL";
@@ -82,11 +82,11 @@ public final class ZSa {
         G = "GL11.GL_INDEX_CLEAR_VALUE";
         D = "ofAnimatedFire:";
         Ia = "visible_";
-        w = Float.intBitsToFloat(0x23F43FEB ^ 0x1EF43FEB);
+        w = 0.03125F /* ZKM Deobf */;
         J = "minecraft:music.menu";
         Q = "Netty Client IO #%d";
         C = "Gif streaming enabled for ";
-        O = 0xC69BE728 ^ 0x392418D7;
+        O = 4290772991 /* ZKM Deobf Int */;
         t = "options.stream.bytesPerPixel";
         X = "ld";
         c = " fast";
@@ -97,30 +97,30 @@ public final class ZSa {
         la = "NATURAL_TEXTURES";
         i = "minecraft:music.game.nether";
         Fa = "GL11.GL_BYTE";
-        h = 0xA8743129 ^ 0xA87433FB;
+        h = 722 /* ZKM Deobf Int */;
         j = "/party public request";
-        o = Double.longBitsToDouble(0xD9349A372E9EECFAL ^ 0x99449A372E9EECFAL);
+        o = 256.0D /* ZKM Deobf */;
         fa = "GL11.GL_DST_ALPHA";
         ga = "bold";
         n = "red_nether_brick_wall";
-        q = Float.intBitsToFloat(0x5491B8CF ^ 0x6BA28BFC);
+        q = 0.699999988079071F /* ZKM Deobf */;
         s = "GL11.GL_FOG_COLOR";
         U = "gui.stats";
-        r = Float.intBitsToFloat(0x5207C257 ^ 0x6884D038);
+        r = 0.0010000000474974513F /* ZKM Deobf */;
         Aa = "diamond_ore";
         Y = "GL13.GL_INTERPOLATE";
-        R = Float.intBitsToFloat(0xABACBE25 ^ 0x9491069E);
+        R = 0.741100013256073F /* ZKM Deobf */;
         N = " MB)";
         I = "textures/blocks/destroy_stage_6.png";
-        g = 0xB5AAA11E ^ 0xB5AAEE1E;
+        g = 20224 /* ZKM Deobf Int */;
         W = "commands.weather.rain";
-        y = 0x7E0784A3 ^ 0x7E078F80;
+        y = 2851 /* ZKM Deobf Int */;
         ha = "hideGUI";
         M = "Shape36123";
         Ka = "gl_caps[ARB_vertex_shader]";
-        L = 0xDB9D163D ^ 0xDB9D14A0;
+        L = 669 /* ZKM Deobf Int */;
         Ga = "ARCHIVE_NOT_SET";
-        F = 0x181ED728 ^ 0x181ED5C2;
+        F = 746 /* ZKM Deobf Int */;
         m = "AUDIO";
         P = "Couldn't connect to auth servers but will continue to join LAN";
         v = "gl_caps[ARB_gpu_shader5]";
@@ -130,12 +130,12 @@ public final class ZSa {
         S = "SpawnForced";
         a = "+14&13-13";
         T = "%s:textures/models/armor/%s_layer_%d%s.png";
-        u = Float.intBitsToFloat(0x933BB0DB ^ 0x2D8BB0DB);
+        u = -0.34375F /* ZKM Deobf */;
         p = "wooden_sword";
-        Ha = Double.longBitsToDouble(0x5B6994FCCF3995CEL ^ 0x1BE6ACFCCF3995CEL);
-        ja = Float.intBitsToFloat(0xA67E6672 ^ 0x982109A0);
+        Ha = 999.0D /* ZKM Deobf */;
+        ja = 0.21819999814033508F /* ZKM Deobf */;
         V = "paleOakTrapdoor";
-        K = 0xC8019754 ^ 0xC801B454;
+        K = 8960 /* ZKM Deobf Int */;
     }
 
     public ZSa() {

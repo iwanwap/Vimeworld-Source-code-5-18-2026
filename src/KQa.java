@@ -66,15 +66,15 @@ public final class KQa {
 
     static {
         Q = "Right.Right31";
-        O = Float.intBitsToFloat(0xF2D3FD1C ^ 0x32559B7A);
+        O = -4.199999809265137F /* ZKM Deobf */;
         p = "easeOutSine";
         K = "_log";
         i = "gravity";
         N = "Couldn't load chunk";
         n = "HOPPER";
-        W = 0x35FB6F98 ^ 0x35FB6D1A;
+        W = 642 /* ZKM Deobf Int */;
         j = "GL11.GL_AMBIENT";
-        d = 0xFE5DCA60 ^ 0xFE5D4F13;
+        d = 34163 /* ZKM Deobf Int */;
         l = "GL11.GL_TRIANGLE_FAN";
         v = "bambooStairs";
         s = "_tame";
@@ -97,14 +97,14 @@ public final class KQa {
         H = "assets/minidot/emojis.json";
         X = "Unreported exception thrown!";
         M = ".comment";
-        T = 0xF8754A62 ^ 0xF875480C;
+        T = 622 /* ZKM Deobf Int */;
         G = "chatLinksPrompt:";
         y = "GL12.GL_BGRA";
         o = "Head.Shape3";
-        C = Float.intBitsToFloat(0xB61B4511 ^ 0xB5789DC);
+        C = -0.05000000074505806F /* ZKM Deobf */;
         g = "/sky";
         f = "reddust";
-        L = Float.intBitsToFloat(0x28B8CC2D ^ 0xE810CC2D);
+        L = -5.25F /* ZKM Deobf */;
         w = "commands.scoreboard.teams.add.tooLong";
         Ka = "Invalid grid V: ";
         U = "textures/pet/grinchpet.png";
@@ -118,7 +118,7 @@ public final class KQa {
         u = "mobappearance";
         Aa = "Transfer-Encoding";
         Ga = "ENABLE_VSYNC";
-        P = 0x387165FD ^ 0x387168AD;
+        P = 3408 /* ZKM Deobf Int */;
         Z = "\u0412\u044b \u0431\u044b\u043b\u0438 \u0437\u0430\u0431\u0430\u043d\u0435\u043d\u044b";
         a = "textures/pet/christmas_chest.png";
     }

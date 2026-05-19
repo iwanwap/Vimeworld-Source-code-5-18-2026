@@ -72,15 +72,15 @@ public final class SQa_2 {
     static {
         p = "comparator";
         z = "GL11.GL_SHININESS";
-        w = Float.intBitsToFloat(0xA7443538 ^ 0x19DDACA2);
+        w = -0.30000001192092896F /* ZKM Deobf */;
         l = "Anger";
         D = "frames_per_second";
         f = "black_stained_glass_pane";
         ja = "CURLY_BORDER";
-        g = 0xDE801EE1 ^ 0xDE801FBC;
+        g = 349 /* ZKM Deobf Int */;
         c = "VCR: audio {}, {}";
         s = "RADIUS";
-        L = 0xAC72F3A5 ^ 0x538AF35D;
+        L = 4294443256 /* ZKM Deobf Int */;
         Ha = "Disconnect reason: ";
         Y = "mob.silverfish.say";
         R = "chiseledTuff";
@@ -91,15 +91,15 @@ public final class SQa_2 {
         m = "GL14.GL_GENERATE_MIPMAP";
         n = 0x22A4446BBC88778CL ^ 0x22A4446BBC887788L;
         Fa = "potion.prefix.acrid";
-        Ia = Float.intBitsToFloat(0x4E92768D ^ 0x8F029E87);
+        Ia = -18.113300323486328F /* ZKM Deobf */;
         Da = "_slab";
         K = "AUTOSAVE_TICKS";
         r = "OCHRE";
         v = "{\"elements\":[{  \"from\": [0, 0, 0],   \"to\": [16, 16, 16],   \"faces\": {       \"down\": {\"uv\": [0, 0, 16, 16], \"texture\":\"\"}   }}]}";
         O = "tile.gravel.name";
         P = "warped";
-        ca = 0x39FC1C26 ^ 0x39FC0B26;
-        ga = Double.longBitsToDouble(0xEF38CBA7454A7135L ^ 0x50EEADC1232C1753L);
+        ca = 5888 /* ZKM Deobf Int */;
+        ga = -0.35D /* ZKM Deobf */;
         y = "options.renderClouds";
         q = "creakingHeart";
         J = "createWorld.customize.custom.preset.drought";
@@ -109,19 +109,19 @@ public final class SQa_2 {
         b = "z0";
         h = "death.fell.accident.";
         ha = "double_stone_slab2";
-        Ka = 0xC4DACC37 ^ 0xC4BC55EF;
-        C = 0xB6AFE263 ^ 0xB6AF972E;
+        Ka = 6724056 /* ZKM Deobf Int */;
+        C = 30029 /* ZKM Deobf Int */;
         U = "low_left_leg";
         j = ", builtIn: ";
         u = "east=false,north=false,south=false,up=false,west=false";
-        S = Double.longBitsToDouble(0x15378076D294DE3CL ^ 0x55B74076D294DE3CL);
+        S = 536.0D /* ZKM Deobf */;
         x = "Texteria2D";
-        t = Double.longBitsToDouble(0xD08E63699D950A5BL ^ 0x90A463699D950A5BL);
+        t = 13.0D /* ZKM Deobf */;
         k = "textures/misc/enchanted_item_glint.png";
-        E = Double.longBitsToDouble(0x66C541A2060D5495L ^ 0xA6C541A2060D5495L);
+        E = -2.0D /* ZKM Deobf */;
         Q = "portal";
         M = "MOSSY_STONEBRICK";
-        W = Float.intBitsToFloat(0x9FA3F016 ^ 0xDEAA698C);
+        W = 8.600000381469727F /* ZKM Deobf */;
         G = "Couldn't make new level";
         N = "trapdoor";
         A = "squid";
@@ -129,13 +129,13 @@ public final class SQa_2 {
         a = "Bone Matrix";
         Ja = "fixed-view-yaw";
         H = "RRQ";
-        i = 0xFDB519B3 ^ 0xFDB5193E;
-        B = 0x9DD914D7 ^ 0x9DD9949A;
+        i = 141 /* ZKM Deobf Int */;
+        B = 32845 /* ZKM Deobf Int */;
         d = "OPAQUE";
         I = "STRIPE_MIDDLE";
         la = "sampler";
         fa = "\u041f\u0435\u0440\u0435\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435";
-        F = Double.longBitsToDouble(0x9BB0CDA575488B1EL ^ 0xA4C4B74432E69F65L);
+        F = 0.005D /* ZKM Deobf */;
     }
 
     public SQa_2() {

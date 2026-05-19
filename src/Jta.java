@@ -72,7 +72,7 @@ public final class Jta {
     static {
         Da = "chatLinks:";
         n = "textures/blocks/destroy_stage_5.png";
-        ga = 0xFBC3BE60 ^ 0xFBC39470;
+        ga = 10768 /* ZKM Deobf Int */;
         C = "uniform [ _a-zA-Z0-9]+ shadow;.*";
         s = "Shape61123";
         Ha = "Preparing start region for level ";
@@ -84,7 +84,7 @@ public final class Jta {
         i = "File {} does not exist, cannot add it to event {}";
         J = "Record";
         v = "harp";
-        r = Float.intBitsToFloat(0xB0FE8785 ^ 0xF06E8785);
+        r = 4.5F /* ZKM Deobf */;
         S = "waxedCopperGrate";
         e = "dungeon";
         D = "double_plant_sunflower_bottom";
@@ -94,18 +94,18 @@ public final class Jta {
         o = "GL11.GL_MAP2_VERTEX_4";
         c = "gui/rounding/no_border/round_fill_";
         R = "STEM";
-        U = Float.intBitsToFloat(0xF0C6DA8 ^ 0x4B2E942B);
+        U = 651.8986206054688F /* ZKM Deobf */;
         Q = "\u00a7d\u041f\u0430\u0441\u0445\u0430\u043b\u044c\u043d\u0430\u044f \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u044f";
         V = "Front.3b";
         W = "channelOpenAL";
-        u = Double.longBitsToDouble(0xCD47FB10CE95238L ^ 0x732C7FB10CE95238L);
+        u = nanD /* ZKM Deobf */;
         Z = " blocks";
-        A = Float.intBitsToFloat(0x9038CA54 ^ 0x51184A54);
+        A = -10.03125F /* ZKM Deobf */;
         fa = "stinky";
         h = "stat.mineBlock";
         j = "chainmail_helmet";
         x = "JUNGLE_SAPLING";
-        z = 0x392545A2 ^ 0x3925D9D9;
+        z = 40059 /* ZKM Deobf Int */;
         g = "potion.wither";
         Y = "mob.villager.yes";
         t = "mudBrickWall";
@@ -116,22 +116,22 @@ public final class Jta {
         M = "[ \t]*const[ \t]*int[ \t]*\\w+Format[ \t]*=[ \t]*[RGBA0123456789FUI_SNORM]*[ \t]*;.*";
         Ka = "Could not load texture ";
         Ja = "raw_iron_block";
-        Aa = 0xD05B843F ^ 0xD00AB425;
-        X = Float.intBitsToFloat(0x9279D55D ^ 0xADC27D34);
+        Aa = 5320730 /* ZKM Deobf Int */;
+        X = 1.4660769701004028F /* ZKM Deobf */;
         k = "textures/entity/alex.png";
-        w = Float.intBitsToFloat(0x6FFB5C42 ^ 0x517E42FA);
-        ja = Double.longBitsToDouble(0xBCD687DF73BAAD8AL ^ 0xFCD71E46EA233410L);
+        w = 0.25999999046325684F /* ZKM Deobf */;
+        ja = 2.2D /* ZKM Deobf */;
         q = "GL11.GL_LINE_WIDTH";
         a = "beginBlockEntities";
         H = "Front.5a";
         E = "Uh... Did I do that?";
         I = "Actual block data value";
-        P = Double.longBitsToDouble(0xB70E075CBE56F170L ^ 0xF72D99E4EFBD746FL);
+        P = 9.81D /* ZKM Deobf */;
         f = "achievement.unknown";
         y = "Endermite";
         K = "UPLOADING";
         d = "hoeDiamond";
-        ca = 0x40E5EECE ^ 0xBF5F58B3;
+        ca = 4290426493 /* ZKM Deobf Int */;
     }
 }
 

@@ -72,17 +72,17 @@ public final class XOa {
 
     static {
         j = "colorPositions_";
-        M = 0x1DF7768B ^ 0x1DF77ADB;
+        M = 3152 /* ZKM Deobf Int */;
         la = "Couldn't open link";
         V = "Reset world renderers";
-        R = Double.longBitsToDouble(0xACBA2B094AA52D4FL ^ 0x93A01DEBAAA52D4FL);
+        R = 9.999999747378752e-05D /* ZKM Deobf */;
         z = "GL11.GL_CURRENT_RASTER_COLOR";
         o = "float";
         Ka = "RL1";
         p = "animations/pet/sheeppig_animation.json";
         Ga = "show";
         E = "cyan_wool";
-        ca = 0x67DEAB56 ^ 0x676217EA;
+        ca = 12369084 /* ZKM Deobf Int */;
         Y = "LeftStick";
         N = "26";
         I = "swordNetherite";
@@ -91,22 +91,22 @@ public final class XOa {
         U = "5";
         X = "Can't keep up! Did the system time change, or is the server overloaded? Running {}ms behind, skipping {} tick(s)";
         k = "of.options.otherTitle";
-        t = Float.intBitsToFloat(0x4711EAF5 ^ 0x7323DFF);
+        t = 2.559999942779541F /* ZKM Deobf */;
         s = "mob.wither.idle";
         F = "game.player.hurt.fall.small";
         Ha = "ofCustomItems:";
         q = "achievement.buildPickaxe";
         Z = "minecraft:";
-        L = 0x78828D40 ^ 0x78828E6B;
+        L = 811 /* ZKM Deobf Int */;
         S = "otherNetworkInfo";
         u = "MONSTER";
-        f = Float.intBitsToFloat(0x4C53A71A ^ 0xA77A71A);
+        f = 10496.0F /* ZKM Deobf */;
         ga = "GL11.GL_QUADRATIC_ATTENUATION";
         G = "ZVAL_NOT_SET";
-        r = Float.intBitsToFloat(0x2CC1B83B ^ 0x93A5D4DC);
+        r = -0.8922867178916931F /* ZKM Deobf */;
         g = 0x498BDAEB28096C4L ^ 0x498BDAEB28096ECL;
         n = "commands.me.usage";
-        h = 0x20B67C94 ^ 0x20B67C14;
+        h = 128 /* ZKM Deobf Int */;
         w = "maskImageCase_";
         B = "CPU: %s";
         H = "horizontal+vertical";
@@ -116,23 +116,23 @@ public final class XOa {
         J = "pow";
         d = "border";
         C = "Health";
-        ja = Float.intBitsToFloat(0x3A5DE4BE ^ 0x4C1B9DA);
+        ja = 0.305400013923645F /* ZKM Deobf */;
         T = "openCollections";
         x = "GL11.GL_ALPHA_TEST_FUNC";
         Ja = "GL11.GL_INDEX_OFFSET";
         Da = "xx";
         K = "chunkSource";
         P = "snooperEnabled";
-        b = Float.intBitsToFloat(0xBEAFE71D ^ 0x17CD42E);
+        b = -1.649999976158142F /* ZKM Deobf */;
         fa = "All players";
         l = "Unable to parse resource index file: ";
         W = "prismarine_bricks";
-        e = 0x43EECDCE ^ 0x43B8F1FD;
+        e = 5651507 /* ZKM Deobf Int */;
         i = "Map";
         a = "double_stone_slab";
         c = "showInventoryAchievementHint";
         Aa = "Source block type";
-        v = Float.intBitsToFloat(0xEFA4AF88 ^ 0xD0CC5A4B);
+        v = 0.9100000262260437F /* ZKM Deobf */;
         y = "commands.blockdata.failed";
     }
 }

@@ -74,8 +74,8 @@ public final class ROa {
         A = "DownfallBlock";
         c = "expLevel";
         g = "VC: Update muted {}";
-        fa = 0xDDC7C36A ^ 0xDDC7C196;
-        p = Float.intBitsToFloat(0x1138F79D ^ 0x5525F79D);
+        fa = 764 /* ZKM Deobf Int */;
+        p = 628.0F /* ZKM Deobf */;
         W = "\u041c\u0435\u043d\u044e \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438";
         f = "textures/entity/enderdragon/dragon_exploding.png";
         C = "ancient_debris";
@@ -84,7 +84,7 @@ public final class ROa {
         Y = "HurtEntities";
         L = "options.videoTitle";
         S = "commands.scoreboard.teams.empty.success";
-        w = Float.intBitsToFloat(0x3D0504BD ^ 0x6362DB);
+        w = 0.05624999850988388F /* ZKM Deobf */;
         q = "(s) ";
         P = "optifine_part";
         O = "effectEnabled";
@@ -93,7 +93,7 @@ public final class ROa {
         n = "yaw";
         Q = "Dimension";
         T = "inflate error";
-        J = Float.intBitsToFloat(0x3F92DC78 ^ 0xFEAB45E2);
+        J = -11.600000381469727F /* ZKM Deobf */;
         i = "commands.deop.failed";
         e = "textures/entity/banner_base.png";
         K = "useWaterLakes";
@@ -101,7 +101,7 @@ public final class ROa {
         a = "Server thread";
         R = "commands.save-off.alreadyOff";
         I = "bubble_coral_block";
-        B = Float.intBitsToFloat(0xCD3FD0EA ^ 0x73412931);
+        B = -0.24899999797344208F /* ZKM Deobf */;
         Aa = "SHPR";
         s = "minecraft:particle_appearance_tinting";
         j = "This call is outside of tick";
@@ -112,11 +112,11 @@ public final class ROa {
         D = "INT[]";
         M = "\u00a7c";
         x = "Shape41123";
-        h = 0x25CDFB79 ^ 0x25D2A44B;
+        h = 2055986 /* ZKM Deobf Int */;
         o = "\u00a7f\u4f19  \u041f\u043e\u043b\u0443\u0447\u0435\u043d\u043e";
         H = "flower2";
         l = "Biome A";
-        E = 0x2D99B376 ^ 0xD269B376;
+        E = 4293918720 /* ZKM Deobf Int */;
         X = "<disabled>";
         m = "bootsChain";
         Z = "ItemDropChance";

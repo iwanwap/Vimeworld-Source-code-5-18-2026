@@ -72,7 +72,7 @@ public final class nQa_2 {
         U = "jungle";
         f = "glass_pane_top_brown";
         b = ", min=";
-        K = Double.longBitsToDouble(0x23F2E921FFB2D39FL ^ 0x639EC921FFB2D39FL);
+        K = 225.0D /* ZKM Deobf */;
         q = "of.options.performance";
         d = "GL11.GL_PACK_SKIP_ROWS";
         N = "Right.Right45";
@@ -81,7 +81,7 @@ public final class nQa_2 {
         D = "allowAnyShaders";
         H = 0x617CC9411F6BEAD7L ^ 0x617CC940356E18D7L;
         o = "\u043f\u0435\u0440\u0435\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0438 \u0441\u0435\u0440\u0432\u0435\u0440\u0430.";
-        h = 0x5FF044E8 ^ 0x5FF0467E;
+        h = 662 /* ZKM Deobf Int */;
         y = "gold_ingot";
         z = "DG";
         O = "\u0000\u0001\u0000\u0000\u0001\u0001\u0001\u0000\u0000\u0000\u0001\u0002";
@@ -102,12 +102,12 @@ public final class nQa_2 {
         k = "FLEX_START";
         i = "elements_";
         I = "assets/minecraft/models/block/dirt.json";
-        v = 0xE8238E00 ^ 0xE84DE06E;
+        v = 7237230 /* ZKM Deobf Int */;
         j = "wingtip.bone";
         Q = "frameTimeCounter";
         Aa = "variable.particle_speed.length";
         w = "%s['%s'/%d, l='%s', x=%.2f, y=%.2f, z=%.2f]";
-        g = Double.longBitsToDouble(0xBE692803E3AEF6B5L ^ 0xFE0D2803E3AEF6B5L);
+        g = 160.0D /* ZKM Deobf */;
         B = "GL13.GL_TEXTURE7";
         W = "chiseled_polished_blackstone";
         p = "minecraft:blocks/water_flow";
@@ -117,11 +117,11 @@ public final class nQa_2 {
         J = "MushroomIsland";
         F = "chainmail";
         E = "Invalid font->characters: expected object, was ";
-        Ga = 0xC43FCB05 ^ 0xC43FCA59;
+        Ga = 348 /* ZKM Deobf Int */;
         Z = "textures/environment/moon_phases.png";
         e = "createWorld.customize.custom.useWaterLakes";
         fa = "facing=north,half=bottom,shape=outer_left";
-        u = 0x28AB8431 ^ 0xD7547BC1;
+        u = 4294967280 /* ZKM Deobf Int */;
     }
 }
 

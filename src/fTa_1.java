@@ -67,7 +67,7 @@ public final class fTa_1 {
         U = "health";
         e = "No";
         b = "INITIALIZE";
-        Ja = 0x9C9F664A ^ 0x9C9F6696;
+        Ja = 220 /* ZKM Deobf Int */;
         N = "spruce";
         p = "archiveCase_";
         h = "Using default channel type";
@@ -79,12 +79,12 @@ public final class fTa_1 {
         m = "cherry_door";
         Ga = "crimson_log";
         i = "READY";
-        H = Float.intBitsToFloat(0x3AC26EF2 ^ 0xFA3BF768);
+        H = -7.800000190734863F /* ZKM Deobf */;
         R = "GL13.GL_ADD_SIGNED";
         u = "option";
         G = "No enchantmentIDs specified: ";
         I = "ENTITY_SHADOWS";
-        Z = 0xBA4DF4DD ^ 0xBA4DF5BC;
+        Z = 353 /* ZKM Deobf Int */;
         B = "Shader ";
         v = "LEFT";
         Aa = "COM5";
@@ -92,7 +92,7 @@ public final class fTa_1 {
         fa = "server-icon.png";
         t = "Invalid float: ";
         Y = "FXAA 4x";
-        q = 0x51A9D7B4 ^ 0x51A95788;
+        q = 32828 /* ZKM Deobf Int */;
         Q = "ARMOR";
         C = "purpurSlab";
         D = "\u0417\u0430 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435 \u043f\u043e\u0434\u043f\u0438\u0441\u043a\u0438 \u00a76Prime";
@@ -100,7 +100,7 @@ public final class fTa_1 {
         W = "say";
         a = "potion.water";
         r = "mob.wither.hurt";
-        o = Double.longBitsToDouble(0xED3EE6AB55842FF4L ^ 0xD2C7C75001C002ECL);
+        o = 1.5707963267948966D /* ZKM Deobf */;
         w = " uploaded - ";
         d = "transform_gui";
         M = "lootBonusFishing";
@@ -111,16 +111,16 @@ public final class fTa_1 {
         P = "SPELL_MOB_AMBIENT";
         s = "GuiElement render error (";
         c = "nether_brick";
-        E = 0xEF200F66 ^ 0xEF200E27;
-        S = Float.intBitsToFloat(0xEFEEA65 ^ 0xCEFEEBC6);
+        E = 321 /* ZKM Deobf Int */;
+        S = -2.0000998973846436F /* ZKM Deobf */;
         g = "Post-rendering entity in world";
-        l = 0xBE0A7812 ^ 0xBE0AFCD3;
+        l = 33985 /* ZKM Deobf Int */;
         n = "%02d:%02d:%02d:%02d";
         Ka = "commands.scoreboard.players.set.success";
         x = "FOG_START";
         k = "Couldn't process command: '";
         O = "3b";
-        X = Float.intBitsToFloat(0x4BCE960D ^ 0x757E960D);
+        X = 0.34375F /* ZKM Deobf */;
         T = "GL11.GL_TEXTURE_GEN_R";
     }
 

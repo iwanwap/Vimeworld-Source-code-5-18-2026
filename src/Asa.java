@@ -73,7 +73,7 @@ public final class Asa {
 
     static {
         O = "Unexpected key packet";
-        n = 0x5E012967 ^ 0x5E013B61;
+        n = 4614 /* ZKM Deobf Int */;
         x = "VERTEX";
         N = "effectTextAnimation";
         T = "time_";
@@ -85,10 +85,10 @@ public final class Asa {
         a = "Can't serialize unregistered packet";
         ca = "hoveredBlockY_";
         e = "gl_caps[ARB_occlusion_query2]";
-        Ia = 0xF64642A0 ^ 0xF646438D;
+        Ia = 301 /* ZKM Deobf Int */;
         f = "o_arm";
         F = "amd";
-        l = Double.longBitsToDouble(0xF840B2512C3851D6L ^ 0xC7A825DC63E76AB2L);
+        l = 0.7685D /* ZKM Deobf */;
         H = "bootsDiamond";
         Ka = "Fleeing speed bonus";
         Aa = "waxed_exposed_cut_copper_stairs";
@@ -102,11 +102,11 @@ public final class Asa {
         c = "assets/minecraft/blockstates/granite.json";
         I = "Intruders!!!!";
         b = "Duplicate enchantment id!";
-        P = Float.intBitsToFloat(0xB3105146 ^ 0x734EC4AC);
+        P = -3.4779000282287598F /* ZKM Deobf */;
         v = "emotes/emote/";
         S = "strikethrough";
         U = "GL11.GL_MAP_COLOR";
-        C = 0xBF9A41FE ^ 0xBF9A71C7;
+        C = 12345 /* ZKM Deobf Int */;
         R = "Included file not found: ";
         k = ", tallocated: ";
         L = "textures/body/garlands4.png";
@@ -114,12 +114,12 @@ public final class Asa {
         r = "right.Shape32";
         K = "\u0432\u0441\u0451";
         A = "bow3";
-        h = Float.intBitsToFloat(0xD2F04DF3 ^ 0xED80EE24);
-        V = 0x43E302B3 ^ 0x43E309C7;
-        W = Double.longBitsToDouble(0x9C85F8A9183C22EBL ^ 0xA315F8A9183C22EBL);
+        h = 0.9399999976158142F /* ZKM Deobf */;
+        V = 2932 /* ZKM Deobf Int */;
+        W = 0.015625D /* ZKM Deobf */;
         s = "GL11.GL_ALPHA16";
-        la = 0xA98E877 ^ 0xA98E5E4;
-        y = Double.longBitsToDouble(0x8D9D59DAA8DE43A5L ^ 0xCDD759DAA8DE43A5L);
+        la = 3475 /* ZKM Deobf Int */;
+        y = 52.0D /* ZKM Deobf */;
         o = 0xCA20FA2BE651E224L ^ 0xCA20FA2BE651FF68L;
         J = "overlay";
         q = "No method: ";
@@ -128,12 +128,12 @@ public final class Asa {
         Da = "smooth_red_sandstone";
         Ja = "https://shaderserver.vimeworld.com/verify/upload?";
         j = "g";
-        u = Float.intBitsToFloat(0x2AA30590 ^ 0x9119C281);
-        p = Float.intBitsToFloat(0x6BBB3458 ^ 0x541284D2);
+        u = -0.00570000009611249F /* ZKM Deobf */;
+        p = 1.325700044631958F /* ZKM Deobf */;
         Z = "North Carolina";
         ja = "overrideHeight:";
         w = "MC_";
-        fa = 0xAB4D40EF ^ 0xAB4DB0FE;
+        fa = 61457 /* ZKM Deobf Int */;
         t = "Level Requirement: ";
         d = "SHIMMER";
     }

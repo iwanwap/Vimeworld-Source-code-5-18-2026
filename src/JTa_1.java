@@ -62,7 +62,7 @@ public final class JTa_1 {
     static {
         k = "PNG";
         Ga = "Type";
-        G = 0x81229B77 ^ 0x81221941;
+        G = 33334 /* ZKM Deobf Int */;
         O = "ChunkX";
         D = "mob.zombie.say";
         N = "CustomNameVisible";
@@ -71,12 +71,12 @@ public final class JTa_1 {
         q = "SEA";
         y = "SCROLLOFFSET";
         b = "math.sqrt";
-        n = Double.longBitsToDouble(0xC60246488D87C47FL ^ 0xF9C7131DD8D2912AL);
+        n = 0.16666666666666666D /* ZKM Deobf */;
         I = "createWorld.customize.custom.stretchY";
         e = "quartzBlock";
         f = "commands.tellraw.jsonException";
         A = "-client.txt";
-        g = Float.intBitsToFloat(0xAB9C18C5 ^ 0x9746FB22);
+        g = 0.02672000043094158F /* ZKM Deobf */;
         fa = "minecraft:emitter_initialization";
         W = "XXL_X2";
         Ka = "commands.setblock.noChange";
@@ -84,11 +84,11 @@ public final class JTa_1 {
         u = "GL11.GL_BACK_LEFT";
         Q = "locked";
         o = "textures/pet/spinner_blue.png";
-        M = 0xA26A77D5 ^ 0xA26A777F;
+        M = 170 /* ZKM Deobf Int */;
         L = "SRV";
         U = " is missing a mapping! This is a bug!";
         H = "sparkling";
-        X = 0x3D7913EB ^ 0x3D791E53;
+        X = 3512 /* ZKM Deobf Int */;
         i = "textures/gui/presets/delight.png";
         j = "commands.weather.clear";
         Z = "b";
@@ -96,7 +96,7 @@ public final class JTa_1 {
         h = "deadTubeCoralBlock";
         K = "achievement.exploreAllBiomes";
         x = "%name%";
-        Aa = Double.longBitsToDouble(0x21649226C43AAE75L ^ 0x616BA115F7099D46L);
+        Aa = 3.9D /* ZKM Deobf */;
         V = "CriteriaName";
         a = "DIAGONAL_LEFT_MIRROR";
         c = "options.cloudHeight.min";

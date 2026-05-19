@@ -66,12 +66,12 @@ public final class ura_3 {
 
     static {
         X = "createWorld.customize.flat.tile";
-        d = 0x8B45DEE8 ^ 0x8B455EB8;
+        d = 32848 /* ZKM Deobf Int */;
         E = "\u0000\u0006\u0000\u0001\u0001\u0006\u0006\u0000\u0000\u0000\u0001\u0004\u0002\u1001\u0000\u0003\u1001\u0001\u0004\u1001\u0002\u0005\u1001\u0003\u0006\u1208\u0004";
         G = "Ribbon2";
         B = "tiles";
         R = "command_block";
-        Ga = Double.longBitsToDouble(0xD6324A219C9A88A9L ^ 0x96BE6A219C9A88A9L);
+        Ga = 900.0D /* ZKM Deobf */;
         A = "OPTIFINE_JEM";
         L = "Can't parse item '";
         s = "\u0417\u0430\u043f\u0440\u043e\u0441\u044b";
@@ -82,12 +82,12 @@ public final class ura_3 {
         J = "GL11.GL_CLIP_PLANE5";
         ca = "shadowtexNearest";
         F = "/assets/minecraft/lang/en_US.lang";
-        Ha = Float.intBitsToFloat(0x1131A350 ^ 0x2E9D6F9D);
-        Ja = 0x425D40F9 ^ 0x425D428F;
-        P = 0x4FF137A1 ^ 0x4FF1AB2D;
+        Ha = 1.350000023841858F /* ZKM Deobf */;
+        Ja = 630 /* ZKM Deobf Int */;
+        P = 40076 /* ZKM Deobf Int */;
         v = "invertYMouse";
         o = "HEAD_FULL";
-        V = 0x27CD3705 ^ 0x27CD3305;
+        V = 1024 /* ZKM Deobf Int */;
         p = "GRAPHICS";
         a = "GL11.GL_ALPHA_SCALE";
         I = "GL13.GL_TEXTURE_CUBE_MAP_POSITIVE_Z";
@@ -103,8 +103,8 @@ public final class ura_3 {
         f = "Back.1b";
         Da = "cherry_stairs";
         Ka = ", requiresTool=";
-        n = Double.longBitsToDouble(0x5A22C0A5D268A68FL ^ 0x1AD2C0A5D268A68FL);
-        C = 0x3440A489 ^ 0xCBBF5B4D;
+        n = 65536.0D /* ZKM Deobf */;
+        C = 4294967236 /* ZKM Deobf Int */;
         fa = "mcpatcher/color.properties";
         M = "0.32, 0, 0.67, 0";
         ja = "World";
@@ -115,12 +115,12 @@ public final class ura_3 {
         D = "FramebufferStatus 0x%04X at %s\n";
         H = "singleplayer";
         h = "mountHealth";
-        z = 0x5A9CD56A ^ 0x5A9CA00B;
+        z = 30049 /* ZKM Deobf Int */;
         x = "keyStatus:";
         Y = "is_new_format";
         g = "observer";
-        U = Float.intBitsToFloat(0xDD94928E ^ 0xE3262A4A);
-        y = 0xCE2BCDF0 ^ 0x4A3BDDE4;
+        U = 0.349065899848938F /* ZKM Deobf */;
+        y = 2215645204 /* ZKM Deobf Int */;
         w = "Right.Right8";
         r = "game.neutral.hurt.fall.big";
         j = "program.";

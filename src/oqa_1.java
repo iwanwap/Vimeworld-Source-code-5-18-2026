@@ -70,7 +70,7 @@ public final class oqa_1 {
         W = "Body.Shape7";
         Aa = "\u5144";
         E = "Shape67123";
-        Ga = Float.intBitsToFloat(0x9F9706AE ^ 0x5F6F06AE);
+        Ga = -7.75F /* ZKM Deobf */;
         U = "[0-9A-FK-ORxXsS]";
         f = "banned-players.txt";
         d = "potion.prefix.gross";
@@ -78,18 +78,18 @@ public final class oqa_1 {
         G = "Block being tesselated";
         j = "key.hotbar.9";
         V = "weathered_cut_copper_slab";
-        q = Float.intBitsToFloat(0x7A3F8C28 ^ 0xBB92BD0F);
+        q = -21.64900016784668F /* ZKM Deobf */;
         t = ", max=";
         H = "Setup debug OpenGL callback";
         x = "gui_state";
         B = "SHADOW_RES_MUL";
-        D = Float.intBitsToFloat(0x3078A2B6 ^ 0xEC0F35A);
+        D = 0.36000001430511475F /* ZKM Deobf */;
         y = "objects";
         Ka = "selectWorld.deleteQuestion";
         fa = "_eyes";
         Ja = "ContactPointRule";
         M = "Authentication servers are down. Please try again later, sorry!";
-        c = Float.intBitsToFloat(0x1E9C4723 ^ 0x22D08BEE);
+        c = 0.012500000186264515F /* ZKM Deobf */;
         r = "ofAnimatedSmoke:";
         ja = "happyVillager";
         I = " for item ";
@@ -98,17 +98,17 @@ public final class oqa_1 {
         a = "GL11.GL_COLOR_LOGIC_OP";
         u = "WATER_CREATURE";
         w = "GL11.GL_UNSIGNED_SHORT";
-        R = 0xE9BD02C ^ 0xE9BF751;
+        R = 10109 /* ZKM Deobf Int */;
         p = "ANGLEZVAL_NOT_SET";
         k = "OutSize";
-        T = 0xB7143FC3 ^ 0xB7142BCB;
+        T = 5128 /* ZKM Deobf Int */;
         Y = "NUL";
         Q = "GL11.GL_DEPTH_FUNC";
-        F = Double.longBitsToDouble(0xEF7284AB08E1645EL ^ 0xD0C36F2E165935B2L);
+        F = 0.07D /* ZKM Deobf */;
         P = "Piece1.Shape2";
         O = "X#X";
         l = "dioriteWall";
-        S = 0x2236D4E7 ^ 0x2236544C;
+        S = 32939 /* ZKM Deobf Int */;
         C = "green_stained_glass_pane";
         Ha = "deepslate_tile_slab_double";
         J = "&c\u041d\u043e\u043c\u0435\u0440 \u0442\u043e\u0447\u043a\u0438 \u0434\u043e\u043b\u0436\u0435\u043d \u0431\u044b\u0442\u044c \u0447\u0438\u0441\u043b\u043e\u043c";
@@ -121,7 +121,7 @@ public final class oqa_1 {
         s = "textures/pet/megabox.png";
         N = "Mineshaft";
         L = "ofSwampColors:";
-        n = 0xF85AEB82 ^ 0x7A51402;
+        n = 4294967168 /* ZKM Deobf Int */;
     }
 
     public oqa_1() {

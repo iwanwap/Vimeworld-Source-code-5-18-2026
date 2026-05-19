@@ -69,7 +69,7 @@ public final class Ora {
         j = "oak_leaves";
         T = "direction_y";
         V = "GL11.GL_POLYGON";
-        y = 0xF8DFDC5B ^ 0xF8DFDDE9;
+        y = 434 /* ZKM Deobf Int */;
         M = "ascending_east";
         o = "Configurations";
         A = "resourcePackDir";
@@ -79,13 +79,13 @@ public final class Ora {
         Z = "gui/keybinds/esc_down.png";
         Q = "firstPoint or secondPoint is null";
         q = "'->region: empty value";
-        I = Float.intBitsToFloat(0xF36610AD ^ 0xCD4CBA06);
+        I = 0.1666666716337204F /* ZKM Deobf */;
         r = "ghast_tear";
-        C = 0x2B1A5C5 ^ 0x2B126AD;
+        C = 33640 /* ZKM Deobf Int */;
         c = "mainNoiseScaleX";
         l = "overlayMessage";
         v = "cooked_mutton";
-        D = Float.intBitsToFloat(0x65FCB218 ^ 0x5AE52B82);
+        D = 0.6000000238418579F /* ZKM Deobf */;
         p = "other";
         u = "frame-";
         E = "hide-gui";
@@ -108,8 +108,8 @@ public final class Ora {
         fa = "GL11.GL_CURRENT_TEXTURE_COORDS";
         f = "graniteStairs";
         P = "THIN";
-        z = Double.longBitsToDouble(0xE7953C5D50CD6734L ^ 0xD85914A892423B1DL);
-        J = 0x1EDE8D3E ^ 0x1EDE923F;
+        z = 0.22D /* ZKM Deobf */;
+        J = 7937 /* ZKM Deobf Int */;
         m = ", model=";
         W = "GL11.GL_ONE_MINUS_SRC_COLOR";
         x = "orange_tulip";
@@ -119,7 +119,7 @@ public final class Ora {
         O = "farmland";
         S = "death.fell.finish";
         d = "\u00a7e\u041b\u0435\u0442\u043d\u044f\u044f \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u044f";
-        t = 0x304F140E ^ 0x304F120D;
+        t = 1539 /* ZKM Deobf Int */;
         K = "muttonRaw";
     }
 }

@@ -73,18 +73,18 @@ public final class Ira {
 
     static {
         R = "black_concrete";
-        ga = 0x8AF49CE5 ^ 0x8AF49CB0;
-        j = Float.intBitsToFloat(0x351BBCC1 ^ 0x70A03CC1);
+        ga = 85 /* ZKM Deobf Int */;
+        j = 6000.0F /* ZKM Deobf */;
         O = "minecraft:blocks/soul_sand";
         Fa = "GLITCHY";
-        K = Double.longBitsToDouble(0xCE50C9A3647D6F56L ^ 0xF0E00F54C4C882DBL);
+        K = 1e-06D /* ZKM Deobf */;
         ha = "Using GL 1.3 multitexturing.\n";
         y = "commands.scoreboard.players.reset.success";
         g = "Children";
         T = "ag";
         Y = "textures/body/exowings_yellow.png";
         Z = "exposedCutCopperStairs";
-        t = 0xBEC77954 ^ 0xBEC76D51;
+        t = 5125 /* ZKM Deobf Int */;
         Ga = "master";
         b = "_hovered.png";
         V = "punch";
@@ -92,32 +92,32 @@ public final class Ira {
         a = "ofAnimatedPortal:";
         ba = "unknown entity with id ";
         x = "GL15.GL_BUFFER_MAPPED";
-        Ka = Float.intBitsToFloat(0x1A3D97F ^ 0x405BD97F);
+        Ka = 31.0F /* ZKM Deobf */;
         la = "chatVisibility:";
         L = "mob.horse.death";
         v = ", source: ";
-        s = 0x80394D36 ^ 0x8039CD57;
+        s = 32865 /* ZKM Deobf Int */;
         Ma = "emitter_transform_xz";
-        A = 0xAEA659B6 ^ 0xAEA65BB5;
+        A = 515 /* ZKM Deobf Int */;
         Q = "Error in class '";
-        p = Float.intBitsToFloat(0x4681CCFB ^ 0x78CC1E09);
-        d = Float.intBitsToFloat(0x4D0557BD ^ 0x72C557BD);
+        p = 0.20100000500679016F /* ZKM Deobf */;
+        d = 1.5F /* ZKM Deobf */;
         f = "SHIFT_RIGHT";
         X = 0x358832B20042DA37L ^ 0xCA77CD4DFFBDD5C8L;
-        z = 0x62421685 ^ 0x62429E3E;
+        z = 35003 /* ZKM Deobf Int */;
         D = "GL12.GL_SINGLE_COLOR";
         h = "Cold Taiga";
-        m = 0x9C59066C ^ 0x9C590587;
-        B = 0xF39CB28A ^ 0xF39CBF79;
-        Ia = 0x1BA3E717 ^ 0x1B90D4BD;
+        m = 1003 /* ZKM Deobf Int */;
+        B = 3571 /* ZKM Deobf Int */;
+        Ia = 3355562 /* ZKM Deobf Int */;
         P = "Failed to open OpenAL device ";
         u = "Start capturing";
-        W = 0x44E3B966 ^ 0x44E33CE6;
+        W = 34176 /* ZKM Deobf Int */;
         k = "black_concrete_powder";
         o = "chatScale";
-        i = 0x9A17653B ^ 0x9A17613D;
+        i = 1030 /* ZKM Deobf Int */;
         w = "key.hotbar.1";
-        Ja = 0x1C6B2E66 ^ 0x1C3E332C;
+        Ja = 5578058 /* ZKM Deobf Int */;
         c = "d/";
         E = "MOVE";
         Ha = " draw buffers = ";
@@ -138,7 +138,7 @@ public final class Ira {
         C = "Left.Shape71123";
         q = "commands.worldborder.center.usage";
         S = "Scale";
-        l = 0x7BD48A29 ^ 0x7BD482F0;
+        l = 2265 /* ZKM Deobf Int */;
         U = "CTRL";
     }
 

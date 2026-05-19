@@ -70,7 +70,7 @@ public final class zpa {
         j = "potion.poison";
         Ja = "options.fov.min";
         h = "PROGRESS_TIMER";
-        A = 0x3DA2EB77 ^ 0x3DA26FB3;
+        A = 33988 /* ZKM Deobf Int */;
         s = "Sign";
         Y = "shadowProjection";
         G = "RightLeg4";
@@ -78,11 +78,11 @@ public final class zpa {
         Q = "run_command";
         t = "achievement.buildFurnace";
         S = "commands.setidletimeout.usage";
-        X = Float.intBitsToFloat(0x57451EA2 ^ 0xE89A7853);
+        X = -1.7453290224075317F /* ZKM Deobf */;
         q = "menu.options";
-        c = 0xF238C652 ^ 0xF238CBE0;
+        c = 3506 /* ZKM Deobf Int */;
         o = "Shape36";
-        ja = Float.intBitsToFloat(0xDC5EDDDD ^ 0x631EDDDD);
+        ja = -0.75F /* ZKM Deobf */;
         ca = "LOCKED_HOVER";
         Ha = "wetness";
         v = "\u0000\u0005\u0001\u0000\u0001\u0005\u0005\u0000\u0000\u0000\u0001\f\u0002<\u0000\u0003\u023b\u0000\u0004<\u0000\u0005=\u0000";
@@ -104,25 +104,25 @@ public final class zpa {
         O = "angryVillager";
         C = "\u041c\u043e\u0434\u0435\u043b\u044c\u043a\u0438 \u043d\u0430 \u0434\u0440\u0443\u0433\u0438\u0445 \u0438\u0433\u0440\u043e\u043a\u0430\u0445";
         z = "brown_concrete";
-        p = 0x81B2DAB ^ 0x81BA5E0;
+        p = 34891 /* ZKM Deobf Int */;
         u = "keyTextColor:";
         g = "\u041b\u041a\u041c";
         B = "ofFireworkParticles";
         V = "GL11.GL_T2F_C4UB_V3F";
         N = "birch.png";
-        i = 0x3D055493 ^ 0xC1055493;
+        i = 4227858432 /* ZKM Deobf Int */;
         W = "MC|Tpc";
         Aa = "minecraft:items/empty_armor_slot_boots";
-        M = Float.intBitsToFloat(0xB0B1E57F ^ 0xF04E4B6B);
-        U = 0x76F7068A ^ 0x76F786D1;
+        M = 7.989999771118164F /* ZKM Deobf */;
+        U = 32859 /* ZKM Deobf Int */;
         r = "OCEAN";
         T = "\u041f";
-        y = Float.intBitsToFloat(0x5518D77A ^ 0xEB962D4C);
+        y = -0.27925270795822144F /* ZKM Deobf */;
         e = "pauseOnLostFocus";
         n = "vn.s";
         I = "variable.particle_pos.z";
         R = "firstperson";
-        Z = Float.intBitsToFloat(0x9635BE99 ^ 0xD4509079);
+        Z = 57.2957763671875F /* ZKM Deobf */;
         l = "BLLeg.Shape42";
     }
 

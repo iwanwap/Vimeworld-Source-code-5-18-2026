@@ -84,9 +84,9 @@ public final class Yua {
         la = "yellow_glazed_terracotta";
         I = "HORIZONTAL";
         f = "FAST_MATH";
-        A = 0xC220343E ^ 0xC220B449;
+        A = 32887 /* ZKM Deobf Int */;
         ca = "rolli";
-        m = 0x80EB844A ^ 0x80EB86ED;
+        m = 679 /* ZKM Deobf Int */;
         Ka = "Level game mode";
         F = "exposed_chiseled_copper";
         w = "SCREENSHAKEANIMATION";
@@ -94,16 +94,16 @@ public final class Yua {
         n = "tulipOrange";
         c = "FURNACE";
         Y = "^[\\w\\d\\s_+-/*%^&|<>=!?:.,()\"'@~\\[\\]]+$";
-        u = 0xBE25A3BC ^ 0xBE25BFBE;
+        u = 7170 /* ZKM Deobf Int */;
         o = "OMDYZR";
         Da = "commands.achievement.alreadyHave";
         x = "textures/pet/slime.png";
-        U = Float.intBitsToFloat(0xE42B02A7 ^ 0x5B10AAC1);
+        U = -0.7330383062362671F /* ZKM Deobf */;
         Ia = "bed";
         Aa = "/glass_";
-        W = 0x2887DD75 ^ 0x2887C977;
+        W = 5122 /* ZKM Deobf Int */;
         G = "font/glyph_sizes.bin";
-        C = 0x2AE36B91 ^ 0x2AE3EE86;
+        C = 34071 /* ZKM Deobf Int */;
         Ga = "ofVignette:";
         h = "Tracking range";
         p = "builtin/";
@@ -113,10 +113,10 @@ public final class Yua {
         Ha = "collar.";
         q = "EASE_OUT_CUBIC";
         X = "LOOKAT_DIRECTION";
-        t = Double.longBitsToDouble(0x535A8CA10D1F85B2L ^ 0x6CC434F0ED1F85B2L);
+        t = 0.029999999329447746D /* ZKM Deobf */;
         y = "BLAZE";
         z = "EDIT";
-        b = 0x9A7CDB6B ^ 0x9A7C5FB3;
+        b = 34008 /* ZKM Deobf Int */;
         d = "entries_";
         L = "pale_oak_log";
         a = "eating";
@@ -126,16 +126,16 @@ public final class Yua {
         g = "selectServer.defaultName";
         E = "blue_stained_glass_pane";
         s = "Previous Page";
-        O = 0x87A020CE ^ 0x87A024CA;
+        O = 1028 /* ZKM Deobf Int */;
         H = "stemcolor.png";
-        J = 0x7B7F3EDF ^ 0x7B7F14F7;
+        J = 10792 /* ZKM Deobf Int */;
         ja = "armor_feet";
-        fa = 0x2FC56965 ^ 0x2FC56665;
-        S = Float.intBitsToFloat(0xA38A8BB9 ^ 0x6339B88A);
+        fa = 3840 /* ZKM Deobf Int */;
+        S = -5.599999904632568F /* ZKM Deobf */;
         r = "players_seen";
         k = "CREATURE";
-        T = Float.intBitsToFloat(0x15AF9C65 ^ 0xD4099C65);
-        e = 0x6BBBDDAF ^ 0x6BBB5512;
+        T = -20.75F /* ZKM Deobf */;
+        e = 35005 /* ZKM Deobf Int */;
     }
 }
 

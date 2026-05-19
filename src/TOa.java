@@ -73,25 +73,25 @@ public final class TOa {
 
     static {
         Q = "&e/cam add [\u043d\u043e\u043c\u0435\u0440]&f: \u0414\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u0442\u043e\u0447\u043a\u0443 \u0432 \u0442\u0435\u043a\u0443\u0449\u0435\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438";
-        R = Float.intBitsToFloat(0xEC331E0B ^ 0x2DC31E0B);
+        R = -30.0F /* ZKM Deobf */;
         fa = "connect";
         e = "\u041c\u0430\u0441\u0448\u0442\u0430\u0431: ";
         x = "warped_nylium";
         d = "armorDurabilityBar:";
         Da = "Aztec2";
-        c = Float.intBitsToFloat(0x581C0801 ^ 0xE72459EA);
+        c = -0.7199999690055847F /* ZKM Deobf */;
         E = "replace_right_arm";
-        A = 0x7964A614 ^ 0x7964A48D;
-        V = 0x85734E6F ^ 0x7A8CB19E;
-        p = Float.intBitsToFloat(0x87610EC5 ^ 0x47210EC5);
+        A = 665 /* ZKM Deobf Int */;
+        V = 4294967281 /* ZKM Deobf Int */;
+        p = -3.0F /* ZKM Deobf */;
         ja = 0xA045D3D176892F56L ^ 0xA045D3D176893F56L;
         ga = "mainNoiseScaleY";
-        l = 0xCE5F410C ^ 0xCE5FC5C7;
+        l = 33995 /* ZKM Deobf Int */;
         Z = "pale_oak_fence_gate";
         m = "chestplate";
         f = "../src/minecraft/assets/minidot/itemmeta";
         K = "stat.killEntity.";
-        Ja = 0xC1546EA9 ^ 0xC154FFE1;
+        Ja = 37192 /* ZKM Deobf Int */;
         F = "ofSmoothWorld";
         C = "streamChatEnabled";
         W = "tnt";
@@ -106,26 +106,26 @@ public final class TOa {
         u = "F11";
         X = " values, found: ";
         Ha = "speed";
-        r = Float.intBitsToFloat(0xB202C6BA ^ 0x8C2111B0);
+        r = 0.1599999964237213F /* ZKM Deobf */;
         H = "The team name '";
         G = "'.";
         la = "grass_side_snowed";
         I = "redstone_dust_cross_overlay";
         ca = "SHS";
-        Ga = Double.longBitsToDouble(0x1DA5AF97CB84FE70L ^ 0xA244360E521D67EAL);
+        Ga = -0.55D /* ZKM Deobf */;
         t = "\u00a78-@HIDDEN";
         b = "[-+]?[0-9]*\\.?[0-9]+[f|F]";
         Aa = "Why am I here?";
         o = "largesmoke";
         n = ", ";
         D = "Shape54";
-        L = Float.intBitsToFloat(0x708A05B4 ^ 0x300C0F26);
+        L = 4.188790321350098F /* ZKM Deobf */;
         O = "crimson_planks";
         U = "ID #%d (%s // %s)";
         w = "defaultBackground_";
         Ka = "GL11.GL_TEXTURE_COORD_ARRAY_POINTER";
-        B = 0xE11C38C5 ^ 0x1E968207;
-        a = 0xF3BED30F ^ 0xF32DF72C;
+        B = 4287281858 /* ZKM Deobf Int */;
+        a = 9643043 /* ZKM Deobf Int */;
         Ia = "cherry";
         q = "stat.damageTaken";
         y = "STOP_SPRINTING";
@@ -134,7 +134,7 @@ public final class TOa {
         T = "- ";
         J = "packed_ice";
         v = "durationTicks";
-        N = 0x6DC3DBDD ^ 0x6DC35E54;
+        N = 34185 /* ZKM Deobf Int */;
         i = "characters";
     }
 }
