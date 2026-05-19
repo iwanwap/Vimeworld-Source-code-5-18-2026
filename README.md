@@ -1,7 +1,8 @@
-# VimeWorld 1.8.8 Decompiled Source
+# VimeWorld 1.8.8 Raw Source
 
-Decompiled source code of the VimeWorld Minecraft client (1.8.8).
+Decompiled client code of VimeWorld Minecraft.
 
-All source files are located in the `src/` directory.
+* **Math/Numbers**: Fully decrypted and cleaned from ZKM obfuscation.
+* **Names**: Raw (still obfuscated). Mappings/remapper needed to restore class and field names.
 
-Files with `_1`, `_2` suffixes exist due to ZKM case-insensitive class name collisions on Windows.
+Files with `_1`, `_2` suffixes exist due to case-sensitive class name collisions on Windows.
