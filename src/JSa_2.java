@@ -1,0 +1,131 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class JSa_2 {
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final int V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final int U;
+    public static final int P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final double R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final float p;
+    public static final int n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final float x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final float B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final int E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        b = "BREAK_WORD";
+        L = "Sprite frames";
+        I = "GL11.GL_DEPTH_WRITEMASK";
+        t = "easeInQuart";
+        Aa = "biome_1";
+        P = 0xC2766F4 ^ 0xC2767C4;
+        X = "GL14.GL_MAX";
+        G = "Invalid range: ";
+        i = "GL11.GL_BLEND_SRC";
+        h = "math.die_roll_integer";
+        ja = "polished_deepslate_wall";
+        T = "GL11.GL_MAP2_COLOR_4";
+        N = "createWorld.customize.flat.height";
+        R = Double.longBitsToDouble(0x8367D3BCB9A8547AL ^ 0xC34F53BCB9A8547AL);
+        V = 0xEA721A2C ^ 0xEA8DAF99;
+        A = "commands.clear.tagError";
+        s = "affectOnlyPlayers_";
+        k = "SCALE";
+        g = "Shape39";
+        o = "Using epoll channel type";
+        B = Float.intBitsToFloat(0x70B0DB42 ^ 0x4E5B5E5D);
+        O = "Repair";
+        D = "R8";
+        Z = "GL13.GL_OPERAND1_RGB";
+        J = "[Shaders] Invalid option value: ";
+        u = "ingotGold";
+        Ha = "grass_side_overlay";
+        w = "radius";
+        W = "note";
+        S = "GL11.GL_LINE_LOOP";
+        Y = "gradient";
+        c = "RGBA16_SNORM";
+        K = "INT";
+        H = "all";
+        Q = "polishedBlackstoneBricks";
+        Ja = "merchant.deprecated";
+        q = "FRLeg.FRL2";
+        p = Float.intBitsToFloat(0xB542C79E ^ 0x8A611095);
+        e = "Terrace";
+        n = 0xD3B6822F ^ 0xD3B606FE;
+        r = "SOLID";
+        z = "top";
+        U = 0xD111113C ^ 0xD11113ED;
+        E = 0xD92E6D46 ^ 0xD92EE2D3;
+        x = Float.intBitsToFloat(0x42109577 ^ 0xFDB09577);
+        y = "right.Shape35";
+        v = "). Trying Windows rundll32 feature...";
+        f = "Model: ";
+        d = "Unable to create level.dat_mcr backup";
+        C = "GL11.GL_FRONT_RIGHT";
+        Ga = "Getting synched entity data";
+        m = "blur_";
+        a = "*";
+        j = "blockGold";
+        M = "itemmeta/";
+        l = "seeds";
+        Ka = "TOP_RIGHT";
+        F = "math.min";
+        fa = "PRIMED_TNT";
+    }
+
+    public JSa_2() {
+        JSa_2 a2;
+    }
+}
+

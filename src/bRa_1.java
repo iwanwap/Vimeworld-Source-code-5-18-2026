@@ -1,0 +1,131 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class bRa_1 {
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final float fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final long z;
+    public static final String X;
+    public static final String y;
+    public static final int U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final int t;
+    public static final int R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final int s;
+    public static final long w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final int L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final int A;
+    public static final String I;
+
+    public bRa_1() {
+        bRa_1 a2;
+    }
+
+    static {
+        X = "enchantmenttable";
+        K = "RG32I";
+        i = "mossy_stone_brick_slab";
+        c = "I feel sad now :(";
+        e = "mob.bat.takeoff";
+        D = "leggingsCloth";
+        r = "invalide filter type in scanline: ";
+        P = "Invalid symmetry in: ";
+        B = "Renderer: ";
+        ja = "particles_add";
+        p = "op";
+        O = "nether_gold_ore";
+        N = "biomes";
+        I = "body5";
+        Ka = "\u0000\u0004\u0001\u0001\u0001\u0004\u0004\u0000\u0000\u0000\u0001\u0004\u0002\u1208\u0000\u0003\f\u0004<\u0000";
+        y = "_pulling_2";
+        E = "Failed compress push voice data";
+        F = "Shape24123";
+        H = "stat.leaveGame";
+        l = "Custom block slab ";
+        T = "random.fizz";
+        fa = Float.intBitsToFloat(0x12E21611 ^ 0xAC672996);
+        L = 0x9B369E6A ^ 0x64C961A4;
+        Ga = "gaux4 format : RGB32F";
+        J = "dstcolor";
+        w = 0x3C3593C66267D67EL ^ 0x3C3593C670C01821L;
+        Aa = "record";
+        Q = "tuff_slab_double";
+        U = 0x8989C6C7 ^ 0x8989420A;
+        m = "GL13.GL_SOURCE2_RGB";
+        Ha = "GL13.GL_COMPRESSED_TEXTURE_FORMATS";
+        o = "clownfish";
+        C = "Flicker";
+        j = "\u0410\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438";
+        s = 0x6A40E88D ^ 0x6A40ED8F;
+        t = 0x37278C7E ^ 0x37278D07;
+        f = "INVENTORY";
+        Y = "fisherman";
+        a = "createWorld.customize.custom.randomize";
+        n = "COARSE_DIRT";
+        S = "upperlip";
+        z = 0x58A2941435C4E756L ^ 0x58A2941434384703L;
+        h = "fireworksSpark";
+        R = 0xE2C2DB1D ^ 0xE2C2DA8B;
+        M = "tp";
+        k = "Dryness halflife: ";
+        V = "shadowColor1Nearest";
+        G = "assets/minecraft/models/block/lapis_block.json";
+        d = "hide_with_leggings";
+        W = "GL13.GL_TEXTURE19";
+        v = "tile.bed.notValid";
+        A = 0x5A60DB1E ^ 0x5A60D80B;
+        x = "Unknown failed to connect reason";
+        b = "screen";
+        u = "helmetCloth";
+        Ja = "commands.whitelist.enabled";
+        Z = "buildHoe";
+        q = "melon_stem";
+        g = "VertexFormat error: Trying to add a position VertexFormatElement when one already exists, ignoring.";
+    }
+}
+

@@ -1,0 +1,135 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class ura_3 {
+    public static final String Da;
+    public static final String ca;
+    public static final int Ja;
+    public static final String ja;
+    public static final float Ha;
+    public static final double Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final int V;
+    public static final int z;
+    public static final String X;
+    public static final int y;
+    public static final float U;
+    public static final int P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final double n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final int d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final int C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        X = "createWorld.customize.flat.tile";
+        d = 0x8B45DEE8 ^ 0x8B455EB8;
+        E = "\u0000\u0006\u0000\u0001\u0001\u0006\u0006\u0000\u0000\u0000\u0001\u0004\u0002\u1001\u0000\u0003\u1001\u0001\u0004\u1001\u0002\u0005\u1001\u0003\u0006\u1208\u0004";
+        G = "Ribbon2";
+        B = "tiles";
+        R = "command_block";
+        Ga = Double.longBitsToDouble(0xD6324A219C9A88A9L ^ 0x96BE6A219C9A88A9L);
+        A = "OPTIFINE_JEM";
+        L = "Can't parse item '";
+        s = "\u0417\u0430\u043f\u0440\u043e\u0441\u044b";
+        e = "Missing ')'";
+        W = "KEBAB";
+        N = "blazePowder";
+        l = "GL13.GL_PREVIOUS";
+        J = "GL11.GL_CLIP_PLANE5";
+        ca = "shadowtexNearest";
+        F = "/assets/minecraft/lang/en_US.lang";
+        Ha = Float.intBitsToFloat(0x1131A350 ^ 0x2E9D6F9D);
+        Ja = 0x425D40F9 ^ 0x425D428F;
+        P = 0x4FF137A1 ^ 0x4FF1AB2D;
+        v = "invertYMouse";
+        o = "HEAD_FULL";
+        V = 0x27CD3705 ^ 0x27CD3305;
+        p = "GRAPHICS";
+        a = "GL11.GL_ALPHA_SCALE";
+        I = "GL13.GL_TEXTURE_CUBE_MAP_POSITIVE_Z";
+        c = "#@?@# Game crashed! Crash report could not be saved. #@?@#";
+        Q = "hide_head";
+        q = "thunderTime";
+        O = "deepslateTileWall";
+        k = "RG32F";
+        Z = "textures/body/bat_wings.png";
+        u = "bronze";
+        T = "tuffBrickSlab";
+        Aa = "math.cos";
+        f = "Back.1b";
+        Da = "cherry_stairs";
+        Ka = ", requiresTool=";
+        n = Double.longBitsToDouble(0x5A22C0A5D268A68FL ^ 0x1AD2C0A5D268A68FL);
+        C = 0x3440A489 ^ 0xCBBF5B4D;
+        fa = "mcpatcher/color.properties";
+        M = "0.32, 0, 0.67, 0";
+        ja = "World";
+        i = "normalMapEnabled";
+        S = "suspended";
+        t = "\t";
+        b = "mangroveTrapdoor";
+        D = "FramebufferStatus 0x%04X at %s\n";
+        H = "singleplayer";
+        h = "mountHealth";
+        z = 0x5A9CD56A ^ 0x5A9CA00B;
+        x = "keyStatus:";
+        Y = "is_new_format";
+        g = "observer";
+        U = Float.intBitsToFloat(0xDD94928E ^ 0xE3262A4A);
+        y = 0xCE2BCDF0 ^ 0x4A3BDDE4;
+        w = "Right.Right8";
+        r = "game.neutral.hurt.fall.big";
+        j = "program.";
+        m = "SQUARE_BOTTOM_RIGHT";
+        K = "GL11.GL_OBJECT_PLANE";
+    }
+
+    public ura_3() {
+        ura_3 a2;
+    }
+}
+

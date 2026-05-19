@@ -1,0 +1,137 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class EQa_1 {
+    public static final String ga;
+    public static final String Da;
+    public static final int ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final double X;
+    public static final String y;
+    public static final int U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final int Q;
+    public static final String N;
+    public static final int T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final int W;
+    public static final double q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final int B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final int e;
+    public static final float G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final int j;
+    public static final int J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        b = "], value: ";
+        P = "crimson_slab";
+        x = ", when parsing: ";
+        V = "blue_wool";
+        L = "stat.cauldronFilled";
+        ca = 0x278D35EE ^ 0x278D70EE;
+        f = "purpur_stairs";
+        l = "biomes.";
+        I = "Normal";
+        fa = "commands.generic.boolean.invalid";
+        Q = 0x47CC6180 ^ 0x47CCE493;
+        p = "log_stripped3";
+        c = "Could not load configuration (";
+        K = "options.ao.min";
+        E = "DROPPED_ITEMS";
+        T = 0x9C6E8D44 ^ 0x9C6E8C6C;
+        F = "gl_caps[EXT_stencil_two_side]";
+        Ga = "texture";
+        z = "DROP_ALL_ITEMS";
+        B = 0xC49BC19F ^ 0xC49BC17F;
+        o = "Left.Shape45123";
+        X = Double.longBitsToDouble(0xA00EDC9E6FE93D69L ^ 0xE0445C9E6FE93D69L);
+        q = Double.longBitsToDouble(0x3CD637CECA04C083L ^ 0x7CA0E7CECA04C083L);
+        r = "CLOUD";
+        Y = "bo";
+        y = "oreCoal";
+        h = "BorderWarningBlocks";
+        Ka = "Direction";
+        A = "SHEEP";
+        u = "ex";
+        D = "flower_allium";
+        ga = "pale_oak_planks";
+        J = 0xB4316F54 ^ 0xB4E8A41E;
+        s = "facing=west,half=bottom,shape=outer_left";
+        M = "MASKIMAGE_NOT_SET";
+        a = "search";
+        ja = "textures/body/demonicwingstail.png";
+        m = "LeftHand.lreka";
+        v = "ofTime";
+        Ja = "GL11.GL_MAX_PIXEL_MAP_TABLE";
+        C = "SEND_AUDIO";
+        t = "min: ";
+        G = Float.intBitsToFloat(0x7A482238 ^ 0xBAD82238);
+        W = 0xAFEF9F77 ^ 0xAFEF9E27;
+        g = "bamboo_slab";
+        e = 0xD36087D8 ^ 0xD3609EDB;
+        N = "haste";
+        Aa = "cobbled_deepslate";
+        H = "password_";
+        Z = "Left.Shape18123";
+        j = 0x428D1D91 ^ 0x428D1E80;
+        i = "OPEN_INVENTORY_ACHIEVEMENT";
+        Da = "Removed selected resource pack {} because it's no longer compatible";
+        O = "Birch Forest Hills";
+        R = "random.bow";
+        k = "REBUILD_CHUNK";
+        S = "GL14.GL_POINT_DISTANCE_ATTENUATION";
+        U = 0xBD501141 ^ 0xBD505EE8;
+        n = "Payload may not be larger than 32767 bytes";
+        Ha = "CLOSE_GUI";
+        d = "CHUNK_UPDATES_DYNAMIC";
+        w = "polished_basalt";
+    }
+
+    public EQa_1() {
+        EQa_1 a2;
+    }
+}
+

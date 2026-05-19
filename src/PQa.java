@@ -1,0 +1,135 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class PQa {
+    public static final String Da;
+    public static final String ca;
+    public static final String Ja;
+    public static final float ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final int X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final int N;
+    public static final float T;
+    public static final String p;
+    public static final float n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final int x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final long e;
+    public static final String G;
+    public static final int D;
+    public static final String f;
+    public static final int F;
+    public static final String g;
+    public static final String L;
+    public static final int E;
+    public static final String m;
+    public static final double C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    public PQa() {
+        PQa a2;
+    }
+
+    static {
+        H = ", expected to find a JsonObject";
+        V = "FRLeg.Shape38";
+        Ja = "ender_eye";
+        Ga = "Shape34";
+        A = "right.Shape44";
+        f = "superSamplingLevel";
+        Ka = "netherFence";
+        J = "Actual block type";
+        g = "STRIPE_DOWNRIGHT";
+        R = "textures/gui/title/background/panorama_3.png";
+        ca = "splitter";
+        m = "redstoneDust(?:_(?:cross|line)(_overlay))?";
+        Z = "palette.block.";
+        ja = Float.intBitsToFloat(0xE72FE260 ^ 0xA436E260);
+        i = "stripe_downright";
+        E = 0xAC9DE65B ^ 0xAC9D216C;
+        j = "createWorld.customize.custom.useLavaOceans";
+        e = 0xA88DCD849CD746F7L ^ 0xA88DCD849CD74225L;
+        v = "sign.edit";
+        w = "composite6";
+        L = "cleaning";
+        h = "head.nose";
+        k = "GL11.GL_INT";
+        z = "chiseledPolishedBlackstone";
+        C = Double.longBitsToDouble(0x66C5905E9A9E3A5EL ^ 0x26A4F05E9A9E3A5EL);
+        T = Float.intBitsToFloat(0x33EC0F85 ^ 0xDE9113D);
+        p = "firstperson_righthand";
+        Da = "%=";
+        K = ".dry.name";
+        W = "flower_tulip_pink";
+        n = Float.intBitsToFloat(0x863CE34E ^ 0x47702F83);
+        d = "Could not find uniform named ";
+        B = "3a";
+        F = 0x149C6361 ^ 0x149CEF80;
+        U = "$";
+        t = "gl_caps[ARB_compute_shader]";
+        Ha = "playerKillCount";
+        G = "Unable to read or access folder where game worlds are saved!";
+        a = "Body.Shape20";
+        Aa = "GL11.GL_EMISSION";
+        Q = "brown_glazed_terracotta";
+        x = 0x923ED04C ^ 0x923E5030;
+        b = "blue_concrete_powder";
+        c = "fish";
+        s = "Failed to load options";
+        M = "EDITBB";
+        Y = "GL11.GL_ALPHA_TEST_REF";
+        u = "textures/misc/unknown_server.png";
+        o = "record_wait";
+        D = 0x87EDDDA ^ 0x87EDC71;
+        y = "Doors";
+        X = 0x2748327 ^ 0x27407ED;
+        P = "Error parsing: %s: %s";
+        O = "chickenCooked";
+        r = "mouseSensitivity:";
+        l = "\u00a7l";
+        q = "TextureItemOption{currentTexture=";
+        fa = "blockdata";
+        I = "textures/body/garlands5.png";
+        S = "mod";
+        N = 0xF0A87B45 ^ 0xF0A87A41;
+    }
+}
+

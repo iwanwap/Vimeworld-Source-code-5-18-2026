@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class UTa {
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final float Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final int y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final int R;
+    public static final String Q;
+    public static final String N;
+    public static final int T;
+    public static final float p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final float q;
+    public static final String x;
+    public static final String v;
+    public static final int o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final int c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final int L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final float k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        C = "gui";
+        F = "NoBasePlate";
+        U = "entities";
+        R = 0x4F11B158 ^ 0x4F11B1FE;
+        a = "ofStars:";
+        H = "lines_z";
+        n = " - in ";
+        q = Float.intBitsToFloat(0x9115E157 ^ 0x2E35E157);
+        b = "tmp";
+        z = "end_bricks";
+        W = "commands.stats.block.usage";
+        J = "MinecartHopper";
+        j = "ofShowCapes:";
+        Z = "gl_caps[EXT_texture_integer]";
+        L = 0x266CFBFB ^ 0x266CFB39;
+        ca = "Invalid ";
+        O = "Left.Shape26123";
+        Y = Float.intBitsToFloat(0x3AF6855C ^ 0x8779D975);
+        Ka = "commands.spreadplayers.failure.";
+        y = 0x6938756D ^ 0x69387E6E;
+        w = "createWorld.customize.custom.confirmTitle";
+        ja = "CPD";
+        P = "east=true,north=true,south=false,west=false";
+        T = 0x2A92C7D5 ^ 0x2A92C6BE;
+        X = "VC: audio log time ";
+        u = "lapisSize";
+        v = "show_";
+        p = Float.intBitsToFloat(0x5272C877 ^ 0x9012C877);
+        A = "Failed to generate key";
+        K = "Ticking memory connection";
+        i = "samplers[";
+        o = 0xFC6DD8CE ^ 0xFC6D5BAB;
+        Ha = "writingBook";
+        c = 0xF541521F ^ 0xF5415317;
+        r = "GL11.GL_ACCUM_RED_BITS";
+        s = "Front.11b";
+        t = "minecraft:blocks/lava_still";
+        m = "\u0422\u043e\u043b\u044c\u043a\u043e \u043f\u043e \u043f\u0440\u0438\u0433\u043b\u0430\u0448\u0435\u043d\u0438\u044e \u043e\u0442";
+        Q = "LL2";
+        d = "\u25bc";
+        x = "+=";
+        k = Float.intBitsToFloat(0x6D41A4B2 ^ 0x2DC4F1E7);
+        Ga = "blocks/";
+        S = "REMOVE2D";
+        I = "GL11.GL_RGB8";
+        G = "Failed load native libs";
+        N = "stackSize";
+        f = "of.options.CUSTOM_ITEMS";
+        E = "textureUnit: ";
+        Ja = "1.8.0";
+        Aa = "GL11.GL_PIXEL_MAP_I_TO_A_SIZE";
+        h = "PALE_OAK";
+        e = "method";
+        fa = "I just don't know what went wrong :(";
+        D = "Shape69123";
+        M = "Skipping Entity with id ";
+        g = "totalKillCount";
+        B = "LevelName";
+        l = "xw";
+        V = "Unknown NbtTagValue type: ";
+    }
+
+    public UTa() {
+        UTa a2;
+    }
+}
+

@@ -1,0 +1,135 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class zTa_1 {
+    public static final String Da;
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final int Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final float Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final int U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final int n;
+    public static final double s;
+    public static final float w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final int o;
+    public static final String h;
+    public static final int K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final int F;
+    public static final int g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final int C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    public zTa_1() {
+        zTa_1 a2;
+    }
+
+    static {
+        G = "achievement.";
+        R = "minecraft:emitter_shape_box";
+        i = "shadow fb";
+        y = "outer_right";
+        o = 0x7D15B8A0 ^ 0x7D15F8A6;
+        r = "X270_Y90";
+        Ga = "status";
+        fa = "Right.Right33";
+        a = " // Shader option ON";
+        m = "gaux2";
+        s = Double.longBitsToDouble(0x98193D84C04BD77AL ^ 0xD862FD84C04BD77AL);
+        B = " \u00a7f(\u00a7c\u041e\u0448\u0438\u0431\u043a\u0430 \u043f\u0440\u0438 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0435\u00a7f)";
+        Ka = 0x3EE5452F ^ 0x3EE547FF;
+        X = "AF_LEVEL";
+        e = "commands.generic.usage";
+        Ha = "Left.Shape27123";
+        h = "Is feature chunk";
+        C = 0x53D5AAFA ^ 0x53D5AA9F;
+        Y = Float.intBitsToFloat(0x631D2884 ^ 0x237F0912);
+        T = "ofBetterGrass:";
+        M = "sandstone";
+        f = "Assigned renderer";
+        j = "potion.prefix.potent";
+        W = "commands.particle.usage";
+        F = 0x91BF019E ^ 0x91BF83AE;
+        I = "passes[";
+        p = "Small";
+        n = 0xE0C612BD ^ 0xE0C61327;
+        S = "pickaxeGold";
+        V = "GL11.GL_LIST_MODE";
+        L = "scaleXval_";
+        Q = "Path";
+        u = "litParticles";
+        x = "BYTE[]";
+        ja = "GL11.GL_LEFT";
+        c = "helmetChain";
+        g = 0xC3740701 ^ 0xC3740A35;
+        H = "#R#";
+        N = "TOMATO";
+        b = "resource/";
+        ca = "eyeBrightnessSmooth";
+        P = "set_mini_map_zoom_percent";
+        q = "STRETCH";
+        l = "volume_";
+        v = ", insertion='";
+        J = "MC_GL_RENDERER_GALLIUM";
+        E = "east=true,north=false,south=true,up=false,west=false";
+        U = 0x8F0E58F ^ 0x8F079E8;
+        Ja = " as it does not exist in ";
+        z = "damp";
+        d = "hearts";
+        K = 0x956A6B9C ^ 0x956A6346;
+        A = "of.options.ANIMATED_SMOKE";
+        D = "glass_green";
+        w = Float.intBitsToFloat(0xA563344D ^ 0x64B3344D);
+        k = "points";
+        Da = "NOT_LOADED";
+        Aa = "checkGlErrors";
+        O = "Front.2a";
+        Z = ", shimmer=";
+        t = "SPRUCE_SAPLING";
+    }
+}
+

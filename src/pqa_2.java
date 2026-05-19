@@ -1,0 +1,137 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class pqa_2 {
+    public static final int ga;
+    public static final String Da;
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final float Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final int S;
+    public static final String Z;
+    public static final String Y;
+    public static final float r;
+    public static final String V;
+    public static final String z;
+    public static final int X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final int n;
+    public static final int s;
+    public static final String w;
+    public static final String W;
+    public static final double q;
+    public static final String x;
+    public static final String v;
+    public static final double o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final int c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final int b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final int g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        W = "set-all";
+        Aa = "\u0000\u0005\u0001\u0001\u0001\u0005\u0005\u0000\u0000\u0000\u0001\u1001\u0000\u00024\u0000\u00034\u0000\u0004\u023b\u0000\u0005\u023b\u0000";
+        A = "Couldn't sign book";
+        Ha = Float.intBitsToFloat(0x4241739E ^ 0x7D31739E);
+        r = Float.intBitsToFloat(0x1716BB37 ^ 0x2896BB37);
+        J = "VCR: connected";
+        Z = "Invalid category";
+        O = "diagonal_right";
+        n = 0xBF0CA3F6 ^ 0xBF0C2383;
+        R = "blaze_powder";
+        t = "closeOnEsc_";
+        H = "LastOutput";
+        b = 0xBBA4B8BE ^ 0xBBA448BA;
+        p = "achievement.buildSword";
+        k = "options.entityShadows";
+        x = "Body.Shape26";
+        Q = "deepslate_bricks";
+        B = "right.Shape50";
+        d = "Failed to verify username!";
+        f = "Piece1.Shape14";
+        g = 0x6E72F2A0 ^ 0x6E47D887;
+        T = "amethyst_ore";
+        y = "XpTotal";
+        z = "brewing_stand";
+        w = "bootsGold";
+        q = Double.longBitsToDouble(0xF9BD473D83E6A0D2L ^ 0x464D473D83E6A0D2L);
+        S = 0x1ED774D ^ 0x1EDEB3E;
+        G = "random.anvil_use";
+        Ga = "textures/entity/horse/horse_darkbrown.png";
+        m = "Skipped playing sound {}, volume was zero.";
+        ga = 0x26FA4DF5 ^ 0x26FA4DAA;
+        v = "r";
+        Ka = "ITEM_FRAME";
+        e = "X-Minecraft-Username";
+        E = "purple_stained_glass";
+        U = "ChunkNibbleArrays should be 2048 bytes not: ";
+        c = 0x4A8FB1DB ^ 0xB5704E2F;
+        j = "GL14.GL_DEPTH_COMPONENT24";
+        Ja = "options.stream.chat.enabled";
+        u = "\u4f48";
+        Da = "commands.kill.usage";
+        D = "ANDESITE";
+        N = "powered_comparator";
+        M = "Sprite being mipmapped";
+        l = "darkPrismarineSlab";
+        L = "Age";
+        s = 0x83185386 ^ 0x83185FE6;
+        P = "GL11.GL_EQUIV";
+        ca = "editEasingExpr_";
+        V = "Desert";
+        a = "\u0000\u0004\u0000\u0001\u0001\u0004\u0004\u0000\u0000\u0000\u0001\u1208\u0000\u0002\u1004\u0001\u0003\u0004\u0004\n";
+        C = "AttributeModifier{amount=";
+        i = "potion.";
+        o = Double.longBitsToDouble(0xEBED7708889E7D2EL ^ 0xAB829708889E7D2EL);
+        Y = "\u0421\u0442\u0440\u0435\u043b\u0430";
+        ja = "gold_ore";
+        F = "east=false,north=true,south=true,up=false,west=false";
+        fa = "fishingSpeed";
+        h = "pre-composite";
+        X = 0xF02F2242 ^ 0xF02F29D6;
+        K = "diorite";
+        I = "Minimum value cannot be bigger than maximum value!";
+    }
+
+    public pqa_2() {
+        pqa_2 a2;
+    }
+}
+

@@ -1,0 +1,137 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class kta_2 {
+    public static final String ga;
+    public static final double Da;
+    public static final String ca;
+    public static final int Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final int fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final float t;
+    public static final int R;
+    public static final float Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final int x;
+    public static final float v;
+    public static final String o;
+    public static final double h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final double d;
+    public static final int a;
+    public static final String b;
+    public static final int l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    public kta_2() {
+        kta_2 a2;
+    }
+
+    static {
+        b = "entity.zombiehorse.name";
+        v = Float.intBitsToFloat(0x8268F1E7 ^ 0xC268F1E7);
+        Da = Double.longBitsToDouble(0x1EBAFE6918FF6A43L ^ 0x5EDC7E6918FF6A43L);
+        Y = " for more information.";
+        R = 0x10142CD4 ^ 0x107260E7;
+        U = ", objectiveCriteria=";
+        Ja = 0x49F0F7AF ^ 0x49F0F440;
+        Ga = "localIds_";
+        Q = Float.intBitsToFloat(0x42D41FAD ^ 0x2372C9E);
+        ca = "Attribute is already registered!";
+        X = "LOCKED";
+        i = "0.37, 0, 0.63, 1";
+        A = "ALLIUM";
+        N = "RGB10_A2";
+        B = "HttpPipelineReceiver";
+        Ka = "chat.type.text";
+        ga = "COMMON";
+        w = "deepslateLapisOre";
+        t = Float.intBitsToFloat(0x59B5663E ^ 0x999CFFA4);
+        c = "DOTS";
+        k = "pistonBase";
+        W = "Failed while loading atlas \"{}\": {}";
+        K = "GL11.GL_ALPHA4";
+        g = "spider_eye";
+        C = "mob.ghast.fireball";
+        s = "selectWorld.mapType";
+        O = "Invalid status line: ";
+        o = ", chatHoverEvent=";
+        S = "Right.Right22";
+        I = "GL12.GL_UNSIGNED_INT_8_8_8_8_REV";
+        z = "Image element '";
+        y = "deadBubbleCoralBlock";
+        j = "RecordItem";
+        Ha = "of.options.ANIMATED_TERRAIN";
+        a = 0x46459BD3 ^ 0x46459917;
+        f = "bdo";
+        u = "Entity Type";
+        r = "Unable to write: ";
+        Z = "beefRaw";
+        E = "Colormap properties: ";
+        H = "successed";
+        V = "########0.00";
+        d = Double.longBitsToDouble(0xB0FD7DA5B8F768FL ^ 0x349E089CFB8F768FL);
+        e = "Players";
+        M = "\u0000\u0007\u0000\u0001\u0001\u0007\u0007\u0000\u0000\u0000\u0001\u100c\u0000\u0002\u1004\u0002\u0003\u1009\u0003\u0004\u1009\u0004\u0005\u1009\u0005\u0006\u1009\u0006\u0007\u1208\u0001";
+        m = "invertYMouse:";
+        P = "options.vsync";
+        D = "LIGHT_BLUE";
+        Aa = "right";
+        J = "textures/gui/container/dispenser.png";
+        q = "SMOKE_NORMAL";
+        G = "sheep/sheep";
+        ja = "BODY_DEFAULT";
+        x = 0xA75C3B08 ^ 0xA75C39F9;
+        n = "pink_stained_glass";
+        fa = 0xDD123F7D ^ 0xDD123964;
+        F = "DLDetector";
+        l = 0x94E420A5 ^ 0x94E42237;
+        h = Double.longBitsToDouble(0x47ED76254EC59D9AL ^ 0x780281EBAEC59D9AL);
+        p = "Failed to load texture: ";
+        T = "CustomSky";
+        L = "diamond_axe";
+    }
+}
+

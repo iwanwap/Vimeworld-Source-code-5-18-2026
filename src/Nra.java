@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class Nra {
+    public static final String ca;
+    public static final int Ja;
+    public static final int ja;
+    public static final String Ha;
+    public static final double Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final double V;
+    public static final String z;
+    public static final String X;
+    public static final int y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final long R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final int c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final double b;
+    public static final String l;
+    public static final float e;
+    public static final String G;
+    public static final float D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    public Nra() {
+        Nra a2;
+    }
+
+    static {
+        F = "gravity_";
+        fa = "2F";
+        Ja = 0x5D61D871 ^ 0x5DF841E8;
+        L = "deepslate_diamond_ore";
+        V = Double.longBitsToDouble(0x17A4369FD6EB9E31L ^ 0x5770B49FD6EB9E31L);
+        t = "variable.";
+        h = "effectTextColor";
+        l = "\u0412\u044b \u0445\u043e\u0442\u0438\u0442\u0435 \u043a\u0443\u043f\u0438\u0442\u044c \u043f\u0440\u0435\u0434\u043c\u0435\u0442, \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u0435\u0449\u0435 \u043d\u0435\u0442 \u043d\u0430 \u0441\u0435\u0440\u0432\u0435\u0440\u0435.";
+        b = Double.longBitsToDouble(0x56E5641AEE7724A0L ^ 0x690AE41AEE7724A0L);
+        O = "/_/";
+        v = "Right.Right19";
+        E = "Right.Right27";
+        p = "GL13.GL_SOURCE2_ALPHA";
+        y = 0xC055121B ^ 0xC0551FA8;
+        j = "\u0421\u043b\u0435\u0432\u0430";
+        B = "easeInQuad";
+        J = "\u0427\u0430\u0441\u0442\u0438\u0446\u044b";
+        g = "bambooSlab";
+        u = "pitch_";
+        Z = "double_plant_paeonia_bootom";
+        q = "offsetRight_";
+        c = 0xC71B52BD ^ 0xC71B51B9;
+        G = "Rendering item";
+        I = "options.chat.links.prompt";
+        Ka = "TextureAnimation: Target texture not found: ";
+        m = "Command";
+        n = "emote";
+        N = "_Evgexa_";
+        Q = ", found ";
+        K = "Merry X-mas!";
+        ja = 0x8527B6AA ^ 0x8527F9C7;
+        P = "fullscreen:";
+        X = "/default.png";
+        f = "COM";
+        r = ": expected number, was ";
+        W = "NeRC";
+        U = "dead_fire_coral_block";
+        S = "Exception reading ";
+        A = "createWorld.customize.custom.useLavaLakes";
+        Y = "MMM";
+        a = "LIGHT_DYNAMIC_BLOCKSKY";
+        w = "Shape17123";
+        C = "shadow setupterrain";
+        x = "BorderCenterX";
+        Aa = "SHA-256";
+        i = "textures/entity/horse/horse_creamy.png";
+        M = "Shaderpack upload error. Code ";
+        k = "AUX";
+        Ha = "query.";
+        H = "MASKELEMENT";
+        o = "options.guiScale";
+        ca = "q.player_yaw";
+        R = 0x6B69DF30034D2295L ^ 0x6B69DF30034D22B3L;
+        Ga = Double.longBitsToDouble(0x283939D357246F9BL ^ 0x685FD9D357246F9BL);
+        d = "Squid";
+        e = Float.intBitsToFloat(0x363CCBB2 ^ 0xBF0077F);
+        z = "GL13.GL_COMBINE_RGB";
+        D = Float.intBitsToFloat(0xB7DDED9F ^ 0x9A7D842);
+        s = "GL13.GL_TEXTURE6";
+        T = "frontlegtip";
+    }
+}
+

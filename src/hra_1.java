@@ -1,0 +1,131 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class hra_1 {
+    public static final int Ja;
+    public static final int ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final float Ka;
+    public static final String Aa;
+    public static final float S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final float z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final int P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final float a;
+    public static final int b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final int i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        E = "DOWN_Z";
+        R = "TODO: Sanely handle url exception! :D";
+        b = 0x94FC1F57 ^ 0xC4AC1FA8;
+        o = "selling";
+        V = "achievement.flyPig";
+        s = "center_";
+        x = "level";
+        D = "mcp";
+        a = Float.intBitsToFloat(0x4778F990 ^ 0x77EF301);
+        C = "EASE_IN_BOUNCE";
+        Ja = 0x3E7A686E ^ 0x3E7A696E;
+        M = "Unknown boolean: ";
+        Ka = Float.intBitsToFloat(0xCB0F226 ^ 0x30B0F226);
+        k = "Something went wrong when converting from HSV to RGB. Input was ";
+        J = "Modifiers";
+        t = "?t=";
+        Q = ", extraId=";
+        d = "cracked_deepslate_bricks";
+        K = "ofSwampColors";
+        A = "\u0000-\u0000\u0002\u0001--\u0000\u0001\u0000\u0001\u1208\u0000\u0002\f\u0003\u1002\u0002\u0004\u1001\u0003\u0005\u1001\u0004\u0006\u1001\u0007\u0007\u1006\t\b\u1001\u000b\t\u1001\f\n\u100f\u000f\u000b\u100c\u0010\f\u1009\u0011\r\u1009\u0012\u000e\u1009\u0013\u000f\u1007\u0014\u0010\u1007\u0015\u0011\u021a\u0012\u1009\u0017\u0013\u1001\n\u0014\u1009\u001a\u0015\u1009\u001b\u0016\u1009\u001c\u0017\u1009\u001d\u0018\u1009\u001e\u0019\u1009\u001f\u001a\u1009 \u001b\u1009!\u001c\u1009\"\u001d\u1009#\u001e\u1009$\u001f\u1009\u0018 \u1009%!\u1208\u0005\"\u1208\u0006#\u1208\b$\u1009&%\u1208\r&\u1208\u000e'\u1208\u0019(\u1009')\u1009(*\u1009)+\u1007\u0016,\u100a\u0001-\u1009*";
+        B = "modifiers";
+        Z = "Invalid party member null, all members: {}";
+        T = "bri";
+        G = "summon";
+        Ha = "advMode.previousOutput";
+        h = "FallDistance";
+        ja = 0x9913347C ^ 0x46ECCB83;
+        S = Float.intBitsToFloat(0xA1DF2105 ^ 0x60572105);
+        H = "options.guiScale.x10";
+        e = "VBOs are ";
+        fa = "HALF_VERTICAL_MIRROR";
+        m = "Client thread";
+        Ga = "HEIGHT";
+        j = "commands.testfor.success";
+        Y = "golden_carrot";
+        i = 0xA9024CE1 ^ 0xA9024D71;
+        U = "left_leg";
+        n = "MEDIUM";
+        O = "stairsWoodCrimson";
+        P = 0x2CD69D65 ^ 0x2CD61D0A;
+        L = "Someone's been tampering with the universe!";
+        y = "ofSmoothFps:";
+        r = ", blockpos=";
+        q = "SPECTATOR";
+        X = "online";
+        z = Float.intBitsToFloat(0x307220DE ^ 0xF20220DE);
+        u = "Nearest";
+        v = "\u0000\u0002\u0000\u0001\u0001\u0002\u0002\u0000\u0000\u0000\u0001\u1007\u0000\u0002\u1002\u0001";
+        Aa = "BRLeg";
+        I = "apple";
+        l = "ofDrippingWaterLava";
+        N = "\u041f\u043e\u0432\u043e\u0440\u043e\u0442 \u043a\u0430\u043c\u0435\u0440\u044b \u043f\u043e \u0447\u0430\u0441\u043e\u0432\u043e\u0439 \u0441\u0442\u0440\u0435\u043b\u043a\u0435";
+        g = "Couldn't verify username because servers are unavailable";
+        f = "Starting integrated minecraft server version 1.8.8";
+        c = "GL11.GL_NICEST";
+        p = "SUBTRACT";
+        w = "cherry_fence";
+        F = "Back.6a";
+        W = "checkDespawn";
+    }
+
+    public hra_1() {
+        hra_1 a2;
+    }
+}
+

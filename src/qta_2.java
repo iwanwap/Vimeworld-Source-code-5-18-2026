@@ -1,0 +1,135 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class qta_2 {
+    public static final String Da;
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final double Ka;
+    public static final String Aa;
+    public static final double S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final float X;
+    public static final int y;
+    public static final int U;
+    public static final String P;
+    public static final String u;
+    public static final float O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final int N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final float c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final float D;
+    public static final int f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final int m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        M = "animateTick";
+        L = "crimson_nylium";
+        v = "Explosions";
+        I = "north_east";
+        m = 0x92DC350B ^ 0x92DCB011;
+        V = "\u4fa2";
+        Ga = "mesa";
+        y = 0xD7CE0122 ^ 0xD7CE9D6F;
+        p = "minecraft:particle_initial_speed";
+        ca = "requiredVersion_";
+        B = "creeper";
+        e = "ExplosionRadius";
+        j = "GL11.GL_TEXTURE_BINDING_2D";
+        i = "rank";
+        U = 0x4E3C809A ^ 0xB5C37F65;
+        N = 0x50F9DF06 ^ 0x50F9DE86;
+        O = Float.intBitsToFloat(0xB02B0AE7 ^ 0x8FC19866);
+        H = "foot";
+        Da = "commands.scoreboard.teams.empty.usage";
+        F = "type_";
+        R = "Right.Right9";
+        T = "Left.Shape58123";
+        b = "TEX_MIN_FIL_S";
+        X = Float.intBitsToFloat(0xD016435C ^ 0x6EEC7681);
+        a = "\u0000\u000b\u0000\u0001\u0001\u000b\u000b\u0000\u0002\u0000\u0001\u1208\u0000\u0002\u1006\u0001\u0003\u1006\u0002\u0004\u1007\u0003\u0005\u1006\u0004\u0006\u1006\u0005\u0007\u001b\b\u001b\t\u1004\u0006\n\u1009\u0007\u000b\u1004\b";
+        A = "textures/entity/cat/siamese.png";
+        f = 0x74355EDE ^ 0x7435D666;
+        Ha = "GL11.GL_DEPTH_RANGE";
+        Z = "GL12.GL_UNSIGNED_SHORT_1_5_5_5_REV";
+        k = "_leaves";
+        C = "60";
+        W = "[OptiFine] ";
+        z = "basic_render_parameters";
+        x = "minecraft:container";
+        P = "chance";
+        r = "tile.beacon.primary";
+        D = Float.intBitsToFloat(0xAC799464 ^ 0xED099464);
+        G = "enchantment.damage.";
+        o = "of.options.ANIMATED_WATER";
+        d = "Entity being ticked";
+        S = Double.longBitsToDouble(0xB8F05BA57ECBD70FL ^ 0x870B68964DF8E43CL);
+        l = "GL15.GL_STATIC_COPY";
+        w = "mc_midTexCoord";
+        s = "cooked_chicken";
+        J = "vine";
+        K = "slim";
+        t = "21";
+        fa = "SPELL_WITCH";
+        Q = "textures/entity/horse/horse_markings_blackdots.png";
+        g = "Chunk: (at %d,%d,%d in %d,%d; contains blocks %d,0,%d to %d,255,%d)";
+        Ka = Double.longBitsToDouble(0x1D4416B022871F78L ^ 0x5AABE94FC2871F78L);
+        Y = "\u0000\u0002\u0000\u0001\u0001\u0002\u0002\u0000\u0000\u0000\u0001\u1009\u0000\u0002\u1009\u0001";
+        E = "item.emptyPotion.name";
+        h = "ops.json";
+        Ja = "), Age ";
+        ja = "Using ARB_texture_env_combine.\n";
+        u = "Illegal position";
+        n = "Tag type found";
+        q = "key.sneak";
+        c = Float.intBitsToFloat(0x6C2A641 ^ 0xB91033AB);
+        Aa = "BaseComponent{style=";
+    }
+
+    public qta_2() {
+        qta_2 a2;
+    }
+}
+

@@ -1,0 +1,137 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class aQa_1 {
+    public static final String ga;
+    public static final String Da;
+    public static final String ca;
+    public static final String Ja;
+    public static final int ja;
+    public static final int Ha;
+    public static final int Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final double r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final int N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final float W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final int o;
+    public static final String h;
+    public static final int K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final int d;
+    public static final int a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final float D;
+    public static final int f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        fa = "commands.op.failed";
+        B = "ITALIC";
+        z = "daylightDetector";
+        Da = "position_";
+        g = "right.Shape42";
+        i = "commands.kick.usage";
+        P = "/party public on";
+        V = "COURBET";
+        ja = 0x92DE2A62 ^ 0x92DE277B;
+        m = "mob.silverfish.hit";
+        H = "tuff_brick_slab_double";
+        c = "near";
+        p = "MANGROVE";
+        C = "[ \t]*const[ \t]*int[ \t]*(\\w+)Format[ \t]*=[ \t]*([RGBA0123456789FUI_SNORM]*)[ \t]*;.*";
+        A = "Left.Shape38123";
+        X = "createWorld.customize.presets.share";
+        b = "lreka";
+        j = "/party warp";
+        D = Float.intBitsToFloat(0x5C71FA65 ^ 0x9CE2C956);
+        r = Double.longBitsToDouble(0x5D78D2D173D57433L ^ 0x62ABE1E240E64700L);
+        J = "shadow updatechunks";
+        O = "GL11.GL_FOG_INDEX";
+        Q = "* Invalid book tag *";
+        t = "flower_blue_orchid";
+        ca = "loadingColor_";
+        Ha = 0x81FDAA83 ^ 0x81FD2F0B;
+        L = "textures/entity/horse/mule.png";
+        a = 0xFEF05E9F ^ 0xFEF0DA7F;
+        q = "GL12.GL_UNSIGNED_SHORT_4_4_4_4_REV";
+        N = 0x6C0C2E41 ^ 0x6C0CAE0A;
+        y = "ARB_framebuffer_object is ";
+        K = 0xBA2F7CF ^ 0xBA2F6CD;
+        d = 0x429FB63F ^ 0xBD6059C0;
+        Ka = "Use NearestAttackableTargetGoal.class for PathfinerMob mobs!";
+        Y = "cull";
+        T = "clone";
+        S = "TeDP";
+        o = 0x62D63814 ^ 0x62D6B398;
+        u = "CENTER";
+        Z = "STRIPE_LEFT";
+        l = "hoverGroup_";
+        W = Float.intBitsToFloat(0xF8568760 ^ 0x46F65E1D);
+        v = "profileProperties";
+        E = "Invalid value for ";
+        Ja = "drynessHalflife";
+        k = "-server.txt";
+        M = "mob.spider.say";
+        Ga = 0x1CB5C321 ^ 0x1CB5431A;
+        ga = "commands.stats.entity.clear.usage";
+        U = "_angry";
+        I = "os_name";
+        G = "items/potion_overlay";
+        f = 0x60599729 ^ 0x60590B76;
+        R = ", textualId='";
+        Aa = "HUD";
+        s = "commands.generic.double.tooSmall";
+        n = "HEAD_FACE";
+        x = "Loading image '";
+        F = "FLOATVAL";
+        w = "rail";
+        h = "leather_leggings";
+        e = "gbuffers_textured_lit";
+    }
+
+    public aQa_1() {
+        aQa_1 a2;
+    }
+}
+

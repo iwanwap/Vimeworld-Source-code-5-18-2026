@@ -1,0 +1,135 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class wPa_1 {
+    public static final String Da;
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final float Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final int r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final int y;
+    public static final String U;
+    public static final int P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final double Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final int d;
+    public static final String a;
+    public static final float b;
+    public static final String l;
+    public static final String e;
+    public static final float G;
+    public static final float D;
+    public static final String f;
+    public static final float F;
+    public static final String g;
+    public static final float L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    public wPa_1() {
+        wPa_1 a2;
+    }
+
+    static {
+        fa = "Chest";
+        f = "TileY";
+        V = "q.gui";
+        Z = "Error in resource loader task";
+        j = "key.screenshot";
+        I = "textures/gui/book.png";
+        ca = "stone_brick_slab";
+        J = "achievement.buildWorkBench";
+        W = "gbuffers_skybasic";
+        F = Float.intBitsToFloat(0x14241DA7 ^ 0x2A841DA7);
+        Ja = "container.inventory";
+        O = "value";
+        r = 0xE7334CF4 ^ 0xE7334DA3;
+        Da = "CLEAR";
+        k = "Count";
+        R = "GL11.GL_FOG_MODE";
+        a = "pink_concrete_powder";
+        Ga = "Pos";
+        Ka = "\u0420\u0443\u043a\u0438";
+        D = Float.intBitsToFloat(0x3D7210FE ^ 0x24F605A);
+        x = "lerp_mode";
+        L = Float.intBitsToFloat(0xCFA4DCE3 ^ 0xF5870BE9);
+        u = "mellohi";
+        S = "STREAM_COMPRESSION";
+        t = "_invulnerable";
+        b = Float.intBitsToFloat(0x8F830490 ^ 0xC9030490);
+        U = "CustomPotionEffects";
+        H = "AffectedBlocks";
+        E = "LanServerPinger #";
+        Y = "CatType";
+        l = "ARMS_FULL";
+        N = "GL11.GL_SUBPIXEL_BITS";
+        A = "cbo";
+        C = "&c\u0423\u043a\u0430\u0437\u0430\u043d\u043d\u044b\u0439 \u0440\u0435\u0436\u0438\u043c \u0441\u0433\u043b\u0430\u0436\u0438\u0432\u0430\u043d\u0438\u044f \u043d\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442";
+        X = "animations/pet/grinchpet_animation.json";
+        d = 0xE9491227 ^ 0xE949097F;
+        m = "death";
+        n = "tool";
+        y = 0x133B1DED ^ 0x133B9275;
+        h = "uniform [ _a-zA-Z0-9]+ shadowcolor;.*";
+        K = "createWorld.customize.custom.useMineShafts";
+        s = "Image '";
+        B = "up_z";
+        G = Float.intBitsToFloat(0xFE82813B ^ 0xC15C3969);
+        p = "achievement.spawnWither";
+        g = "SET_POINT_ANIMATED";
+        T = "STRAIGHT_CROSS";
+        e = "\u5016 \u0415\u0441\u0442\u044c \u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u044f";
+        i = " is already assigned to protocol ";
+        o = "variable.particle_random_4";
+        w = "Invalid party leader null";
+        M = "options.guiScale.normal";
+        c = "mud";
+        P = 0xA63919B8 ^ 0xA6399932;
+        q = "leggings";
+        Aa = "gl_caps[EXT_texture_sRGB]";
+        Ha = Float.intBitsToFloat(0x6280A391 ^ 0xA08CA391);
+        ja = "Redstone Ready";
+        v = "ANIMATED_TERRAIN";
+        Q = Double.longBitsToDouble(0xB445DD7857C45B20L ^ 0xF41BDD7857C45B20L);
+        z = "EASE_IN_OUT_BOUNCE";
+    }
+}
+

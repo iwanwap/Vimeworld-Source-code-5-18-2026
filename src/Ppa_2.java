@@ -1,0 +1,131 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class Ppa_2 {
+    public static final String Ja;
+    public static final String ja;
+    public static final float Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final int Ka;
+    public static final String Aa;
+    public static final int S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final int Q;
+    public static final double N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final int K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final int i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final float J;
+    public static final int A;
+    public static final String I;
+
+    static {
+        I = "start can't be > end: ";
+        M = "with";
+        w = "GL14.GL_MAX_TEXTURE_LOD_BIAS";
+        e = "\u041a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u044f";
+        i = 0x6BAC0F2F ^ 0x6BAC80B6;
+        j = "%s/%s/%s";
+        F = "container.enchant.clue";
+        k = "Right.Right55";
+        C = "Invalid pitch";
+        a = "Remove not allowed.";
+        Ha = Float.intBitsToFloat(0x1A4CC543 ^ 0xDA6CC543);
+        s = "ofTime:";
+        d = "Unable to get CW facing for axis ";
+        x = "\u0413\u043e\u043b\u043e\u0432\u0430";
+        n = "EXPLOSION_HUGE";
+        Z = "scaleYExact_";
+        A = 0xD18E7979 ^ 0xD18EFD21;
+        H = "selectServer.deleteButton";
+        Ja = "animations/pet/megabox_animation.json";
+        U = "of.options.DROPPED_ITEMS";
+        K = 0xC1116F15 ^ 0xC1116F60;
+        T = "Guardian";
+        fa = "Left.Shape37123";
+        y = "easeInOutBack";
+        ja = "CRACKED";
+        R = "SALMON";
+        Q = 0x6069ADCB ^ 0x6069A66C;
+        V = "gl_caps[ARB_map_buffer_range]";
+        L = "warped_door";
+        h = "' \u043d\u0435 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442\u0441\u044f";
+        D = "Particle Type";
+        v = "VOID";
+        W = "\u0441\u0438\u043d\u0438\u043c \u0446\u0432\u0435\u0442\u043e\u043c \u0432 \u0434\u0435\u0440\u0435\u0432\u0435.";
+        S = 0x16AEDD14 ^ 0x16AED694;
+        f = "warped_trapdoor";
+        P = "RHOMBUS_MIDDLE";
+        J = Float.intBitsToFloat(0x8F4F33 ^ 0x3FD5A012);
+        q = "shaders/post/spider.json";
+        u = "Unsupported mob type for FollowOwnerGoal";
+        E = ", subSlots=";
+        p = "BODY";
+        X = "screenHeight_";
+        b = "transportation";
+        g = "https://";
+        Ka = 0x3576CCB4 ^ 0x3576D9B3;
+        z = "[ \t]*const[ \t]*bool[ \t]*generateShadowColorMipmap[ \t]*=[ \t]*true[ \t]*;.*";
+        N = Double.longBitsToDouble(0x51866A067B40E09DL ^ 0x1100BA067B40E09DL);
+        Aa = "horizontal";
+        m = "deepslateBrickSlab";
+        O = "Error executing task";
+        t = "mangrove_fence_gate";
+        G = "GL11.GL_MAP1_COLOR_4";
+        Y = "GL11.GL_MODULATE";
+        c = "lime_wool";
+        Ga = "xExact_";
+        r = "eyeBrightnessHalflife";
+        l = "GL11.GL_POLYGON_MODE";
+        o = "of.message.an.shaders1";
+        B = " \u00a77=\u00a7a ";
+    }
+
+    public Ppa_2() {
+        Ppa_2 a2;
+    }
+}
+

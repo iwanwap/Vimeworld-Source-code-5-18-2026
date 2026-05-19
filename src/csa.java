@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class csa {
+    public static final String ca;
+    public static final String Ja;
+    public static final int ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final int fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final float r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final float P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final int Q;
+    public static final String N;
+    public static final int T;
+    public static final float p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final int W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final int M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final int A;
+    public static final String I;
+
+    static {
+        Aa = "MC|Beacon";
+        ja = 0x7545DB4D ^ 0x7545940F;
+        Ga = "flowerPot";
+        D = "achievement.cookFish";
+        T = 0x909FB674 ^ 0x909FB74C;
+        L = " moved too quickly! ";
+        F = "Couldn't connect to server";
+        k = "math.atan2";
+        a = "milk_bucket";
+        J = "dodge";
+        Ja = "image-shadow";
+        l = "Shape15123";
+        Ka = "\u4ed7";
+        o = "daylight_detector";
+        K = "blocks/destroy_stage_7";
+        E = "pale_oak";
+        B = "RESOURCECHECK";
+        d = "heldItemTooltips";
+        I = "textures/pet/pinatapet.png";
+        m = "REMOVE_2D";
+        h = "Already open";
+        W = 0xC54B797C ^ 0xC54B776C;
+        ca = "fixedBiome";
+        R = "UUIDLeast";
+        S = "stonebrick";
+        G = "blend";
+        g = "BLOCK_DUST";
+        y = " block)";
+        V = "GL15.GL_ELEMENT_ARRAY_BUFFER";
+        Q = 0x5398A4BA ^ 0x5398A5A3;
+        C = "LAGOMETER";
+        f = "Piece1.Shape23";
+        n = "commands.testfor.tagError";
+        U = "rotation_";
+        r = Float.intBitsToFloat(0xC21D9BD0 ^ 0x839B9BD0);
+        v = "textures/entity/endercrystal/endercrystal_beam.png";
+        e = "body.scale";
+        i = "getDesktop";
+        c = "random.anvil_break";
+        M = 0x40CAB25E ^ 0x40CAB55F;
+        N = "Courbet";
+        fa = 0x81413CEF ^ 0x814149D2;
+        A = 0x458EB446 ^ 0x458EB417;
+        X = "Right.Right53";
+        b = "{trigs=";
+        q = "Invulnerable";
+        H = "netherStar";
+        O = "redstone_dust_line_overlay";
+        w = "\n\tat ";
+        z = "options.ao.max";
+        P = Float.intBitsToFloat(0xD34F6EF9 ^ 0x120F6EF9);
+        s = "shake_";
+        t = "GL11.GL_ALPHA_BIAS";
+        Z = "Time ran backwards! Did the system time change?";
+        p = Float.intBitsToFloat(0xE892A1E1 ^ 0x2EB941E1);
+        j = "blockbuster:particle_collision_tinting";
+        u = ", z=";
+        Y = "localResources_";
+        x = "upperLimitScale";
+        Ha = "SOUTH_EAST";
+    }
+
+    public csa() {
+        csa a2;
+    }
+}
+

@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class xOa_1 {
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final float T;
+    public static final int p;
+    public static final String n;
+    public static final String s;
+    public static final float w;
+    public static final String W;
+    public static final String q;
+    public static final int x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final int K;
+    public static final int H;
+    public static final String c;
+    public static final float B;
+    public static final String d;
+    public static final String a;
+    public static final float b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final float m;
+    public static final float C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        ja = "ofMipmapType:";
+        H = 0xCA965947 ^ 0xCA96C53B;
+        m = Float.intBitsToFloat(0x246A31DA ^ 0x19F2794C);
+        y = "\u0000\u0006\u0001\u0000\u0001\u0006\u0006\u0000\u0000\u0000\u0001<\u0000\u0002<\u0000\u0003<\u0000\u0004<\u0000\u0005<\u0000\u0006<\u0000";
+        X = "of.options.PROFILER";
+        D = "Attempt ";
+        P = "Shape59123";
+        n = "Invalid animated texture length: ";
+        W = "location_";
+        z = "Shape92";
+        o = "Head.Shape5";
+        M = "background";
+        Ka = "horsearmormetal";
+        Ha = "Loading sound '";
+        J = "SpawnCount";
+        Y = "disable-clouds";
+        q = "skins/";
+        Ga = "created";
+        Q = "jungle_door";
+        Aa = ", expected to find a Int";
+        Ja = "Right56";
+        N = "imageCase_";
+        A = "flip";
+        p = 0x10746F19 ^ 0x10741A4D;
+        d = "Zombie reinforcement callee charge";
+        Z = "redstoneDust";
+        t = "oreEmerald";
+        l = "player";
+        S = "chatHeightFocused:";
+        k = "polished_deepslate_stairs";
+        E = "ALBAN";
+        U = "clayHardenedStained";
+        r = "Piece1.Shape92";
+        e = "hollow";
+        j = "<rest>";
+        u = "commands.fill.failed";
+        c = "textures/gui/title/background/panorama_1.png";
+        K = 0x287FC945 ^ 0x287FCBA8;
+        g = "deepslateGoldOre";
+        I = "GL11.GL_INVALID_ENUM";
+        F = "GL11.GL_NORMALIZE";
+        O = "capes";
+        V = "RIGHT_CLICK_AIR";
+        G = "Wetness halflife: ";
+        w = Float.intBitsToFloat(0x4D645FB5 ^ 0x8D8DC62F);
+        f = "Head.22";
+        T = Float.intBitsToFloat(0xC999AA02 ^ 0x921AA02);
+        ca = "textures/entity/cow/mooshroom.png";
+        h = " &a\u0441\u043a\u0440\u044b\u0442";
+        C = Float.intBitsToFloat(0xCC402CB5 ^ 0x8C264AD3);
+        v = "red_carpet";
+        fa = "\u041f\u0440\u043e\u0446\u0435\u043d\u0442";
+        a = "ofWeather:";
+        s = "Couldn't delete file ";
+        b = Float.intBitsToFloat(0xDC87F74 ^ 0x3368A608);
+        L = "Couldn't open file";
+        i = "mossy_cobblestone_wall";
+        B = Float.intBitsToFloat(0x1A893F1 ^ 0x3EC893F1);
+        R = "MC_OS_MAC";
+        x = 0x4AF54738 ^ 0x4AF5B727;
+    }
+
+    public xOa_1() {
+        xOa_1 a2;
+    }
+}
+

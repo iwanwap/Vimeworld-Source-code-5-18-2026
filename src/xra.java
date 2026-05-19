@@ -1,0 +1,137 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class xra {
+    public static final String ga;
+    public static final String Da;
+    public static final String ca;
+    public static final String Ja;
+    public static final int ja;
+    public static final String Ha;
+    public static final float Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final float Z;
+    public static final String Y;
+    public static final String r;
+    public static final int V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final int R;
+    public static final String Q;
+    public static final String N;
+    public static final int T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final float K;
+    public static final String H;
+    public static final String c;
+    public static final float B;
+    public static final String d;
+    public static final String a;
+    public static final long b;
+    public static final String l;
+    public static final double e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final int M;
+    public static final int k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    public xra() {
+        xra a2;
+    }
+
+    static {
+        n = "of.message.shaders.aa2";
+        x = "polishedDeepslate";
+        X = "CustomItems file not found: ";
+        y = "GL11.GL_MAP1_NORMAL";
+        c = "rz";
+        G = "Tiles not defined: ";
+        Da = "(Unknown file)";
+        ga = "Left.Shape35123";
+        D = "netherStalk";
+        J = "Output target '";
+        o = "streamSendMetadata";
+        I = "of.options.shaders.NORMAL_MAP";
+        q = "helmetNetherite";
+        d = "t";
+        W = "CROSS";
+        ca = "Shape53123";
+        l = "shaders";
+        Aa = "LeftLeg2";
+        P = ", maxPlayers: ";
+        U = ", available: ";
+        K = Float.intBitsToFloat(0x9B3BBA78 ^ 0x248F6C4C);
+        v = "diamond_boots";
+        B = Float.intBitsToFloat(0x46D08230 ^ 0x790FE7CE);
+        b = 0xB911B1916C44C6C2L ^ 0xB911B1916C44C066L;
+        R = 0x94BDF571 ^ 0x941D55D1;
+        O = "del dfb";
+        Ga = Float.intBitsToFloat(0x8B631B18 ^ 0xC8131B18);
+        F = "Right.Right3";
+        Ha = "potion.prefix.clear";
+        A = "\u0412\u044b \u0445\u043e\u0442\u0438\u0442\u0435 \u043a\u0443\u043f\u0438\u0442\u044c \u043f\u0440\u0435\u0434\u043c\u0435\u0442, \u043d\u043e \u043e\u043d \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439.";
+        u = "Redwood Taiga Hills M";
+        T = 0xC71A9843 ^ 0xC71A9A8A;
+        r = "container.enchant";
+        Y = "Shape43";
+        j = "of.options.SKY";
+        E = "fall";
+        Ka = "MC_GL_RENDERER_INTEL";
+        w = "kick";
+        S = "'to' specifier exceeds the allowed boundaries: ";
+        C = "weights";
+        t = "java.vm.info";
+        V = 0x7B6659BB ^ 0x7B665B66;
+        fa = "SS";
+        m = "effectTextColor:";
+        H = "of.options.CLEAR_WATER";
+        ja = 0x83997C82 ^ 0x83997C57;
+        N = "X180_Y0";
+        z = "createWorld.customize.custom.waterLakeChance";
+        f = "Unsupported mob type for RestrictOpenDoorGoal";
+        p = "Right42";
+        a = "swordGold";
+        M = 0xCF47D413 ^ 0xCF47D68C;
+        i = "Can't inflate ";
+        s = "No element selected";
+        k = 0x37E8517D ^ 0x37E8506B;
+        L = "mob.wolf.whine";
+        e = Double.longBitsToDouble(0xA7A434230EC2F28L ^ 0x3597CC87346D4028L);
+        Ja = "Biome: ";
+        h = "ARMOR_FEET";
+        Q = "gl_caps[ARB_texture_border_clamp]";
+        g = "ShadersMod version: 2.4.12";
+        Z = Float.intBitsToFloat(0xE812B7AA ^ 0x57A1CE0D);
+    }
+}
+

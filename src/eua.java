@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class eua {
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final int fa;
+    public static final String Ka;
+    public static final int Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final int P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final float n;
+    public static final String s;
+    public static final String w;
+    public static final int W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final float l;
+    public static final String e;
+    public static final int G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final int g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final float C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final int A;
+    public static final String I;
+
+    static {
+        s = "shaders/post/entity_outline.json";
+        w = "Mouse location";
+        h = "GL14.GL_POINT_FADE_THRESHOLD_SIZE";
+        U = "&a\u041a\u0430\u043c\u0435\u0440\u0430 \u0431\u0443\u0434\u0435\u0442 \u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u044c \u0437\u0430 \u0432\u0430\u043c\u0438";
+        I = "==";
+        D = " to be a Float, was ";
+        E = "ABERRATION";
+        c = "fireworks";
+        V = "title_";
+        z = "birch_stairs";
+        Ja = "builtin/customblock/";
+        Aa = 0x2E43F584 ^ 0x2E43F0FC;
+        T = "an array (";
+        N = "Failed to load dynamic items ";
+        K = "facing=west,half=bottom,shape=inner_right";
+        n = Float.intBitsToFloat(0xD6DB4511 ^ 0x691789DC);
+        G = 0x2E65362A ^ 0x2E654313;
+        O = "Inventory";
+        X = " is missing block data, skipping";
+        d = "integer";
+        L = "ambient";
+        ca = "c";
+        g = 0xC69E87BC ^ 0xC69E8C9E;
+        q = "SHADER_PACK";
+        o = "black_currant";
+        Y = "@";
+        S = "\u041d\u0430\u043a\u043b\u043e\u043d \u043f\u043e \u0443\u043c\u043e\u043b\u0447\u0430\u043d\u0438\u044e";
+        b = "polished_tuff_wall";
+        t = "alpha";
+        ja = "host_";
+        k = "FLLeg.Shape36";
+        f = "green_concrete";
+        e = "[ \t]*const[ \t]*bool[ \t]*(\\w+)Clear[ \t]*=[ \t]*false[ \t]*;.*";
+        J = "Colormap not found: ";
+        fa = 0x168BD40F ^ 0xC9824BD1;
+        u = "Track Edit";
+        A = 0xE1DC5CA0 ^ 0xE1DCC032;
+        P = 0x32A5AD8E ^ 0x32A5ED8A;
+        W = 0x6508D525 ^ 0x65085564;
+        l = Float.intBitsToFloat(0x2000375D ^ 0x9F19AEC7);
+        Ha = "createWorld.customize.flat.title";
+        B = "of.options.shaders.CLOUD_SHADOW";
+        Q = "commands.scoreboard.teams.leave.failure";
+        m = "Delta";
+        Ga = "of.options.FULLSCREEN_MODE";
+        y = "image-armor-layer";
+        x = "PlayerScores";
+        Ka = "PADDING";
+        p = "ARMS_IN";
+        H = ", blocks: ";
+        a = "multiplayer.downloadingStats";
+        R = "composite3";
+        v = "GL error 0x%04X: %s at %s\n";
+        i = "Invalid call to Particle.setTex, use coordinate methods";
+        j = "model_chest";
+        M = "Shape20";
+        r = "OUTDATED_CLIENT";
+        Z = "visible";
+        C = Float.intBitsToFloat(0x875202CB ^ 0xC7F202CB);
+        F = "headTurn";
+    }
+
+    public eua() {
+        eua a2;
+    }
+}
+

@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class hQa {
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final long Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final int u;
+    public static final String O;
+    public static final String t;
+    public static final int R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final float p;
+    public static final String n;
+    public static final String s;
+    public static final int w;
+    public static final String W;
+    public static final int q;
+    public static final double x;
+    public static final String v;
+    public static final String o;
+    public static final double h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final int a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final int k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    public hQa() {
+        hQa a2;
+    }
+
+    static {
+        L = "--userProperties";
+        M = "controls";
+        u = 0x6D84C3E3 ^ 0x6D24C31C;
+        I = "achievement.buildBetterPickaxe";
+        G = "wolf/wolf_tame";
+        b = "outer_stairs";
+        j = "X-Minecraft-Version";
+        Ka = 0xC1585671FF5601CAL ^ 0xC1585671FF5601C6L;
+        B = "constant is changed";
+        K = "sub1_";
+        k = 0x7084662C ^ 0x705699D3;
+        X = "Locked";
+        s = "options.gamma.min";
+        A = "customized";
+        x = Double.longBitsToDouble(0xE9A509CDC07D16FEL ^ 0xA98D09CDC07D16FEL);
+        e = "VCR: audio end for {}";
+        Z = "\u00a7b\u0417\u0438\u043c\u043d\u044f\u044f \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u044f";
+        D = "east=false,north=false,south=false,west=false";
+        t = "chainmail_boots";
+        a = 0xF3EEFCBA ^ 0xF3EEFC63;
+        v = "CLASSNAME";
+        y = "Right39";
+        W = "jobs";
+        Q = "Couldn't parse return '";
+        r = "OpenGL 3.0 is ";
+        E = "useLavaOceans";
+        C = "minecraft:particle_motion_parametric";
+        w = 0x42EC2476 ^ 0x42EC3D70;
+        Ga = "nostril";
+        P = "commands.tp.notSameDimension";
+        N = "streamSendMetadata:";
+        U = "commands.trigger.invalidMode";
+        ja = "gl_caps[EXT_stencil_clear_tag]";
+        fa = "swampfoliage.png";
+        Y = "mob.silverfish.step";
+        V = "Invalid path: ";
+        Ja = "cat";
+        q = 0x8A5D0A63 ^ 0x8A5D0805;
+        n = "samplers";
+        Aa = "connect.connecting";
+        m = "GL11.GL_FOG";
+        J = "ANGLEZANIM";
+        g = "F6";
+        H = "commands.players.list";
+        o = "vertex: ";
+        d = "Couldn't open link with rundll32";
+        h = Double.longBitsToDouble(0xCFE60D58B116676AL ^ 0xF009A34C3116676AL);
+        f = "textures/gui/title/mojang.png";
+        R = 0xC53B0620 ^ 0xC53B9AEB;
+        T = "mcpatcher/mob/";
+        i = "origin";
+        ca = "UP";
+        F = "DIGGER";
+        Ha = "achievement.overpowered";
+        z = "GL13.GL_SOURCE1_RGB";
+        S = "TE(";
+        l = ", array: ";
+        O = "renderHint_";
+        c = "frontleg";
+        p = Float.intBitsToFloat(0x37FAAA0 ^ 0x3CAAFFF5);
+    }
+}
+

@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class Zpa_1 {
+    public static final double ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final double P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final int R;
+    public static final int Q;
+    public static final String N;
+    public static final String T;
+    public static final int p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final float o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final double e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final float L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final int i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final int I;
+
+    public Zpa_1() {
+        Zpa_1 a2;
+    }
+
+    static {
+        B = "Pig";
+        D = "east";
+        L = Float.intBitsToFloat(0x6420F51C ^ 0x5976824C);
+        j = "assets/minecraft/models/block/cube_all.json";
+        p = 0x18568F8B ^ 0x18560EA4;
+        o = Float.intBitsToFloat(0x91B7F1D7 ^ 0xD19197B1);
+        Aa = "hide-hotbar";
+        g = "potion.damageBoost";
+        a = "lookat_y";
+        r = "commands.generic.notFound";
+        u = "nodes";
+        W = "lightmap";
+        b = "Error while parsing: %s";
+        X = "potion.waterBreathing";
+        P = Double.longBitsToDouble(0x2D43571FB1F7BED3L ^ 0x12A091B85E6A0CFEL);
+        Q = 0xAD552301 ^ 0xAD552230;
+        v = "foodLevel";
+        J = "variable.particle_lifetime";
+        S = "nose";
+        Ka = "ScaleItems";
+        U = "golden_rail";
+        c = "GL11.GL_TEXTURE_COMPONENTS";
+        I = 0xCBB53D41 ^ 0xCBB53DAD;
+        T = "durability";
+        Ha = ", italic=";
+        N = "Amplifier";
+        fa = "gradient_up";
+        F = "1-dstalpha";
+        ja = "PENDING";
+        Y = "GROUP";
+        e = Double.longBitsToDouble(0xC6F69F157112B26BL ^ 0x86A61F157112B26BL);
+        R = 0x8C89358F ^ 0x8C894A1B;
+        G = "GL11.GL_COLOR_ARRAY";
+        l = "ofOcclusionFancy:";
+        ca = Double.longBitsToDouble(0x616DA289B700C8EL ^ 0x39F5E91BDB700C8EL);
+        K = "lit_redstone_ore";
+        k = "stripe_right";
+        A = "Could not load camera path";
+        Ja = "Set static field error";
+        m = "profile_uuid";
+        y = "infinity";
+        M = "orange_glazed_terracotta";
+        f = "iron_block";
+        Ga = "GL11.GL_COLOR_WRITEMASK";
+        d = "Right58";
+        V = "COM3";
+        O = "coalSize";
+        s = "\u0422\u043e\u043b\u044c\u043a\u043e \u0437\u0430\u044f\u0432\u043a\u0438";
+        z = "minecraft:blocks/destroy_stage_";
+        q = "][mode]";
+        h = "render";
+        n = "achievement.diamondsToYou";
+        E = "SURVIVAL";
+        Z = "commands.blockdata.success";
+        C = "netherite_leggings";
+        H = "east=true,north=false,south=false,up=false,west=true";
+        w = "Java model not found for item ";
+        i = 0xA2C5DCFF ^ 0xA2C59233;
+        x = "type";
+        t = "Set listener of {} to {}";
+    }
+}
+

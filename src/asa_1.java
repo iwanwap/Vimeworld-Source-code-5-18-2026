@@ -1,0 +1,131 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class asa_1 {
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final long fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final float S;
+    public static final int Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final int z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final long O;
+    public static final float t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final float o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final int F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final int C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        Ga = "Failed to decrypt chunk coords";
+        a = "Shape12";
+        f = "commands.particle.success";
+        k = "GL11.GL_FOG_END";
+        J = "\u0412\u0438\u0442\u0440\u0438\u043d\u0430";
+        x = "commands.scoreboard.usage";
+        V = "TeamColor";
+        L = "hoverColorValCase_";
+        X = "textures/atlas/blocks.png";
+        G = "[MiniDot] Could not read item meta index file";
+        w = "third-person-distance";
+        T = "textures/pet/spinner_fl3.png";
+        E = "sell";
+        b = "stage";
+        p = "commands.stats.usage";
+        I = "soul_sand";
+        v = "bow_pulling_2";
+        F = 0x1C2991A0 ^ 0x1C2993FF;
+        d = "RED_TULIP";
+        i = "Knockback Resistance";
+        e = "msg";
+        t = Float.intBitsToFloat(0xE3B6137F ^ 0xDD56137F);
+        ja = "brewing";
+        u = "screen.";
+        q = "Kebab";
+        y = " texture";
+        g = "Shape39123";
+        N = "DIAGONAL_LEFT";
+        A = " in profile: ";
+        Y = "\u0417\u0430 ";
+        m = "OW KNOWS!";
+        c = " | ";
+        o = Float.intBitsToFloat(0xF77E6E66 ^ 0xB0FE6E66);
+        M = "nickname_";
+        h = "[ \t]*const[ \t]*float[ \t]*shadowDistanceRenderMul[ \t]*=[ \t]*-?[0-9.]+f?;.*";
+        C = 0xF472D914 ^ 0xE78C615;
+        Ja = "right.Shape33";
+        D = "stream";
+        H = "BIT_XOR";
+        Q = "blocks/lava_still";
+        Aa = "deepslate_copper_ore";
+        P = "You are banned from this server!\nReason: ";
+        z = 0x5D766A40 ^ 0x5D767F44;
+        s = "createWorld.customize.custom.preset.waterWorld";
+        j = "cache";
+        R = "This doesn't make any sense!";
+        W = "29";
+        K = "square_top_right";
+        O = 0xD58AF4AABEA454EAL ^ 0xD58AF4AABEA44A05L;
+        S = Float.intBitsToFloat(0x3A5E11D9 ^ 0xFB1ADD14);
+        Ha = "IRON_DOOR";
+        r = "chestplateCloth";
+        n = "GL11.GL_ATTRIB_STACK_DEPTH";
+        l = "chatVisibility";
+        B = "achievement.makeBread";
+        Ka = "Now with the same numbers";
+        fa = 0xB2331CFF92BB9E48L ^ 0xB2331CFF92BB9DA0L;
+        U = "Unable to play unknown soundEvent: {}";
+        Z = 0xB242B3D4 ^ 0xB24233A7;
+    }
+
+    public asa_1() {
+        asa_1 a2;
+    }
+}
+

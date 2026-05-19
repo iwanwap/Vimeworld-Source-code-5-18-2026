@@ -1,0 +1,131 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class fTa_1 {
+    public static final int Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final float S;
+    public static final int Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final float X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final int q;
+    public static final String x;
+    public static final String v;
+    public static final double o;
+    public static final String h;
+    public static final String K;
+    public static final float H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final int l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final int E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        ja = "I bet Cylons wouldn't have this problem.";
+        U = "health";
+        e = "No";
+        b = "INITIALIZE";
+        Ja = 0x9C9F664A ^ 0x9C9F6696;
+        N = "spruce";
+        p = "archiveCase_";
+        h = "Using default channel type";
+        K = "glass_pane_top_cyan";
+        Ha = "k";
+        L = "commands.downfall.success";
+        j = "hay_block";
+        y = "loc_";
+        m = "cherry_door";
+        Ga = "crimson_log";
+        i = "READY";
+        H = Float.intBitsToFloat(0x3AC26EF2 ^ 0xFA3BF768);
+        R = "GL13.GL_ADD_SIGNED";
+        u = "option";
+        G = "No enchantmentIDs specified: ";
+        I = "ENTITY_SHADOWS";
+        Z = 0xBA4DF4DD ^ 0xBA4DF5BC;
+        B = "Shader ";
+        v = "LEFT";
+        Aa = "COM5";
+        A = "GL11.GL_POLYGON_SMOOTH_HINT";
+        fa = "server-icon.png";
+        t = "Invalid float: ";
+        Y = "FXAA 4x";
+        q = 0x51A9D7B4 ^ 0x51A95788;
+        Q = "ARMOR";
+        C = "purpurSlab";
+        D = "\u0417\u0430 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435 \u043f\u043e\u0434\u043f\u0438\u0441\u043a\u0438 \u00a76Prime";
+        J = "Invalid frame time";
+        W = "say";
+        a = "potion.water";
+        r = "mob.wither.hurt";
+        o = Double.longBitsToDouble(0xED3EE6AB55842FF4L ^ 0xD2C7C75001C002ECL);
+        w = " uploaded - ";
+        d = "transform_gui";
+        M = "lootBonusFishing";
+        z = "PIG";
+        F = "demo.help.movementMouse";
+        V = "GL12.GL_UNSIGNED_SHORT_5_5_5_1";
+        f = "Copied ";
+        P = "SPELL_MOB_AMBIENT";
+        s = "GuiElement render error (";
+        c = "nether_brick";
+        E = 0xEF200F66 ^ 0xEF200E27;
+        S = Float.intBitsToFloat(0xEFEEA65 ^ 0xCEFEEBC6);
+        g = "Post-rendering entity in world";
+        l = 0xBE0A7812 ^ 0xBE0AFCD3;
+        n = "%02d:%02d:%02d:%02d";
+        Ka = "commands.scoreboard.players.set.success";
+        x = "FOG_START";
+        k = "Couldn't process command: '";
+        O = "3b";
+        X = Float.intBitsToFloat(0x4BCE960D ^ 0x757E960D);
+        T = "GL11.GL_TEXTURE_GEN_R";
+    }
+
+    public fTa_1() {
+        fTa_1 a2;
+    }
+}
+

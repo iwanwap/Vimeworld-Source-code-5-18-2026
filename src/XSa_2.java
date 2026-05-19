@@ -1,0 +1,131 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class XSa_2 {
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final float Y;
+    public static final String r;
+    public static final float V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final int U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final float n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final float l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final double E;
+    public static final int m;
+    public static final int C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final float I;
+
+    public XSa_2() {
+        XSa_2 a2;
+    }
+
+    static {
+        v = "\u0421\u0442\u0430\u0440\u0442/\u0421\u0442\u043e\u043f";
+        y = "upper";
+        L = "triangles_bottom";
+        H = "GL11.GL_POINT_SIZE_RANGE";
+        E = Double.longBitsToDouble(0x59711A6A2673E895L ^ 0x668A23C1D54B99F4L);
+        b = "GREATER";
+        A = "chiseled_stonebrick";
+        fa = "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0442\u043e\u0447\u043a\u0443";
+        J = "GL11.GL_BACK_RIGHT";
+        R = "https?://(www\\.)?[-a-zA-Z0-9@:%._+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_+.~#?&/=]*)";
+        C = 0xB0047619 ^ 0xB0047668;
+        Q = "key.inventory";
+        e = "{";
+        P = "Disconnected";
+        Ha = "arm_ik";
+        Y = Float.intBitsToFloat(0x885509C4 ^ 0x4C2CC9C4);
+        Z = "Light";
+        T = "lines_y";
+        x = "BUYABLE";
+        j = "YANIM";
+        G = "Block not found for id: ";
+        p = "shaders/post/ntsc.json";
+        Aa = "keyTextAnimation:";
+        V = Float.intBitsToFloat(0xF0ED3F9D ^ 0xCD3B48CD);
+        w = "/cam";
+        r = " cm";
+        U = 0xA60D799B ^ 0xA60D7B1F;
+        c = "Couldn't toggle fullscreen";
+        o = "andesite_stairs";
+        k = "https://cp.vimeworld.com/minigames/prime";
+        z = "Finished";
+        Ka = "finish";
+        q = "\u0000\u0002\u0000\u0001\u0001\u0002\u0002\u0000\u0000\u0000\u0001\u0006\u0002\u1001\u0000";
+        M = "finish_";
+        s = "assets/minecraft/models/block/diorite_smooth.json";
+        f = "GL11.GL_LIGHT5";
+        t = "cancel_";
+        X = "\u0420\u0435\u0436\u0438\u043c \u0443\u0441\u043a\u043e\u0440\u0435\u043d\u0438\u044f: ";
+        g = "dimension";
+        K = "commands.publish.failed";
+        W = "diffuse";
+        Ja = "health_boost";
+        i = "offsetZ_";
+        B = "Ambient";
+        m = 0xF0EB6D0B ^ 0xF096CF2E;
+        h = "commands.entitydata.noPlayers";
+        l = Float.intBitsToFloat(0xB75B290 ^ 0xB4BA4075);
+        N = "Fire";
+        Ga = "SHRINKING";
+        F = "GL11.GL_XOR";
+        d = "\u0421\u043a\u0440\u044b\u0442";
+        n = Float.intBitsToFloat(0x9469C3DA ^ 0x54D50F17);
+        a = "GL11.GL_POLYGON_OFFSET_LINE";
+        u = "Stopping!";
+        ja = "FAST_RENDER";
+        D = "armor_helmet";
+        O = "STRING";
+        I = Float.intBitsToFloat(0x84303FB5 ^ 0xB9C5FD3A);
+        S = "\u041d\u0438\u0437";
+    }
+}
+

@@ -1,0 +1,137 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class ZRa_1 {
+    public static final String ga;
+    public static final String Da;
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final float Z;
+    public static final String Y;
+    public static final double r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final int u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final int w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final float c;
+    public static final int B;
+    public static final String d;
+    public static final int a;
+    public static final String b;
+    public static final float l;
+    public static final String e;
+    public static final String G;
+    public static final int D;
+    public static final int f;
+    public static final int F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final long J;
+    public static final String A;
+    public static final String I;
+
+    public ZRa_1() {
+        ZRa_1 a2;
+    }
+
+    static {
+        e = "_n";
+        r = Double.longBitsToDouble(0x81C95CE72CAEDBFFL ^ 0xC1805CE72CAEDBFFL);
+        k = "Caught error stitching, removing all assigned resourcepacks";
+        p = "saves";
+        J = 0x7CDF1FC4C08331AFL ^ 0x7CDF1FC4C082E71BL;
+        l = Float.intBitsToFloat(0xF247EB5F ^ 0xB067EB5F);
+        T = "Timer hack thread";
+        ja = "selectWorld.gameMode";
+        d = "Could not hash resourcepack";
+        u = 0xF6F5B29C ^ 0xF6F535F9;
+        s = "enchantmentIDs";
+        v = "BIT_AND";
+        N = "GL11.GL_UNSIGNED_BYTE";
+        Da = "commands.worldborder.setSlowly.shrink.success";
+        H = "OXIDIZED_CUT_COPPER";
+        U = "fire_layer_1";
+        Y = "Id";
+        V = "Temple";
+        I = "Front.1b";
+        a = 0x1D843EF6 ^ 0x1D843DD4;
+        fa = "Unable to resolve texture due to upward reference: ";
+        t = "eWorldGroup_";
+        C = "LeftLeg.Shape12";
+        y = "wordWrap_";
+        Q = "ProjMat";
+        ca = "Left.Shape1123";
+        Ja = "largeexplode";
+        x = "deop";
+        X = "[ \t]*const[ \t]*bool[ \t]*(shadowcolor0Nearest|shadowColor0Nearest|shadowColor0MinMagNearest)[ \t]*=[ \t]*true[ \t]*;.*";
+        S = "MinecartSpawner";
+        Ka = "warpedTrapdoor";
+        z = "DIAMOND";
+        n = "NONE";
+        h = "of.options.animationsTitle";
+        f = 0x5ED5CFE ^ 0x5ED57CE;
+        q = "terrainTextureSize";
+        ga = "\u00a7f\u00a7o";
+        m = "Shape27";
+        R = "stat.furnaceInteraction";
+        O = "fontCase_";
+        F = 0x113E394 ^ 0x485BA7C6;
+        E = "ofRainSplash";
+        b = "Tag name";
+        B = 0x49B912BD ^ 0x49B911A0;
+        Ha = "GL11.GL_POLYGON_SMOOTH";
+        c = Float.intBitsToFloat(0x414E1BFF ^ 0x7E73FD64);
+        W = "/anim";
+        G = "Item being added";
+        j = "commands.worldborder.damage.usage";
+        L = "mob.attack";
+        D = 0xA065D80C ^ 0xA065D854;
+        w = 0x529BF894 ^ 0x529BD8D4;
+        Z = Float.intBitsToFloat(0x9D34A429 ^ 0x22947D55);
+        g = "Shaders are ";
+        M = "right.Shape34";
+        Ga = "gl_caps[ARB_stencil_texturing]";
+        K = "cocoa";
+        P = " &a\u043f\u043e\u043a\u0430\u0437\u0430\u043d";
+        o = "Right.Right48";
+        Aa = "cooked_beef";
+        i = "GIF";
+        A = "ISO_8859_1";
+    }
+}
+

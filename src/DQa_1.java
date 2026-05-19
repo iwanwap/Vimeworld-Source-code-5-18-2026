@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class DQa_1 {
+    public static final float ca;
+    public static final String Ja;
+    public static final int ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final int Aa;
+    public static final double S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final double X;
+    public static final int y;
+    public static final String U;
+    public static final int P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final float q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final float K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final int i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        Ja = "Drinking speed penalty";
+        Z = "z_";
+        M = "Unknown face: ";
+        O = "right.Shape37";
+        S = Double.longBitsToDouble(0x230A107E74DE372DL ^ 0x631E107E74DE372DL);
+        m = "Left.Shape47123";
+        l = "of.options.FOG_START";
+        P = 0xB550F42B ^ 0xB500847B;
+        V = "snowballpoof";
+        F = "pi";
+        h = "poisonous_potato";
+        p = "ofNaturalTextures:";
+        o = "setidletimeout";
+        U = "Chunk Batcher %d";
+        n = "armor_chest";
+        f = "Left.Shape3123";
+        Q = "key.categories.misc";
+        u = "alignment_";
+        A = "mudBrickSlab";
+        X = Double.longBitsToDouble(0x8E126BD771D7952L ^ 0x483126BD771D7952L);
+        K = Float.intBitsToFloat(0xE0E42AAC ^ 0x5FC4F3D7);
+        j = "##";
+        w = "liquid.water";
+        fa = "gamerule";
+        E = "GL11.GL_TEXTURE_GEN_MODE";
+        J = "bow_pulling_1";
+        z = "shadow pass";
+        ja = 0x89D4CA47 ^ 0x762B3547;
+        L = "record_chirp";
+        Aa = 0x2A9F676C ^ 0x2A9F67AB;
+        k = "GL11.GL_PROXY_TEXTURE_1D";
+        x = "shadow drawbuffers pre-translucent";
+        s = "Multipass connected textures: ";
+        C = "ofAfLevel:";
+        T = "armorTextAnimation";
+        Ga = "wait";
+        d = "GL12.GL_UNSIGNED_BYTE_3_3_2";
+        Ha = "UNLOCKED_DISABLED";
+        y = 0xFC7815C9 ^ 0xFC789E48;
+        W = "easeOutQuint";
+        a = "Something changed";
+        g = "UNDERLINE";
+        B = "black_wool";
+        H = "commands.help.header";
+        e = "endFadeOut";
+        G = "Back.10b";
+        ca = Float.intBitsToFloat(0x54D3FF9 ^ 0xBA14A663);
+        t = "Right.Right13";
+        q = Float.intBitsToFloat(0x9E834A2 ^ 0x480034A2);
+        r = "_overlay";
+        I = "red_nether_brick_slab";
+        v = "GL11.GL_PIXEL_MAP_S_TO_S_SIZE";
+        N = "Name";
+        b = "Ignoring unknown attribute '";
+        Ka = "SILVERFISH";
+        R = "\\n";
+        D = "mob.horse.gallop";
+        c = "horsearmordiamond";
+        i = 0x721142FC ^ 0x72114F7C;
+        Y = "Shape21123";
+    }
+
+    public DQa_1() {
+        DQa_1 a2;
+    }
+}
+

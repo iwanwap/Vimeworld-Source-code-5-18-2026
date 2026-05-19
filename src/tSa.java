@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class tSa {
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final float Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final float r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final long u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final int o;
+    public static final float h;
+    public static final double K;
+    public static final String H;
+    public static final String c;
+    public static final int B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final int f;
+    public static final String F;
+    public static final int g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final int C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        j = "12-15";
+        ca = "SCALEXEXPRANIM";
+        W = "Invalid match blocks: ";
+        H = "commands.fill.outOfWorld";
+        s = "lootBonus";
+        v = "age";
+        m = "white_stained_hardened_clay";
+        h = Float.intBitsToFloat(0xB76C4D7B ^ 0x881D797E);
+        C = 0x958CF963 ^ 0x6A7306C0;
+        a = "MiniDotItemTexture{name='";
+        Z = "waxed_weathered_copper";
+        e = "tex";
+        J = "Left.Shape56123";
+        y = "textures/blocks/destroy_stage_7.png";
+        w = "_wall";
+        l = "textures/entity/villager/smith.png";
+        n = "orientable";
+        M = "^\\s*#include\\s+\"([A-Za-z0-9_/\\.]+)\".*$";
+        Aa = Float.intBitsToFloat(0x5A378BBE ^ 0xE4999FC5);
+        P = "KEYBOARDBIND";
+        Ga = "deepslate_brick_wall";
+        i = "textures/blocks/glass_";
+        V = "explosion.player";
+        p = "Set static final field error";
+        x = "textures/map/map_icons.png";
+        Q = "ascending_south";
+        I = ", textures=";
+        g = 0x141275A4 ^ 0x141277DD;
+        d = "eBeamPartial_";
+        S = "Surprise! Haha. Well, this is awkward.";
+        A = "jump_boost";
+        T = "layer2";
+        X = "(?i)";
+        D = "amethyst";
+        G = "adventure";
+        q = "createWorld.customize.custom.prev";
+        t = "ViTRH";
+        B = 0xABD949FD ^ 0xABD95CFC;
+        Ka = "Structure type";
+        o = 0x2ADC109B ^ 0x2ADC13D9;
+        Y = "end beginRender";
+        ja = "sugar";
+        Ha = "options.off";
+        F = "fog.nether";
+        U = "createWorld.customize.presets.list";
+        f = 0x4613C26 ^ 0x4613097;
+        N = "Could not add element to container '";
+        fa = "demo";
+        k = "disable-change-hide-gui";
+        K = Double.longBitsToDouble(0x22CAD05A5525810AL ^ 0x1D7EAABB128B9571L);
+        z = "btex:";
+        b = "SET_COLOR_ANIMATED";
+        Ja = "itemmeta/_index.txt";
+        L = "\u0423\u0441\u0442\u0430\u0440\u0435\u0432\u0448\u0438\u0439 \u043a\u043b\u0438\u0435\u043d\u0442";
+        c = "keyMouseButtons";
+        u = 0xA033D0393B48CB38L ^ 0xA033D0393B48B244L;
+        O = "query";
+        r = Float.intBitsToFloat(0x4C08CB94 ^ 0xD8D9EC1);
+        E = "&a\u0422\u044b\u043a\u043d\u0438\u0442\u0435 \u043d\u0430 \u043b\u044e\u0431\u043e\u0439 \u0431\u043b\u043e\u043a/\u0438\u0433\u0440\u043e\u043a\u0430/\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435";
+        R = "fogTest_";
+    }
+
+    public tSa() {
+        tSa a2;
+    }
+}
+

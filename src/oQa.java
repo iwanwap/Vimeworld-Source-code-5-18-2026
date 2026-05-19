@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class oQa {
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final double fa;
+    public static final double Ka;
+    public static final String Aa;
+    public static final float S;
+    public static final String Z;
+    public static final int Y;
+    public static final String r;
+    public static final String V;
+    public static final float z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final float w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final int B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final float D;
+    public static final int f;
+    public static final String F;
+    public static final String g;
+    public static final int L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    public oQa() {
+        oQa a2;
+    }
+
+    static {
+        Aa = "reducedDebugInfo";
+        W = "VALENTINE";
+        n = "NameTagVisibility";
+        Ja = "commands.title.success";
+        R = "width";
+        F = "Back.8b";
+        s = "'\n";
+        l = "true";
+        J = "... (";
+        u = "mob.endermen.hit";
+        X = "FireworksRocketEntity";
+        y = "options.txt";
+        x = "LINES_Y";
+        V = "flint_and_steel";
+        C = "Right.Right35";
+        z = Float.intBitsToFloat(0xB02B23B4 ^ 0x8F8B23B4);
+        U = "__autogen_";
+        P = ", expected to find a string";
+        i = "/buildof.txt";
+        j = "GL13.GL_TEXTURE9";
+        o = "warning";
+        g = "rightHigh";
+        K = "textures/gui/container/hopper.png";
+        L = 0x54285C24 ^ 0x54285192;
+        q = "java.vm.name";
+        B = 0x9098DFF2 ^ 0x6F672126;
+        O = "SHLT";
+        Z = "Unable to find constructor '";
+        b = "animations/pet/triggerteddy_animation.json";
+        S = Float.intBitsToFloat(0x145C3E4B ^ 0x2B23C739);
+        N = "stained_hardened_clay";
+        G = "createWorld.customize.custom.count";
+        f = 0xBB454DA0 ^ 0xBB45CF8B;
+        r = "basalt";
+        v = "ADDITIVE";
+        Ka = Double.longBitsToDouble(0x57F7AA9733C77803L ^ 0x68ED9C75D8DB3B2EL);
+        T = "shaders/post/deconverge.json";
+        d = "SPRING";
+        ca = "%d,%d";
+        p = "ViBH";
+        k = "Ribbon11";
+        H = "XXS";
+        Ga = "magenta_stained_hardened_clay";
+        Ha = "GL11.GL_REPLACE";
+        h = "TWITCH_USER_INFO";
+        A = "latency";
+        D = Float.intBitsToFloat(0xD4514CDA ^ 0x6B4D2D73);
+        e = "customArmor";
+        t = "oak_fence";
+        fa = Double.longBitsToDouble(0x8D69F6A9D5E0ACE0L ^ 0xB28AC59AE6D39FD3L);
+        m = "INNER_LEFT";
+        I = "stat.deaths";
+        Q = "thin";
+        w = Float.intBitsToFloat(0xAF901648 ^ 0x909BD0E1);
+        Y = 0x3A6FB2E8 ^ 0x3A2BF6AC;
+        E = "deepslate_tile_stairs";
+        a = "Failed while reading minidot/emotes/models/{}.bobj";
+        M = "Vignette";
+        ja = "doorJungle";
+        c = "ofTranslucentBlocks:";
+    }
+}
+

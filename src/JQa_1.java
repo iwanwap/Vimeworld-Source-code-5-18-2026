@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class JQa_1 {
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final float Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final int z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final int O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final double T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final float q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final int H;
+    public static final int c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final int f;
+    public static final String F;
+    public static final float g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final float k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    public JQa_1() {
+        JQa_1 a2;
+    }
+
+    static {
+        e = "ArmorStand";
+        A = "LEADER";
+        h = "Loading font {} ({}pt * {})";
+        n = "fancy";
+        Ga = "Length: ";
+        x = "POSITION_3F";
+        P = "options.stream.micVolumne";
+        t = "mangroveSlab";
+        T = Double.longBitsToDouble(0x44D4EB927C29DF65L ^ 0x4AD6B927C29DF65L);
+        R = "normals";
+        g = Float.intBitsToFloat(0xD40C6A28 ^ 0x6B343BC4);
+        j = "tile.";
+        k = Float.intBitsToFloat(0x63FAFB1C ^ 0x5E73CC50);
+        u = "model_player";
+        Q = "timeout_";
+        H = 0x65CDC233 ^ 0x65CDC37A;
+        a = "snare";
+        C = "Particle";
+        b = "ALPHA";
+        Ka = "createWorld.customize.custom.biomeSize";
+        w = "Item is not a bedrock model: ";
+        ca = "OpenGL 1.5 is supported.\n";
+        c = 0x7771E541 ^ 0x77F11A61;
+        f = 0x72FBCEB3 ^ 0x72FBCC09;
+        ja = "Listener already listening";
+        v = " moved wrongly!";
+        I = "addServer.resourcePack";
+        K = "gbufferModelView";
+        l = "\u041a\u043d\u043e\u043f\u043a\u0430 \u043a\u0440\u0430\u0441\u0442\u044c\u0441\u044f";
+        z = 0x35D9D6FA ^ 0xCA262909;
+        Z = Float.intBitsToFloat(0x5A062125 ^ 0x651C2826);
+        m = "double_plant_sunflower_top";
+        M = "columns_";
+        S = "cameraPosition";
+        L = "ofAnimatedTerrain";
+        y = "SCALEYEXPRANIM";
+        fa = "ofAnimatedExplosion";
+        B = "_layer_";
+        O = 0x8612A26F ^ 0x8612A2D4;
+        D = "sqrt";
+        X = "librnnoise4j";
+        J = "GL11.GL_FEEDBACK";
+        o = "scaleAnim_";
+        W = "shadow pre-translucent";
+        p = "light_blue_glazed_terracotta";
+        U = "selectWorld.mapFeatures";
+        F = "RIGHT_CLICK_BLOCK";
+        i = "depthtex2";
+        r = "GL11.GL_SPHERE_MAP";
+        s = "ViS";
+        G = "particles:";
+        N = "Expected chunk: ";
+        Ja = "axis=none";
+        Y = "^\\s*const\\s*(float|int)\\s*([A-Za-z0-9_]+)\\s*=\\s*(-?[0-9\\.]+f?F?)\\s*;\\s*(//.*)?$";
+        q = Float.intBitsToFloat(0xE37BD2AF ^ 0xA18BD2AF);
+        d = "Error linking program: ";
+        Ha = "hoveredBlockX_";
+        V = "icon";
+        Aa = "showInventoryAchievementHint:";
+        E = "mirror";
+    }
+}
+

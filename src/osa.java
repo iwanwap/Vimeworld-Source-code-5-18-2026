@@ -1,0 +1,135 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class osa {
+    public static final float Da;
+    public static final String ca;
+    public static final int Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final long S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final int P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final int s;
+    public static final int w;
+    public static final String W;
+    public static final String q;
+    public static final int x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final int c;
+    public static final int B;
+    public static final String d;
+    public static final String a;
+    public static final double b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final int m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        k = "\u0412\u0435\u0440\u0445";
+        O = "hoveredPositionY_";
+        ja = "shovelIron";
+        n = "armorDirection";
+        B = 0xCC2A9EBE ^ 0xCC4CE18D;
+        m = 0x2BAB009C ^ 0x2BAB01CE;
+        b = Double.longBitsToDouble(0x5A2C4BC5070B4759L ^ 0x65FF78F6470B4759L);
+        r = "&e/cam follow-speed <\u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c>&f: \u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u043e\u0432\u043e\u0440\u043e\u0442\u0430 \u043a\u0430\u043c\u0435\u0440\u044b \u0437\u0430 \u0446\u0435\u043b\u044c\u044e";
+        o = "enumConstants";
+        A = "OMDXYR";
+        u = "GL11.GL_CURRENT_NORMAL";
+        S = 0x50AEA40DA6DD879L ^ 0x50AEA40DA6DDE05L;
+        T = "Pet.Ribbon8";
+        Aa = "GL12.GL_UNPACK_IMAGE_HEIGHT";
+        g = "gl_caps[EXT_gpu_program_parameters]";
+        R = "assets/minecraft/models/block/cube_mirrored_all.json";
+        Ga = "Not enough arguments for ";
+        c = 0xEE09F27B ^ 0xEE09F263;
+        K = "textures/pet/";
+        Z = "Expected aisle with height of ";
+        F = "polishedDeepslateSlab";
+        e = "attribute [_a-zA-Z0-9]+ at_tangent.*";
+        Y = " i ";
+        D = "andesiteMinHeight";
+        d = "waxed_copper_grate";
+        L = "[ \t]*const[ \t]*bool[ \t]*generateShadowMipmap[ \t]*=[ \t]*true[ \t]*;.*";
+        H = "OK";
+        J = "Snowflake particles must have path or resource";
+        ca = "depthNoiseScaleZ";
+        Q = "drag_scroll";
+        fa = "q.gui_scale_auto";
+        h = "Shape31";
+        j = "east=true,north=false,south=true,west=true";
+        C = "textures/body/skyey_wings.png";
+        w = 0x5B51E45E ^ 0x5B517805;
+        Ha = "VC: Unexpected error in VoiceChatClient requestPlayerList";
+        G = "[C]";
+        v = "options.particles.all";
+        t = "GL15.GL_INDEX_ARRAY_BUFFER_BINDING";
+        i = "author";
+        x = 0x89935E82 ^ 0x89931F82;
+        y = "Using VBOs";
+        E = "Property and user values have different lengths: ";
+        I = "kissymissy";
+        W = "0.68, -0.6, 0.32, 1.6";
+        Ja = 0xF5EBCF4A ^ 0xF5EBCFB5;
+        U = "FILE";
+        X = "Sorry :(";
+        M = "R";
+        a = "stone_sword";
+        p = "GL13.GL_TEXTURE_CUBE_MAP_NEGATIVE_Z";
+        V = "glazedTerracotta";
+        N = "GL11.GL_TEXTURE";
+        Ka = "MUSIC";
+        z = "Minecraft Version";
+        s = 0xB407959F ^ 0xB4071145;
+        q = "nether_green";
+        P = 0x224282DA ^ 0x223E2D1C;
+        l = "fire.ignite";
+        Da = Float.intBitsToFloat(0xC6D609CB ^ 0xF9685377);
+        f = "hide-mount-health";
+    }
+
+    public osa() {
+        osa a2;
+    }
+}
+

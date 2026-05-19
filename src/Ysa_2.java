@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class Ysa_2 {
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final float Ha;
+    public static final float Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final int O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final int N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final int w;
+    public static final String W;
+    public static final String q;
+    public static final int x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final int l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final int F;
+    public static final String g;
+    public static final String L;
+    public static final int E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final int k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        R = "of.options.CHUNK_UPDATES_DYNAMIC";
+        m = "WINTER";
+        u = "GL11.GL_PIXEL_MAP_R_TO_R_SIZE";
+        S = "LWing";
+        W = "double_plant_sunflower_back";
+        U = "scaleYval_";
+        E = 0x33BCDDA5 ^ 0x33BCD077;
+        B = "Don't know how to convert ";
+        Ha = Float.intBitsToFloat(0x15F7C60 ^ 0x3E1FBCA1);
+        M = "X270_Y0";
+        o = "\u0410\u0432\u0442\u043e\u0440\u044b";
+        Ga = Float.intBitsToFloat(0xAA01C240 ^ 0x17DEF924);
+        Q = "updatechunks";
+        I = "shaders/post/pencil.json";
+        d = "Shape4123";
+        D = "Property value not found: ";
+        P = "counter";
+        a = "minecraft:particle_kill_plane";
+        n = "RandomMobs file not found: ";
+        h = "andesite_slab_double";
+        l = 0x70E14F5D ^ 0x70E14C75;
+        t = " must be greater than min (";
+        g = "CLEAR_WATER";
+        V = "effectScale:";
+        f = "file";
+        s = "streamCompression";
+        c = "advMode.allPlayers";
+        fa = "FISHING_ROD";
+        H = "endBricks";
+        L = "hasPlacedChest1";
+        Aa = "assets/minecraft/blockstates/grass.json";
+        J = "MiniDot initialized in ";
+        X = "unmatched %s\n";
+        p = "Incorrect image: ";
+        j = "GL12.GL_TEXTURE_BASE_LEVEL";
+        N = 0x51C79663 ^ 0x51C7E35C;
+        e = "createWorld.customize.custom.presets.title";
+        b = "commands.downfall.usage";
+        v = "BRLeg.Shape45";
+        ca = "13a";
+        i = "commands.save-on.alreadyOn";
+        k = 0x28501413 ^ 0x285014F9;
+        ja = "We were unable to save this crash report to disk.";
+        Z = "Swampland";
+        x = 0xF0BBCD0F ^ 0xF0BBC0DE;
+        C = "BOOLEAN_VALUE";
+        w = 0x2FF40FF1 ^ 0x2FF41FF4;
+        Ka = "This crash report has been saved to: ";
+        y = "Resource Packs";
+        K = "vertical";
+        Ja = "Keystrokes";
+        T = "dye_blue";
+        G = "commands.debug.start";
+        O = 0x731FF2DD ^ 0x731FE380;
+        A = "portal.portal";
+        F = 0x6B2973C4 ^ 0x6B29FB5B;
+        q = "jacket";
+        z = "nvs";
+        Y = "Right29";
+        r = "textures/pet/persona_grand_arcades.png";
+    }
+
+    public Ysa_2() {
+        Ysa_2 a2;
+    }
+}
+

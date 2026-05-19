@@ -1,0 +1,137 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class mSa {
+    public static final String ga;
+    public static final String Da;
+    public static final String ca;
+    public static final String Ja;
+    public static final int ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final double S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final double z;
+    public static final String X;
+    public static final String y;
+    public static final float U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final float n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final long H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final float b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final int f;
+    public static final int F;
+    public static final long g;
+    public static final String L;
+    public static final String E;
+    public static final double m;
+    public static final String C;
+    public static final String i;
+    public static final double M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    public mSa() {
+        mSa a2;
+    }
+
+    static {
+        v = "magicCrit";
+        S = Double.longBitsToDouble(0x429E1DBE86C59604L ^ 0x25E1DBE86C59604L);
+        H = 0x728259E609893C75L ^ 0x70926705E3D60642L;
+        f = 0xDECF49F4 ^ 0xDECF42F4;
+        L = "Took too long to log in";
+        o = "Warning: Clientside chunk ticking took {} ms";
+        O = "ALLOWED";
+        B = "Right44";
+        r = "GL11.GL_STENCIL_TEST";
+        b = Float.intBitsToFloat(0xDD7B1F86 ^ 0x62F990DA);
+        i = "\u041d\u0430\u0441\u044b\u0449\u0435\u043d\u043d\u043e\u0441\u0442\u044c";
+        p = "GL11.GL_LUMINANCE4";
+        J = " --\n";
+        Ha = "depthsuspend";
+        Da = "glow";
+        P = "GL11.GL_ONE";
+        z = Double.longBitsToDouble(0x336663A5F6333851L ^ 0x736AAF693AFFF49CL);
+        Y = "rightStick.rightHorn";
+        ja = 0x1732B7ED ^ 0x1732B6C9;
+        s = "round";
+        k = "mangrove_slab_double";
+        l = "Beach";
+        D = "1x";
+        t = "Next Page";
+        F = 0x7E0CFA59 ^ 0x7E0CFB57;
+        y = "streamSystemVolume:";
+        ca = "Head.1";
+        c = "ARB_fragment_shader is ";
+        C = "DeathMessageVisibility";
+        T = "WEATHERED_COPPER";
+        Z = "GL11.GL_INDEX_ARRAY_POINTER";
+        Q = "birch_log";
+        d = "src";
+        q = "GL15.GL_READ_ONLY";
+        j = "Unable to load definition ";
+        fa = "\u043a\u043e\u0438\u043d\u043e\u0432";
+        K = "Username '";
+        Ja = "leather_helmet";
+        w = "options.resourcepack";
+        E = "crit";
+        G = "aesCipherNew";
+        e = "spruce_fence_gate";
+        Ka = "MINECART";
+        Aa = "Tex_s Mag: ";
+        m = Double.longBitsToDouble(0xD12CE149E488827L ^ 0x4CD32FB79E488827L);
+        g = 0x647AC4EEBD9F3710L ^ 0x647AC4EEBD9F34A6L;
+        W = "RAINBOW";
+        Ga = " vs our ";
+        U = Float.intBitsToFloat(0xF56D5FA9 ^ 0xCA255FA9);
+        I = "assets/minecraft/models/block/cube.json";
+        a = "fallingBlock";
+        N = "magenta";
+        n = Float.intBitsToFloat(0xC5C556EB ^ 0xFB42F8FF);
+        u = "VCR: outdated client";
+        A = "assets/minecraft/models/block/lapis_ore.json";
+        ga = "maxHeight";
+        M = Double.longBitsToDouble(0x16662676FABCC100L ^ 0x16762676FABCC100L);
+        V = "ironMinHeight";
+        R = "commands.scoreboard.players.set.usage";
+        X = "commands.testfor.failure";
+        h = "Right.Right14";
+        x = "Shape8123";
+    }
+}
+

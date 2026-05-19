@@ -1,0 +1,135 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class bSa_1 {
+    public static final int Da;
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final int Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final float V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final int U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final int o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final int a;
+    public static final int b;
+    public static final int l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final int L;
+    public static final String E;
+    public static final String m;
+    public static final int C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final float J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        w = "dioriteMaxHeight";
+        L = 0xD08A8977 ^ 0xD0EAE917;
+        o = 0xAACEE0E5 ^ 0xAACE6594;
+        Ja = "\u041a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0430";
+        C = 0x20CE130A ^ 0x20CE9FD0;
+        G = "LanServerDetector #";
+        x = "emote_id";
+        y = "\u0432\u0438\u043c\u0435\u0440";
+        e = "Ribbon8";
+        U = 0xD200A373 ^ 0xD20027A5;
+        Q = "gl_caps[gl_max_texture_image_units]";
+        P = "GL11.GL_DOUBLE";
+        ca = "commands.enchant.noItem";
+        V = Float.intBitsToFloat(0xAB8E5EB5 ^ 0x14806651);
+        h = "commands.enchant.success";
+        fa = "GL14.GL_ONE_MINUS_CONSTANT_ALPHA";
+        N = "item.unbreakable";
+        Aa = "textures/pet/skullpet2.png";
+        A = "pistonStickyBase";
+        M = "mushroom_brown";
+        F = "UNDEAD";
+        m = "Back.3a";
+        q = "pink";
+        z = "Cg==";
+        E = "Unexpected hello packet";
+        t = "Parent bone ";
+        Ga = "POOL";
+        ja = "HorseChest";
+        p = "polishedBlackstoneBrickStairs";
+        d = "OTHER_PROBLEM";
+        k = "Prefix cannot be null";
+        H = "facing=south,half=top,shape=inner_left";
+        D = "ENTER_COMBAT";
+        Da = 0xC1E9826F ^ 0xC1E98236;
+        K = "textures/entity/silverfish.png";
+        Ha = "book.signButton";
+        r = "stat.craftingTableInteraction";
+        a = 0x830879F9 ^ 0x83087907;
+        i = "GL15.GL_STREAM_READ";
+        n = "CustomBlock{type=";
+        g = "Potion";
+        O = "commands.scoreboard.teams.join.failure";
+        J = Float.intBitsToFloat(0x80BC9022 ^ 0xC1EC9022);
+        j = "#  ";
+        Y = "mob.skeleton.death";
+        X = "Received packet length {} with {} actions";
+        B = "addServer.enterName";
+        u = "linear";
+        v = "RandomMobs: ";
+        l = 0xB22F1049 ^ 0xB22F110D;
+        S = "COMPARE";
+        T = "px";
+        W = "invisibility";
+        c = "assets/minecraft/models/block/grass_normal.json";
+        Z = "Shape29123";
+        I = "fog-start";
+        s = "\u041f\u043e\u0434\u043e\u0436\u0434\u0438\u0442\u0435, \u043f\u043e\u043a\u0430 \u043e\u043d \u0441\u043d\u043e\u0432\u0430 \u0438\u0445 \u0441\u043e\u0431\u0435\u0440\u0435\u0442";
+        Ka = 0x6D365482 ^ 0x6D365521;
+        b = 0xB0C5490C ^ 0xB0C54BF4;
+        f = " 3.0 ";
+        R = "pumpkinStem";
+    }
+
+    public bSa_1() {
+        bSa_1 a2;
+    }
+}
+

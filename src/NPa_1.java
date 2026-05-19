@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class NPa_1 {
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final int Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final int u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final float N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final int v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final float B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final int e;
+    public static final String G;
+    public static final int D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final float L;
+    public static final float E;
+    public static final String m;
+    public static final String C;
+    public static final int i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        R = "fence_post";
+        H = "gl_caps[EXT_multi_draw_arrays]";
+        ja = "nalcGetString";
+        fa = "DISCONNECT_PLAYER";
+        Z = "HOVERCOLOR";
+        n = "shadowResMul";
+        o = "RG16_SNORM";
+        h = ",z:";
+        Ka = "McRegion";
+        r = ", key: ";
+        c = "You logged in from another location";
+        k = "ADD_ROW";
+        Y = "keyMovementButtons";
+        B = Float.intBitsToFloat(0x734E9FBD ^ 0x4CFDAC8E);
+        l = "Client (map_client.txt)";
+        X = "demo.demoExpired";
+        u = 0x4BC5EAB0 ^ 0x4BC56AD3;
+        t = "\u0000\n\u0001\u0001\u0001\n\n\u0000\u0001\u0000\u0001\u001b\u0002\u100c\u0000\u0003\u1006\u0001\u0004\u1006\u0002\u0005\u1007\u0003\u0006\u023b\u0000\u00077\u0000\b\u1001\u0004\t<\u0000\n\u1007\u0005";
+        C = "q.yaw_to_loc";
+        v = 0xBC7E520B ^ 0xBC7E5362;
+        q = "PersistenceRequired";
+        E = Float.intBitsToFloat(0xA015C55E ^ 0x9F0DC55E);
+        M = "potion.digSpeed";
+        N = Float.intBitsToFloat(0xF369BE3C ^ 0x4EECA084);
+        A = "metadata section";
+        P = "shadowtex1Nearest";
+        I = "stairs";
+        J = "\u0000\u0002\u0000\u0000\u0001\u0002\u0002\u0000\u0001\u0000\u0001\u0004\u0002\u001b";
+        Ja = "(+NBT)";
+        Ga = "commands.worldborder.warning.distance.success";
+        G = "chatLinksPrompt";
+        x = "224.0.2.60";
+        d = "head\\{([^}]+)}";
+        m = "\u041f\u0438\u0442\u043e\u043c\u0435\u0446";
+        F = "leather_boots";
+        U = "minecraft:particle_motion_dynamic";
+        y = "disconnect.loginFailedInfo.serversUnavailable";
+        D = 0x2689A68B ^ 0xD935E1C2;
+        L = Float.intBitsToFloat(0x13A7DDC6 ^ 0x2C47DDC6);
+        T = "Forest";
+        S = "Right22";
+        b = "NVFogDistance.GL_FOG_DISTANCE_MODE_NV";
+        O = "RAIN_SPLASH";
+        Aa = 0xA46CFA7C ^ 0xA46C7849;
+        f = "BRLeg.Shape43";
+        w = "moj";
+        W = "red_stained_hardened_clay";
+        V = "textures/body/dwings.png";
+        s = "entityColor";
+        z = "textures/entity/chest/ender.png";
+        ca = "3";
+        i = 0x97AD816D ^ 0x97AD8121;
+        Q = "GL13.GL_TEXTURE23";
+        a = "Using missing texture, unable to load ";
+        K = "Entities: ";
+        j = "gl_caps[ARB_texture_cube_map_array]";
+        e = 0xA9B53872 ^ 0xA9B53834;
+        Ha = "VC: Player updated '{}'";
+        g = "Invalid json: Not array";
+        p = "builtin/compass";
+    }
+
+    public NPa_1() {
+        NPa_1 a2;
+    }
+}
+

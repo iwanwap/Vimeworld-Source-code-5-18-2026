@@ -1,0 +1,137 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class Yra_1 {
+    public static final String ga;
+    public static final String Da;
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final int r;
+    public static final float V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final long t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final int W;
+    public static final String q;
+    public static final String x;
+    public static final int v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final double f;
+    public static final String F;
+    public static final String g;
+    public static final int L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final float i;
+    public static final float M;
+    public static final String k;
+    public static final int j;
+    public static final int J;
+    public static final String A;
+    public static final int I;
+
+    public Yra_1() {
+        Yra_1 a2;
+    }
+
+    static {
+        b = "soundLibrary";
+        k = "T Z";
+        Z = "q.chestplate";
+        C = "Right36";
+        L = 0xB189B9C3 ^ 0xB189B84D;
+        g = "Left.Shape17123";
+        U = "Tail.Tail3";
+        m = "Invalid texture name: ";
+        u = "Target is set to ";
+        G = "spruceTrapdoor";
+        A = "Painting";
+        V = Float.intBitsToFloat(0x80649F79 ^ 0x41AC9F79);
+        f = Double.longBitsToDouble(0x6AFB19CA7B28A93EL ^ 0x550A8053E2B130A4L);
+        S = "Generate shadow color mipmap";
+        h = "andesiteSmooth";
+        Ha = "Invalid book tag!";
+        H = "OTHER";
+        s = "xExpr_";
+        Aa = "DARK_OAK_SAPLING";
+        n = "CRIT";
+        r = 0x52E85C18 ^ 0x52E85EE5;
+        Y = "Back";
+        W = 0xAABF9BF1 ^ 0xAABF1ADC;
+        ca = "south_east";
+        X = "charming";
+        D = "20";
+        q = "CHERRY";
+        w = "ExtraType";
+        i = Float.intBitsToFloat(0x8625C1CB ^ 0xC7A5C1CB);
+        y = "gray_carpet";
+        O = "breedCow";
+        ga = "SpawnY";
+        J = 0x346020B ^ 0x34602A5;
+        T = "allowed";
+        x = "vh";
+        Da = "biomeSize";
+        P = "enchantment.level.";
+        j = 0x687D19C9 ^ 0x687D19A3;
+        l = "ceil";
+        B = "Unresolved image";
+        c = "\u041c\u0435\u0441\u0442\u043e: ";
+        e = "textures/misc/shadow.png";
+        R = "Stopping singleplayer server as player logged out";
+        v = 0xF16A29C4 ^ 0xF16A2912;
+        E = "daytime";
+        fa = "textures/entity/horse/horse_gray.png";
+        Ga = "[Shaders] Parsing block mappings: ";
+        t = 0xD2B3A269AC894125L ^ 0xD2B3A269AC894120L;
+        F = "Pet.Box";
+        ja = "createWorld.customize.custom.lowerLimitScale";
+        Ja = "gbuffers_clouds";
+        K = "Head.28";
+        p = "snow";
+        M = Float.intBitsToFloat(0x8AADF5D6 ^ 0x371F4D11);
+        z = "textures/pet/wumpuspet.png";
+        o = "17";
+        Ka = "Rendering entity hitbox in world";
+        a = "commands.replaceitem.tagError";
+        d = "model_format";
+        Q = "GL14.GL_TEXTURE_COMPARE_MODE";
+        I = 0xB117A404 ^ 0xB1173873;
+        N = "Uniform.set called with a too-small value array (expected ";
+    }
+}
+

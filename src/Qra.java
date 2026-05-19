@@ -1,0 +1,137 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class Qra {
+    public static final String ga;
+    public static final String Da;
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final int S;
+    public static final float Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final int Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final int w;
+    public static final int W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final float H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final double l;
+    public static final String e;
+    public static final float G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final int L;
+    public static final float E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final float j;
+    public static final int J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        F = "resourcePack.incompatible.old";
+        z = "SMOOTH";
+        ca = "key.forward";
+        b = "Hat.Shape6";
+        u = "demo.help.inventory";
+        H = Float.intBitsToFloat(0x6519419D ^ 0xA57C8312);
+        I = "ticking";
+        T = "HALF_HORIZONTAL_MIRROR";
+        c = "wall_ns";
+        v = "shake";
+        W = 0xB7A870B6 ^ 0xB7A862B2;
+        X = "commands.save.enabled";
+        y = "Left.Shape11123";
+        a = "Unknown option: ";
+        f = "BLUE_ORCHID";
+        k = "hdb";
+        r = "mob.guardian.elder.idle";
+        d = ", f=";
+        V = "\u041b\u0435\u0432\u043e";
+        q = "deathScreen.deleteWorld";
+        i = "IntCache";
+        p = "Piece2.Shape6";
+        Ka = " #";
+        h = "jump";
+        x = "shaders/post/bits.json";
+        R = "of.options.save.3min";
+        m = "of.options.animation.allOff";
+        L = 0x8EE96B49 ^ 0x8EE96A37;
+        S = 0x975E0701 ^ 0x975E0588;
+        fa = "Unknown (0x";
+        B = "water_breathing";
+        o = "TileEntityData";
+        J = 0x56B04D4 ^ 0xFA94FB1C;
+        Ja = "Unbalanced square brackets []: ";
+        Y = "Error writing: ";
+        Ga = "lanServer.start";
+        Aa = "Maximum texture size: ";
+        n = "gl_caps[ARB_instanced_arrays]";
+        U = "add";
+        K = "slot.armor.chest";
+        D = "stoneMoss";
+        l = Double.longBitsToDouble(0x6E6372048F594292L ^ 0x2E2172048F594292L);
+        P = "of.message.newVersion";
+        C = "randomMirror_";
+        M = "GL11.GL_T2F_C4F_N3F_V3F";
+        ja = " is already defined";
+        Z = Float.intBitsToFloat(0x6CE491FA ^ 0xD24491FA);
+        E = Float.intBitsToFloat(0x3A113577 ^ 0x8423540B);
+        Ha = "cactus";
+        w = 0xD0A66AD0 ^ 0xD0A669CF;
+        j = Float.intBitsToFloat(0xB8131E15 ^ 0x5DFD2D8);
+        s = "Display: %dx%d (%s)";
+        Da = "ARB_vertex_buffer_object is supported.\n";
+        N = "No valid image";
+        t = "VC micro: '{}', '{}'";
+        ga = "colors";
+        Q = 0xDF09CF1D ^ 0xDF093F00;
+        G = Float.intBitsToFloat(0x571FCEBE ^ 0x97278039);
+        O = "max_scale";
+        e = "show_achievement";
+        A = "players_current";
+        g = "br";
+    }
+
+    public Qra() {
+        Qra a2;
+    }
+}
+

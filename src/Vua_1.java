@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class Vua_1 {
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final int V;
+    public static final float z;
+    public static final int X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final long h;
+    public static final String K;
+    public static final int H;
+    public static final String c;
+    public static final int B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final float l;
+    public static final float e;
+    public static final String G;
+    public static final String D;
+    public static final int f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final int J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        T = "Piece3.Shape14";
+        i = "textures/models/armor/";
+        w = "Unknown variable: ";
+        o = "/msg ";
+        d = "froglight";
+        U = "Ribbon6";
+        z = Float.intBitsToFloat(0xA65D5BA4 ^ 0x995FD4F9);
+        ca = "GL11.GL_LUMINANCE6_ALPHA2";
+        L = "ofPotionParticles";
+        n = "armorStand";
+        a = "build near";
+        R = "h+v";
+        P = "START";
+        ja = "*** Reloading textures ***";
+        f = 0xF62C729A ^ 0xF22C729A;
+        u = "RESET";
+        v = "gaux4 format : RGB16";
+        l = Float.intBitsToFloat(0x6E167D09 ^ 0xD08E3593);
+        W = "UNBIND_SELF";
+        C = "showDeathMessages";
+        H = 0xE92386B7 ^ 0xE9238D07;
+        A = "navigation";
+        r = "gcolor";
+        S = "Tail";
+        x = "book.generation.";
+        B = 0xA4F9A0EC ^ 0xA4F9A264;
+        G = "Framebuffer created.";
+        m = "-";
+        Ka = "allow_move";
+        N = "chat.cannotSend";
+        c = "YXZ";
+        Ga = "Front.9a";
+        K = "\u0000\u0001\u0000\u0000\u0001\u0001\u0001\u0000\u0001\u0000\u0001\u021a";
+        q = "gui_animation";
+        Ja = "commands.generic.player.notFound";
+        E = "Public key reconstitute failed!";
+        y = "Shader: ";
+        g = "gl_caps[ARB_shadow_ambient]";
+        Ha = "maxY_";
+        O = "chiseled_brick_monster_egg";
+        M = "4x4";
+        e = Float.intBitsToFloat(0x9FB91A0 ^ 0x32375D6D);
+        Y = "Unsupported bitdepth for this image";
+        fa = "MC|TrSel";
+        X = 0xD08B0A6F ^ 0xD08B0B3A;
+        D = "Maximum (";
+        Aa = "clock";
+        J = 0x79599C0F ^ 0x79599C5B;
+        I = "gl_caps[ARB_multitexture]";
+        V = 0x7145CBF8 ^ 0x7145CA48;
+        b = "depthTest_";
+        k = "of.options.detailsTitle";
+        Q = "[CHAT] ";
+        h = 0xEA4CDA92747C44ECL ^ 0xA8FCDA92747C44ECL;
+        s = "HTTP response: ";
+        F = "FIXED";
+        p = "FallingSand";
+        Z = "deepslateCopperOre";
+        j = "commands.worldborder.warning.time.usage";
+        t = "Exception stopping the server";
+    }
+
+    public Vua_1() {
+        Vua_1 a2;
+    }
+}
+

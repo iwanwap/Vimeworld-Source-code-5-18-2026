@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class SRa_1 {
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final int S;
+    public static final long Z;
+    public static final String Y;
+    public static final String r;
+    public static final float V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final float K;
+    public static final int H;
+    public static final float c;
+    public static final String B;
+    public static final int d;
+    public static final int a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final int L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final int A;
+    public static final String I;
+
+    public SRa_1() {
+        SRa_1 a2;
+    }
+
+    static {
+        G = "Right.Right34";
+        Aa = "\u00a77\u00a75\u00a7o";
+        Q = "ice";
+        r = "Modifier name cannot be empty";
+        E = "yyyy-MM-dd 'at' HH:mm:ss z";
+        S = 0x5F001DA1 ^ 0x5F001FD0;
+        K = Float.intBitsToFloat(0xCEFDA191 ^ 0xFCD66DE6);
+        ja = "polishedDeepslateStairs";
+        u = "quartz";
+        U = "Entity's Momentum";
+        p = "dripstoneBlock";
+        W = "Signature";
+        b = "\"";
+        e = "east=false,north=false,south=true,west=false";
+        l = "particle";
+        a = 0x74092F41 ^ 0x742C7DE4;
+        Ja = "textures/pet/oliviapet.png";
+        Ha = "rotten_flesh";
+        v = "Unknown element kind ";
+        z = ", target texture not loaded from same resource pack";
+        O = "Right11";
+        k = "EASE_OUT_QUAD";
+        Z = 0xE25E3857240671BDL ^ 0xE25E38572406766FL;
+        i = "GL11.GL_TEXTURE_HEIGHT";
+        H = 0xA4353E1D ^ 0xA435355C;
+        V = Float.intBitsToFloat(0x859BD68F ^ 0xC52BD68F);
+        q = "commands.scoreboard.objectives.list.count";
+        m = "Unable to find field '";
+        T = "impelX_";
+        d = 0x3047A4D2 ^ 0x304721CA;
+        Ka = "digging";
+        A = 0x9E2EDB94 ^ 0x9E2E5F6A;
+        C = "snooper_token";
+        N = "Body.Shape3";
+        n = "disable-change-perspective";
+        Y = "QueryResult";
+        M = "red_sandstone";
+        B = "Block entity being ticked";
+        D = "textures/entity/cat/red.png";
+        ca = "mob.rabbit.hop";
+        f = "of.options.AA_LEVEL";
+        w = "GL11.GL_POINT";
+        y = "Tesselating block in world";
+        g = "DIM-1";
+        Ga = "sidebar.team.";
+        I = "Netty Epoll Client IO #%d";
+        R = "GL11.GL_POINT_SIZE_GRANULARITY";
+        P = "Invalid particles archive: particle.json required";
+        X = "mob.enderdragon.end";
+        x = "bamboo_stairs";
+        t = "stone_stairs";
+        c = Float.intBitsToFloat(0x9EE8F2D8 ^ 0x20257573);
+        J = "EXPLOSION_LARGE";
+        h = "body.body6";
+        s = "ofConnectedTextures:";
+        j = "textures/blocks/glass.png";
+        F = "commands.scoreboard.teams.add.displayTooLong";
+        L = 0x1D4CB852 ^ 0x1D4CB316;
+        fa = "GUI_CLASS";
+        o = "relative_position";
+    }
+}
+

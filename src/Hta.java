@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class Hta {
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final float Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final float X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final int o;
+    public static final double h;
+    public static final int K;
+    public static final String H;
+    public static final int c;
+    public static final String B;
+    public static final int d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final float D;
+    public static final String f;
+    public static final float F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final int k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    public Hta() {
+        Hta a2;
+    }
+
+    static {
+        s = "finishFade_";
+        Q = "attachment_";
+        c = 0x8820622F ^ 0x88207B25;
+        fa = "scaleY_";
+        z = "Shape19123";
+        Ka = "q.screen_width";
+        F = Float.intBitsToFloat(0x62093FA6 ^ 0x5D0BB0FA);
+        J = "Invalid value";
+        C = "GL11.GL_FLAT";
+        Ja = "streamMicVolume:";
+        ca = "Bad packet id ";
+        E = "Invalid color: ";
+        Ha = "3x3";
+        v = "GL11.GL_TEXTURE_COORD_ARRAY_SIZE";
+        e = "minecraft:music.game.end.credits";
+        l = "Adding mismatching tag types to tag list";
+        u = "Jump Strength";
+        O = "glass_pane_top_yellow";
+        Z = "EASE_IN_ELASTIC";
+        f = "Invalid language->'";
+        T = "hasMore_";
+        t = "\\G(\\w+)=([-!]?[\\w-]*)(?:$|,)";
+        K = 0x471C2374 ^ 0x471CA3DC;
+        I = "GL11.GL_MAP1_TEXTURE_COORD_2";
+        ja = "\u0000\n\u0000\u0000\u0001\n\n\u0000\u0000\u0000\u0001\u0004\u0002\u0004\u0003\u0004\u0004\u0004\u0005\u0004\u0006\u0004\u0007\u0004\b\u0004\t\u0004\n\u0004";
+        U = "GL12.GL_MAX_3D_TEXTURE_SIZE";
+        S = "Unknown method: ";
+        j = "sunPathRotation";
+        d = 0x3BA6AC61 ^ 0x3BA6AC97;
+        M = "cyan_carpet";
+        k = 0x874FD31F ^ 0x874FD37E;
+        A = "Right.Right7";
+        i = "gui/keybinds/esc.png";
+        n = "[Shaders] Invalid option: ";
+        y = "stone_brick_wall";
+        g = "Root tag must be a named compound tag";
+        G = "NVFogDistance.GL_EYE_RADIAL_NV";
+        L = "stat.entityKills";
+        m = "action_";
+        o = 0xC2F343D3 ^ 0xC2F14BF3;
+        B = "renderDistance:";
+        q = "GL11.GL_SPOT_EXPONENT";
+        X = Float.intBitsToFloat(0x3502C509 ^ 0xA0D9920);
+        H = "ghastTear";
+        a = "LeftLeg4";
+        Ga = "No tiles specified: ";
+        w = "ofPortalParticles";
+        P = "stripe_center";
+        V = "  ";
+        p = "OXEYE_DAISY";
+        Aa = Float.intBitsToFloat(0x99482CA ^ 0xC8B307D5);
+        R = "oak_planks";
+        b = "Add";
+        x = "ITEM_CRACK";
+        N = ", model: ";
+        Y = "minecraft:blocks/fire_layer_0";
+        h = Double.longBitsToDouble(0xAD8DE16A4180EB7L ^ 0x4AB01E16A4180EB7L);
+        D = Float.intBitsToFloat(0x8EB21DFB ^ 0x4F3CE838);
+        r = "\u042d\u0442\u043e\u0442 \u043f\u0440\u0435\u0434\u043c\u0435\u0442 \u043d\u0435\u043b\u044c\u0437\u044f \u043a\u0443\u043f\u0438\u0442\u044c.";
+        W = "fboEnable";
+    }
+}
+

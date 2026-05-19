@@ -1,0 +1,131 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class Fua {
+    public static final String Ja;
+    public static final int ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final int fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final float Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final float N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final float v;
+    public static final int o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final double l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final int J;
+    public static final String A;
+    public static final int I;
+
+    public Fua() {
+        Fua a2;
+    }
+
+    static {
+        K = "--version";
+        z = "textures/entity/rabbit/white.png";
+        p = "promo_";
+        g = "achievement.taken";
+        B = "HEAD";
+        D = "Missing model for: ";
+        G = "dioriteSmooth";
+        F = "v.";
+        k = "actions";
+        A = "skycolor0.png";
+        H = "potion.hunger";
+        o = 0xF93A9B57 ^ 0xF93A99E3;
+        Q = "generateShadowMipmap";
+        Y = Float.intBitsToFloat(0x4487931A ^ 0x5C7931A);
+        Aa = "Player being ticked";
+        v = Float.intBitsToFloat(0x93BEA6A6 ^ 0xAD31FA8F);
+        E = "`";
+        Ga = "Left.Shape2123";
+        q = "expires";
+        ja = 0xAC460CE7 ^ 0x53C64C2B;
+        R = "rand";
+        M = "acacia_stairs";
+        h = "rightLeg1";
+        a = "uniforms";
+        d = "region";
+        u = "/assets/texteria/custom_blocks.json";
+        C = "Skipping BlockEntity with id ";
+        Z = " fps, ";
+        fa = 0x2F394A4D ^ 0x2F394AAB;
+        f = "Entrances";
+        r = "cherry_slab";
+        j = "LifeTime";
+        x = "BIRCH";
+        W = "Group [";
+        s = "bamboo_block";
+        O = "angleY_";
+        l = Double.longBitsToDouble(0x11C799100A763EDDL ^ 0xAE0F99100A763EDDL);
+        I = 0xB86D2148 ^ 0xB86D2A58;
+        P = "commands.scoreboard.players.test.success";
+        m = "maxLength_";
+        T = "25565";
+        t = "10a";
+        Ha = "dioriteSize";
+        J = 0xE8A367E3 ^ 0xE8A367B3;
+        c = "vimeworld.net:25565";
+        S = "fractionalMetrics_";
+        n = "Item NBT";
+        w = "GL11.GL_COPY";
+        Ka = "mob.zombie.remedy";
+        e = "clazz";
+        b = "headd.head1";
+        Ja = "blur";
+        L = "0.36, 0, 0.66, -0.56";
+        X = "LPT8";
+        U = "initialized";
+        y = "hand";
+        N = Float.intBitsToFloat(0xEDAE5382 ^ 0x2DA835E4);
+        i = "java.vendor";
+        V = "magma_cream";
+    }
+}
+

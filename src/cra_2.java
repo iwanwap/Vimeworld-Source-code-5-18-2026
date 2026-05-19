@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class cra_2 {
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final float fa;
+    public static final String Ka;
+    public static final int Aa;
+    public static final float S;
+    public static final float Z;
+    public static final String Y;
+    public static final int r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final int v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final int c;
+    public static final String B;
+    public static final int d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final long f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final int I;
+
+    public cra_2() {
+        cra_2 a2;
+    }
+
+    static {
+        n = "gl_caps[ARB_explicit_uniform_location]";
+        x = "points_";
+        Y = "glass_pane_top_blue";
+        q = "(You just lost the game)";
+        j = "http";
+        X = "Java/";
+        l = "red_nether_brick_slab_double";
+        G = "Location cannot be null!";
+        Ka = "stat.entityKilledBy.";
+        ja = "You should add flames to things, it makes them go faster!";
+        v = 0x9D5FD49B ^ 0x9D5F5452;
+        E = "RZ";
+        w = "GL11.GL_CLIP_PLANE1";
+        Q = "TileX";
+        D = "at ";
+        F = "length wider than 21-bit";
+        f = 0x8192C7E3C87BC4BEL ^ 0x8192C7E3C87BC48CL;
+        Ga = "rail_(?:activator|activator_powered|detector|detector_powered|golden|golden_powered|normal|normal_turned)";
+        J = "stat.brewingstandInteraction";
+        B = "splash/";
+        R = "/party reject ";
+        K = "Left.Shape13123";
+        p = "book.byAuthor";
+        e = "WHITE";
+        b = "[ \t]*const[ \t]*bool[ \t]*(shadowtex0Mipmap|shadowtexMipmap)[ \t]*=[ \t]*true[ \t]*;.*";
+        a = "Right.Right17";
+        Ha = "wolf/wolf_angry";
+        g = "gui.done";
+        i = ".*final.fsh";
+        I = 0x225BBBD8 ^ 0x225BB85C;
+        T = "end_portal_frame";
+        O = "textures/entity/horse/armor/horse_armor_diamond.png";
+        c = 0x30C7EEA ^ 0x30C737B;
+        N = "leash";
+        r = 0x96DB4AD9 ^ 0x96DB486E;
+        M = "RightLeg.RightLeg1";
+        Z = Float.intBitsToFloat(0x9FBEFA47 ^ 0x208B2C7E);
+        d = 0x55953EA8 ^ 0x5595BA6B;
+        t = "COM8";
+        k = "disconnect.loginFailedInfo.invalidSession";
+        U = "%c";
+        W = "banned-ips.json";
+        z = "icons/icon_16x16.png";
+        Aa = 0x9FAB051B ^ 0x9FAB451A;
+        H = "BLOCKS";
+        V = "mob.enderdragon.wings";
+        S = Float.intBitsToFloat(0x95518E76 ^ 0xA8DED25F);
+        s = "of.options.CUSTOM_SKY";
+        P = "flySpeed";
+        m = "actions_";
+        C = "SCS";
+        u = "GL13.GL_TRANSPOSE_MODELVIEW_MATRIX";
+        fa = Float.intBitsToFloat(0xA8599B7C ^ 0x685AA84F);
+        Ja = "opengl_version";
+        L = "of.options.renderDistance.extreme";
+        ca = "SNOWSTORMPARTICLES";
+        o = "commands.effect.usage";
+        y = "'%s' in ResourcePack '%s'";
+        h = "GOLD";
+        A = "><";
+    }
+}
+

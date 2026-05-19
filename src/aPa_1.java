@@ -1,0 +1,134 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class aPa_1 {
+    public static final String Da = "gl_caps[ARB_texture_non_power_of_two]";
+    public static final String ca;
+    public static final int Ja;
+    public static final String ja;
+    public static final int Ha;
+    public static final float Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final int S;
+    public static final String Z;
+    public static final int Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final int s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final int o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final int L;
+    public static final int E;
+    public static final double m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final float k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    public aPa_1() {
+        aPa_1 a2;
+    }
+
+    static {
+        E = 0xD268D49D ^ 0xD26854F9;
+        H = "textures/font/unicode_page_%02x.png";
+        Ga = Float.intBitsToFloat(0x1C0054E3 ^ 0xA25F3B31);
+        C = "\u00a78";
+        y = "watercolorX.png";
+        k = Float.intBitsToFloat(0xE2385C0 ^ 0x303BCD56);
+        A = "endFadeIn";
+        J = "Source";
+        ca = "\u0000\u0002\u0000\u0001\u0001\u0002\u0002\u0000\u0000\u0000\u0001\u0004\u0002\u1009\u0000";
+        Y = 0xC8BB4742 ^ 0xC8BB462A;
+        u = "andesiteSize";
+        p = "facing=west,half=top,shape=inner_right";
+        W = "Retry entities";
+        P = "Could not create shader program (returned program ID ";
+        Z = "defaultgamemode";
+        X = "nether_wart_block";
+        n = "target";
+        t = "Piece1.Shape102";
+        S = 0xFC0AAB1B ^ 0xFC0A2FF9;
+        m = Double.longBitsToDouble(0xEEDFFEE4A9AD68FEL ^ 0xD76BB6AF5746AA5EL);
+        x = "TIMEOUT";
+        r = "Could not save resource ";
+        I = "commands.give.usage";
+        q = "VimeWorld.logGLDebug";
+        h = "Only protocol http is supported: ";
+        j = "minecraft:air";
+        D = "dstrgb";
+        d = "diamond_shovel";
+        s = 0x4018BE19 ^ 0x4018BCFF;
+        ja = "FRLeg.Shape39";
+        c = "visibleFinish_";
+        f = "&e/cam set <\u043d\u043e\u043c\u0435\u0440>&f: \u041e\u0431\u043d\u043e\u0432\u0438\u0442\u044c \u0442\u043e\u0447\u043a\u0443 \u043d\u0430 \u0442\u0435\u043a\u0443\u0449\u0443\u044e \u043f\u043e\u0437\u0438\u0446\u0438\u044e";
+        Ka = "map.";
+        Ha = 0xF442E583 ^ 0xF442E786;
+        e = "nextDelay_";
+        w = "+0+1-2-3&4-4+13";
+        Q = "Unable to load item model: '";
+        U = "frameCounter";
+        F = " vs ";
+        i = "belowName";
+        G = "UNKNOWN";
+        V = "granite_wall";
+        z = "END";
+        a = "vime.reconnect.proxies";
+        g = "ID %02d - %s, ver %d. Features enabled: %b";
+        v = "Encountered an exception when loading model definition of '";
+        T = "BLUE";
+        o = 0xDE9DE872 ^ 0xDE9DEAF2;
+        R = "Failed compress self voice";
+        O = "text_";
+        Ja = 0x54B43E98 ^ 0x54B4BA4B;
+        M = "y0";
+        Aa = "textures/pet/enderman.png";
+        L = 0xE50F97D6 ^ 0xE50F81D7;
+        l = "LOWER";
+        B = "BEZIER";
+        fa = "destroyProgress";
+        b = "waxed_oxidized_chiseled_copper";
+        N = "Unable to get CCW facing of ";
+        K = "Left.Shape15123";
+    }
+}
+

@@ -1,0 +1,137 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class hpa {
+    public static final String ga;
+    public static final String Da;
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final int Ga;
+    public static final float fa;
+    public static final int Ka;
+    public static final String Aa;
+    public static final float S;
+    public static final int Z;
+    public static final int Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final double y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final int Q;
+    public static final String N;
+    public static final int T;
+    public static final float p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final float L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final float j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    public hpa() {
+        hpa a2;
+    }
+
+    static {
+        B = "Attempting to attack an invalid entity";
+        Da = "oak_slab";
+        Y = 0x45054B32 ^ 0x4505499C;
+        Ka = 0x266CEEF7 ^ 0x266C6B75;
+        s = "rightHand.bow2";
+        Ga = 0xA28988AD ^ 0xA28908C1;
+        V = "^\\s*#if(n)?def\\s+([A-Za-z0-9_]+)(\\s*)?$";
+        a = "SOUTH";
+        m = "/textures/";
+        G = "chatHeightUnfocused";
+        fa = Float.intBitsToFloat(0x172FACE1 ^ 0x57F3602C);
+        Q = 0xCC13F9DE ^ 0xCC13D3F2;
+        E = "end_stone";
+        w = "SCALEZVAL_NOT_SET";
+        x = "XpLevel";
+        r = "Unknown data type: ";
+        T = 0x334B58D1 ^ 0x334B5A3F;
+        p = Float.intBitsToFloat(0x1CF2858A ^ 0xA276BA6C);
+        D = "Block model being tesselated";
+        Ha = "flower";
+        ca = "W#W";
+        i = " is a stairs and should have 1 or 3 textures, got ";
+        O = "Hardware shadow filtering enabled.";
+        g = " are too big. Texture have no body";
+        y = Double.longBitsToDouble(0xACD895B52567513BL ^ 0xECC495B52567513BL);
+        c = "https://mc.vimeworld.ru/";
+        C = "E199AD21-BA8A-4C53-8D13-6182D5C69D3A";
+        t = "shadowcolor0Nearest";
+        h = "clickEvent";
+        J = "potion.prefix.dashing";
+        W = "repeatDelay_";
+        l = "Saving and pausing game...";
+        ga = "of.options.ANIMATED_PORTAL";
+        P = "EMIT";
+        z = "GRAFFITI";
+        X = "TexMinFilN";
+        K = "GL11.GL_CURRENT_RASTER_INDEX";
+        N = "gl_caps[ARB_vertex_blend]";
+        I = "Head.Shape18";
+        Z = 0x9C3F2EE0 ^ 0x9C3F2EEE;
+        u = "item_search.png";
+        e = "button";
+        j = Float.intBitsToFloat(0x1720318D ^ 0x5719A817);
+        k = "FRLeg";
+        U = "EASE_IN_EXPO";
+        H = "gl_caps[ARB_fragment_program_shadow]";
+        f = "carpet";
+        Aa = "hoveredEntityId_";
+        d = "socket closed";
+        o = "notfound";
+        A = "eRectangle_";
+        M = "textures/entity/chest/normal_double.png";
+        S = Float.intBitsToFloat(0x796535E4 ^ 0xC6ED35E4);
+        R = "0, 0.55, 0.45, 1";
+        F = "POSITION";
+        ja = "index can't be >= size: ";
+        Ja = "Extreme Hills Edge";
+        L = Float.intBitsToFloat(0x98CBD22D ^ 0xD8D24BB7);
+        b = ")";
+        q = "/\\* SHADOWHPL:[0-9\\.]+ \\*/.*";
+        n = "Right33";
+        v = "commands.gamerule.norule";
+    }
+}
+

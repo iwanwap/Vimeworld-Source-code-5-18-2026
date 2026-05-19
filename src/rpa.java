@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class rpa {
+    public static final String ca;
+    public static final String Ja;
+    public static final double ja;
+    public static final String Ha;
+    public static final float Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final float V;
+    public static final String z;
+    public static final String X;
+    public static final float y;
+    public static final String U;
+    public static final float P;
+    public static final String u;
+    public static final String O;
+    public static final long t;
+    public static final int R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final float B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final int F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final int m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    public rpa() {
+        rpa a2;
+    }
+
+    static {
+        v = "tickBlocks";
+        M = "Exception ticking world entities";
+        g = "Left.Shape69123";
+        V = Float.intBitsToFloat(0x4A692E9D ^ 0xA3C7BC8);
+        D = "&a\u0412\u0441\u0435 \u043f\u0443\u0442\u0438 \u0441\u0433\u043b\u0430\u0436\u0438\u0432\u0430\u043d\u0438\u044f \u043f\u043e\u043a\u0430\u0437\u0430\u043d\u044b";
+        t = 0xC260F1A770CFEBCL ^ 0xC260F1A770C8B8CL;
+        i = ", operation=";
+        j = "GL12.GL_PACK_IMAGE_HEIGHT";
+        O = " II";
+        N = "right.Shape43";
+        fa = "VimeWorld";
+        w = "Extreme Hills+";
+        q = "magenta_stained_glass";
+        Q = "POINTER";
+        z = ".line1";
+        m = 0xA1026095 ^ 0xA1029081;
+        ca = "commands.testforblock.success";
+        Ka = "Shape51";
+        E = "SUN_MOON";
+        k = "key.jump";
+        h = "Exception generating new chunk";
+        L = "stripe_downleft";
+        e = "Minecraft has run out of memory.";
+        A = "GL11.GL_MAP2_TEXTURE_COORD_3";
+        K = "north_south";
+        l = "ofStars";
+        a = "Exception in UDPConnection";
+        Aa = "bambooMosaicSlab";
+        s = "variable.particle_random_3";
+        ja = Double.longBitsToDouble(0x848C353606C5CB55L ^ 0xBB55ACAFA6C5CB55L);
+        U = "waxed_weathered_copper_grate";
+        S = "mangrove_log_stripped";
+        J = "double_plant_grass_bottom";
+        X = "red_flower";
+        H = "Left.Shape64123";
+        G = "waxedWeatheredChiseledCopper";
+        c = "Unknown - ";
+        r = "lineHeight_";
+        n = "of.message.shaders.af1";
+        C = "vimeworld";
+        B = Float.intBitsToFloat(0x654ECF2E ^ 0x275ACF2E);
+        W = "GL11.GL_NEAREST_MIPMAP_LINEAR";
+        f = "lightBlue";
+        I = " ]]";
+        Y = "textures/gui/container/vimepass.png";
+        b = "magma";
+        T = " <";
+        Ja = "Couldn't parse some MoLang expression!";
+        P = Float.intBitsToFloat(0x4404066A ^ 0x7B3EE722);
+        F = 0x8B3EE964 ^ 0x8B3EE9E5;
+        u = "editDuration_";
+        y = Float.intBitsToFloat(0x3FC987AE ^ 0xFE9187AE);
+        o = "cyclic_";
+        p = "setworldspawn";
+        x = "Constants are not ok";
+        Ga = Float.intBitsToFloat(0xB4BCD7F8 ^ 0xF5241B35);
+        d = "yellow_concrete_powder";
+        Z = "lightgem";
+        R = 0xDE95141 ^ 0xD240DEA;
+        Ha = "potion";
+    }
+}
+

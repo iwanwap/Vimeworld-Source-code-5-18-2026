@@ -1,0 +1,138 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class jpa_2 {
+    public static final String la = "0-11 16-27 32-43 48-58";
+    public static final String ga;
+    public static final String Da;
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final double Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final int r;
+    public static final String V;
+    public static final String z;
+    public static final float X;
+    public static final float y;
+    public static final String U;
+    public static final float P;
+    public static final String u;
+    public static final int O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final float w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final float v;
+    public static final int o;
+    public static final String h;
+    public static final float K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final int d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final float f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final int E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    public jpa_2() {
+        jpa_2 a2;
+    }
+
+    static {
+        a = "TextureAtlasSprite is not TextureAtlasSprite: ";
+        v = Float.intBitsToFloat(0xDDD0195F ^ 0x99FB0301);
+        z = "pale_oak_trapdoor";
+        E = 0x95E58422 ^ 0x95E58449;
+        Aa = "callback_";
+        x = "demo.help.movementShort";
+        s = "NN";
+        m = "Left.Shape65123";
+        b = "stone_pickaxe";
+        q = "Entity's Block location";
+        r = 0xE710006A ^ 0x18EFFF93;
+        C = "blackstone_wall";
+        Q = "Ticking player";
+        G = "textures/entity/endermite.png";
+        g = "SHOW_TEXT";
+        I = "animations/pet/huggywuggy_animation.json";
+        ga = "0123456789abcdefklmnoxswqtuvgzyr";
+        J = "Shape11123";
+        F = "RECONNECTDATA";
+        H = "redNetherBrickWall";
+        l = "callback";
+        k = "ZOMBIE";
+        N = "GL11.GL_RENDER_MODE";
+        ja = "count";
+        w = Float.intBitsToFloat(0x94657CC0 ^ 0xD55377A1);
+        i = "%s:%s:%d";
+        Da = "FLAX";
+        D = "Village";
+        M = "Glow";
+        U = "REMOVEBB";
+        A = "cobbledDeepslateStairs";
+        Z = "UINT";
+        W = "snipeSkeleton";
+        O = 0xA9067FD0 ^ 0xA906783F;
+        V = "variable.particle_age";
+        L = "Ribbon10";
+        fa = "Invalid time: ";
+        X = Float.intBitsToFloat(0x83EB4D5 ^ 0xC914D2B3);
+        t = "OUTER_RIGHT";
+        Ka = "Head.13";
+        e = "servers";
+        u = "ofAoLevel";
+        n = "commands.time.added";
+        T = "Ribbon3";
+        P = Float.intBitsToFloat(0xFC91031D ^ 0xBF8A031D);
+        R = "\u0000\b\u0000\u0001\u0001\b\b\u0000\u0000\u0000\u0001\u1004\u0000\u0002\u100a\u0001\u0003\u1208\u0002\u0004\u1208\u0003\u0005\u1006\u0004\u0006\u1007\u0005\u0007\u1007\u0006\b\u100a\u0007";
+        ca = "SAND";
+        h = "anvil_(?:top(?:_damaged_[1-2])?|base)";
+        p = "shrub";
+        o = 0x94116B60 ^ 0x9411BF51;
+        y = Float.intBitsToFloat(0xB5E1A7ED ^ 0xF5503E77);
+        d = 0x25F2155C ^ 0x25F215E6;
+        S = "oak_door";
+        c = "Illegal characters in chat";
+        Y = "cake";
+        Ga = "(Error finding world loc)";
+        Ha = Double.longBitsToDouble(0x8E328C99553BA2A1L ^ 0x31D1BFAA153BA2A1L);
+        j = "oak";
+        K = Float.intBitsToFloat(0xCD74856D ^ 0x8DA4856D);
+        B = "show_item";
+        f = Float.intBitsToFloat(0xF0258E5A ^ 0xCFEC8181);
+        Ja = "duration.";
+    }
+}
+

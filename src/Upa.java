@@ -1,0 +1,137 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class Upa {
+    public static final float ga;
+    public static final String Da;
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final float Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final float V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final int P;
+    public static final String u;
+    public static final float O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final double N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final int W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final int B;
+    public static final float d;
+    public static final String a;
+    public static final String b;
+    public static final int l;
+    public static final String e;
+    public static final String G;
+    public static final int D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final int A;
+    public static final String I;
+
+    static {
+        ja = "txt:proto";
+        d = Float.intBitsToFloat(0xD3186EF2 ^ 0x6C1D500A);
+        T = "uv";
+        P = 0xFCB44FFA ^ 0xFCB44EB2;
+        ga = Float.intBitsToFloat(0x68E1D0A ^ 0x392EC476);
+        x = "Texture animation: ";
+        C = "BorderSizeLerpTarget";
+        k = "commands.unbanip.success";
+        Ja = "EnderDragon";
+        M = "DIORITE_SMOOTH";
+        S = "Invalid name";
+        b = "Piece1.Shape112";
+        t = "Affected level";
+        E = "publish";
+        Da = "Texteria";
+        Ha = "createWorld.customize.custom.dungeonChance";
+        I = "lucky_block";
+        A = 0xFC74A620 ^ 0xFC742350;
+        r = "BREWING_STAND";
+        l = 0x75785ACB ^ 0x756E4CDD;
+        m = "SMOOTH_FPS";
+        n = " >= ";
+        U = "Unknown synced attribute modifier";
+        g = "magenta_glazed_terracotta";
+        Q = "SHOW_FPS";
+        q = "container.crafting";
+        h = "ofAnimatedFire";
+        f = "Problem";
+        fa = "AMETHYST";
+        O = Float.intBitsToFloat(0xD8AE17D2 ^ 0x9A1617D2);
+        Aa = Float.intBitsToFloat(0xEE766D89 ^ 0xAA0FAD89);
+        K = "Size";
+        s = "commands.playsound.playerTooFar";
+        a = "GL13.GL_OPERAND2_RGB";
+        c = "stat.boatOneCm";
+        z = "\"layer";
+        y = "SecurityHax hacked";
+        B = 0x198FB8A5 ^ 0x19BF8895;
+        u = "stairsWoodJungle";
+        e = "MC|PingHost";
+        j = "stat.tradedWithVillager";
+        L = "colorval_";
+        i = "commands.scoreboard.players.enable.usage";
+        X = "Entity Name";
+        R = "XXX";
+        Y = "stat.armorCleaned";
+        F = "Image9Slice ";
+        W = 0x9AB78714 ^ 0x9AB780C0;
+        ca = "controls.resetAll";
+        Ka = "record_cat";
+        V = Float.intBitsToFloat(0x3FF03028 ^ 0xFF797511);
+        G = "thunder";
+        Z = "CLAMP";
+        o = "BorderDamagePerBlock";
+        N = Double.longBitsToDouble(0xC168E6DB6ABEDE7AL ^ 0x7ED17F42F32747E0L);
+        Ga = "\u0000\u0003\u0001\u0000\u0001\u0003\u0003\u0000\u0000\u0000\u0001\u0004\u0002<\u0000\u0003:\u0000";
+        H = "STONE";
+        w = "GL15.GL_ARRAY_BUFFER";
+        p = "SelectedItemSlot";
+        J = "LEFT_SLEEVE";
+        v = "lines_x";
+        D = 0xE351EE4 ^ 0xE351EDC;
+    }
+
+    public Upa() {
+        Upa a2;
+    }
+}
+

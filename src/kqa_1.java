@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class kqa_1 {
+    public static final float ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final int Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final int t;
+    public static final String R;
+    public static final int Q;
+    public static final String N;
+    public static final long T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final int W;
+    public static final String q;
+    public static final String x;
+    public static final int v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final int C;
+    public static final int i;
+    public static final String M;
+    public static final int k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    public kqa_1() {
+        kqa_1 a2;
+    }
+
+    static {
+        a = "title.oldgl2";
+        d = "pre copy depth";
+        E = "facing=south,half=bottom,shape=outer_left";
+        y = "quartz_column";
+        b = "GL11.GL_LOGIC_OP";
+        r = "Duplicate id value for ";
+        z = "helmetIron";
+        X = "(internal)";
+        j = "variable.particle_random_1";
+        f = "textures/armor/";
+        S = "Piece1.Shape32";
+        g = "Nether";
+        J = "SuccessCount";
+        p = "Select world";
+        O = "Already connected";
+        n = "uv_offset";
+        c = "selectWorld.newWorld";
+        w = "of.options.other.reset";
+        ca = Float.intBitsToFloat(0x89124842 ^ 0x34443F12);
+        F = "usedShadowDepthBuffers: ";
+        C = 0xED514293 ^ 0xED514FA9;
+        A = "dy";
+        U = "n";
+        K = "acaciaFenceGate";
+        e = "polishedTuffSlab";
+        D = "commands.scoreboard.players.test.usage";
+        l = "In parent chain: ";
+        V = "MUSHROOM_RED";
+        q = "createWorld.customize.custom.biomeScaleWeight";
+        Aa = "right.Shape48";
+        Ka = "v";
+        L = "records.";
+        P = "ofDrippingWaterLava:";
+        I = "lightMap";
+        u = " - can't reassign to ";
+        h = "east=true,north=true,south=true,west=false";
+        t = 0x9C2221A6 ^ 0x9C222A0E;
+        B = "random.click";
+        T = 0xCD0464765842FE65L ^ 0xCD0464765842FE23L;
+        W = 0xF7AE7B2F ^ 0xF7AE7CFC;
+        Ja = "GL11.GL_COLOR_MATERIAL_PARAMETER";
+        H = "commands.debug.stop";
+        Y = "render_";
+        R = "block entity marker";
+        m = "\u4fb1";
+        s = "inner_left";
+        Ga = 0x216D734D ^ 0x216DF33B;
+        G = "#notfound(";
+        Ha = "source";
+        o = "HOVERCOLORANIM";
+        k = 0xD2D741BA ^ 0xD2D7C5E7;
+        v = 0xE415CBF0 ^ 0xE415C93D;
+        i = 0x6F8D406D ^ 0x6F8D42A6;
+        Z = "HEIGHTEXPR";
+        Q = 0xC3C7F600 ^ 0xC3C776AA;
+        ja = "linear_drag_coefficient";
+        x = "dance-id";
+        M = "\u00a7cTexteria Error";
+        fa = "waxedWeatheredCopper";
+        N = "mobGriefing";
+    }
+}
+

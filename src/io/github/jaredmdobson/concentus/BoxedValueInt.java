@@ -1,0 +1,13 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+package io.github.jaredmdobson.concentus;
+
+class BoxedValueInt {
+    public int Val;
+
+    public BoxedValueInt(int v2) {
+        this.Val = v2;
+    }
+}
+

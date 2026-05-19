@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class BPa {
+    public static final String ca;
+    public static final int Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final float Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final int P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final float R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final int p;
+    public static final float n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final int D;
+    public static final String f;
+    public static final String F;
+    public static final int g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final int J;
+    public static final String A;
+    public static final float I;
+
+    static {
+        m = "age_click_callback";
+        G = "mob.chicken.step";
+        R = Float.intBitsToFloat(0x447CCF40 ^ 0x7B9E401C);
+        M = "mob.chicken.say";
+        p = 0xCF203AD4 ^ 0xCF3F25CB;
+        c = "GL11.GL_PACK_SKIP_PIXELS";
+        t = "Piece1.Shape24";
+        o = "Couldn't load server icon";
+        r = "Pet.Ribbon11";
+        b = "show_text";
+        s = "disconnect.timeout";
+        Z = "f";
+        Aa = "commands.save-on.usage";
+        O = "waxed_exposed_cut_copper_slab";
+        a = "minecraft:minecart.inside";
+        f = "GL11.GL_STENCIL_PASS_DEPTH_PASS";
+        i = "\u506f  \u0421\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u043e";
+        ja = "Frame being iterated";
+        A = "east=true,north=false,south=true,up=true,west=true";
+        W = "Shape18123";
+        C = "close";
+        d = "of.options.DRIPPING_WATER_LAVA";
+        x = "demo.reminder";
+        N = "Tick span: ";
+        g = 0x3B966707 ^ 0x3B690767;
+        ca = "Processed";
+        u = "Unable to find spawn biome";
+        K = "slime/magmacube";
+        y = "XEXPR";
+        Ga = Float.intBitsToFloat(0xAF6D62B0 ^ 0x10728779);
+        e = "\u0000\u0014\u0000\u0001\u0001\u0014\u0014\u0000\u0000\u0000\u0001\f\u0002\u1208\u0000\u0003\u1002\u0001\u0004\u1004\u0002\u0005\u1004\u0003\u0006\u1004\u0004\u0007\u1007\u0005\b\u1004\u0006\t\u1007\u0007\n\u1009\b\u000b\u1004\t\f\u100c\n\r\u1009\u000e\u000e\u1009\u000f\u000f\u1009\u0010\u0010\u1009\u0011\u0011\u1009\u0012\u0012\u1007\f\u0013\u1007\r\u0014\u1208\u000b";
+        S = "gbuffers_water";
+        v = "Level seed";
+        Y = "Shape51123";
+        z = "Reading keyframe data failed: ";
+        fa = "spreadGifSpeed_";
+        j = "rawGoldBlock";
+        B = "widthExpr_";
+        J = 0x362C79C0 ^ 0x362CF983;
+        E = "Tame";
+        Ha = "ofDroppedItems";
+        q = "gl_caps[ARB_draw_buffers_blend]";
+        H = "CUSTOM_FONTS";
+        Q = "Deleting texture {} - {}x{}";
+        Ka = "right.Shape46";
+        k = "stick";
+        L = "SHIFT";
+        X = "assets/minecraft/models/block/elerald_ore.json";
+        w = "index";
+        n = Float.intBitsToFloat(0xBFD31FEC ^ 0x88F4DA40);
+        I = Float.intBitsToFloat(0xB10CBEEE ^ 0x71DCBEEE);
+        h = "air";
+        D = 0x9F6401C4 ^ 0x9F6601C4;
+        V = "S_X2";
+        U = "\u0442\u043e\u043b\u044c\u043a\u043e \u0447\u0435\u0440\u0435\u0437 \u043b\u0430\u0443\u043d\u0447\u0435\u0440";
+        T = "ENUM$VALUES";
+        Ja = 0x296DF991 ^ 0x296DF8BE;
+        l = "cobbled_deepslate_slab";
+        F = "andesite";
+        P = 0x7E0E9C46 ^ 0x7E0EB946;
+    }
+
+    public BPa() {
+        BPa a2;
+    }
+}
+

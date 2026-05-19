@@ -1,0 +1,135 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class xua {
+    public static final float Da;
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final int S;
+    public static final int Z;
+    public static final String Y;
+    public static final int r;
+    public static final float V;
+    public static final double z;
+    public static final float X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final int q;
+    public static final String x;
+    public static final String v;
+    public static final int o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final int b;
+    public static final String l;
+    public static final String e;
+    public static final int G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    public xua() {
+        xua a2;
+    }
+
+    static {
+        g = "optifine/";
+        C = "PI";
+        c = "pink_concrete";
+        X = Float.intBitsToFloat(0xCE149446 ^ 0x8FBC588B);
+        L = "GL11.GL_T2F_V3F";
+        ja = "Fireball";
+        W = "random.anvil_land";
+        G = 0x57E5B3C0 ^ 0x5795B1C0;
+        Z = 0x2AB46668 ^ 0x2AB44C4A;
+        y = "right.Shape36";
+        A = "http/";
+        j = "R Z";
+        H = "generateShadowColorMipmap";
+        Aa = "item";
+        K = "amount_";
+        I = "open_url";
+        s = "Level";
+        a = "\u042d\u043c\u043e\u0446\u0438\u0438";
+        Ha = "iron_bars";
+        N = "GL11.GL_T4F_C4F_N3F_V4F";
+        Ga = "open";
+        S = 0x8478C1DD ^ 0x8478C1B4;
+        h = "Scaled: (%d, %d). Absolute: (%d, %d)";
+        v = "Piece1.Shape21";
+        Y = "DIRECTDRAW";
+        B = "snow_layer";
+        P = "easy";
+        Da = Float.intBitsToFloat(0x18644C79 ^ 0x27782F88);
+        M = "textures/entity/zombie_pigman.png";
+        u = "layer3";
+        q = 0x1F989E8D ^ 0xFF989E8D;
+        fa = "obsidian";
+        R = "x1";
+        Ja = "Could not spawn particle effect ";
+        m = "Decorations";
+        l = "GL11.GL_MAX_TEXTURE_SIZE";
+        ca = "keyMouseButtons:";
+        n = "GL13.GL_TEXTURE8";
+        x = "No base path found: ";
+        F = "Glyph loading failed: ";
+        O = "tl";
+        J = "bonuses";
+        f = "packedMud";
+        b = 0x1368CC83 ^ 0x1368CE57;
+        r = 0xCC027DD5 ^ 0xCC027D62;
+        U = "ARB_shader_objects is ";
+        E = "CREEBET";
+        Ka = "log_stripped2";
+        e = "lime";
+        k = "cat/black";
+        V = Float.intBitsToFloat(0x79B0F935 ^ 0xBA84F935);
+        Q = "textures/pet/console1.png";
+        D = "\u0000\u0005\u0001\u0000\u0001\u0005\u0005\u0000\u0000\u0000\u0001\f\u0002=\u0000\u0003<\u0000\u0004\u023b\u0000\u0005\u023b\u0000";
+        i = "): ";
+        w = "cullface";
+        d = "has_bottle_1";
+        t = "MERCHANT";
+        o = 0x1CEDC080 ^ 0x1CEDCDB1;
+        z = Double.longBitsToDouble(0xB5940A60C97B52FAL ^ 0xF5A50A60C97B52FAL);
+        T = "vertices";
+        p = "pickaxe";
+    }
+}
+

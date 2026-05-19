@@ -1,0 +1,135 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class Qta_1 {
+    public static final int Da;
+    public static final long ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final float S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final int U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final int T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final double h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final int D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final int L;
+    public static final String E;
+    public static final String m;
+    public static final int C;
+    public static final String i;
+    public static final String M;
+    public static final int k;
+    public static final String j;
+    public static final String J;
+    public static final int A;
+    public static final String I;
+
+    static {
+        e = "TEXTURERESOURCE";
+        p = ">=";
+        s = "Right.Right44";
+        A = 0x825D91BA ^ 0x825D9125;
+        c = "\u0000\u0004\u0001\u0000\u0001\u0004\u0004\u0000\u0000\u0000\u0001=\u0000\u0002<\u0000\u0003<\u0000\u0004<\u0000";
+        P = "Hat.Shape7";
+        d = "flo";
+        I = "Texture not found: ";
+        q = "\u0000\u0001\u0000\u0001\u0001\u0001\u0001\u0000\u0000\u0000\u0001\u1002\u0000";
+        Ga = "chainmail_leggings";
+        B = "options.stream.sendMetadata";
+        V = "\u00c0\u00c1\u00c2\u00c8\u00ca\u00cb\u00cd\u00d3\u00d4\u00d5\u00da\u00df\u00e3\u00f5\u011f\u0130\u0131\u0152\u0153\u015e\u015f\u0174\u0175\u017e\u0207\u0000\u0000\u0000\u0000\u0000\u0000\u0000 !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~\u0000\u00c7\u00fc\u00e9\u00e2\u00e4\u00e0\u00e5\u00e7\u00ea\u00eb\u00e8\u00ef\u00ee\u00ec\u00c4\u00c5\u00c9\u00e6\u00c6\u00f4\u00f6\u00f2\u00fb\u00f9\u00ff\u00d6\u00dc\u00f8\u00a3\u00d8\u00d7\u0192\u00e1\u00ed\u00f3\u00fa\u00f1\u00d1\u00aa\u00ba\u00bf\u00ae\u00ac\u00bd\u00bc\u00a1\u00ab\u00bb\u2591\u2592\u2593\u2502\u2524\u2561\u2562\u2556\u2555\u2563\u2551\u2557\u255d\u255c\u255b\u2510\u2514\u2534\u252c\u251c\u2500\u253c\u255e\u255f\u255a\u2554\u2569\u2566\u2560\u2550\u256c\u2567\u2568\u2564\u2565\u2559\u2558\u2552\u2553\u256b\u256a\u2518\u250c\u2588\u2584\u258c\u2590\u2580\u03b1\u03b2\u0393\u03c0\u03a3\u03c3\u03bc\u03c4\u03a6\u0398\u03a9\u03b4\u221e\u2205\u2208\u2229\u2261\u00b1\u2265\u2264\u2320\u2321\u00f7\u2248\u00b0\u2219\u00b7\u221a\u207f\u00b2\u25a0\u0000";
+        u = "Resource ";
+        D = 0x1B9B03C7 ^ 0x1B9B0B1F;
+        R = "10";
+        E = "skull";
+        Ka = "\u0413\u043b\u0430\u0432\u043d\u0430\u044f";
+        w = "sub2_";
+        C = 0xECC15497 ^ 0xECC1D5BF;
+        n = "Don't know how to search for ";
+        y = "CLEARKEYBOARD";
+        ca = 0x19BB849403A452CAL ^ 0x19BB849403A45D35L;
+        o = "[ \t]*const[ \t]*float[ \t]*centerDepthHalflife[ \t]*=[ \t]*-?[0-9.]+f?;.*";
+        i = "No shaderpack loaded.";
+        m = "pearlescent";
+        Aa = "-=";
+        U = 0xA34BC7E8 ^ 0xA34BC697;
+        Ha = "OpenGL %\u0456 %s %s: %s (%s)";
+        Q = "You have died. Game over, man, it's game over!";
+        f = "Error: ";
+        M = "Back-face Cutout";
+        v = "VC: Player stop talking '{}'";
+        G = "resourcePack.openFolder";
+        ja = "diamond_pickaxe";
+        X = "textures/body/mercy_wings_blue.png";
+        z = "mob.enderdragon.hit";
+        b = "selectWorld.rename";
+        T = 0x2C9E8C21 ^ 0x2C9E04B3;
+        j = "Towards negative Z";
+        S = Float.intBitsToFloat(0x9C3BFFF4 ^ 0x5E1BFFF4);
+        Z = "createWorld.customize.custom.confirm2";
+        l = "textures/entity/chicken.png";
+        O = "PLAYERS";
+        r = "No error code reported";
+        F = "mob.creeper.say";
+        Da = 0xB778B349 ^ 0xB778B25D;
+        W = "30";
+        fa = "textures/body/garlands6.png";
+        a = "textures/gui/container/creative_inventory/tabs.png";
+        J = "options.stream.compression.medium";
+        K = "Shape23";
+        Ja = "doTileDrops";
+        k = 0x34E568A ^ 0x652A17DE;
+        h = Double.longBitsToDouble(0x55EBA8EBAFFFFF5AL ^ 0x15BA28EBAFFFFF5AL);
+        N = "expiration_expression";
+        x = "GL13.GL_TEXTURE_COMPRESSION_HINT";
+        Y = "shaders/program/";
+        H = "spreadScale_";
+        g = "Interrupted whilst closing channel";
+        t = "scaleExpr_";
+        L = 0x8A9471AC ^ 0x8A14F12C;
+    }
+
+    public Qta_1() {
+        Qta_1 a2;
+    }
+}
+

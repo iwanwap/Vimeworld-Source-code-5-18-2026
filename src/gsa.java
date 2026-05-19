@@ -1,0 +1,137 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class gsa {
+    public static final String ga;
+    public static final String Da;
+    public static final String ca;
+    public static final int Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final int Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final int S;
+    public static final String Z;
+    public static final int Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final int X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final int t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final int c;
+    public static final String B;
+    public static final double d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final float E;
+    public static final String m;
+    public static final int C;
+    public static final long i;
+    public static final String M;
+    public static final long k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        z = "disconnect.loginFailedInfo";
+        I = "menu.returnToGame";
+        V = "selectWorld.resultFolder";
+        Y = 0xF8893A4 ^ 0xFAF1EA4;
+        o = " and FS ";
+        W = "crackedDeepslateTiles";
+        L = ": Don't know what ";
+        H = "OMDXR";
+        h = "option.";
+        r = "BrewTime";
+        Aa = "hellsand";
+        Ha = "ss";
+        u = " is ";
+        m = "east=false,north=false,south=true,west=true";
+        Ja = 0x2AE18056 ^ 0x2AE180D2;
+        ca = "Right41";
+        M = "UNRECOGNIZED";
+        Ga = 0x915D5A82 ^ 0x6EFDFA22;
+        Z = "GL11.GL_MAX_PROJECTION_STACK_DEPTH";
+        j = ".fsh";
+        G = "of.options.animation.dynamic";
+        l = "[UNKNOWN]";
+        B = "Shader Options";
+        b = "Invalid weight: ";
+        ja = ", facing: ";
+        p = "VillagerGolem";
+        n = "Couldn't load layered image";
+        U = "tile.beacon.secondary";
+        T = "polishedDeepslateWall";
+        E = Float.intBitsToFloat(0x13BB5223 ^ 0x52F2656F);
+        k = 0x6C1C5E6A65F7BL ^ 0x6C1C5E6A65ECBL;
+        w = "burn";
+        x = "ALL_OUTSIDE";
+        J = "shadowtex1";
+        X = 0xC0F8C8E4 ^ 0x3FF8C8E4;
+        S = 0xE7050F14 ^ 0xE7AFA5BE;
+        a = "lookat_xyz";
+        P = "wall_sign";
+        ga = "preserveEnergy";
+        e = "GL11.GL_VERTEX_ARRAY_POINTER";
+        y = "commands.whitelist.add.usage";
+        Q = "III";
+        f = "<NULL>";
+        A = "yvalCase_";
+        R = "m";
+        t = 0x88730FEC ^ 0x88734082;
+        K = "GL11.GL_LINE_STIPPLE";
+        s = "Left.Shape41123";
+        i = 0x17AEEC4620A694F4L ^ 0x17AEEC46C5E7ACDBL;
+        N = "RSA";
+        q = "magic";
+        O = "GL11.GL_INTENSITY8";
+        fa = "STARS";
+        F = " R ";
+        Da = "heldBlockLightValue";
+        C = 0x9FCC28ED ^ 0x9F419B8D;
+        c = 0x169F45CF ^ 0x169F41CE;
+        D = "RGB32F";
+        Ka = "Pose";
+        g = "RightLeg3";
+        v = "frames[";
+        d = Double.longBitsToDouble(0xB98EFCD914977F27L ^ 0x866152CD6E763889L);
+    }
+
+    public gsa() {
+        gsa a2;
+    }
+}
+

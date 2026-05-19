@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class nOa {
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final long Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final int Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final float s;
+    public static final double w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final float v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final float a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final float g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final float C;
+    public static final float i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final float J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        D = "leaves_acacia_opaque";
+        A = "\u041f\u043e\u0447\u0435\u043c\u0443 \u0432\u0440\u0435\u043c\u044f \u043d\u0435 \u0441\u043e\u0432\u043f\u0430\u0434\u0430\u0435\u0442?\n\u042f \u043d\u0435 \u043c\u043e\u0433\u0443 \u0442\u0430\u043a \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c.";
+        T = "emote_";
+        C = Float.intBitsToFloat(0xD1755D0 ^ 0xCC9ECC4A);
+        J = Float.intBitsToFloat(0x358B2D78 ^ 0x8A9365E2);
+        e = "Entity To Track";
+        Y = ", u0=";
+        V = "level.dat_new";
+        p = "Netty Local Server IO #%d";
+        fa = "CHEST_ONLY";
+        K = "PushX";
+        I = "Shaders";
+        Ga = "GL11.GL_NOR";
+        v = Float.intBitsToFloat(0x6E7F1C77 ^ 0x51331C77);
+        Z = 0xA48E95BB ^ 0xA48E948E;
+        z = "**:**";
+        Ha = "gl_caps[EXT_blend_minmax]";
+        Ja = "stone_brick_monster_egg";
+        r = "commands.scoreboard.teams.add.usage";
+        c = "quartz_block";
+        L = "GL11.GL_BLUE";
+        B = "shovelGold";
+        d = "\u0000\n\u0001\u0001\u0001\n\n\u0000\u0000\u0000\u0001\u023b\u0000\u00027\u0000\u0003=\u0000\u0004\u1006\u0000\u0005\u1001\u0001\u0006\u100c\u0002\u0007\u1007\u0003\b\u1007\u0004\t\u1004\u0005\n\u1007\u0006";
+        H = "gl_caps[ARB_clear_buffer_object]";
+        X = "Operating System";
+        E = "Error setting FSAA: ";
+        h = "commands.scoreboard.objectiveNotFound";
+        u = "File ";
+        t = "Unable to load extra miplevels, source-texture is not power of two";
+        k = "DOWN_X";
+        j = "Shape10123";
+        W = "STREAM_VOLUME_SYSTEM";
+        S = "sunPosition";
+        f = "Left.Shape61123";
+        s = Float.intBitsToFloat(0x5C11F141 ^ 0x633A745E);
+        l = "You should try our sister game, Minceraft!";
+        a = Float.intBitsToFloat(0xC70EFDC5 ^ 0x7023108);
+        ja = "GL11.GL_FLOAT";
+        M = "stat.chestOpened";
+        Q = "commands.banip.success.players";
+        o = "closeCallback_";
+        i = Float.intBitsToFloat(0x7D329648 ^ 0xBD23A056);
+        ca = "Shadow map resolution: ";
+        y = "gl_caps[ARB_depth_clamp]";
+        b = "commands.help.usage";
+        q = "\u0422\u0435\u043b\u043e";
+        w = Double.longBitsToDouble(0x86243B034DE3BC3DL ^ 0xB9C92C469C97E12AL);
+        N = "Couldn't load level list";
+        O = "Duplicate id: ";
+        x = "GL11.GL_SHADE_MODEL";
+        n = "ofSmoothBiomes";
+        Ka = 0x403F24F01A801649L ^ 0x403F24F01A801721L;
+        P = "Front.13b";
+        Aa = "\\. ";
+        g = Float.intBitsToFloat(0x540B46BB ^ 0x174B46BB);
+        R = "ENDER_DRAGON";
+        G = "XVAL_NOT_SET";
+        F = "goldMaxHeight";
+        m = "red_mushroom_block";
+        U = "X180_Y90";
+    }
+
+    public nOa() {
+        nOa a2;
+    }
+}
+

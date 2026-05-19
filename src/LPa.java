@@ -1,0 +1,135 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class LPa {
+    public static final String Da;
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final float S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final float t;
+    public static final String R;
+    public static final int Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final int n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final float v;
+    public static final String o;
+    public static final String h;
+    public static final int K;
+    public static final String H;
+    public static final String c;
+    public static final int B;
+    public static final String d;
+    public static final String a;
+    public static final double b;
+    public static final int l;
+    public static final double e;
+    public static final String G;
+    public static final String D;
+    public static final int f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        E = "golden_chestplate";
+        T = "raw";
+        m = "blocks/destroy_stage_2";
+        V = "key.command";
+        ca = "sy";
+        r = "I let you down. Sorry :(";
+        A = "Piece1.Shape30";
+        k = "SCALEYEXPR";
+        Aa = "ANIMALS";
+        v = Float.intBitsToFloat(0xCC31D02C ^ 0x8DA9D02C);
+        G = "the player isn't the camera, you can control him at every time";
+        q = "Right20";
+        L = "shovel";
+        N = "gl_caps[EXT_stencil_wrap]";
+        Ha = "hover";
+        Ja = "\u0426\u0432\u0435\u0442\u043e\u0432\u043e\u0439 \u0442\u043e\u043d";
+        W = "Common";
+        F = "cat/siamese";
+        U = "SheepPig";
+        K = 0x33500638 ^ 0x3350044C;
+        n = 0xD27DB490 ^ 0xD27D37F2;
+        g = "tintindex";
+        fa = "(no connection)";
+        p = "tripWireSource";
+        Ka = "ROUGH";
+        w = "right.Shape29";
+        e = Double.longBitsToDouble(0xCB29A54796F5BA03L ^ 0xF4FFC321F093DC65L);
+        D = "replace_left_leg";
+        P = "Head.Shape22";
+        c = "blocks/destroy_stage_6";
+        R = "tuff_slab";
+        y = "useVillages";
+        M = "item.fireworksCharge.type";
+        Q = 0x13A91F32 ^ 0x13A91C18;
+        Da = "Saving level";
+        b = Double.longBitsToDouble(0x118B7B5FA01A48DL ^ 0x3EFB203766BDB06BL);
+        a = "width_";
+        I = "BLACK_CURRANT";
+        Z = ", u1=";
+        u = "ofRandomMobs:";
+        J = "\u00a7f\u00a7o%txp%";
+        s = "commands.debug.usage";
+        d = "/assets/";
+        h = "The save is being accessed from another location, aborting";
+        o = "Error parsing mc_Entity_x.txt";
+        x = "achievement.bookcase";
+        C = "Can't dye non-leather!";
+        j = "activation_expression";
+        f = 0xC1D3DF08 ^ 0xC1D35F97;
+        O = "gdepth";
+        X = ".red_sandstone.name";
+        B = 0x87E6258F ^ 0x87E6238D;
+        l = 0x5DE488 ^ 0x5DAA88;
+        Y = " are missing";
+        H = "&a \u0442\u043e\u0447\u043a\u0430";
+        Ga = "Shaderpack upload check error. Code ";
+        S = Float.intBitsToFloat(0xF1BA60B ^ 0x31CCAC36);
+        i = "Shape32123";
+        z = "GL11.GL_LIGHT0";
+        t = Float.intBitsToFloat(0x168653DC ^ 0xD7409F11);
+        ja = "cut_copper_slab";
+    }
+
+    public LPa() {
+        LPa a2;
+    }
+}
+

@@ -1,0 +1,137 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class Lqa_1 {
+    public static final String ga;
+    public static final String Da;
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final double S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final int V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final float U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final int Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final long v;
+    public static final String o;
+    public static final int h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final int d;
+    public static final float a;
+    public static final String b;
+    public static final float l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final double F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final float C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final int I;
+
+    public Lqa_1() {
+        Lqa_1 a2;
+    }
+
+    static {
+        G = "shadowModelView";
+        t = "prismarine_slab_double";
+        ca = "_concrete";
+        D = "DayTime";
+        B = "23";
+        Ga = "silver_concrete_powder";
+        Y = "the elder scrolls klaatu berata niktu xyzzy bless curse light darkness fire air earth water hot dry cold wet ignite snuff embiggen twist shorten stretch fiddle destroy imbue galvanize enchant free limited range of towards inside sphere cube self other ball mental physical grow shrink demon elemental spirit animal creature beast humanoid undead fresh stale ";
+        n = "ANIMATED_WATER";
+        Da = "\r\n";
+        S = Double.longBitsToDouble(0x7645815F0DCFCAF9L ^ 0x4990D40A589A9FACL);
+        p = "minecraft:minecart.base";
+        ja = "commands.scoreboard.players.list.count";
+        w = "\u0440\u0430\u0437\u043c\u0435\u0440 \u043e\u043a\u043d\u0430";
+        Ka = "gl_caps[EXT_blend_func_separate]";
+        k = "ViL";
+        R = "MOBS";
+        W = ".player";
+        z = "' couldn't be found!";
+        j = "flame";
+        o = "Data";
+        A = "achievement.diamonds";
+        Aa = "tile.oreIron";
+        f = "waxed_chiseled_copper";
+        O = "Invalid number: ";
+        U = Float.intBitsToFloat(0xB9D7C7EA ^ 0x87D1CD4C);
+        h = 0x7C2655D4 ^ 0x7C2655BC;
+        F = Double.longBitsToDouble(0xEE71B63F854C600L ^ 0x3116F4FE4A79C856L);
+        Z = "mangrove_trapdoor";
+        V = 0xEB98118C ^ 0x1463EE73;
+        K = "end can't be >= size: ";
+        M = "{ \"textures\": {   \"particle\": \"missingno\",   \"missingno\": \"missingno\"}, \"elements\": [ {     \"from\": [ 0, 0, 0 ],     \"to\": [ 16, 16, 16 ],     \"faces\": {         \"down\":  { \"uv\": [ 0, 0, 16, 16 ], \"cullface\": \"down\", \"texture\": \"#missingno\" },         \"up\":    { \"uv\": [ 0, 0, 16, 16 ], \"cullface\": \"up\", \"texture\": \"#missingno\" },         \"north\": { \"uv\": [ 0, 0, 16, 16 ], \"cullface\": \"north\", \"texture\": \"#missingno\" },         \"south\": { \"uv\": [ 0, 0, 16, 16 ], \"cullface\": \"south\", \"texture\": \"#missingno\" },         \"west\":  { \"uv\": [ 0, 0, 16, 16 ], \"cullface\": \"west\", \"texture\": \"#missingno\" },         \"east\":  { \"uv\": [ 0, 0, 16, 16 ], \"cullface\": \"east\", \"texture\": \"#missingno\" }    }}]}";
+        X = "GL11.GL_ALL_CLIENT_ATTRIB_BITS";
+        ga = "LeftLeg.Shape15";
+        c = "usedColorAttachs: ";
+        x = "&a. \u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u043e\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435: &f1";
+        y = "resources.zip";
+        d = 0x74028341 ^ 0x7432F705;
+        g = "gbufferProjection";
+        l = Float.intBitsToFloat(0xEE7A1281 ^ 0x2E6A1281);
+        P = "oxidizedCopperGrate";
+        r = "trunc";
+        u = "Failed while reading minidot/emotes/emote/{}/emote.bobj";
+        s = "IDX";
+        m = "mangroveDoor";
+        H = "entity.";
+        L = "CY";
+        Ha = "GL11.GL_NEAREST_MIPMAP_NEAREST";
+        Q = 0xC9B997A1 ^ 0xC9B9949F;
+        q = "Fuel";
+        N = "efficiency";
+        T = "Entity_";
+        e = "Event type";
+        E = "BRICK";
+        C = Float.intBitsToFloat(0x6564F680 ^ 0xA474F680);
+        Ja = "polished_blackstone_slab";
+        b = "Invalid response code ";
+        fa = "vt";
+        a = Float.intBitsToFloat(0x91DD0B6D ^ 0x2EEE385E);
+        I = 0xA3E0A5F7 ^ 0xE31F5A08;
+        v = 0x59ECB5B6926563F7L ^ 0x59ECB5B6921E9424L;
+        i = "biome id";
+        J = "Item ID";
+    }
+}
+

@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class Zqa {
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final int Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final int y;
+    public static final int U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final float Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final int s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final float l;
+    public static final String e;
+    public static final int G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final int E;
+    public static final String m;
+    public static final String C;
+    public static final int i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final int J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        Ka = "shaders/post/antialias.json";
+        W = "impelType_";
+        m = "keyJumpButton";
+        v = "8080";
+        s = 0x170DADC1 ^ 0x170D2D8D;
+        c = "PvPMod";
+        ca = "keyTextBold";
+        e = "Piece3.Shape15";
+        ja = "Sprite";
+        C = "accessToken";
+        F = "\u5047";
+        B = "HideFlags";
+        S = "WIDTHVAL_NOT_SET";
+        Ga = 0x9520975A ^ 0x952097C9;
+        j = "GL11.GL_UNPACK_SWAP_BYTES";
+        h = "// This is approximately ";
+        i = 0x9A904A5F ^ 0x9A904B47;
+        Ha = "OLD";
+        Ja = "_sapling";
+        g = "[ \t]*const[ \t]*bool[ \t]*shadowHardwareFiltering[ \t]*=[ \t]*true[ \t]*;.*";
+        J = 0xDBF879CF ^ 0xDBFE1A58;
+        H = "commands.scoreboard.players.resetscore.success";
+        b = "record_13";
+        G = 0x99513A40 ^ 0x99513A61;
+        l = Float.intBitsToFloat(0x40B2E652 ^ 0xB246C2);
+        T = "Shape73123";
+        q = "w";
+        w = "bedrock";
+        fa = "GL11.GL_ZOOM_Y";
+        n = "rotate";
+        x = "\u0423 \u0432\u0430\u0441 \u043f\u043e\u043a\u0430 \u043d\u0435\u0442 \u0442\u0430\u043d\u0446\u0435\u0432 :(";
+        N = "coal";
+        A = "RandomLevelSource";
+        L = "constant dereference";
+        Y = "Invalid width";
+        V = "noteblock";
+        Q = Float.intBitsToFloat(0x1F48963B ^ 0xE03769C4);
+        M = "Left.Shape49123";
+        f = "of.options.performanceTitle";
+        k = "chat.type.achievement.taken";
+        o = "extending";
+        K = "max_lifetime";
+        Z = "ofFogType";
+        U = 0x3B8489C4 ^ 0x3B848AD2;
+        R = "useVbo:";
+        D = "textures/gui/presets/water.png";
+        r = "red_mushroom";
+        I = "farmer";
+        E = 0x90247B8 ^ 0x9FD47B8;
+        d = "textures/entity/ghast/ghast.png";
+        y = 0x28291D49 ^ 0x282910B9;
+        z = "\" and \"";
+        O = "CAVE_SPIDER";
+        a = "My bad.";
+        X = "DL: ";
+        p = "END_BOSS";
+        Aa = "magenta_concrete_powder";
+        P = "of.general.from";
+        u = "Piece2.Shape16";
+        t = "River";
+    }
+
+    public Zqa() {
+        Zqa a2;
+    }
+}
+

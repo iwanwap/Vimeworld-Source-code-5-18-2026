@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class WRa {
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final int Ka;
+    public static final String Aa;
+    public static final int S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final long y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final int O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final int v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final int d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final float e;
+    public static final int G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final float m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final int I;
+
+    public WRa() {
+        WRa a2;
+    }
+
+    static {
+        t = "redstone_ore";
+        Z = "Piece1.Shape22";
+        u = "options.chat.links";
+        e = Float.intBitsToFloat(0x584D40FD ^ 0x64EE97F7);
+        ca = "build.tooHigh";
+        X = "right.Shape54";
+        P = "box";
+        I = 0xE6508BD3 ^ 0xE6508761;
+        k = " from ";
+        Q = "purple_stained_hardened_clay";
+        q = "head";
+        Ga = "2";
+        x = "I";
+        d = 0x8BC7B48C ^ 0x8BC7D751;
+        D = "streamCompression:";
+        n = "objectives";
+        p = "box_";
+        R = "crackedDeepslateBricks";
+        w = "models";
+        r = "str_contains";
+        E = "~NULL~";
+        C = "snooper";
+        M = "Skull";
+        N = "difficulty.lock.question";
+        T = "Invalid tiles, must be exactly 7: ";
+        K = "antialiasingLevel";
+        S = 0xB153EC8C ^ 0xB153EF7D;
+        g = "gl_caps[gl_max_vertex_texture_image_units]";
+        H = "Daisy, daisy...";
+        h = "pumpkin_stem_(?:connected|disconnected)?";
+        fa = "ofBetterSnow";
+        v = 0x14ADD09C ^ 0x50ACA64F;
+        Ja = "Piece2.Shape13";
+        U = "blockCoal";
+        l = ". T: ";
+        L = "STONE_QUARTZ";
+        B = "podzol";
+        V = "DELAY_ACCEPT";
+        G = 0x4BA33025 ^ 0x4BA33184;
+        Ha = "of.shaders.profile";
+        c = "#version .*";
+        J = "Variant";
+        ja = "GL11.GL_ONE_MINUS_DST_ALPHA";
+        Y = "old";
+        b = "GL11.GL_CURRENT_INDEX";
+        F = "motionY_";
+        z = "NOTE";
+        o = "reposition";
+        a = "game.player.hurt";
+        O = 0xAF776872 ^ 0xAFA9A758;
+        y = 0x2F10F39CA218343AL ^ 0x2F10F39C3866FC3AL;
+        Ka = 0xD65D770E ^ 0xD65D7B7F;
+        j = "minecraft:music.game";
+        A = "TEXTCOLORVAL_NOT_SET";
+        m = Float.intBitsToFloat(0x340FBE1B ^ 0xF44372D6);
+        i = "GL11.GL_POLYGON_OFFSET_UNITS";
+        W = "Invalid pack.mcmeta (or missing 'pack' section)";
+        s = "easeInOutQuart";
+        Aa = "[ \t]*const[ \t]*float[ \t]*shadowIntervalSize[ \t]*=[ \t]*-?[0-9.]+f?;.*";
+        f = "mob.slime.small";
+    }
+}
+

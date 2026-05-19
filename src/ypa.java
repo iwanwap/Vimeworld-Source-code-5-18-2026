@@ -1,0 +1,131 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class ypa {
+    public static final String Ja;
+    public static final int ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final float Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final double X;
+    public static final int y;
+    public static final int U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final int t;
+    public static final String R;
+    public static final String Q;
+    public static final int N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final int G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final int L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        Q = "textures/pet/lovebearpet.png";
+        F = "Tail.Tail1";
+        b = "Unknown host";
+        z = "BASE";
+        J = "jungle_log_stripped";
+        T = "info_";
+        k = "commands.worldborder.damage.buffer.usage";
+        u = " is a facing and should have 4 or 6 textures, got ";
+        n = "mouseButton_";
+        g = "math.lerprotate";
+        L = 0x455FDD3C ^ 0xC55FDD3C;
+        M = "AffectedItems";
+        H = "emit";
+        Ga = "STREAM_VOLUME_MIC";
+        D = "wooden_pressure_plate";
+        d = "Ribbon12";
+        j = "\" at id ";
+        Ha = "entity.KillerBunny.name";
+        w = "S ";
+        ja = 0xA43DF33A ^ 0xA446DC84;
+        K = "MemoryResourceManager";
+        e = "mob.pig.step";
+        o = "polished_tuff_stairs";
+        N = 0x1DB4FC1 ^ 0x1DB012F;
+        G = 0xF172AD3B ^ 0xF172871A;
+        Ka = "createWorld.customize.custom.maxHeight";
+        B = "GL11.GL_AUX_BUFFERS";
+        a = "EMITTER_YZ";
+        p = "cherryFenceGate";
+        I = "purple_carpet";
+        C = "Front.4a";
+        q = "model_";
+        v = "waxedOxidizedCutCopperSlab";
+        R = "right.Shape39";
+        Y = Float.intBitsToFloat(0x14787EC8 ^ 0x528780C8);
+        c = "Temper";
+        S = "smooth_granite";
+        s = "Armor Status HUD";
+        Ja = "POST";
+        A = "mossy_brick";
+        f = "MIDDLE";
+        O = "math.clamp";
+        U = 0x669B03BC ^ 0x66D44CF3;
+        fa = "fence_ne";
+        W = "CommandStats";
+        m = "Preparing spawn area";
+        P = "waterLakeChance";
+        x = "EFFECT";
+        X = Double.longBitsToDouble(0xC0FCD03250F130A6L ^ 0x80ACD03250F130A6L);
+        V = "silver_carpet";
+        Z = " ms. ";
+        h = "GL13.GL_TEXTURE21";
+        y = 0x45C8424B ^ 0xBA37BDBD;
+        l = "boots_";
+        i = "Number of tiles does not equal width x height: ";
+        Aa = "potion.prefix.awkward";
+        r = "sin";
+        t = 0x9AC4C675 ^ 0x9AC4CB4C;
+        E = "PLAYPARTICLES";
+    }
+
+    public ypa() {
+        ypa a2;
+    }
+}
+

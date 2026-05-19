@@ -1,0 +1,137 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class Jta {
+    public static final int ga;
+    public static final String Da;
+    public static final int ca;
+    public static final String Ja;
+    public static final double ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final int Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final float r;
+    public static final String V;
+    public static final int z;
+    public static final float X;
+    public static final String y;
+    public static final float U;
+    public static final double P;
+    public static final double u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final float w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final float A;
+    public static final String I;
+
+    public Jta() {
+        Jta a2;
+    }
+
+    static {
+        Da = "chatLinks:";
+        n = "textures/blocks/destroy_stage_5.png";
+        ga = 0xFBC3BE60 ^ 0xFBC39470;
+        C = "uniform [ _a-zA-Z0-9]+ shadow;.*";
+        s = "Shape61123";
+        Ha = "Preparing start region for level ";
+        G = "&e/cam hide <all:";
+        l = "\u0418\u0437\u043e\u043c\u0435\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0432\u0438\u0434";
+        L = "GL13.GL_SAMPLE_ALPHA_TO_COVERAGE";
+        b = "invalid ObfValue.tick verify";
+        O = "GL11.GL_INTENSITY4";
+        i = "File {} does not exist, cannot add it to event {}";
+        J = "Record";
+        v = "harp";
+        r = Float.intBitsToFloat(0xB0FE8785 ^ 0xF06E8785);
+        S = "waxedCopperGrate";
+        e = "dungeon";
+        D = "double_plant_sunflower_bottom";
+        p = "pumpkinPie";
+        m = "rowHoverColor_";
+        Ga = "textures/entity/minecart.png";
+        o = "GL11.GL_MAP2_VERTEX_4";
+        c = "gui/rounding/no_border/round_fill_";
+        R = "STEM";
+        U = Float.intBitsToFloat(0xF0C6DA8 ^ 0x4B2E942B);
+        Q = "\u00a7d\u041f\u0430\u0441\u0445\u0430\u043b\u044c\u043d\u0430\u044f \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u044f";
+        V = "Front.3b";
+        W = "channelOpenAL";
+        u = Double.longBitsToDouble(0xCD47FB10CE95238L ^ 0x732C7FB10CE95238L);
+        Z = " blocks";
+        A = Float.intBitsToFloat(0x9038CA54 ^ 0x51184A54);
+        fa = "stinky";
+        h = "stat.mineBlock";
+        j = "chainmail_helmet";
+        x = "JUNGLE_SAPLING";
+        z = 0x392545A2 ^ 0x3925D9D9;
+        g = "potion.wither";
+        Y = "mob.villager.yes";
+        t = "mudBrickWall";
+        N = "servers.dat";
+        F = "<unknown>";
+        T = "Colormap ";
+        B = "ctm";
+        M = "[ \t]*const[ \t]*int[ \t]*\\w+Format[ \t]*=[ \t]*[RGBA0123456789FUI_SNORM]*[ \t]*;.*";
+        Ka = "Could not load texture ";
+        Ja = "raw_iron_block";
+        Aa = 0xD05B843F ^ 0xD00AB425;
+        X = Float.intBitsToFloat(0x9279D55D ^ 0xADC27D34);
+        k = "textures/entity/alex.png";
+        w = Float.intBitsToFloat(0x6FFB5C42 ^ 0x517E42FA);
+        ja = Double.longBitsToDouble(0xBCD687DF73BAAD8AL ^ 0xFCD71E46EA233410L);
+        q = "GL11.GL_LINE_WIDTH";
+        a = "beginBlockEntities";
+        H = "Front.5a";
+        E = "Uh... Did I do that?";
+        I = "Actual block data value";
+        P = Double.longBitsToDouble(0xB70E075CBE56F170L ^ 0xF72D99E4EFBD746FL);
+        f = "achievement.unknown";
+        y = "Endermite";
+        K = "UPLOADING";
+        d = "hoeDiamond";
+        ca = 0x40E5EECE ^ 0xBF5F58B3;
+    }
+}
+

@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class zpa {
+    public static final String ca;
+    public static final String Ja;
+    public static final float ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final float Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final float X;
+    public static final float y;
+    public static final int U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final int p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final int c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final int i;
+    public static final float M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final int A;
+    public static final String I;
+
+    static {
+        f = "execute";
+        a = "item.";
+        k = "minecraft:emitter_lifetime_looping";
+        j = "potion.poison";
+        Ja = "options.fov.min";
+        h = "PROGRESS_TIMER";
+        A = 0x3DA2EB77 ^ 0x3DA26FB3;
+        s = "Sign";
+        Y = "shadowProjection";
+        G = "RightLeg4";
+        Ka = "resolution";
+        Q = "run_command";
+        t = "achievement.buildFurnace";
+        S = "commands.setidletimeout.usage";
+        X = Float.intBitsToFloat(0x57451EA2 ^ 0xE89A7853);
+        q = "menu.options";
+        c = 0xF238C652 ^ 0xF238CBE0;
+        o = "Shape36";
+        ja = Float.intBitsToFloat(0xDC5EDDDD ^ 0x631EDDDD);
+        ca = "LOCKED_HOVER";
+        Ha = "wetness";
+        v = "\u0000\u0005\u0001\u0000\u0001\u0005\u0005\u0000\u0000\u0000\u0001\f\u0002<\u0000\u0003\u023b\u0000\u0004<\u0000\u0005=\u0000";
+        m = "\u00a76\u0423 \u0436\u0438\u0442\u0435\u043b\u044f \u0437\u0430\u043a\u043e\u043d\u0447\u0438\u043b\u0438\u0441\u044c \u0440\u0435\u0441\u0443\u0440\u0441\u044b";
+        K = "waxedCutCopperStairs";
+        L = "~#~";
+        J = "drown";
+        F = "Shape54123";
+        H = "FLL1";
+        P = "Minecart";
+        b = "MINIDOT_GUI";
+        Ga = "luck_of_the_sea";
+        w = "yExact_";
+        fa = "Fast";
+        E = "Slime";
+        x = "BLEND_WEIGHT";
+        d = "Stronghold";
+        D = "options.stream.kbps";
+        O = "angryVillager";
+        C = "\u041c\u043e\u0434\u0435\u043b\u044c\u043a\u0438 \u043d\u0430 \u0434\u0440\u0443\u0433\u0438\u0445 \u0438\u0433\u0440\u043e\u043a\u0430\u0445";
+        z = "brown_concrete";
+        p = 0x81B2DAB ^ 0x81BA5E0;
+        u = "keyTextColor:";
+        g = "\u041b\u041a\u041c";
+        B = "ofFireworkParticles";
+        V = "GL11.GL_T2F_C4UB_V3F";
+        N = "birch.png";
+        i = 0x3D055493 ^ 0xC1055493;
+        W = "MC|Tpc";
+        Aa = "minecraft:items/empty_armor_slot_boots";
+        M = Float.intBitsToFloat(0xB0B1E57F ^ 0xF04E4B6B);
+        U = 0x76F7068A ^ 0x76F786D1;
+        r = "OCEAN";
+        T = "\u041f";
+        y = Float.intBitsToFloat(0x5518D77A ^ 0xEB962D4C);
+        e = "pauseOnLostFocus";
+        n = "vn.s";
+        I = "variable.particle_pos.z";
+        R = "firstperson";
+        Z = Float.intBitsToFloat(0x9635BE99 ^ 0xD4509079);
+        l = "BLLeg.Shape42";
+    }
+
+    public zpa() {
+        zpa a2;
+    }
+}
+

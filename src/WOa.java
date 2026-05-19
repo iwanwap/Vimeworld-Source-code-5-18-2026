@@ -1,0 +1,137 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class WOa {
+    public static final String ga;
+    public static final String Da;
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final int fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final int S;
+    public static final float Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final int q;
+    public static final String x;
+    public static final String v;
+    public static final int o;
+    public static final int h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final int b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final long D;
+    public static final int f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final int i;
+    public static final String M;
+    public static final int k;
+    public static final double j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    public WOa() {
+        WOa a2;
+    }
+
+    static {
+        ja = "GL13.GL_TEXTURE5";
+        L = "SPRINT";
+        Ka = "\u00a77";
+        t = "Tunnelers' Dream";
+        I = "v+h";
+        i = 0xCA8A6AB2 ^ 0xCA8A7FB9;
+        Ja = "sponge_wet";
+        p = "playing_lan";
+        Aa = "MC_OS_LINUX";
+        O = "On the bright side, I bought you a teddy bear!";
+        M = "Needed to grow BufferBuilder buffer: Old size ";
+        l = "FrozenRiver";
+        R = "wood_old";
+        ca = " to be a string, was ";
+        w = "GL11.GL_UNPACK_ALIGNMENT";
+        k = 0x9CC6CB63 ^ 0xBB12204E;
+        y = "Invalid tag encountered, expected '{' as first char.";
+        b = 0x1C309201 ^ 0x1C309F12;
+        o = 0x300140DF ^ 0x30014DCD;
+        ga = "text.sign";
+        C = "toggledownfall";
+        K = "Low";
+        Y = "GL13.GL_TEXTURE_COMPRESSED";
+        m = "easeInSine";
+        d = "concretePowder";
+        a = "item.fireworksCharge.trail";
+        j = Double.longBitsToDouble(0x75FD0FDB8EE323BDL ^ 0x4A0F69BDE88545DBL);
+        g = "LPT7";
+        P = "BIT_OR";
+        S = 0xF57DD61 ^ 0xF57D152;
+        D = 0x44ECB4959B54F74BL ^ 0x44ECB4959B54F667L;
+        n = "GL11.GL_COLOR_INDEXES";
+        B = " // Shader option ";
+        A = "jungleFenceGate";
+        x = "delay_";
+        e = " is in the wrong location; relocating. (Expected ";
+        s = "GL11.GL_MAP2_TEXTURE_COORD_4";
+        G = "commands.clone.failed";
+        u = "stairsWoodDarkOak";
+        H = "COM6";
+        Q = "commands.scoreboard.players.enable.success";
+        Ha = "Invalid default spacing";
+        W = "flower_paeonia";
+        fa = 0xEE91C182 ^ 0xEE91C18B;
+        U = "_froglight";
+        v = "\u0000\u0003\u0000\u0001\u0001\u0003\u0003\u0000\u0000\u0000\u0001\u1001\u0000\u0002\u0006\u0003\u1006\u0001";
+        J = "aesCipherEncrypt";
+        f = 0x15185ADB ^ 0x1518D24D;
+        q = 0xA97F7754 ^ 0xA944264E;
+        Da = "ANIMATED_EXPLOSION";
+        Ga = "SOUNDSTOP";
+        F = "LEGS_DEFAULT";
+        h = 0x2BA4A8D7 ^ 0x2BDB0F41;
+        c = "ViST";
+        X = "mob.guardian.hit";
+        Z = Float.intBitsToFloat(0xAD802AD9 ^ 0xEC2A2AD9);
+        r = "grass_side";
+        z = "animation_player";
+        T = "options.stream.chat.userFilter";
+        V = " \u00a7f(\u00a77\u0418\u0434\u0435\u0442 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430...\u00a7f)";
+        E = "resources_";
+        N = "Biome A ID";
+    }
+}
+

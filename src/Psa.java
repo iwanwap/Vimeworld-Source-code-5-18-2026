@@ -1,0 +1,137 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class Psa {
+    public static final double ga;
+    public static final String Da;
+    public static final String ca;
+    public static final float Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final int P;
+    public static final String u;
+    public static final String O;
+    public static final double t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final int n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final int K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final float a;
+    public static final String b;
+    public static final int l;
+    public static final int e;
+    public static final String G;
+    public static final float D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final int m;
+    public static final String C;
+    public static final String i;
+    public static final int M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        j = "ViSmH";
+        O = "polishedBlackstoneBrickSlab";
+        l = 0xDC675582 ^ 0xDC6757D8;
+        Ja = Float.intBitsToFloat(0x64F7099 ^ 0xC67F7099);
+        Z = "RGBA16";
+        t = Double.longBitsToDouble(0x93A0DB77E8F8587CL ^ 0xD310DB77E8F8587CL);
+        ca = "_monster_egg";
+        z = "REMOVE";
+        Ka = "ati";
+        G = "record_far";
+        ga = Double.longBitsToDouble(0x1DCEBB5E8089D5DCL ^ 0x5DDB46E5693272A9L);
+        h = "Couldn't save server list";
+        I = "%s format: %s";
+        e = 0x9F922E1B ^ 0x9F920C1B;
+        y = "CLEAR3D";
+        Y = "ARMOR_HEAD";
+        F = "LastUpdate";
+        a = Float.intBitsToFloat(0xAFA3BABA ^ 0x6F15DCDC);
+        R = "uniform [ _a-zA-Z0-9]+ gaux4;.*";
+        M = 0xCF8B2FEE ^ 0xCF8B2FD2;
+        N = "Atlas path";
+        S = "of.options.AF_LEVEL";
+        Da = "cpu_cores";
+        C = "diamond_chestplate";
+        Ha = "rewardExp";
+        D = Float.intBitsToFloat(0x30BCE94E ^ 0x717FDA7D);
+        B = "commands.scoreboard.teams.list.count";
+        p = ", tool=";
+        s = "TaigaHills";
+        g = "on";
+        V = "Z";
+        Ga = "commands.xp.success";
+        n = 0xDAEBD499 ^ 0x25BBC489;
+        W = "registry";
+        u = "birch_slab";
+        o = "resistance";
+        K = 0xE61247EE ^ 0xE61243E2;
+        L = "Level Name";
+        ja = "mob.wither.spawn";
+        d = "&";
+        r = "jungle_slab";
+        J = "interpolate";
+        f = "of.options.save.default";
+        w = "mob.creeper.death";
+        T = "%s clear disabled";
+        v = "coords_";
+        P = 0x189632DC ^ 0x1868CC22;
+        X = "GL13.GL_PRIMARY_COLOR";
+        k = "WWW";
+        fa = "INGAME";
+        U = "Particles: ";
+        q = "GL14.GL_FRAGMENT_DEPTH";
+        Q = "dummy";
+        E = "Shape60123";
+        H = "GL14.GL_BLEND_DST_RGB";
+        b = "model";
+        x = "RAIN";
+        Aa = "heldItemId";
+        c = "textures/entity/horse/horse_skeleton.png";
+        A = "roll";
+        i = "PORTABILITY";
+        m = 0x806CE674 ^ 0x806CE755;
+    }
+
+    public Psa() {
+        Psa a2;
+    }
+}
+

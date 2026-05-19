@@ -1,0 +1,137 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class cQa_1 {
+    public static final String ga;
+    public static final String Da;
+    public static final String ca;
+    public static final int Ja;
+    public static final int ja;
+    public static final float Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final int Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final int z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final float P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final float w;
+    public static final String W;
+    public static final int q;
+    public static final String x;
+    public static final String v;
+    public static final int o;
+    public static final String h;
+    public static final long K;
+    public static final String H;
+    public static final int c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final int i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    public cQa_1() {
+        cQa_1 a2;
+    }
+
+    static {
+        F = "commands.setblock.tagError";
+        D = "leaves_acacia";
+        A = "facing=west";
+        w = Float.intBitsToFloat(0x94D9F903 ^ 0xAED9F903);
+        U = "\u0413\u0440\u043e\u043c\u043a\u043e\u0441\u0442\u044c \u0432\u043e\u0439\u0441\u0447\u0430\u0442\u0430";
+        g = "GL11.GL_EDGE_FLAG_ARRAY_POINTER";
+        B = "tile.dirt.name";
+        E = "mossyStoneBrickSlab";
+        Q = "BLL1";
+        b = "49455A49-7EC5-45BA-B886-3B90B23A1718";
+        p = "Unable to recreate resourcepack folder, it exists but is not a directory: ";
+        Da = "items/potion_bottle_drinkable";
+        J = "ambientOcclusionLevel";
+        ca = "EAST";
+        Aa = "transition";
+        q = 0xACA4A722 ^ 0xACA4A79B;
+        Ja = 0xD86D5FD6 ^ 0xD86D5703;
+        j = "ALC get string error";
+        L = "GL13.GL_REFLECTION_MAP";
+        Y = "exploreAllBiomes";
+        k = "' in ";
+        Z = 0xD75294B8 ^ 0xD75295F8;
+        X = "XYZ: %.3f / %.3f / %.3f";
+        H = "angleZ_";
+        d = "ACACIA";
+        u = "GL11.GL_MAP2_VERTEX_3";
+        y = "commands.message.display.outgoing";
+        n = "red_concrete_powder";
+        h = "NETSCAPE2.0";
+        T = "forceUnicodeFont:";
+        i = 0xC7C7B223 ^ 0xC7C7B209;
+        M = "mcpatcher/cit.properties";
+        S = "Payload may not be larger than 1048576 bytes";
+        t = " bytes]";
+        Ga = "BOOTS";
+        W = "ofClearWater";
+        z = 0xB36F2BC ^ 0xB36F0BC;
+        V = "oxidized_chiseled_copper";
+        O = "Invalid option value";
+        v = "entityId";
+        r = "[ \t]*const[ \t]*float[ \t]*sunPathRotation[ \t]*=[ \t]*-?[0-9.]+f?;.*";
+        x = "beginHand";
+        l = "commands.setworldspawn.success";
+        C = "minecraft:main";
+        Ka = "STRINGVAL";
+        s = "dye_brown";
+        I = "ofDroppedItems:";
+        K = 0x5C2B115F2B98EAD2L ^ 0x5C2B115F2B98C088L;
+        Ha = Float.intBitsToFloat(0xCD3923D8 ^ 0x8E2F23D8);
+        m = "0123456789abcdef";
+        ga = "stat.playerKills";
+        N = "\u0000\u0006\u0001\u0001\u0001\u0006\u0006\u0000\u0000\u0000\u0001\u023b\u0000\u00027\u0000\u0003\u1004\u0000\u0004\u1007\u0001\u0005\u1007\u0002\u0006\u1007\u0003";
+        P = Float.intBitsToFloat(0xC093FBC ^ 0xCDA0CE62);
+        c = 0xBB67ED59 ^ 0xBB67EE68;
+        a = "Could not delete file";
+        R = "$VALUES";
+        e = "NOISE_SUPRESSION_ERROR";
+        ja = 0x646D7745 ^ 0x646D2777;
+        G = " ms\n";
+        o = 0xABE1C1FF ^ 0xABE1C1E9;
+        fa = "commands.tp.success.coordinates";
+        f = "flyPig";
+    }
+}
+

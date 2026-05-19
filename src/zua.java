@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class zua {
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final float Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final double U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final int R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final int p;
+    public static final String n;
+    public static final String s;
+    public static final float w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final int l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final int L;
+    public static final String E;
+    public static final int m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final int j;
+    public static final int J;
+    public static final String A;
+    public static final String I;
+
+    public zua() {
+        zua a2;
+    }
+
+    static {
+        ja = "/party promote ";
+        u = "dye_white";
+        p = 0x62E1AB6A ^ 0x62E1A862;
+        c = "old! ";
+        Z = "commands.unban.success";
+        S = "SKY_BLUE";
+        t = "friendlyfire";
+        H = "FILL";
+        X = "CONNECTED_TEXTURES";
+        T = "GL11.GL_DEPTH_BIAS";
+        P = "EASE_OUT_QUINT";
+        r = "screenBrightness";
+        V = "minecraft:emitter_local_space";
+        R = 0xBDDA5CA9 ^ 0xBDDA5FA7;
+        d = "spruce_log";
+        m = 0xFC666D98 ^ 0xFC666DF8;
+        l = 0xDE4C964F ^ 0x61B369B0;
+        y = "visibleStart_";
+        O = "Couldn't download http texture ";
+        z = "GL11.GL_GEQUAL";
+        U = Double.longBitsToDouble(0x841736A1065D7387L ^ 0xC56BAA96F65D7387L);
+        A = " col: ";
+        ca = "tile.bed.noSleep";
+        Ha = "hoveredPositionZ_";
+        a = "Body.Shape18";
+        b = "Uniform '";
+        Y = Float.intBitsToFloat(0xB64257DB ^ 0x9F9FFB2);
+        e = "GL11.GL_MAX_ATTRIB_STACK_DEPTH";
+        C = "options.chat.visibility.system";
+        s = "\u041a\u043d\u043e\u043f\u043a\u0438 \u043c\u044b\u0448\u0438";
+        Ka = "soundCategory.";
+        f = "\u0000\u0018\n\u0000\u0001\u0018\u0018\u0000\u0001\u0000\u00014\u0000\u00024\u0000\u00034\u0001\u00044\u0001\u00054\u0002\u00064\u0002\u0007\u001b\b4\u0003\t4\u0003\n4\u0003\u000b4\u0004\f4\u0004\r4\u0004\u000e4\u0005\u000f4\u0005\u00104\u0005\u00114\u0006\u00124\u0006\u00134\u0007\u00144\u0007\u00154\b\u00164\b\u00174\t\u00184\t";
+        W = "LINES_X";
+        F = "facing=east,half=top,shape=outer_right";
+        n = "LESS";
+        G = "players_max";
+        w = Float.intBitsToFloat(0xD581FF4 ^ 0xB2D4D339);
+        g = "coins";
+        Aa = "GL11.GL_MAX_EVAL_ORDER";
+        M = "minecraft:villager";
+        x = "Do you feel the need for... optimization?";
+        Ga = "compass generation marker";
+        L = 0x8F7E5F7A ^ 0x8F7EDF08;
+        K = "glass_pane_top_red";
+        Ja = "Shape24";
+        J = 0xE864BFAE ^ 0xE86432AE;
+        D = "[Shaders] ";
+        q = "\u5145";
+        i = "shadowClipFrustrum";
+        h = "textures/body/mercy_wings_red.png";
+        N = "Predicates for character(s) ";
+        j = 0x792B7115 ^ 0x792B7DE0;
+        o = "IDZ";
+        fa = "texteria";
+        Q = "lilypad";
+        v = "ELEMENT_VISIBLE";
+        B = "customArmor:";
+        k = "MSRoom";
+        I = " not found";
+        E = "shovelDiamond";
+    }
+}
+

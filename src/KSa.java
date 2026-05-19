@@ -1,0 +1,135 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class KSa {
+    public static final String Da;
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final float Y;
+    public static final String r;
+    public static final String V;
+    public static final float z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final long N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final int x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final int H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final float e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final double F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final float M;
+    public static final long k;
+    public static final String j;
+    public static final int J;
+    public static final String A;
+    public static final float I;
+
+    public KSa() {
+        KSa a2;
+    }
+
+    static {
+        Ga = "GL11.GL_MAP_STENCIL";
+        Ja = "CRIMSON";
+        x = 0x32214BBA ^ 0x32214B83;
+        m = "Piece1.Shape25";
+        ja = "Back.10a";
+        B = "GL11.GL_PROJECTION";
+        N = 0x45114094214C32DCL ^ 0x45114094214C3084L;
+        c = "bamboo_trapdoor";
+        D = "REMOVE_PLAYER";
+        W = "\u0412\u0440\u0435\u043c\u044f \u0431\u044b\u043b\u043e \u043f\u0435\u0440\u0435\u0432\u0435\u0434\u0435\u043d\u043e \u043d\u0430\u0437\u0430\u0434.\n\u042f \u0441\u043b\u043e\u043c\u0430\u043b\u0441\u044f..";
+        z = Float.intBitsToFloat(0x3504E450 ^ 0x77A4E450);
+        U = "DEBUGBB";
+        o = "renderPass";
+        e = Float.intBitsToFloat(0xFA2463AE ^ 0xBA2FC3F4);
+        d = "UNLOCKED_HOVER";
+        X = "life_time";
+        v = "_glazed_terracotta";
+        k = 0xC7FAEEF5CB00B9ABL ^ 0xC7FAEEF5CB00BA42L;
+        V = "of.message.fr.shaders1";
+        g = "httpCache_";
+        K = "maskImage_";
+        Q = "GL11.GL_MAP2_NORMAL";
+        R = "X180_Y180";
+        A = "vhr";
+        a = "Reconnect";
+        w = "FLIP_DOWN";
+        i = "\u0412\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u043f\u043e\u0442\u043e\u0440\u0433\u043e\u0432\u0430\u0442\u044c \u0434\u0440\u0443\u0433\u0438\u043c\u0438";
+        fa = "%s/%s%s";
+        t = " must have 'model_player' field";
+        j = "Old";
+        ca = "ViF";
+        Z = "jukebox";
+        s = "acceptTextures";
+        r = "prismarineStairs";
+        M = Float.intBitsToFloat(0x976A5A83 ^ 0xD67BC319);
+        p = "offsetBottom_";
+        h = "\u0000(\u0006\u0001\u0001((\u0000\u0003\u0000\u0001\u1208\u0000\u0002\u1004\u0002\u0003\u100c\u0003\u0004\u001b\u00054\u0000\u00064\u0000\u00074\u0001\b4\u0001\t9\u0002\n9\u0002\u000b4\u0003\f4\u0003\r4\u0003\u000e4\u0004\u000f4\u0004\u00104\u0005\u00114\u0005\u0012\u021a\u0013\u1009\u0006\u0014\u1009\u0007\u0015\u1009\b\u0016\u1009\t\u0017\u1009\n\u0018\u1009\u000b\u0019\u1009\f\u001a\u1007\u0005\u001b\u023b\u0000\u001c\u023b\u0001\u001d\u023b\u0003\u001e\u023b\u0004\u001f\u023b\u0005 \u1208\u0004!\u021a\"\u023b\u0000#\u023b\u0001$\u023b\u0003%\u023b\u0004&\u023b\u0005'\u1009\r(\u100a\u0001";
+        S = "enderChest";
+        T = "texturewidth";
+        q = "GL11.GL_ACCUM_CLEAR_VALUE";
+        G = "commands.scoreboard.objectiveReadOnly";
+        y = "\u041a\u0430\u0441\u0442\u043e\u043c\u043d\u0430\u044f \u0431\u0440\u043e\u043d\u044f";
+        f = "endRender end";
+        Ha = "yellowDust";
+        C = "renderCompositeFinal";
+        F = Double.longBitsToDouble(0xE3D5371FF3459052L ^ 0xA3F7371FF3459052L);
+        n = "darkOakTrapdoor";
+        b = "Shape6123";
+        Da = "GL11.GL_RGB4";
+        Ka = "fire.fire";
+        J = 0x157BA0D9 ^ 0x157BEE16;
+        P = "Left.Shape25123";
+        Y = Float.intBitsToFloat(0xF8332D97 ^ 0x38832D97);
+        Aa = "GL11.GL_INDEX_MODE";
+        I = Float.intBitsToFloat(0x4DFC86FD ^ 0xC3C86FD);
+        O = "allowRegexp_";
+        H = 0xDCEF2870 ^ 0xDCEF66BB;
+        u = "COW";
+        L = "stairsNetherBrick";
+        E = "container.chestDouble";
+        l = "SCALEY";
+    }
+}
+

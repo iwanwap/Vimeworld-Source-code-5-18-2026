@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class qsa {
+    public static final float ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final int Ga;
+    public static final int fa;
+    public static final int Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final int w;
+    public static final String W;
+    public static final String q;
+    public static final int x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final double l;
+    public static final String e;
+    public static final String G;
+    public static final int D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final int L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final int J;
+    public static final String A;
+    public static final String I;
+
+    public qsa() {
+        qsa a2;
+    }
+
+    static {
+        Q = "upPosition";
+        Ja = "options.framerateLimit";
+        h = "anvil_intact";
+        y = "weatheredCopperGrate";
+        k = "blackstoneStairs";
+        K = "Snowflake particles resource not found: ";
+        r = "textures/entity/pig/pig_saddle.png";
+        Ha = "FLIP_UP";
+        U = "gray_glazed_terracotta";
+        v = "Shape20123";
+        p = "of.message.an.shaders2";
+        X = "selectWorld.allowCommands";
+        M = "MC|BSign";
+        I = "ofAaLevel:";
+        ja = "tuff_brick_slab";
+        o = "PAINTING";
+        T = "cyan_concrete_powder";
+        l = Double.longBitsToDouble(0x8D7515F8CB85B99FL ^ 0xB2B115F8CB85B99FL);
+        C = ", property: ";
+        c = "Changing difficulty to {}, from {}";
+        fa = 0xAAED034C ^ 0xAAED054D;
+        u = "jaw";
+        A = "GIF texture {}x{} with {} frames uploaded in {} ms";
+        R = "LOOKAT_XYZ";
+        q = "Position";
+        V = "GL13.GL_DOT3_RGB";
+        x = 0xE0328235 ^ 0xE03281CB;
+        F = "STRIPE_SMALL";
+        S = "oreLapis";
+        g = "MushroomCow";
+        w = 0x3129B94C ^ 0x3129B813;
+        s = "wingtip";
+        E = "xp";
+        j = "gl_caps[EXT_framebuffer_multisample]";
+        B = "MushroomIslandShore";
+        W = "Body.Shape31";
+        ca = Float.intBitsToFloat(0xB4BC73D6 ^ 0x74FA15B0);
+        Ka = 0x23D475F4 ^ 0x23D4772A;
+        Ga = 0x501660E9 ^ 0x501645EB;
+        O = "repeat_";
+        a = "facing=east,half=top,shape=inner_left";
+        N = "map_is_scaling";
+        m = "jungle_trapdoor";
+        t = "textures/entity/rabbit/salt.png";
+        P = "chatOpacity";
+        z = "pink_wool";
+        L = 0xB7091777 ^ 0xB70993B5;
+        d = "villager/butcher";
+        e = "DEAD_BUSH";
+        G = "index.bin";
+        D = 0x537EC12F ^ 0x537EC200;
+        J = 0xCEA9507B ^ 0xCEA9D182;
+        Z = "diamonds";
+        b = "BestAreaFit";
+        H = "items/empty_armor_slot_boots";
+        Y = "SWAMP_COLORS";
+        f = "minutes";
+        i = "acaciaFence";
+        n = "GL13.GL_COMPRESSED_INTENSITY";
+        Aa = "stat.craftItem.";
+    }
+}
+

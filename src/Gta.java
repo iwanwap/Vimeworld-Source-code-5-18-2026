@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class Gta {
+    public static final float ca;
+    public static final int Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final int Z;
+    public static final int Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final int y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final long N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final float o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final int d;
+    public static final int a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final float G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    public Gta() {
+        Gta a2;
+    }
+
+    static {
+        Q = "Tag type";
+        L = "mob.sheep.step";
+        K = "0.16, 1, 0.3, 1";
+        v = "\u0423 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430 '";
+        ca = Float.intBitsToFloat(0x66979862 ^ 0x2601FE04);
+        J = "hide_with_helmet";
+        Ga = "ofWeather";
+        N = 0xC9904BEA0C1EB20FL ^ 0xC9904BEA0C1EB0E1L;
+        M = "OpenGL Occlussion culling: Not available (GL_ARB_occlusion_query)";
+        fa = "piston_extension";
+        e = "Could not load model ";
+        d = 0x65B348E ^ 0x686E953;
+        T = "save-on";
+        ja = "shadow";
+        j = "Right.Right21";
+        I = "shadow0MinMagNearest";
+        U = "RED_SAND";
+        o = Float.intBitsToFloat(0xE1116EB6 ^ 0x9E916EB6);
+        O = "polished_blackstone_brick_stairs";
+        V = "options.guiScale.x8";
+        p = "polished_tuff_slab";
+        r = "Teleport to team member";
+        A = "Accessed Items before Bootstrap!";
+        G = Float.intBitsToFloat(0x300B0C17 ^ 0x8FC203EE);
+        Aa = "mob.wolf.shake";
+        F = "GL14.GL_DEPTH_TEXTURE_MODE";
+        B = "debug/";
+        a = 0xBBDE9FB6 ^ 0xBBDE1F80;
+        i = "MC|BEdit";
+        W = "redNetherBrick";
+        f = "Super sampling level: ";
+        k = "birchFence";
+        h = "Missing type on ListTag";
+        g = "_modifiers";
+        b = "ipattern:";
+        Ka = "intel";
+        H = "\u0421\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c transform_outfit";
+        c = "reeds";
+        Ha = "SHOW_ENTITY";
+        y = 0xF3DB6A3 ^ 0xF3DB44C;
+        D = "Exception ticking world";
+        x = "stat.drop";
+        P = "Failed to initialize denoiser";
+        n = "Right49";
+        s = "createWorld.customize.custom.defaults";
+        E = "item-info";
+        u = "builtin/entity";
+        Ja = 0x6A3B4D2 ^ 0x6A33C47;
+        l = "waxedWeatheredCutCopperSlab";
+        w = "textures/body/black_bigwings.png";
+        Y = 0x2F094A7F ^ 0x8F897A4F;
+        m = "derive_from_velocity";
+        Z = 0xADBCB12E ^ 0xADBCB043;
+        R = "polishedBlackstone";
+        S = "GL11.GL_GREEN_BITS";
+        z = ", GL error (";
+        q = "SlotColor";
+        X = "userType";
+        t = "STONEBRICK";
+        C = "GL11.GL_STENCIL_PASS_DEPTH_FAIL";
+    }
+}
+

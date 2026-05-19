@@ -1,0 +1,131 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class oqa_1 {
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final float Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final int S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final int R;
+    public static final String Q;
+    public static final String N;
+    public static final int T;
+    public static final String p;
+    public static final int n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final float q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final float c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final float D;
+    public static final String f;
+    public static final double F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        h = "NaturalTextures: ";
+        X = "Front.7a";
+        g = "achievement.overkill";
+        A = "' loaded from pack: '";
+        W = "Body.Shape7";
+        Aa = "\u5144";
+        E = "Shape67123";
+        Ga = Float.intBitsToFloat(0x9F9706AE ^ 0x5F6F06AE);
+        U = "[0-9A-FK-ORxXsS]";
+        f = "banned-players.txt";
+        d = "potion.prefix.gross";
+        Z = "CustomColors: ";
+        G = "Block being tesselated";
+        j = "key.hotbar.9";
+        V = "weathered_cut_copper_slab";
+        q = Float.intBitsToFloat(0x7A3F8C28 ^ 0xBB92BD0F);
+        t = ", max=";
+        H = "Setup debug OpenGL callback";
+        x = "gui_state";
+        B = "SHADOW_RES_MUL";
+        D = Float.intBitsToFloat(0x3078A2B6 ^ 0xEC0F35A);
+        y = "objects";
+        Ka = "selectWorld.deleteQuestion";
+        fa = "_eyes";
+        Ja = "ContactPointRule";
+        M = "Authentication servers are down. Please try again later, sorry!";
+        c = Float.intBitsToFloat(0x1E9C4723 ^ 0x22D08BEE);
+        r = "ofAnimatedSmoke:";
+        ja = "happyVillager";
+        I = " for item ";
+        z = "bucketWater";
+        v = "BODY_FULL";
+        a = "GL11.GL_COLOR_LOGIC_OP";
+        u = "WATER_CREATURE";
+        w = "GL11.GL_UNSIGNED_SHORT";
+        R = 0xE9BD02C ^ 0xE9BF751;
+        p = "ANGLEZVAL_NOT_SET";
+        k = "OutSize";
+        T = 0xB7143FC3 ^ 0xB7142BCB;
+        Y = "NUL";
+        Q = "GL11.GL_DEPTH_FUNC";
+        F = Double.longBitsToDouble(0xEF7284AB08E1645EL ^ 0xD0C36F2E165935B2L);
+        P = "Piece1.Shape2";
+        O = "X#X";
+        l = "dioriteWall";
+        S = 0x2236D4E7 ^ 0x2236544C;
+        C = "green_stained_glass_pane";
+        Ha = "deepslate_tile_slab_double";
+        J = "&c\u041d\u043e\u043c\u0435\u0440 \u0442\u043e\u0447\u043a\u0438 \u0434\u043e\u043b\u0436\u0435\u043d \u0431\u044b\u0442\u044c \u0447\u0438\u0441\u043b\u043e\u043c";
+        o = "GL11.GL_ACCUM";
+        b = "Invalid weight";
+        m = "tripwire_hook";
+        e = "textures/body/orange_bigwings.png";
+        K = "assets/minecraft/models/block/iron_ore.json";
+        i = "vimevar.";
+        s = "textures/pet/megabox.png";
+        N = "Mineshaft";
+        L = "ofSwampColors:";
+        n = 0xF85AEB82 ^ 0x7A51402;
+    }
+
+    public oqa_1() {
+        oqa_1 a2;
+    }
+}
+

@@ -1,0 +1,135 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class Ura {
+    public static final int Da;
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final int S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final int U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final float T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final float v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final int a;
+    public static final float b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final int D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final float m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final int J;
+    public static final String A;
+    public static final int I;
+
+    public Ura() {
+        Ura a2;
+    }
+
+    static {
+        d = "double_plant_rose_top";
+        K = "No particle_effect.components was found...";
+        Y = "flower_pot";
+        L = "\u0000\u0002\u0000\u0001\u0001\u0002\u0002\u0000\u0000\u0000\u0001\u0004\u0002\u1208\u0000";
+        A = "Invisible";
+        u = "~/";
+        Ja = "graniteSmooth";
+        a = 0xB5C2BBE8 ^ 0xB5C24BEE;
+        Q = "sendCommandFeedback";
+        ja = "\u0000\u0003\u0001\u0000\u0001\u0003\u0003\u0000\u0000\u0000\u0001\u0208\u0002\u023b\u0000\u0003<\u0000";
+        E = "Shadow distance render mul: ";
+        k = "bottle_splash";
+        I = 0xC17D7EA1 ^ 0x3E7D81A1;
+        i = "Invalid frame index";
+        z = "ofAnimatedRedstone:";
+        x = "GL11.GL_SRC_ALPHA_SATURATE";
+        o = "particles_blend";
+        c = "beacon";
+        C = "deepslateIronOre";
+        T = Float.intBitsToFloat(0x379945D1 ^ 0xF7F945D1);
+        h = "\u0000\u0004\u0001\u0000\u0001\u0004\u0004\u0000\u0000\u0000\u0001\f\u0002<\u0000\u0003\u023b\u0000\u0004<\u0000";
+        t = "minecraft:music.game.creative";
+        B = "GL13.GL_NUM_COMPRESSED_TEXTURE_FORMATS";
+        ca = ", v0=";
+        J = 0x19930018 ^ 0xE6678FA9;
+        G = "liquid.lavapop";
+        Da = 0x8FA1B128 ^ 0x8FE90430;
+        b = Float.intBitsToFloat(0x36874026 ^ 0xB29545D);
+        m = Float.intBitsToFloat(0xBF3CFC71 ^ 0xFD3CFC71);
+        N = "&a \u0443\u0434\u0430\u043b\u0435\u043d\u0430";
+        R = "textures/gui/resource_packs.png";
+        F = "MICROPHONE";
+        M = "Head.7";
+        O = "Unable to locate name/value separator for string: ";
+        X = "GL14.GL_ONE_MINUS_CONSTANT_COLOR";
+        S = 0x1049FC07 ^ 0x104970A1;
+        Ka = "\u0422\u0435\u0433\u0438 \u0431\u0440\u043e\u043d\u0438: ";
+        v = Float.intBitsToFloat(0x22F24580 ^ 0x64EE0580);
+        W = "Shape46";
+        s = "gl_caps[EXT_vertex_shader]";
+        D = 0x5A16BB7D ^ 0x5A16B7CB;
+        g = "blocks/water_flow";
+        r = "BRLeg.BRL2";
+        f = "GL11.GL_TRUE";
+        j = " \u00a77(\u00a7c\u0428\u0435\u0439\u0434\u0435\u0440 \u043d\u0435 \u0432\u0445\u043e\u0434\u0438\u0442 \u0432 \u0441\u043f\u0438\u0441\u043e\u043a \u0440\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u043d\u044b\u0445\u00a77)";
+        V = ", defaulting to 0 (Ocean)";
+        H = "changeDimension";
+        U = 0xE9C0C525 ^ 0xE9C0B076;
+        l = "Couldn't handle book info";
+        y = " chunks";
+        q = "No geometry in ";
+        p = "fixed";
+        Ga = "OpenGL 2.1 is ";
+        e = "commands.banlist.players";
+        w = "gravelMinHeight";
+        P = "random.chestclosed";
+        fa = "GRANITE_SMOOTH";
+        Ha = "Left.Shape62123";
+        Z = "rescale";
+        Aa = "ooOooo";
+        n = "PROFILER";
+    }
+}
+

@@ -1,0 +1,131 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class WQa_1 {
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final double fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final int Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final double X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final int x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final int a;
+    public static final int b;
+    public static final String l;
+    public static final int e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final float E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final int J;
+    public static final String A;
+    public static final String I;
+
+    public WQa_1() {
+        WQa_1 a2;
+    }
+
+    static {
+        g = "Rabbit";
+        o = "/./";
+        Ha = "SOUND_EVENT";
+        M = "east=false,north=true,south=true,west=false";
+        Y = 0xB21D5E05 ^ 0xB21D5CEC;
+        H = "selectWorld.gameMode.";
+        w = "SelectedItem";
+        p = "diamond_sword";
+        s = "GL11.GL_LINE_SMOOTH_HINT";
+        K = "%txp%";
+        A = "tile.skull.skeleton.name";
+        n = "SQUARE_BOTTOM_LEFT";
+        d = "hgr";
+        L = "dark_oak_leaves";
+        q = "NBT: ";
+        j = "acacia_fence_gate";
+        Ja = "Shaders Mod detected. Please remove it, OptiFine has built-in support for shaders.";
+        e = 0x35B48561 ^ 0x35B4B565;
+        z = "materials";
+        Z = "gl_caps[EXT_bindable_uniform]";
+        W = "item.fireworksCharge.customColor";
+        D = " expected 1";
+        v = "\u0412\u0438\u0442\u0440\u0438\u043d\u0430 \u4f44";
+        T = "book.editTitle";
+        a = 0x5C76C1A7 ^ 0x5C76454B;
+        S = "redNetherBrickSlab";
+        V = "GENERIC_RARE";
+        h = "vanilla";
+        F = "selectWorld.customizeType";
+        t = "push";
+        O = "Void";
+        Q = "shadowLightPosition";
+        X = Double.longBitsToDouble(0xCCBBFBB02B7A7ED8L ^ 0x8CB739EFC20EDD98L);
+        l = ", originY=";
+        fa = Double.longBitsToDouble(0x734E359BF6E50BDCL ^ 0x4C8D06A8B6E50BDCL);
+        r = "GL13.GL_SAMPLE_COVERAGE_INVERT";
+        Ga = "meta_";
+        k = "ACZ";
+        C = "assets/minecraft/models/block/granite_smooth.json";
+        P = "flower_tulip_orange";
+        E = Float.intBitsToFloat(0xE5816C9D ^ 0x24B0F507);
+        I = "Reading itemstack for ItemActivationAnim";
+        b = 0xF1E8A79B ^ 0xF1E8AF40;
+        B = "Deleting ";
+        U = "textures/entity/creeper/creeper.png";
+        x = 0x76C949B3 ^ 0x76C95CBA;
+        J = 0xE977159D ^ 0xE97791F3;
+        u = "regeneration";
+        R = "bossHealth";
+        N = "[-+]?[0-9]+[l|L]";
+        Aa = "Block Entity Details";
+        m = "Unsupported bit depth: ";
+        c = "sun";
+        y = "jvm_arg[";
+        G = "assets/minidot/presets.json";
+        i = "crackedbrick";
+        ja = "dx";
+        f = "Stopping server";
+        Ka = "piston_head";
+    }
+}
+

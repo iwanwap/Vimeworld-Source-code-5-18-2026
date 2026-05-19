@@ -1,0 +1,137 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class SPa {
+    public static final String ga;
+    public static final String Da;
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final int Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final float Ka;
+    public static final String Aa;
+    public static final int S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final float X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final int T;
+    public static final String p;
+    public static final String n;
+    public static final int s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final double x;
+    public static final String v;
+    public static final String o;
+    public static final int h;
+    public static final int K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final float b;
+    public static final int l;
+    public static final int e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    public SPa() {
+        SPa a2;
+    }
+
+    static {
+        B = "Shape44";
+        E = "IMMEDIATE";
+        A = "generator.default";
+        Da = "commands.whitelist.remove.success";
+        f = "borderColor_";
+        u = "\u0000\n\u0000\u0001\u0001\n\n\u0000\u0000\u0000\u0001\u1001\u0000\u0002\u1001\u0001\u0003\u1001\u0002\u0004\u1001\u0004\u0005\u1001\u0005\u0006\u1001\u0006\u0007\u1001\u0007\b\u1001\b\t\u1001\t\n\u1001\u0003";
+        p = "facing=north,half=bottom,shape=straight";
+        N = "stairsWood";
+        i = "A";
+        h = 0x37788C73 ^ 0x37788FFB;
+        n = "Expected between 1 and 6 unique faces, got 0";
+        q = "colortex2";
+        l = 0xBB558C4A ^ 0xBB558CE3;
+        ca = "# #";
+        j = "SpawnRange";
+        m = "minecraft:mob.guardian.attack";
+        Ja = "textures/environment/clouds.png";
+        W = "mob.endermen.portal";
+        U = "Expression '";
+        V = "null";
+        G = "TWEAK_BLOCK_DAMAGE";
+        b = Float.intBitsToFloat(0x8DFEC73 ^ 0x4A97EC73);
+        k = "Atlases";
+        J = "GL11.GL_DST_COLOR";
+        Ha = 0x616B20A5 ^ 0x617D5E23;
+        F = "Left.Shape50123";
+        a = "--- BEGIN PROFILE DUMP ---\n\n";
+        Ga = "stat.damageDealt";
+        d = "change_page";
+        O = "\n";
+        ja = "Unable to construct mask element";
+        D = "weapon";
+        Q = "Select a team to teleport to";
+        H = "usedColorBuffers: ";
+        Y = "MpServer";
+        t = "; ";
+        ga = "spreadGravity_";
+        R = "commands.worldborder.warning.usage";
+        M = "ofFireworkParticles:";
+        I = "ARMOR_TORSO";
+        Ka = Float.intBitsToFloat(0xE68C8081 ^ 0xD90CF576);
+        w = "textures/entity/chest/normal.png";
+        X = Float.intBitsToFloat(0x3B5C06BD ^ 0x4DA0C2B);
+        o = "reason";
+        y = "leggingsNetherite";
+        Z = "cotton";
+        S = 0xA9438A6B ^ 0x56BC7589;
+        v = "GL_FRAMEBUFFER_INCOMPLETE_DRAW_BUFFER";
+        e = 0x766B8503 ^ 0x766BF045;
+        c = "rearleg";
+        T = 0x1D672088 ^ 0x1D6720CA;
+        C = "reverse_";
+        K = 0xE4A4623E ^ 0xE4A42D0E;
+        g = "mob.horse.zombie.idle";
+        r = "Unable to find EnumFacing with name '";
+        L = "GL11.GL_BITMAP_TOKEN";
+        fa = "^\\s*(//)?\\s*#define\\s+([A-Za-z0-9_]+)\\s*(//.*)?$";
+        P = "Sound engine started";
+        Aa = "game.neutral.swim";
+        z = "Chunk pos hash";
+        x = Double.longBitsToDouble(0xEE298BB9D5FD47DAL ^ 0xD1ADF158925353A1L);
+        s = 0x9D04C9A7 ^ 0x9DF43957;
+    }
+}
+

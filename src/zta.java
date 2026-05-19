@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class zta {
+    public static final String ca;
+    public static final long Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final int Ga;
+    public static final String fa;
+    public static final float Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final int Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final float P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final double n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final double q;
+    public static final float x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final float B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final int M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        Aa = "andesiteMaxHeight";
+        B = Float.intBitsToFloat(0x4724F162 ^ 0x4A3F162);
+        d = "emerald";
+        p = "slot.villager.";
+        S = "stone_axe";
+        T = "LINUX";
+        i = "commands.help.footer";
+        F = "hoeStone";
+        y = "east=false,north=true,south=false,up=false,west=false";
+        l = "@ ";
+        M = 0xD50BC9A0 ^ 0xD50BD1A0;
+        I = " tried to attack an invalid entity";
+        J = "Shaders.uninit pre";
+        r = "invalid something";
+        D = "InhabitedTime";
+        n = Double.longBitsToDouble(0x225FE905D460694L ^ 0x4240FE905D460694L);
+        k = "acacia_fence";
+        Ha = "createWorld.customize.custom.preset.caveChaos";
+        Ga = 0x9EC6B279 ^ 0x9EC62EAF;
+        A = "mcpatcher/ctm/default/empty";
+        Ka = Float.intBitsToFloat(0x83964899 ^ 0xBC7BD61D);
+        e = "windowed";
+        G = "Skipping bad option: ";
+        o = "shadowMapResolution";
+        x = Float.intBitsToFloat(0x9AC1AC04 ^ 0x251FB70D);
+        Y = "bottle_drinkable";
+        g = "Could not decode gif ";
+        U = "cleric";
+        V = "emotes";
+        ca = "warped_stairs";
+        v = "GL14.GL_DEPTH_COMPONENT32";
+        R = "particle.portal";
+        fa = "cyan_stained_glass";
+        w = "streamPreferredServer:";
+        h = "math.random_integer";
+        E = "left-hand-item";
+        Q = "lud";
+        W = "GL11.GL_OR";
+        s = "commands.testforblock.failed.tile";
+        X = "twitch_user_info";
+        q = Double.longBitsToDouble(0x29E9754547BE3FCCL ^ 0x1631B1DEE25D6C34L);
+        P = Float.intBitsToFloat(0x92CE80B9 ^ 0x5268E6DF);
+        b = "Meshes";
+        u = "hornCoralBlock";
+        C = "ENTITYOPTION";
+        f = "shadow end";
+        m = "STRIPE_TOP";
+        O = "DifficultyLocked";
+        t = "scaleZvalCase_";
+        H = "locAnim_";
+        c = "enchantment.protect.";
+        a = "ANGLEXANIMSMART";
+        Ja = 0xEBE54FA9680DE247L ^ 0xEBE54FA9680DD4F7L;
+        K = "DISABLED";
+        ja = "pink_tulip";
+        Z = 0x5F551D3E ^ 0x5F551AEF;
+        L = "chestplateDiamond";
+        N = "POPPY";
+        z = "warped_log_stripped";
+        j = " GL version ";
+    }
+
+    public zta() {
+        zta a2;
+    }
+}
+

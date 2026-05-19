@@ -1,0 +1,131 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class Pqa_3 {
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final int fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final float z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final int u;
+    public static final int O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final int a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final int C;
+    public static final int i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final int J;
+    public static final String A;
+    public static final int I;
+
+    public Pqa_3() {
+        Pqa_3 a2;
+    }
+
+    static {
+        m = ", width=";
+        J = 0x2550ACE7 ^ 0x2550A1E2;
+        n = "PINK";
+        R = "purpur_block";
+        a = 0x499FB855 ^ 0x49013918;
+        L = "oreGold";
+        D = "\n\n";
+        Y = " bytes, new size ";
+        M = "preset";
+        K = "Cannot register to reserved id: ";
+        v = "blockEmerald";
+        r = "shadowAngle";
+        U = "Left.Shape59123";
+        O = 0xAE2B5FAA ^ 0xAE2BDB73;
+        o = "hunger";
+        s = "matchTiles";
+        c = "waxed_copper_block";
+        x = "UPDATE_MUTED";
+        t = "RENDER_CLOUDS";
+        Z = "useLavaLakes";
+        f = "TS";
+        b = "textures/entity/lead_knot.png";
+        F = "values";
+        G = "Ribbon7";
+        B = "EASE_IN_OUT_ELASTIC";
+        S = "Minecraft 1.8.8 (VimeWorld: ";
+        z = Float.intBitsToFloat(0x9EAC24B0 ^ 0xA1E52B49);
+        E = "oxidized_cut_copper_stairs";
+        g = "FlowerPot";
+        k = "GL11.GL_RGBA4";
+        P = "item.fireworksCharge.flicker";
+        i = 0x77E4B07A ^ 0x77E4B0AA;
+        Ha = "/\\* DRAWBUFFERS:[0-7N]* \\*/.*";
+        I = 0xFA1B9D6D ^ 0xFA7FF909;
+        w = ", frameHeight: ";
+        Aa = "SkullOwner";
+        Q = "Random spawn bonus";
+        j = "x.json";
+        X = "Failed to fetch input stream";
+        C = 0x50339180 ^ 0x50339952;
+        ja = "armorDirection:";
+        Ka = "Radius";
+        W = "Adding duplicate key '";
+        y = "orange_concrete_powder";
+        l = "shaders/post/bumpy.json";
+        p = "capes/";
+        e = "Can't open url for ";
+        T = "Int";
+        Ga = "Error reading metadata: ";
+        h = "textures/body/wings_dragon_white.png";
+        Ja = "netherite_boots";
+        d = "keep";
+        fa = 0x9EEBF13C ^ 0x9EEBF062;
+        N = "):";
+        V = " -> ";
+        A = "commands.fill.success";
+        u = 0xE33501C1 ^ 0xE3358148;
+        q = "__";
+        H = "dark_prismarine_slab";
+    }
+}
+

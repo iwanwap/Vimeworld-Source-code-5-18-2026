@@ -1,0 +1,137 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class sra {
+    public static final String ga;
+    public static final String Da;
+    public static final int ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final double Ga;
+    public static final int fa;
+    public static final String Ka;
+    public static final int Aa;
+    public static final String S;
+    public static final int Z;
+    public static final int Y;
+    public static final String r;
+    public static final int V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final float h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final float B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final int i;
+    public static final double M;
+    public static final String k;
+    public static final String j;
+    public static final int J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        N = "Invalid intention ";
+        K = "textures/entity/horse/horse_markings_whitedots.png";
+        B = Float.intBitsToFloat(0xC909FC43 ^ 0x8C533C43);
+        e = "RightHand";
+        d = "endStoneBrickWall";
+        a = "masked";
+        l = "fletcher";
+        P = "Renderer details";
+        A = "pages";
+        w = "saturation:";
+        R = "wing.skin";
+        T = "([a-z])([A-Z])";
+        r = "travel";
+        z = "owner";
+        ga = "66";
+        s = "Damage";
+        o = "lime_carpet";
+        I = "Right";
+        Aa = 0x5B7D3A54 ^ 0x5B7D3676;
+        f = "GL11.GL_RGB";
+        Q = "##TArmorStatusHud";
+        Ha = "&6\u0422\u0430\u043a\u043e\u0433\u043e \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u0430 \u0442\u043e\u0447\u0435\u043a \u0435\u0449\u0435 \u043d\u0435\u0442 &f";
+        V = 0xCD30939C ^ 0xCD309F6E;
+        u = "low_right_arm";
+        y = "hoveredPositionX_";
+        Ga = Double.longBitsToDouble(0xAECDAFE44D8DE134L ^ 0xEEB5CFE44D8DE134L);
+        C = "outliner";
+        k = "commands.scoreboard.objectives.add.tooLong";
+        v = "Piece1.Shape42";
+        h = Float.intBitsToFloat(0xB2F58CCA ^ 0xD53EAAC);
+        G = "SUGGEST_COMMAND";
+        E = "Completely ignored arguments: ";
+        F = "tile";
+        ca = 0xA18C4907 ^ 0x5E73E3AD;
+        q = "Right.Right4";
+        i = 0x2B38F725 ^ 0x2B387785;
+        b = "MC_OS_WINDOWS";
+        O = "realms";
+        X = "glass_brown";
+        Da = "liquid.lava";
+        c = "snowy";
+        S = "_leaves.json";
+        U = "powered_repeater";
+        Z = 0x5A75062B ^ 0x5A75122B;
+        ja = " is not an image";
+        W = "italic";
+        Ka = "mob.ghast.scream";
+        p = "mode_";
+        D = "GL11.GL_SELECTION_BUFFER_POINTER";
+        j = "thick";
+        n = "attributes";
+        J = 0xF2B038C5 ^ 0xF2B032C4;
+        g = "GL11.GL_RED";
+        L = "INVERT_MOUSE";
+        t = "WEST";
+        Y = 0xEDD0C977 ^ 0xEDD0CB92;
+        H = "VOID_PARTICLES";
+        M = Double.longBitsToDouble(0x1DBB725DB82D9B64L ^ 0x5DC4325DB82D9B64L);
+        fa = 0xFFEBE304 ^ 0xFFEBE181;
+        m = "Right31";
+        Ja = "prismarine_brick_slab";
+        x = "Back.6b";
+    }
+
+    public sra() {
+        sra a2;
+    }
+}
+

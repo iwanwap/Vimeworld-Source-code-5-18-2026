@@ -1,0 +1,131 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class xTa {
+    public static final String Ja;
+    public static final String ja;
+    public static final double Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final float S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final int y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final float T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final double o;
+    public static final int h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final float m;
+    public static final String C;
+    public static final float i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final float J;
+    public static final String A;
+    public static final String I;
+
+    public xTa() {
+        xTa a2;
+    }
+
+    static {
+        s = "commands.testforblock.failed.tileEntity";
+        Y = "Customize World Settings";
+        Ka = " with size ";
+        n = "eTextInput_";
+        C = "%.1f";
+        m = Float.intBitsToFloat(0x5AE6AA6D ^ 0x9B2133F7);
+        E = "polishedTuff";
+        o = Double.longBitsToDouble(0x4C11C9A3A4080CE2L ^ 0xF3D1FB8410CC7C3BL);
+        u = "waterWalker";
+        z = "gui/shadow.png";
+        U = "streamMicVolume";
+        F = "assets/minecraft/models/block/coal_block.json";
+        ja = "down_x";
+        w = "horizontal_range";
+        j = "&a\u0412\u0441\u0435 \u0442\u043e\u0447\u043a\u0438 \u0443\u0434\u0430\u043b\u0435\u043d\u044b";
+        T = Float.intBitsToFloat(0xF84CD76E ^ 0x3F8F98EE);
+        i = Float.intBitsToFloat(0xBACC1E67 ^ 0x7A485D99);
+        Q = "NeMT";
+        k = "Right35";
+        e = "mcpatcher/cit/potion/";
+        M = "commands.scoreboard.players.operation.notFound";
+        Ha = Double.longBitsToDouble(0x2CD4D1EC5AB93E99L ^ 0x135A69BDBAB93E99L);
+        Z = "ConnectedTextures";
+        K = "entityShadows:";
+        a = "netherWartBlock";
+        Aa = "brown_stained_glass_pane";
+        B = "Definitely; Client brand changed to '";
+        Ga = "pre setupProgram";
+        H = "Hello world";
+        W = "down_z";
+        G = "ARC";
+        x = ", limit is ";
+        J = Float.intBitsToFloat(0x9FAEB502 ^ 0xA25480DF);
+        L = "skins-index.bin";
+        g = "Failed decode 'data:' image, base64 encoded: '";
+        y = 0x8311D646 ^ 0x8311DA14;
+        I = "multiplayer.texturePrompt.line1";
+        A = "easeOutCirc";
+        Ja = "useCaves";
+        R = "Willing";
+        fa = "followSpeed";
+        N = "rud";
+        D = "TNT";
+        f = " is not loaded due to whitelist";
+        V = "radeon";
+        r = "Oooooo";
+        p = "Couldn't load server list";
+        X = "oxeye_daisy";
+        q = "acacia_log_stripped";
+        O = "..";
+        h = 0x114B6693 ^ 0x114B67C7;
+        P = "\u041f\u0440\u0438\u0432\u0430\u0442\u043d\u043e\u0435";
+        v = "ofTrees:";
+        b = "deepslateRedstoneOre";
+        d = "commands.scoreboard.players.set.tagError";
+        l = "uniform [ _a-zA-Z0-9]+ depthtex0;.*";
+        S = Float.intBitsToFloat(0x59424835 ^ 0x18F64835);
+        c = "\u0000\u0003\u0000\u0000\u0001\u0003\u0003\u0000\u0000\u0000\u0001\u0006\u0002\u0004\u0003\u0004";
+        t = "NoAI";
+    }
+}
+

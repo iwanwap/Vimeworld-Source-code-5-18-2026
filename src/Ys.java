@@ -1,0 +1,25 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+import java.util.function.Supplier;
+
+public final class Ys
+implements Supplier {
+    private final St arg$1;
+
+    private Ys(St st) {
+        Object b2 = st;
+        Ys a2 = this;
+        a2.arg$1 = b2;
+    }
+
+    public Object get() {
+        Ys a2;
+        return St.J(a2.arg$1);
+    }
+
+    public static Supplier J(St a2) {
+        return new Ys(a2);
+    }
+}
+

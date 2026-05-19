@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class Cta_1 {
+    public static final String ca;
+    public static final String Ja;
+    public static final int ja;
+    public static final int Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final float z;
+    public static final String X;
+    public static final String y;
+    public static final int U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final float p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final double o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final float d;
+    public static final int a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final int j;
+    public static final float J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        n = "I I";
+        I = "DFbr354MdaoDv41mrF";
+        M = "Shape9123";
+        b = "placing";
+        Ga = "playerGameType";
+        Ja = "angular_velocity";
+        k = "Shader texture not found: ";
+        c = "SHIFT_LEFT";
+        N = "Missing pack.mcmeta :(";
+        Z = "M5";
+        A = "Camera path must have path or resource";
+        S = "CollarColor";
+        L = "---- Minecraft Profiler Results ----\n";
+        X = "GL11.GL_CLIP_PLANE4";
+        D = "FLIP_WEST";
+        a = 0x6D2DE572 ^ 0x6D2DE5E3;
+        s = "wing";
+        ca = "SOUNDPLAY";
+        o = Double.longBitsToDouble(0x5A85DE53DB086DDAL ^ 0x656B55F133B24356L);
+        R = "half=bottom,variant=default";
+        Ka = "waxed_weathered_cut_copper_slab_double";
+        d = Float.intBitsToFloat(0x63711138 ^ 0xDEB11138);
+        Y = "<<";
+        y = "attached";
+        x = "Invalid material";
+        E = "stat.entityKill";
+        p = Float.intBitsToFloat(0x23837A86 ^ 0xE1AF7A86);
+        J = Float.intBitsToFloat(0x7C5423C7 ^ 0x3C6710F4);
+        W = "orange";
+        G = "RH1";
+        T = "minecraft:particle_appearance_billboard";
+        l = "pre endHand";
+        H = "dry";
+        u = "selectWorld.select";
+        q = "spruce_stairs";
+        j = 0x71B7550C ^ 0x71B7D078;
+        ja = 0x8B7014AE ^ 0x8B7085E8;
+        P = "proxyUser";
+        O = "easeInOutBounce";
+        fa = "of.options.BETTER_SNOW";
+        K = "NEGATIVE";
+        i = "particle_update_expression";
+        z = Float.intBitsToFloat(0x3978BC12 ^ 0x79B470DF);
+        e = "hide-air";
+        r = "Skipping Structure with id ";
+        Ha = 0xE090BF24 ^ 0xE0270893;
+        t = "scrollbar_";
+        h = "Couldn't select trade";
+        m = "0.5, 0, 0.75, 0";
+        U = 0x211D1DBA ^ 0x211D813C;
+        C = "stat.recordPlayed";
+        Aa = "GL11.GL_FASTEST";
+        F = "mudBricks";
+        g = "4a";
+        B = "EYES";
+        w = "effectTextSize:";
+        f = "~ ~";
+        Q = "Head.19";
+        v = "MASKIMAGERESOURCE";
+        V = "SHLi";
+    }
+
+    public Cta_1() {
+        Cta_1 a2;
+    }
+}
+

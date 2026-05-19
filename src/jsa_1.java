@@ -1,0 +1,131 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class jsa_1 {
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final double Ka;
+    public static final int Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final int U;
+    public static final String P;
+    public static final int u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final float s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final int h;
+    public static final String K;
+    public static final String H;
+    public static final float c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final int m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final int j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        R = "p.price";
+        Ga = "inwards";
+        s = Float.intBitsToFloat(0xAABADD26 ^ 0xEB927EF1);
+        o = "body.body1";
+        E = "APNG image size is larger than max supported texture size: ";
+        S = "commands.kick.success.reason";
+        i = "scaleyvalCase_";
+        Ja = "terrainIconSize";
+        U = 0xE6A55E4F ^ 0x195A5E4F;
+        P = "&a \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0430";
+        V = "GL11.GL_EDGE_FLAG_ARRAY_STRIDE";
+        Q = "Primary";
+        A = "Enable face culling: ";
+        K = "GL11.GL_COLOR_ARRAY_SIZE";
+        B = "serverTime_";
+        G = "Screen name";
+        m = 0xAAB469CB ^ 0xAAB47DC8;
+        r = "#@!@# Game crashed! Crash report saved to: #@!@# ";
+        e = "ONE_PLAYER_DATA";
+        F = "facing=west,half=top,shape=inner_left";
+        L = "gl_caps[ARB_pixel_buffer_object]";
+        j = 0x683CEC56 ^ 0x683C608A;
+        J = "settings";
+        W = "drop.water";
+        q = "ADDBB";
+        k = "Failed to verify username but will let them in anyway!";
+        b = "mob.guardian.land.death";
+        v = "LeftLeg.LeftLeg3";
+        d = "Entity being rendered";
+        t = "GL11.GL_CURRENT_COLOR";
+        Ha = "mob.irongolem.walk";
+        C = "Not a valid PNG file";
+        M = "STEP";
+        H = "\u0000\u0004\u0000\u0001\u0001\u0004\u0004\u0000\u0001\u0000\u0001\f\u0002\u1004\u0000\u0003$\u0004\u1006\u0001";
+        X = "PRN";
+        I = "textures/body/wings_black.png";
+        D = "arm";
+        T = "armorStatus:";
+        h = 0xC245E2A3 ^ 0xC2BF76BB;
+        n = "Unexpected token '";
+        y = "createWorld.customize.custom.useRavines";
+        z = "createWorld.customize.custom.biomeDepthWeight";
+        fa = "double_plant_paeonia_top";
+        Ka = Double.longBitsToDouble(0xE42988AC4DAACAFFL ^ 0xA44088AC4DAACAFFL);
+        N = "texts/splashes.txt";
+        f = "double_plant_grass_top";
+        a = "selectWorld.deleteWarning";
+        x = "iron_pickaxe";
+        c = Float.intBitsToFloat(0xF249E13C ^ 0x4DFB5983);
+        Z = "Could not lookup user whitelist entry for ";
+        g = "GUI_SCALE";
+        u = 0xFBAC17F8 ^ 0xFBAC1550;
+        O = "COMPILING";
+        ja = "MSCrossing";
+        Y = "gradientAnim_";
+        l = "NeSCRT";
+        p = "heart";
+        w = "textures/body/fierywings_dark.png";
+        Aa = 0x13E7E847 ^ 0x13E76D31;
+    }
+
+    public jsa_1() {
+        jsa_1 a2;
+    }
+}
+

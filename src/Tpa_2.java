@@ -1,0 +1,137 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class Tpa_2 {
+    public static final String ga;
+    public static final String Da;
+    public static final String ca;
+    public static final float Ja;
+    public static final int ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final double fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final float S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final int z;
+    public static final String X;
+    public static final int y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final int W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final double c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final int e;
+    public static final long G;
+    public static final double D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final double M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    public Tpa_2() {
+        Tpa_2 a2;
+    }
+
+    static {
+        V = "Piece1.Shape72";
+        R = "Hash is too long (max 40, was ";
+        E = " ";
+        O = "textures/entity/zombie/zombie.png";
+        A = "Plant";
+        Z = "shaders/post/wobble.json";
+        ja = 0x9A2345DC ^ 0x9A23C4E6;
+        l = "GL11.GL_DEPTH_SCALE";
+        v = "Invoke error";
+        c = Double.longBitsToDouble(0x331F400AAF59FB12L ^ 0xCF324C8576E4FB0L);
+        C = "MiniDotDressedItem{item=";
+        r = "\u041f\u043e\u0438\u0441\u043a";
+        j = "allowCommands";
+        Y = "LOADED";
+        d = "cobblestone_monster_egg";
+        J = "Error encountered when linking program containing VS ";
+        T = "slot.weapon";
+        U = "mob.horse.zombie.hit";
+        a = "\u0000\u0002\u0000\u0001\u0001\u0002\u0002\u0000\u0000\u0000\u0001\u1208\u0000\u0002\u1002\u0001";
+        P = "BOLD";
+        Ka = "leaves_(?:birch|birch_opaque|jungle|jungle_opaque|oak|oak_opaque|spruce|spruce_opaque)?";
+        i = "AES/CFB8/NoPadding";
+        S = Float.intBitsToFloat(0xC4044827 ^ 0x7AC884EA);
+        f = "renderlistcamera";
+        y = 0xEA790C29 ^ 0x1786F3D6;
+        Aa = "fence_gate";
+        h = ", Duration: ";
+        F = "blackstone";
+        L = "pre copy shadow depth";
+        w = "FT sc";
+        t = "%d";
+        s = "\u0413\u0440\u043e\u043c\u043a\u043e\u0441\u0442\u044c \u043c\u0438\u043a\u0440\u043e\u0444\u043e\u043d\u0430";
+        B = "commands.scoreboard.players.list.player.empty";
+        M = Double.longBitsToDouble(0xC8C4B70337E915CEL ^ 0x884BF70337E915CEL);
+        ga = "FallHurtMax";
+        Ha = "bedrock_old";
+        H = "minecraft:enchanting_table";
+        Q = "brick_slab";
+        X = "useNativeTransport";
+        o = "GL_FRAMEBUFFER_INCOMPLETE_MISSING_ATTACHMENT";
+        p = "of.options.shaders.TEX_MAG_FIL_S";
+        Da = "green_wool";
+        G = 0x228C7133086193B4L ^ 0x228C7133F4C80687L;
+        z = 0x6D7BEC66 ^ 0x6D7BEC44;
+        D = Double.longBitsToDouble(0x90F130CAAB526C13L ^ 0x50A130CAAB526C13L);
+        q = "characters[";
+        k = "OLD_HAND_LIGHT";
+        W = 0xF3F2BBAA ^ 0xF3F2BA99;
+        n = "5b";
+        K = "game.hostile.swim.splash";
+        Ga = "of.options.FAST_RENDER";
+        e = 0x6BCCE855 ^ 0x6BCCEBA5;
+        N = "DD";
+        g = "GL11.GL_RGBA_MODE";
+        b = "com.intellij.rt.execution.application.AppMainV2";
+        m = "options.stream.mic_toggle.talk";
+        x = "door";
+        u = "bow2";
+        Ja = Float.intBitsToFloat(0x6EC1D298 ^ 0x2ECD1E55);
+        I = "AbsorptionAmount";
+        fa = Double.longBitsToDouble(0xB5C4BC7AB042E5F9L ^ 0x8A60C69BF042E5F9L);
+        ca = "GL12.GL_UNSIGNED_SHORT_5_6_5";
+    }
+}
+

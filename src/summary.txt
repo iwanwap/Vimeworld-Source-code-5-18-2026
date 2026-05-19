@@ -1,0 +1,1524 @@
+Summary for C:\Users\wanwa\.gemini\antigravity\playground\harmonic-triangulum\VimeMapper\VimeDump_Proper.jar
+Decompiled with CFR 0.152
+
+
+yO
+----------------------------
+
+J(int float float float float float float float float )
+  Unable to fully structure code
+
+
+Cba
+----------------------------
+
+J(bFa int boolean )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+Ni
+----------------------------
+
+J(aO )
+  Unable to fully structure code
+
+
+gh
+----------------------------
+
+J(fm )
+  Unable to fully structure code
+
+
+net.minecraft.block.BlockNewLog2
+----------------------------
+
+J(net.minecraft.block.state.IBlockState )
+  Unable to fully structure code
+
+
+eca
+----------------------------
+
+J(Mda Sx Gg XF DZ float float float )
+  Unable to fully structure code
+J(eAa yGa java.util.List<Mda> )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+nEa_1
+----------------------------
+
+d()
+  Unable to fully structure code
+
+
+vS
+----------------------------
+
+J(int int )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+fr
+----------------------------
+
+J(int int long )
+  Unable to fully structure code
+
+
+iX_1
+----------------------------
+
+J(Gg java.util.Random oz int int double )
+  Unable to fully structure code
+
+
+net.minecraft.block.BlockDynamicLiquid
+----------------------------
+
+f(Gg XF net.minecraft.block.state.IBlockState int )
+  Unable to fully structure code
+f(Gg XF net.minecraft.block.state.IBlockState java.util.Random )
+  Unable to fully structure code
+
+
+Mka
+----------------------------
+
+J(float float float DZ float int com.mojang.authlib.GameProfile int )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+gT_1
+----------------------------
+
+J(Kpa int int )
+  Unable to fully structure code
+
+
+LJa_1
+----------------------------
+
+J(int[] )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+hia
+----------------------------
+
+f()
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+JE
+----------------------------
+
+J(Yka )
+  Unable to fully structure code
+J(java.util.List )
+  Unable to fully structure code
+
+
+net.minecraft.client.model.ModelHorse
+----------------------------
+
+J(vL float float float float float float )
+  Unable to fully structure code
+
+
+ZGa
+----------------------------
+
+deserialize(com.google.gson.JsonElement java.lang.reflect.Type com.google.gson.JsonDeserializationContext )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK], 3[CATCHBLOCK]], but top level block is 2[TRYBLOCK]
+
+
+Lv_1
+----------------------------
+
+J(int int int int )
+  Unable to fully structure code
+
+
+Dpa_2
+----------------------------
+
+J(byte[] )
+  Unable to fully structure code
+
+
+hl_1
+----------------------------
+
+f(float int K )
+  Unable to fully structure code
+
+
+vja
+----------------------------
+
+J(Cla )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [3[CATCHBLOCK]], but top level block is 2[TRYBLOCK]
+
+
+OT
+----------------------------
+
+J(OT ln java.util.UUID java.io.InputStream )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [4[TRYBLOCK]], but top level block is 0[TRYBLOCK]
+
+
+nka_1
+----------------------------
+
+J()
+  Unable to fully structure code
+
+
+Qz
+----------------------------
+
+J(Tf boolean boolean boolean )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+kMa_1
+----------------------------
+
+J(int int float )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+Qha_1
+----------------------------
+
+J(aJa com.google.gson.JsonElement )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+J(aJa net.minecraft.util.ResourceLocation )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [6[CATCHBLOCK]], but top level block is 2[TRYBLOCK]
+
+
+gy
+----------------------------
+
+J(Gg java.util.Random oz int int double )
+  Unable to fully structure code
+
+
+QR
+----------------------------
+
+f(dT )
+  Unable to fully structure code
+
+
+OCa_1
+----------------------------
+
+run()
+  Loose catch block
+
+
+rda
+----------------------------
+
+J(java.lang.String )
+  Unable to fully structure code
+
+
+Jz
+----------------------------
+
+<init>(SZ Waa java.lang.String int )
+  Unable to fully structure code
+
+
+net.xtrafrancyz.mods.texteria.snowstorm.components.shape.BedrockComponentShapeBox
+----------------------------
+
+J(nj vj )
+  Unable to fully structure code
+
+
+Bp
+----------------------------
+
+J(long )
+  Unable to fully structure code
+J(fO )
+  Unable to fully structure code
+
+
+rma
+----------------------------
+
+l()
+  Unable to fully structure code
+
+
+yHa
+----------------------------
+
+J(com.mojang.authlib.minecraft.MinecraftProfileTexture com.mojang.authlib.minecraft.MinecraftProfileTexture$Type yb )
+  Unable to fully structure code
+
+
+wI_1
+----------------------------
+
+toString()
+  Unable to fully structure code
+toByteArray()
+  Unable to fully structure code
+
+
+WS
+----------------------------
+
+f(dT )
+  Unable to fully structure code
+
+
+gNa
+----------------------------
+
+run()
+  Unable to fully structure code
+
+
+ru.vimeworld.configuration.ConfigurationService
+----------------------------
+
+J(java.lang.String java.lang.reflect.Type java.util.function.Supplier<T> )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+
+
+SHa
+----------------------------
+
+processCommand(u java.lang.String[] )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+Sg
+----------------------------
+
+J(java.lang.Runnable )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [3[CATCHBLOCK]], but top level block is 2[TRYBLOCK]
+
+
+oLa
+----------------------------
+
+J(Gg Kna vL vL Cia float )
+  Unable to fully structure code
+J(vL double double double float float boolean )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+
+
+fma
+----------------------------
+
+J()
+  Unable to fully structure code
+
+
+net.xtrafrancyz.mods.texteria.snowstorm.components.motion.BedrockComponentMotionCollision
+----------------------------
+
+J(vj nj javax.vecmath.Vector3d )
+  Unable to fully structure code
+J(com.google.gson.JsonElement Uk )
+  Unable to fully structure code
+
+
+eLa
+----------------------------
+
+run()
+  Unable to fully structure code
+J()
+  Unable to fully structure code
+
+
+Xj_2
+----------------------------
+
+J(java.lang.String[] )
+  Unable to fully structure code
+
+
+Ks_1
+----------------------------
+
+J(U )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [4[CATCHBLOCK]], but top level block is 2[TRYBLOCK]
+
+
+NH_2
+----------------------------
+
+f(java.lang.String )
+  Unable to fully structure code
+J(java.lang.String int boolean )
+  Unable to fully structure code
+
+
+KP_1
+----------------------------
+
+J(com.google.gson.JsonObject )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [10[DOLOOP]], but top level block is 14[UNCONDITIONALDOLOOP]
+
+
+WKa
+----------------------------
+
+f(U )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+
+
+iOa
+----------------------------
+
+J(Kpa int int )
+  Unable to fully structure code
+
+
+gR
+----------------------------
+
+J(long )
+  Unable to fully structure code
+
+
+ac_1
+----------------------------
+
+J(Kpa int int )
+  Unable to fully structure code
+
+
+OX
+----------------------------
+
+J(java.util.function.Predicate<zy<V>> )
+  Unable to fully structure code
+
+
+dV
+----------------------------
+
+J(Gg java.util.Random Xv )
+  Unable to fully structure code
+
+
+xC
+----------------------------
+
+J(ac )
+  Unable to fully structure code
+
+
+Cia_1
+----------------------------
+
+f(Fha int )
+  Unable to fully structure code
+  Could not resolve type clashes
+i()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK]], but top level block is 8[WHILELOOP]
+f()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [4[CATCHBLOCK], 1[TRYBLOCK]], but top level block is 3[TRYBLOCK]
+J(Fha int )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+cb_1
+----------------------------
+
+f()
+  Unable to fully structure code
+
+
+ula_1
+----------------------------
+
+f(XKa )
+  Unable to fully structure code
+
+
+Od_2
+----------------------------
+
+J(boolean )
+  Unable to fully structure code
+
+
+vea_1
+----------------------------
+
+J(gZ float )
+  Unable to fully structure code
+
+
+dFa_1
+----------------------------
+
+l()
+  Unable to fully structure code
+
+
+Rna_2
+----------------------------
+
+J(int int int int int int int boolean )
+  Unable to fully structure code
+
+
+Sy_1
+----------------------------
+
+J()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [3[CATCHBLOCK]], but top level block is 2[TRYBLOCK]
+
+
+KT_1
+----------------------------
+
+J(net.minecraft.util.ResourceLocation )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 3 blocks at once
+J(net.minecraft.util.ResourceLocation )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 3 blocks at once
+
+
+jb
+----------------------------
+
+l()
+  Could not resolve type clashes
+  Unable to fully structure code
+
+
+cJ_1
+----------------------------
+
+J(cJ Kl java.io.InputStream )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [4[TRYBLOCK]], but top level block is 0[TRYBLOCK]
+
+
+pE
+----------------------------
+
+J(int int )
+  Unable to fully structure code
+
+
+net.xtrafrancyz.mods.minidot.items.BaseItem
+----------------------------
+
+J(float )
+  Unable to fully structure code
+
+
+Fma_2
+----------------------------
+
+J(Kpa int int )
+  Unable to fully structure code
+
+
+Jy_1
+----------------------------
+
+f(Gg java.util.Random oz int int double )
+  Unable to fully structure code
+
+
+hfa_1
+----------------------------
+
+f(dc Mda )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+AD
+----------------------------
+
+J(int )
+  Unable to fully structure code
+J(java.io.InputStream int )
+  Unable to fully structure code
+
+
+net.minecraft.block.BlockSapling
+----------------------------
+
+C(Gg XF net.minecraft.block.state.IBlockState java.util.Random )
+  Unable to fully structure code
+
+
+Tma_2
+----------------------------
+
+J(Kpa int int )
+  Unable to fully structure code
+
+
+kLa_1
+----------------------------
+
+C()
+  Unable to fully structure code
+
+
+mHa
+----------------------------
+
+<init>(kga sA java.lang.Class )
+  Ignored method signature, as it can't be verified against descriptor
+
+
+uw_1
+----------------------------
+
+J(java.lang.String java.lang.Object )
+  Unable to fully structure code
+J(net.minecraft.block.Block java.lang.Object )
+  Unable to fully structure code
+
+
+Oea_1
+----------------------------
+
+J(Sx Lz )
+  Unable to fully structure code
+
+
+Ip_2
+----------------------------
+
+J(fO )
+  Unable to fully structure code
+
+
+nNa
+----------------------------
+
+f(int int float )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+Moa_2
+----------------------------
+
+<init>()
+  Loose catch block
+
+
+ZLa
+----------------------------
+
+J(ac )
+  Unable to fully structure code
+
+
+Vw_2
+----------------------------
+
+run()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+
+
+eF
+----------------------------
+
+C()
+  Could not resolve type clashes
+  Unable to fully structure code
+
+
+OEa_2
+----------------------------
+
+f(bga int int Lz )
+  Unable to fully structure code
+
+
+zU_1
+----------------------------
+
+J(Cda )
+  Unable to fully structure code
+
+
+Kna_2
+----------------------------
+
+J(java.lang.String int boolean )
+  Unable to fully structure code
+f(java.lang.String int )
+  Unable to fully structure code
+f()
+  Unable to fully structure code
+
+
+uX_1
+----------------------------
+
+J(Sx )
+  Unable to fully structure code
+
+
+FDa
+----------------------------
+
+f()
+  Unable to fully structure code
+
+
+Vq_1
+----------------------------
+
+J(int int int )
+  Unable to fully structure code
+
+
+FLa_1
+----------------------------
+
+f(float long )
+  Unable to fully structure code
+J(float )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+Yfa_2
+----------------------------
+
+W()
+  Unable to fully structure code
+J(jFa )
+  Unable to fully structure code
+
+
+xta_2
+----------------------------
+
+J(u java.lang.String[] )
+  Unable to fully structure code
+
+
+net.xtrafrancyz.mods.texteria.snowstorm.components.shape.BedrockComponentShapeEntityAABB
+----------------------------
+
+J(nj vj )
+  Unable to fully structure code
+
+
+OS_1
+----------------------------
+
+J(Cda )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+
+
+Mha_1
+----------------------------
+
+joinNiceString(java.lang.Object[] )
+  Unable to fully structure code
+join(java.util.List<ld> )
+  Unable to fully structure code
+
+
+net.xtrafrancyz.mods.minidot.items.MiniDotItem
+----------------------------
+
+f(dT )
+  Unable to fully structure code
+
+
+RU
+----------------------------
+
+J(XF )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[DOLOOP]], but top level block is 2[DOLOOP]
+
+
+Woa_3
+----------------------------
+
+J(int int int )
+  Unable to fully structure code
+J()
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+xGa_2
+----------------------------
+
+f()
+  Unable to fully structure code
+
+
+jt_3
+----------------------------
+
+J()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [7[CATCHBLOCK]], but top level block is 4[TRYBLOCK]
+J(Kpa )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [2[TRYBLOCK], 1[TRYBLOCK], 0[TRYBLOCK]], but top level block is 9[SWITCH]
+
+
+Gg_1
+----------------------------
+
+J(vL boolean )
+  Unable to fully structure code
+
+
+mFa_2
+----------------------------
+
+J(boolean )
+  Unable to fully structure code
+r()
+  Unable to fully structure code
+  Could not resolve type clashes
+J()
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+Hx_1
+----------------------------
+
+run()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+
+
+BS_2
+----------------------------
+
+J(com.google.gson.JsonArray )
+  Unable to fully structure code
+J()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK], 0[TRYBLOCK]], but top level block is 24[WHILELOOP]
+
+
+Yba_2
+----------------------------
+
+J(Gg vL dW )
+  Unable to fully structure code
+
+
+UK_2
+----------------------------
+
+J(net.minecraft.block.state.IBlockState net.minecraft.util.ResourceLocation )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 3 blocks at once
+J(net.minecraft.util.ResourceLocation )
+  Unable to fully structure code
+  Could not resolve type clashes
+J()
+  Unable to fully structure code
+
+
+AF
+----------------------------
+
+J()
+  Unable to fully structure code
+
+
+RIa_2
+----------------------------
+
+J(java.lang.String int )
+  Unable to fully structure code
+
+
+Faa_2
+----------------------------
+
+J(hd hd int int )
+  Unable to fully structure code
+J(XF net.minecraft.block.state.IBlockState )
+  Unable to fully structure code
+
+
+bca_2
+----------------------------
+
+<init>(vca java.lang.String double java.util.Collection )
+  Ignored method signature, as it can't be verified against descriptor
+
+
+Tf_1
+----------------------------
+
+J(Xv boolean )
+  Unable to fully structure code
+
+
+Xia_1
+----------------------------
+
+J(int int int int int int int boolean )
+  Unable to fully structure code
+
+
+Rx_2
+----------------------------
+
+J(java.lang.Class<T> java.lang.String java.lang.Object[] )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+ZJa_2
+----------------------------
+
+J(vL eb float )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [5[DOLOOP]], but top level block is 7[UNCONDITIONALDOLOOP]
+
+
+ru.vimeworld.configuration.impl.HomeScreenConfiguration
+----------------------------
+
+J()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [4[TRYBLOCK]], but top level block is 0[TRYBLOCK]
+
+
+KF_2
+----------------------------
+
+f(int int )
+  Unable to fully structure code
+
+
+Wca_3
+----------------------------
+
+J(int ica )
+  Unable to fully structure code
+
+
+pz_2
+----------------------------
+
+J(java.lang.String )
+  Unable to fully structure code
+
+
+cEa_2
+----------------------------
+
+d()
+  Unable to fully structure code
+
+
+NAa_2
+----------------------------
+
+J(Mda Sx Gg XF DZ float float float )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+Yea_2
+----------------------------
+
+J(Waa )
+  Unable to fully structure code
+
+
+Sna_2
+----------------------------
+
+J(java.lang.String )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+DDa_2
+----------------------------
+
+r()
+  Unable to fully structure code
+
+
+BX_1
+----------------------------
+
+J(java.io.File java.lang.String int int gHa )
+  Unable to fully structure code
+
+
+wMa_3
+----------------------------
+
+J(Kpa int int )
+  Unable to fully structure code
+
+
+Nv_2
+----------------------------
+
+J(XF )
+  Unable to fully structure code
+
+
+bMa_2
+----------------------------
+
+J(Kpa int int )
+  Unable to fully structure code
+
+
+Jja_1
+----------------------------
+
+J(U )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+
+
+vP_2
+----------------------------
+
+f(Bp )
+  Unable to fully structure code
+
+
+BLa_3
+----------------------------
+
+J(Mda )
+  Unable to fully structure code
+
+
+aga_2
+----------------------------
+
+d()
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+Gl_3
+----------------------------
+
+J(gZ float )
+  Unable to fully structure code
+L()
+  Unable to fully structure code
+
+
+Dw_2
+----------------------------
+
+J(uU java.util.List<uU> java.util.Random )
+  Unable to fully structure code
+
+
+qV_3
+----------------------------
+
+J(java.lang.Class<? extends Vx> java.lang.String )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK], 3[CATCHBLOCK]], but top level block is 2[TRYBLOCK]
+
+
+net.minecraft.client.resources.FileResourcePack
+----------------------------
+
+J()
+  Unable to fully structure code
+
+
+wi_3
+----------------------------
+
+J(ALa )
+  Unable to fully structure code
+
+
+Mda_3
+----------------------------
+
+J(Sx boolean )
+  Unable to fully structure code
+
+
+NGa_2
+----------------------------
+
+func_175778_p(u java.lang.String[] int )
+  Unable to fully structure code
+
+
+Sk_2
+----------------------------
+
+J(bx java.lang.String int )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+J(java.nio.ByteBuffer java.util.List<java.lang.Integer> kK )
+  Unable to fully structure code
+J(java.lang.String byte[] )
+  Loose catch block
+
+
+wNa_2
+----------------------------
+
+J(net.minecraft.util.ResourceLocation mOa )
+  Loose catch block
+
+
+GEa_3
+----------------------------
+
+J(Sx int )
+  Unable to fully structure code
+
+
+QNa_3
+----------------------------
+
+J(yGa )
+  Unable to fully structure code
+
+
+gda_3
+----------------------------
+
+J(java.lang.String )
+  Unable to fully structure code
+
+
+aKa_2
+----------------------------
+
+J(float float float int )
+  Unable to fully structure code
+
+
+Ega_2
+----------------------------
+
+J(Mda int int boolean )
+  Unable to fully structure code
+
+
+nBa_2
+----------------------------
+
+J(Daa boolean )
+  Unable to fully structure code
+
+
+bq_3
+----------------------------
+
+J(bq java.util.concurrent.CompletableFuture Kl java.io.InputStream )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK], 0[TRYBLOCK]], but top level block is 8[SWITCH]
+
+
+gIa_3
+----------------------------
+
+J()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+
+
+HC_3
+----------------------------
+
+J(java.lang.String java.util.Properties java.util.Set<java.lang.String> RB[] )
+  Could not resolve type clashes
+
+
+ANa_2
+----------------------------
+
+y()
+  Unable to fully structure code
+
+
+net.xtrafrancyz.mods.texteria.snowstorm.components.appearance.BedrockComponentAppearanceBillboard
+----------------------------
+
+J(nj vj double double double )
+  Unable to fully structure code
+J()
+  Unable to fully structure code
+
+
+net.minecraft.block.CustomBlock
+----------------------------
+
+f()
+  Unable to fully structure code
+
+
+tp_2
+----------------------------
+
+J(long )
+  Unable to fully structure code
+
+
+sI_3
+----------------------------
+
+<init>(cN )
+  Unable to fully structure code
+
+
+pDa_1
+----------------------------
+
+W()
+  Unable to fully structure code
+
+
+gna_1
+----------------------------
+
+J(int int int float Sx )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+Ama_3
+----------------------------
+
+J(sEa )
+  Unable to fully structure code
+  Could not resolve type clashes
+f(int int int )
+  Unable to fully structure code
+J(int int int )
+  Unable to fully structure code
+
+
+ny_3
+----------------------------
+
+J(u ld vL )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+Iz_3
+----------------------------
+
+run()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [2[TRYBLOCK]], but top level block is 11[WHILELOOP]
+
+
+lfa_3
+----------------------------
+
+J()
+  Unable to fully structure code
+
+
+xr_3
+----------------------------
+
+J(Aq com.google.gson.JsonElement[] )
+  Unable to fully structure code
+
+
+IU_3
+----------------------------
+
+J(uU java.util.List<uU> java.util.Random )
+  Unable to fully structure code
+
+
+cP_3
+----------------------------
+
+J(boolean )
+  Unable to fully structure code
+
+
+uf_3
+----------------------------
+
+J(float float double double float float int float boolean )
+  Unable to fully structure code
+J(double double double float )
+  Unable to fully structure code
+J(boolean )
+  Unable to fully structure code
+
+
+Zaa_3
+----------------------------
+
+J(xFa int int boolean )
+  Unable to fully structure code
+
+
+HOa_3
+----------------------------
+
+J(ac )
+  Unable to fully structure code
+J()
+  Unable to fully structure code
+
+
+net.minecraft.block.BlockStairs
+----------------------------
+
+l(I XF )
+  Unable to fully structure code
+f(I XF )
+  Unable to fully structure code
+
+
+xla_3
+----------------------------
+
+J(XKa )
+  Unable to fully structure code
+
+
+Kpa_3
+----------------------------
+
+m()
+  Unable to fully structure code
+  Could not resolve type clashes
+c()
+  Unable to fully structure code
+f()
+  Unable to fully structure code
+  Could not resolve type clashes
+J()
+  Unable to fully structure code
+
+
+HFa_2
+----------------------------
+
+y()
+  Unable to fully structure code
+
+
+lsa_2
+----------------------------
+
+J(YTa YTa double double float )
+  Unable to fully structure code
+
+
+Cz_3
+----------------------------
+
+A()
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+org.apache.commons.compress.archivers.ArchiveStreamFactory
+----------------------------
+
+createArchiveInputStream(java.io.InputStream )
+  Loose catch block
+
+
+com.google.common.util.concurrent.Futures
+----------------------------
+
+setOneValue(int java.util.concurrent.Future<? extends V> )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+run()
+  Loose catch block
+
+
+org.apache.commons.lang3.text.ExtendedMessageFormat
+----------------------------
+
+readArgumentIndex(java.lang.String java.text.ParsePosition )
+  Unable to fully structure code
+
+
+org.apache.commons.io.filefilter.MagicNumberFileFilter
+----------------------------
+
+accept(java.io.File )
+  Loose catch block
+
+
+com.ibm.icu.text.UnicodeSet
+----------------------------
+
+applyPropertyAlias(java.lang.String java.lang.String com.ibm.icu.text.SymbolTable )
+  Unable to fully structure code
+
+
+org.lwjgl.opengl.LinuxDisplay
+----------------------------
+
+getGammaRampLength()
+  Loose catch block
+
+
+org.apache.logging.log4j.core.net.ssl.TrustStoreConfiguration
+----------------------------
+
+load()
+  Loose catch block
+
+
+io.netty.handler.codec.compression.SnappyFramedDecoder
+----------------------------
+
+decode(io.netty.channel.ChannelHandlerContext io.netty.buffer.ByteBuf java.util.List<java.lang.Object> )
+  Unable to fully structure code
+
+
+io.netty.util.internal.chmv8.ForkJoinPool
+----------------------------
+
+tryHelpStealer(io.netty.util.internal.chmv8.ForkJoinPool$WorkQueue io.netty.util.internal.chmv8.ForkJoinTask<?> )
+  Unable to fully structure code
+tryTerminate(boolean boolean )
+  Unable to fully structure code
+
+
+io.netty.util.internal.ThreadLocalRandom
+----------------------------
+
+getInitialSeedUniquifier()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [2[DOLOOP]], but top level block is 0[TRYBLOCK]
+
+
+io.netty.util.concurrent.DefaultPromise
+----------------------------
+
+await0(long boolean )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK]], but top level block is 10[MONITOR]
+
+
+paulscode.sound.codecs.CodecJOrbis
+----------------------------
+
+readBytes()
+  Unable to fully structure code
+
+
+io.netty.util.NetUtil
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+
+
+com.jcraft.jorbis.Drft
+----------------------------
+
+dradfg(int int int int float[] float[] float[] float[] float[] float[] int )
+  Unable to fully structure code
+dradbg(int int int int float[] float[] float[] float[] float[] float[] int )
+  Unable to fully structure code
+
+
+io.netty.handler.codec.MessageToMessageEncoder
+----------------------------
+
+write(io.netty.channel.ChannelHandlerContext java.lang.Object io.netty.channel.ChannelPromise )
+  Loose catch block
+
+
+io.netty.channel.epoll.EpollDatagramChannel
+----------------------------
+
+epollInReady()
+  Unable to fully structure code
+
+
+com.ibm.icu.text.DecimalFormat
+----------------------------
+
+expandAffix(java.lang.String java.lang.String java.lang.StringBuffer boolean )
+  Unable to fully structure code
+applyPatternWithoutExpandAffix(java.lang.String boolean )
+  Unable to fully structure code
+
+
+org.apache.logging.log4j.core.config.plugins.ResolverUtil
+----------------------------
+
+loadImplementationsInJar(org.apache.logging.log4j.core.config.plugins.ResolverUtil$Test java.lang.String java.io.File )
+  Loose catch block
+
+
+org.lwjgl.opengl.LinuxCanvasImplementation
+----------------------------
+
+findVisualIDFromFormat(int org.lwjgl.opengl.PixelFormat )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+
+
+org.apache.commons.compress.compressors.bzip2.BlockSort
+----------------------------
+
+fallbackSort(int[] byte[] int )
+  Unable to fully structure code
+
+
+com.google.common.util.concurrent.Monitor
+----------------------------
+
+enterWhenUninterruptibly(com.google.common.util.concurrent.Monitor$Guard long java.util.concurrent.TimeUnit )
+  Loose catch block
+
+
+com.ibm.icu.text.RuleBasedCollator
+----------------------------
+
+setUpLatinOne()
+  Unable to fully structure code
+
+
+com.google.protobuf.CodedInputStreamReader
+----------------------------
+
+readMap(java.util.Map<K, V> com.google.protobuf.MapEntryLite$Metadata<K, V> com.google.protobuf.ExtensionRegistryLite )
+  Unable to fully structure code
+
+
+io.netty.handler.codec.ByteToMessageDecoder
+----------------------------
+
+channelRead(io.netty.channel.ChannelHandlerContext java.lang.Object )
+  Loose catch block
+
+
+com.mojang.realmsclient.gui.screens.RealmsUploadScreen
+----------------------------
+
+run()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [2[TRYBLOCK]], but top level block is 47[FORLOOP]

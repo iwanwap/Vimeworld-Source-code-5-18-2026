@@ -1,0 +1,137 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class Yqa {
+    public static final String ga;
+    public static final int Da;
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final double Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final int r;
+    public static final double V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final int u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final int o;
+    public static final String h;
+    public static final int K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final int D;
+    public static final String f;
+    public static final int F;
+    public static final String g;
+    public static final float L;
+    public static final String E;
+    public static final String m;
+    public static final float C;
+    public static final int i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    public Yqa() {
+        Yqa a2;
+    }
+
+    static {
+        d = "' is too long!";
+        Y = "BETTER_SNOW";
+        w = "^\\s*#version\\s+.*$";
+        R = "set tex, current options: ";
+        P = "34";
+        Aa = "Close menu";
+        s = " u,v: ";
+        N = "Properties";
+        Ga = "TEX_MAG_FIL_S";
+        C = Float.intBitsToFloat(0xEFE1F6D2 ^ 0xD2AD3A1F);
+        L = Float.intBitsToFloat(0xFAB83CF ^ 0xCEC5E5A9);
+        S = "DiffuseSampler";
+        Q = "commands.compare.outOfWorld";
+        p = "java.naming.factory.initial";
+        ca = "ConversionTime";
+        X = "commands.clone.tooManyBlocks";
+        h = "gru";
+        n = "Executing command block";
+        Ka = "dirtCount";
+        Z = "WINDOW SYSTEM";
+        o = 0xA415B063 ^ 0xA415B0C6;
+        e = "aberration";
+        Ha = Double.longBitsToDouble(0x76A6A01B0CC303CEL ^ 0x36E0201B0CC303CEL);
+        i = 0x102F1F31 ^ 0x102F1F39;
+        y = "\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 VimeWorld";
+        J = "mob.villager";
+        m = "ITEM_TAKE";
+        Ja = "item_frame";
+        b = "right.Shape38";
+        I = "potion.prefix.smooth";
+        r = 0xE3236280 ^ 0xE3236185;
+        t = "guiScale:";
+        B = "commands.publish.usage";
+        F = 0x3968A642 ^ 0x3968A4D7;
+        u = 0x60A9BF06 ^ 0x60A9B464;
+        Da = 0x713B9907 ^ 0x713B99F6;
+        j = "GL11.GL_ADD";
+        M = "circle";
+        T = "DoubleItemOption{name='";
+        H = "displayName";
+        fa = "blocks/destroy_stage_3";
+        a = "HALF_HORIZONTAL";
+        v = "red_nether_brick_stairs";
+        D = 0xF72561C2 ^ 0xF72561EE;
+        A = "GL11.GL_NORMAL_ARRAY";
+        f = "hps";
+        V = Double.longBitsToDouble(0x8BA6D731D5501230L ^ 0xCB835731D5501230L);
+        x = "stop-emote";
+        ga = "GL11.GL_MATRIX_MODE";
+        E = "levels";
+        g = "enableVsync";
+        q = "commands.scoreboard.objectives.list.empty";
+        c = "Shape49123";
+        O = "NOT_EQUALS";
+        z = "0.83, 0, 0.17, 1";
+        k = "\u00a7x";
+        l = "dye_black";
+        W = "key.use";
+        ja = "cactus_(?:bottom|side|top)";
+        U = "Back-face Solid";
+        G = "Right17";
+        K = 0xD65EC92D ^ 0xD610731C;
+    }
+}
+

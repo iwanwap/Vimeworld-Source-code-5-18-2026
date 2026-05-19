@@ -1,0 +1,137 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class kPa_1 {
+    public static final String ga;
+    public static final String Da;
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final float Ha;
+    public static final float Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final float S;
+    public static final double Z;
+    public static final String Y;
+    public static final double r;
+    public static final int V;
+    public static final String z;
+    public static final String X;
+    public static final float y;
+    public static final int U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final float W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final float d;
+    public static final String a;
+    public static final int b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final float I;
+
+    static {
+        f = "progress_";
+        s = "GL11.GL_FEEDBACK_BUFFER_TYPE";
+        G = "enumConstantDirectory";
+        Ha = Float.intBitsToFloat(0x1B00A90F ^ 0xD9B4A90F);
+        R = "Eyes";
+        H = "mob.endermen.idle";
+        a = "furnace_minecart";
+        u = "AttributeModifiers";
+        v = "CanPickUpLoot";
+        Ja = "minecraft:chest";
+        j = "item.canPlace";
+        r = Double.longBitsToDouble(0x263C17EC2E4F4173L ^ 0x6656D7EC2E4F4173L);
+        Aa = "chiseled_copper";
+        n = "CAMERAPATH";
+        C = "square_bottom_right";
+        N = "protocolVersion_";
+        B = "GL11.GL_INDEX_SHIFT";
+        w = "commands.scoreboard.objectives.add.displayTooLong";
+        ga = "Left.Shape8123";
+        m = "display_update";
+        Y = "textures/gui/container/anvil.png";
+        z = "Rendering Particle";
+        g = "extra";
+        L = "stat.workbenchInteraction";
+        ca = "selectWorld.conversion";
+        Ga = Float.intBitsToFloat(0xCE5FA6A0 ^ 0xF69C0C6);
+        Z = Double.longBitsToDouble(0x64944F64BAB1C6D8L ^ 0x248D6E9FEEF5EBC0L);
+        K = "Could not post to ";
+        Ka = "rx";
+        e = "gl_caps[ARB_uniform_buffer_object]";
+        fa = "assets/minecraft/models/block/gravel.json";
+        ja = "Trail";
+        P = "FLLeg";
+        l = "FAILED_DOWNLOAD";
+        V = 0x402F3FAB ^ 0x402FBDB6;
+        p = "Wolf";
+        x = "~";
+        W = Float.intBitsToFloat(0x8EDEE0B7 ^ 0xB06DD384);
+        M = "\u0421\u0432\u0435\u0440\u043d\u0443\u0442\u044c";
+        D = "getSeedBytes";
+        o = "foodExhaustionLevel";
+        q = " was kicked for floating too long!";
+        y = Float.intBitsToFloat(0xA5687E94 ^ 0xE5987E94);
+        A = "textures/entity/rabbit/toast.png";
+        Da = "options.guiScale.x7";
+        Q = "dynamicHandLight";
+        F = "Tried to read NBT tag with too high complexity, depth > 512";
+        t = "textures/gui/presets/madness.png";
+        J = "Java Version";
+        O = "instantSpell";
+        U = 0xED456F18 ^ 0xED45EA0E;
+        X = "monster_egg";
+        S = Float.intBitsToFloat(0x1F09D1BC ^ 0x5E19D1BC);
+        i = "GL13.GL_COMBINE_ALPHA";
+        d = Float.intBitsToFloat(0x43C42AD0 ^ 0x17FAAD0);
+        k = "5a";
+        E = "cherry_trapdoor";
+        b = 0x61B0E7B9 ^ 0x61B06366;
+        I = Float.intBitsToFloat(0xC7B3C5F8 ^ 0x725A39E);
+        c = "move";
+        T = "GL11.GL_MAX_TEXTURE_STACK_DEPTH";
+        h = "Ribbon1";
+    }
+
+    public kPa_1() {
+        kPa_1 a2;
+    }
+}
+

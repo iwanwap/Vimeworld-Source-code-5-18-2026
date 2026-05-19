@@ -1,0 +1,135 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class Uta_1 {
+    public static final String Da;
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final int Z;
+    public static final String Y;
+    public static final String r;
+    public static final int V;
+    public static final String z;
+    public static final String X;
+    public static final int y;
+    public static final String U;
+    public static final int P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final float W;
+    public static final float q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final int H;
+    public static final String c;
+    public static final int B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final int G;
+    public static final String D;
+    public static final String f;
+    public static final int F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final int k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        d = "assets/minecraft/models/block/diamond_ore.json";
+        J = "actionCase_";
+        fa = "exposed_cut_copper_slab";
+        K = "STDOUT";
+        n = "SMOOTH_BIOMES";
+        A = "deepslate_tile_slab";
+        Ja = "Downloading Resource Pack";
+        V = 0xD449DF07 ^ 0x23B620F8;
+        t = "explode";
+        I = "createWorld.customize.custom.lavaLakeChance";
+        M = "Unknown element type: ";
+        m = "jungle_sapling";
+        u = "del dfbDepthTextures";
+        Da = "easeInOutCubic";
+        a = "Chunk to be generated";
+        h = "ISOMETRICDISABLE";
+        G = 0x76798C08 ^ 0x76798F29;
+        q = Float.intBitsToFloat(0x3724A677 ^ 0xF61AC011);
+        s = "Default value cannot be lower than minimum value!";
+        r = "1-srcalpha";
+        ja = "\u041c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0439";
+        N = "textures/environment/end_sky.png";
+        ca = "Tried to save scoreboard without having a scoreboard...";
+        v = "CustomItems: Loading ";
+        e = "AFFECTED_BLOCKS";
+        l = "shadowProjectionInverse";
+        U = "textures/body/garlands3.png";
+        o = "Natural Textures: Parsing configuration \"";
+        P = 0x3F00406 ^ 0x31A9795;
+        g = "commands.setblock.outOfWorld";
+        E = "gl_caps[ARB_base_instance]";
+        k = 0xE779C425 ^ 0xE74A8897;
+        Aa = "vimepass";
+        Ga = "assetsDir";
+        T = "LanServerPinger: ";
+        z = " as a Component";
+        Q = "butcher";
+        Y = "bucketLava";
+        j = "keyup_";
+        f = "commands.entitydata.success";
+        L = "TEX_MIN_FIL_B";
+        S = "Left.Shape63123";
+        C = "Shape68123";
+        Ha = "ai";
+        O = "Old Format";
+        Z = 0xE7837933 ^ 0x187C84CC;
+        W = Float.intBitsToFloat(0x76136852 ^ 0x363AF1C8);
+        x = "Who set us up the TNT?";
+        R = "files";
+        D = "Left.Shape60123";
+        i = "of.options.quality";
+        y = 0xAB0AC0D6 ^ 0xAB0AD6D5;
+        F = 0xCF713E71 ^ 0xCF713711;
+        c = "polished_deepslate_slab_double";
+        Ka = "bone";
+        H = 0x74798241 ^ 0x74798353;
+        p = "enabled";
+        b = "rightHand";
+        w = "unable to fit ";
+        X = "glass_pane_top_pink";
+        B = 0x8D8560C9 ^ 0x8D85614E;
+    }
+
+    public Uta_1() {
+        Uta_1 a2;
+    }
+}
+

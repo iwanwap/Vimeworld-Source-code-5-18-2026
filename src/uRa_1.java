@@ -1,0 +1,137 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class uRa_1 {
+    public static final double ga;
+    public static final String Da;
+    public static final String ca;
+    public static final int Ja;
+    public static final String ja;
+    public static final int Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final int z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final int O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final int n;
+    public static final String s;
+    public static final String w;
+    public static final int W;
+    public static final float q;
+    public static final String x;
+    public static final String v;
+    public static final int o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final long b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final int A;
+    public static final double I;
+
+    static {
+        P = "achievement.portal";
+        fa = "momentum";
+        Ga = "minecraft:emitter_shape_entity_aabb";
+        Q = "DROP_ITEM";
+        D = "commands.gamemode.success.self";
+        w = "SCRIPT";
+        G = "GL11.GL_N3F_V3F";
+        t = "potion.prefix.uninteresting";
+        N = ", please follow this format: x1,y1,x2,y2";
+        s = "Shape13123";
+        L = "spider/cave_spider";
+        Aa = "keyTextAnimation";
+        l = "GL13.GL_TEXTURE_CUBE_MAP_NEGATIVE_X";
+        I = Double.longBitsToDouble(0x5FA5B04A5FDAC8E9L ^ 0x1FADB04A5FDAC8E9L);
+        S = "Shape42";
+        E = "commands.execute.allInvocationsFailed";
+        K = "passes";
+        M = "powered";
+        f = "Clash in Sound Category ID & Name pools! Cannot insert ";
+        b = 0xA279710ACA582B2AL ^ 0xA279710ACCB3D4DFL;
+        B = "Unknown facing: ";
+        c = "AMBIENT_OCCLUSION";
+        Y = "language";
+        y = "rawCopperBlock";
+        C = "selectServer.refresh";
+        ga = Double.longBitsToDouble(0x256EB273F3D84732L ^ 0x9AF00A22185D598AL);
+        p = " ,";
+        Da = "enchantmentLevels";
+        U = "eyeBrightness";
+        k = "Left.Shape24123";
+        e = "eMiniDot_";
+        q = Float.intBitsToFloat(0x3B421512 ^ 0xFA5ED9DF);
+        A = 0x5DFD2D01 ^ 0x5DFDA071;
+        J = "OUTFIT";
+        R = "en_us";
+        ja = "acacia_log";
+        r = "' is not found for element ";
+        o = 0xFB0C56C2 ^ 0xFB0C2390;
+        T = "Secondary";
+        j = "[-+]?[0-9]*\\.?[0-9]+[d|D]";
+        Ka = "[\\./\"]";
+        d = "mob.skeleton.hurt";
+        m = ", awardLocallyOnly=";
+        h = "gl_caps[EXT_shared_texture_palette]";
+        Z = "_min";
+        F = "Alpha";
+        n = 0x2236B35E ^ 0x2236BE0A;
+        Ha = 0x61CB1DF3 ^ 0x61CB818E;
+        H = "effect";
+        g = ") was larger than I expected, found ";
+        ca = "MC|AdvCdm";
+        W = 0xD435F393 ^ 0xD435F8E2;
+        a = ",roll:";
+        V = "Getting block state";
+        u = "Particle being ticked";
+        z = 0xD5912792 ^ 0xD5912AAA;
+        x = "&c\u0421\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0434\u043e\u043b\u0436\u043d\u0430 \u0431\u044b\u0442\u044c \u0447\u0438\u0441\u043b\u043e\u043c";
+        i = "zoom_";
+        v = "item:";
+        Ja = 0x9998D3C8 ^ 0x99985700;
+        O = 0xA92B282A ^ 0xA92BB464;
+        X = "NyanKOT";
+    }
+
+    public uRa_1() {
+        uRa_1 a2;
+    }
+}
+

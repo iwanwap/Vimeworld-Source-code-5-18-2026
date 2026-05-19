@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class EPa {
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final int Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final int Y;
+    public static final float r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final int O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final float W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final int l;
+    public static final String e;
+    public static final int G;
+    public static final String D;
+    public static final int f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final int i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final int A;
+    public static final String I;
+
+    static {
+        N = "allowedPerspectives_";
+        v = "spreadY_";
+        T = "Invalid sound";
+        l = 0x7F244180 ^ 0x7F24411E;
+        Ha = "selectServer.deleteWarning";
+        H = "Left.Shape44123";
+        U = "\u0422\u0435\u043d\u044c";
+        k = "ofWaterParticles:";
+        E = "buildBetterPickaxe";
+        C = "gravelSize";
+        z = "RenderType";
+        o = "DisplayTile";
+        Aa = "goldSize";
+        m = "maxZ_";
+        s = "mayfly";
+        F = "rowId_";
+        b = "SimulateClick";
+        c = "!0 & 1 & 2 & !3 & 2+6";
+        Ka = "VILLAGER";
+        X = "fog0.png";
+        A = 0x3E90E936 ^ 0x3E90C316;
+        f = 0x13C21524 ^ 0x13C21E21;
+        t = "commands.clear.success";
+        n = "stat.itemEnchanted";
+        R = "moonPhase";
+        G = 0x73DCE3D9 ^ 0x73DCE322;
+        J = "orange_carpet";
+        Ga = 0x2D4C3F53 ^ 0x2DEC9FAC;
+        M = "Could not save the list after adding a user.";
+        ca = "GL11.GL_NEVER";
+        r = Float.intBitsToFloat(0x9AC9D03E ^ 0xD849D03E);
+        w = "demo.day.warning";
+        K = "HOME";
+        L = "C:\\Dev\\minecraft-1.8.8\\src\\minecraft\\assets\\minidot\\models\\head";
+        x = "axis=z";
+        a = ", sprite: ";
+        Q = "Using AO";
+        W = Float.intBitsToFloat(0x50EAB5B8 ^ 0x6E2A81D6);
+        e = "java.net.preferIPv4Stack";
+        D = "slime_ball";
+        p = "glass_orange";
+        fa = "GL11.GL_TEXTURE_ALPHA_SIZE";
+        d = "GL11.GL_MAX_LIGHTS";
+        O = 0x74EF4F54 ^ 0x74EF4F48;
+        P = "\u0422\u0430\u043d\u0446\u044b: ";
+        ja = "dead_brain_coral_block";
+        V = "Sun path rotation: ";
+        B = "minecartTnt";
+        g = "advancedItemTooltips:";
+        S = "Duration";
+        i = 0x35204B64 ^ 0x3520CB3A;
+        u = "stone_hoe";
+        Z = "Color: #";
+        q = "prismarine_brick_slab_double";
+        h = "facing=south,half=top,shape=inner_right";
+        y = "hcr";
+        Y = 0xBACF46D ^ 0xBAC046F;
+        I = "][dimension]";
+        j = "Shape72123";
+        Ja = "commands.save-off.usage";
+    }
+
+    public EPa() {
+        EPa a2;
+    }
+}
+

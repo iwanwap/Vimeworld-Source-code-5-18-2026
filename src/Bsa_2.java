@@ -1,0 +1,135 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class Bsa_2 {
+    public static final String Da;
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final float Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final int z;
+    public static final String X;
+    public static final String y;
+    public static final double U;
+    public static final int P;
+    public static final float u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final int n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final double x;
+    public static final String v;
+    public static final String o;
+    public static final float h;
+    public static final String K;
+    public static final int H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final int E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final int j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    public Bsa_2() {
+        Bsa_2 a2;
+    }
+
+    static {
+        c = "achievement.killCow";
+        j = 0x95E5F0D6 ^ 0x95E5FB80;
+        u = Float.intBitsToFloat(0xD0BD9D75 ^ 0xEE17E38F);
+        W = "EPIC";
+        g = "{\"coordinateScale\":684.412, \"heightScale\":684.412, \"upperLimitScale\":512.0, \"lowerLimitScale\":512.0, \"depthNoiseScaleX\":200.0, \"depthNoiseScaleZ\":200.0, \"depthNoiseScaleExponent\":0.5, \"mainNoiseScaleX\":5000.0, \"mainNoiseScaleY\":1000.0, \"mainNoiseScaleZ\":5000.0, \"baseSize\":8.5, \"stretchY\":5.0, \"biomeDepthWeight\":2.0, \"biomeDepthOffset\":1.0, \"biomeScaleWeight\":4.0, \"biomeScaleOffset\":1.0, \"useCaves\":true, \"useDungeons\":true, \"dungeonChance\":8, \"useStrongholds\":true, \"useVillages\":true, \"useMineShafts\":true, \"useTemples\":true, \"useRavines\":true, \"useWaterLakes\":true, \"waterLakeChance\":4, \"useLavaLakes\":true, \"lavaLakeChance\":80, \"useLavaOceans\":false, \"seaLevel\":63 }";
+        T = "TEXT_CLOCK";
+        t = "!0 & !1 & 2 & !3 & 2+6";
+        P = 0xA7E661AC ^ 0xA7E660A3;
+        z = 0x9157CD3 ^ 0x9157DC2;
+        fa = "6b";
+        ca = "BRL1";
+        C = "JUMP";
+        H = 0x843B3A3 ^ 0x843B315;
+        I = "lang:";
+        F = "Couldn't load credits";
+        O = "Adding entity to track";
+        p = "GL11.GL_AND_INVERTED";
+        o = "HOVER";
+        Ga = "Downloading http texture from {} to {}";
+        B = "chat.link.confirm";
+        Z = "GL11.GL_MAX_CLIP_PLANES";
+        y = "GL11.GL_KEEP";
+        Q = "Shadow map interval size: ";
+        A = "emoji";
+        n = 0x14C2EC37 ^ 0x14C2EC98;
+        r = "Unable to get Z-rotated facing of ";
+        Da = "old_wood_slab";
+        a = "get";
+        v = "bezier_right_value";
+        s = "blue_concrete";
+        h = Float.intBitsToFloat(0x7BEDF450 ^ 0xC50B34D0);
+        q = "ofBetterGrass";
+        e = "[Shaders] Invalid value: ";
+        l = "screenshot.success";
+        N = "Error starting SoundSystem. Turning off sounds & music";
+        w = "of.message.other.reset";
+        G = "LEATHER";
+        Y = "PLATINUM";
+        R = "specularMapEnabled";
+        V = "ThrownPotion";
+        x = Double.longBitsToDouble(0xB6F841010F253942L ^ 0x891041010F253942L);
+        d = "Unable to parse metadata from ";
+        ja = "dark_oak_stairs";
+        D = "\u0000\u0001\u0000\u0000\u0001\u0001\u0001\u0000\u0001\u0000\u0001\u001b";
+        Ka = "Sitting";
+        K = " bytes.";
+        S = "head.upperlip";
+        i = "Front.10b";
+        Aa = "max_";
+        X = "deathScreen.hardcoreInfo";
+        m = "REDSTONE";
+        M = "ISOMETRICMOUSEPOSITION";
+        Ja = "lanServer.otherPlayers";
+        L = "TileTicks";
+        b = "commands.generic.entity.invalidType";
+        J = "1-dstcolor";
+        Ha = Float.intBitsToFloat(0x5F0575CC ^ 0x9E0175CC);
+        U = Double.longBitsToDouble(0xBAD017066447BB4AL ^ 0x7B3017066447BB4AL);
+        k = "ENTITYACTION";
+        E = 0xAA3AEB66 ^ 0xAA3AEB01;
+        f = "block/wall_inventory";
+    }
+}
+

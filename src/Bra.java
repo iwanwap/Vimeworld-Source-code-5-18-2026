@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class Bra {
+    public static final String ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final int Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final float y;
+    public static final String U;
+    public static final String P;
+    public static final int u;
+    public static final int O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final float q;
+    public static final String x;
+    public static final String v;
+    public static final double o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final int e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final float F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final int C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final long I;
+
+    public Bra() {
+        Bra a2;
+    }
+
+    static {
+        b = "options.sensitivity.max";
+        Y = "Created: {}x{} {}-atlas";
+        D = "GL12.GL_TEXTURE_WRAP_R";
+        S = "RESOURCESAVE";
+        l = "Sphere element ";
+        z = "canSee";
+        Aa = "Shape42123";
+        H = "GL15.GL_VERTEX_ARRAY_BUFFER_BINDING";
+        fa = "Loading http texture from local cache ({})";
+        x = "textures/pet/chicken.png";
+        T = "bungling";
+        c = "waxedCopperBlock";
+        d = "assets/minecraft/blockstates/diorite.json";
+        U = "GL11.GL_TEXTURE_MAG_FILTER";
+        Z = "wheel_callback";
+        v = "Internal Exception: ";
+        w = "door_(?:iron|wood)_(?:lower|upper)";
+        j = "stat.diveOneCm";
+        P = "OMSimple";
+        ca = ", basePath: ";
+        h = "xval_";
+        E = "Status request has been handled.";
+        W = "Scaling at 1:";
+        r = "UUID of player ";
+        K = "options.graphics.fast";
+        f = "Shape4";
+        M = "crimsonDoor";
+        A = "TEXTCOLOR";
+        k = "display_type";
+        q = Float.intBitsToFloat(0x3F85588A ^ 0x15A3E78);
+        n = "ANIMATED_GRADIENT";
+        p = "X90_Y180";
+        ja = "uniform [ _a-zA-Z0-9]+ colortex6;.*";
+        t = "warped_slab";
+        m = "Unable to load miplevel {} from: {}";
+        C = 0xED363084 ^ 0xED3630D2;
+        Q = "quartz_stairs";
+        u = 0xEFC49229 ^ 0xEFC49105;
+        e = 0x4A21426C ^ 0xB5DEC26C;
+        X = "end_portal";
+        O = 0x1054A5CE ^ 0x10542095;
+        a = "pufferfish";
+        s = "You must specify which player you wish to perform this action on.";
+        N = "item.canBreak";
+        o = Double.longBitsToDouble(0x7CAA5A82B81CEEBAL ^ 0x345A57D47E31145L);
+        G = "particle.water";
+        Ga = 0x84FB1E74 ^ 0x84F75C3A;
+        F = Float.intBitsToFloat(0x138830A8 ^ 0xAD83CBBE);
+        B = "LWJGL";
+        y = Float.intBitsToFloat(0xF2678415 ^ 0x35EB2415);
+        Ja = "GL11.GL_STEREO";
+        Ka = ", transparent=";
+        i = "BETTER_GRASS";
+        g = "HD Ultra";
+        R = "WATER_WAKE";
+        J = "weightedPlate_light";
+        L = "shadowColor1Mipmap";
+        V = "auxtargets[";
+        I = 0x3C17D4C289EEC77CL ^ 0x3C17D4C289EEC77FL;
+        Ha = "GL14.GL_POINT_SIZE_MAX";
+    }
+}
+

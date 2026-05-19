@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class Mqa {
+    public static final String ca;
+    public static final String Ja;
+    public static final int ja;
+    public static final String Ha;
+    public static final float Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final float r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final float O;
+    public static final float t;
+    public static final String R;
+    public static final String Q;
+    public static final float N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final int w;
+    public static final int W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final float B;
+    public static final String d;
+    public static final String a;
+    public static final float b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        K = "math.hermite_blend";
+        B = Float.intBitsToFloat(0xAD69AE44 ^ 0xEDCA9D77);
+        X = "weatheredCutCopperSlab";
+        k = "entity-id";
+        l = "\u0000\u0006\u0000\u0001\u0001\u0006\u0006\u0000\u0000\u0000\u0001\u0004\u0002\u100a\u0000\u0003\u1001\u0001\u0004\u1001\u0002\u0005\u1001\u0003\u0006\u1001\u0004";
+        N = Float.intBitsToFloat(0xE6A8D757 ^ 0xD8A8D757);
+        m = "GL13.GL_TEXTURE4";
+        v = "blindness";
+        w = 0xC16B8CD5 ^ 0xC16B89D1;
+        Ga = Float.intBitsToFloat(0x7D608AF9 ^ 0xC0954876);
+        P = "const ";
+        Z = "east=false,north=false,south=false,up=true,west=true";
+        M = "XZY";
+        r = Float.intBitsToFloat(0x449B0AA4 ^ 0xF8417EAB);
+        fa = "potion.prefix.elegant";
+        a = "glass_purple";
+        Ja = "Blaze";
+        C = "mob.horse.jump";
+        p = "Comparing biomes";
+        Y = "textures/blocks/destroy_stage_0.png";
+        A = "fortune";
+        U = "tile.bed.notSafe";
+        z = " / \u041f\u0438\u043d\u0433: ";
+        Ha = "GL11.GL_BLUE_BITS";
+        n = "Piece2";
+        o = "devtools";
+        ja = 0xCC9CEB97 ^ 0xCC9CEB79;
+        d = "Don't know how to handle ";
+        V = "MASTER";
+        H = "Invalid palette size: ";
+        i = "blaze_rod";
+        t = Float.intBitsToFloat(0xC809B0F5 ^ 0xF7BA6088);
+        W = 0x8DCAB698 ^ 0x8DCABA9A;
+        R = "Level Data Unobtainable";
+        D = "rearleg.main";
+        u = "FXAA 2x";
+        h = "tulipRed";
+        J = "variants";
+        Aa = "neck";
+        b = Float.intBitsToFloat(0x1116B999 ^ 0xAC96B999);
+        O = Float.intBitsToFloat(0x2510E801 ^ 0x9A909DF6);
+        j = "<empty>";
+        c = "OfflinePlayer:";
+        q = "polishedBlackstoneBrickWall";
+        T = "Timeout ";
+        S = "variable.particle_pos.distance";
+        I = "\u4ed1  ";
+        e = "length";
+        y = "";
+        E = "assets/minecraft/models/block/stone_mirrored.json";
+        s = "lower";
+        x = "pendingBlockEntities";
+        g = "key.hotbar.5";
+        F = "createWorld.customize.custom.mainNoiseScaleY";
+        f = "Left.Shape20123";
+        ca = "Load ShadersMod configuration.";
+        G = "quartz_ore";
+        L = "Couldn't render entity";
+        Q = "Head.34";
+        Ka = "Shaders can not be loaded, Antialiasing is enabled: ";
+    }
+
+    public Mqa() {
+        Mqa a2;
+    }
+}
+

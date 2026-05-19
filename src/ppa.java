@@ -1,0 +1,133 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class ppa {
+    public static final int ca;
+    public static final String Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final int u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final int T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final int W;
+    public static final float q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final String b;
+    public static final int l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final int f;
+    public static final int F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final int i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final float I;
+
+    public ppa() {
+        ppa a2;
+    }
+
+    static {
+        c = ") version ";
+        C = "ALL_INSIDE";
+        P = "archive_";
+        T = 0x2C5B031 ^ 0x2C5FF9E;
+        g = "Body.Shape4";
+        B = "GL12.GL_TEXTURE_BINDING_3D";
+        l = 0x48C368E0 ^ 0x48C3E079;
+        U = "Right16";
+        M = "yellow_stained_hardened_clay";
+        D = "Shape37";
+        o = "double_plant_rose_bottom";
+        n = "[0] ";
+        G = "Failed Piece with id ";
+        Ja = "commands.title.usage.title";
+        e = "minecraft:particle_motion_collision";
+        b = "Head.Shape8";
+        ca = 0xB0B09737 ^ 0x4F4F60C8;
+        a = "aboveClouds";
+        v = "lightTex";
+        S = "achievement.theEnd2";
+        d = "Please click ";
+        Y = "Piece1.Shape7";
+        q = Float.intBitsToFloat(0x7048F942 ^ 0xCF81F69A);
+        Q = "Right24";
+        w = "prismarineBrickStairs";
+        Ga = "mob tick";
+        E = "gameMode";
+        z = "textures/gui/options_background.png";
+        m = "placedTrap2";
+        V = "EASE_OUT_CIRC";
+        K = "{\"coordinateScale\":3000.0, \"heightScale\":6000.0, \"upperLimitScale\":250.0, \"lowerLimitScale\":512.0, \"depthNoiseScaleX\":200.0, \"depthNoiseScaleZ\":200.0, \"depthNoiseScaleExponent\":0.5, \"mainNoiseScaleX\":80.0, \"mainNoiseScaleY\":160.0, \"mainNoiseScaleZ\":80.0, \"baseSize\":8.5, \"stretchY\":10.0, \"biomeDepthWeight\":1.0, \"biomeDepthOffset\":0.0, \"biomeScaleWeight\":1.0, \"biomeScaleOffset\":0.0, \"useCaves\":true, \"useDungeons\":true, \"dungeonChance\":8, \"useStrongholds\":true, \"useVillages\":true, \"useMineShafts\":true, \"useTemples\":true, \"useRavines\":true, \"useWaterLakes\":true, \"waterLakeChance\":4, \"useLavaLakes\":true, \"lavaLakeChance\":80, \"useLavaOceans\":false, \"seaLevel\":63 }";
+        k = "arcColors_";
+        f = 0x9F6D2A54 ^ 0x9F6D2A94;
+        r = "startFadeIn";
+        F = 0xCFF09EAC ^ 0xCFF09F98;
+        h = "LONGVAL";
+        L = "GL11.GL_PACK_LSB_FIRST";
+        u = 0xBA6A6691 ^ 0x45FAF66E;
+        Ha = "Encountered an exception when loading model definition of model ";
+        H = "options.on";
+        p = "Manually triggered debug crash";
+        Aa = "textures/entity/boat.png";
+        Z = "Not implemented";
+        ja = "TEX_MAG_FIL_N";
+        A = ".tmp";
+        W = 0x854BA6F4 ^ 0x854BADD4;
+        s = "Head.17";
+        J = "invalid ObfValue.tick method";
+        t = "LEGACY";
+        I = Float.intBitsToFloat(0xE0E4C904 ^ 0x5FFEC007);
+        O = "bamboo_mosaic";
+        i = 0xCBAB4CFE ^ 0xCBAB4FF5;
+        x = "shadowColor1MinMagNearest";
+        fa = ".lang";
+        X = "black_stained_glass";
+        Ka = "creaking_heart";
+        y = "uniform [ _a-zA-Z0-9]+ depthtex2;.*";
+        R = "REPEAT";
+        N = "fire_protection";
+        j = "GL12.GL_ALIASED_POINT_SIZE_RANGE";
+    }
+}
+

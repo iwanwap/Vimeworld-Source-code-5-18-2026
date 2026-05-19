@@ -1,0 +1,135 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class MRa {
+    public static final String Da;
+    public static final String ca;
+    public static final String Ja;
+    public static final float ja;
+    public static final int Ha;
+    public static final String Ga;
+    public static final String fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final float O;
+    public static final String t;
+    public static final String R;
+    public static final int Q;
+    public static final float N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final String W;
+    public static final String q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final float K;
+    public static final String H;
+    public static final float c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final double b;
+    public static final String l;
+    public static final String e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final int g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final float C;
+    public static final String i;
+    public static final int M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    static {
+        j = "\u041d\u041e\u0412\u041e\u0415";
+        m = "selectServer.delete";
+        Da = "netherite_sword";
+        h = "textures/pet/wild_duck.png";
+        B = "&t=";
+        x = "handleDisconnection() called twice";
+        u = "textures/gui/container/furnace.png";
+        C = Float.intBitsToFloat(0x4592B75B ^ 0x4ED194F);
+        z = "GL11.GL_STENCIL_REF";
+        E = "false";
+        Y = "options.particles.decreased";
+        Q = 0x964308B5 ^ 0x96430DB3;
+        Ha = 0x6C59B463 ^ 0x6C59355F;
+        Aa = "pre-useProgram";
+        U = "Right.Right6";
+        w = "GL11.GL_LINE_STIPPLE_PATTERN";
+        ja = Float.intBitsToFloat(0x945467F5 ^ 0x52487FF5);
+        V = " tag(s)";
+        n = "textures/pet/mushroom_brown.png";
+        P = "PEARLESCENT";
+        q = "key.categories.gameplay";
+        Ka = "CHAT_OPACITY";
+        I = "CALLBACK";
+        R = "guiScale";
+        v = "X270_Y270";
+        K = Float.intBitsToFloat(0xA9CFC25 ^ 0x345CFC25);
+        G = "BIRCH_SAPLING";
+        Ga = "VC: Failed {} {}";
+        k = "facing=south,half=top,shape=straight";
+        Z = "birchcolor.png";
+        F = "megabox.animation";
+        A = "dz";
+        N = Float.intBitsToFloat(0xC577C458 ^ 0xFA0FC458);
+        W = "ISOMETRICCLICK";
+        f = "CONNECTION_TROUBLE";
+        H = "goalSelector";
+        D = "of.options.other";
+        J = "prismarine_wall";
+        d = "GL11.GL_BACK";
+        p = "stat.entityKilledBy.none";
+        c = Float.intBitsToFloat(0x79365B5A ^ 0xC7968226);
+        fa = "cooked_cod";
+        r = "Server tried to update attributes of a non-living entity (actually: ";
+        t = "Slot{originX=";
+        Ja = ", paths: ";
+        g = 0xDEF3B1FE ^ 0xDEF3BD88;
+        o = "chiseledCopper";
+        O = Float.intBitsToFloat(0x882C8385 ^ 0xC89D934E);
+        l = "RightLeg.RightLeg4";
+        X = " total; ";
+        a = "Server out of date!";
+        S = "FIREWORKS_SPARK";
+        M = 0x292E9BBD ^ 0x292E9AA6;
+        s = "GL11.GL_DEPTH_CLEAR_VALUE";
+        T = "fade";
+        L = "AA_LEVEL";
+        e = "DARK_PURPLE";
+        i = "\u042d\u043c\u043e\u0446\u0438\u044f";
+        b = Double.longBitsToDouble(0x4D1F97AFA1DAE03EL ^ 0xDB3B7AFA1DAE03EL);
+        ca = " ##";
+        y = "server-resource-packs";
+    }
+
+    public MRa() {
+        MRa a2;
+    }
+}
+

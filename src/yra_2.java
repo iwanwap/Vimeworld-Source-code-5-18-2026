@@ -1,0 +1,135 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class yra_2 {
+    public static final String Da;
+    public static final String ca;
+    public static final String Ja;
+    public static final long ja;
+    public static final String Ha;
+    public static final String Ga;
+    public static final int fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final double Y;
+    public static final String r;
+    public static final int V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final int O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final String T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final int w;
+    public static final String W;
+    public static final int q;
+    public static final String x;
+    public static final String v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final double d;
+    public static final String a;
+    public static final String b;
+    public static final String l;
+    public static final int e;
+    public static final String G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final String g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final String C;
+    public static final String i;
+    public static final String M;
+    public static final int k;
+    public static final String j;
+    public static final String J;
+    public static final long A;
+    public static final String I;
+
+    static {
+        X = "sandstone.properties";
+        i = "paeonia";
+        s = "Dropper";
+        Q = "Body.Shape25";
+        y = "GL12.GL_UNSIGNED_INT_10_10_10_2";
+        e = 0xEFC2C0DD ^ 0xEFC25C8D;
+        K = "\u0000\u0004\u0000\u0000\u0001\u0004\u0004\u0000\u0000\u0000\u0001\n\u0002\n\u0003\u0208\u0004\u0004";
+        G = "gl_caps[ARB_half_float_vertex]";
+        Ja = "Details:";
+        o = "SpawnX";
+        E = ", version ";
+        b = ", matchBlocks: ";
+        Ga = "ALC_EXT_disconnect";
+        R = "foliage";
+        c = "ShowArms";
+        f = "&a\u0422\u043e\u0447\u043a\u0430 &f";
+        Ka = "0x";
+        q = 0x6333F5D5 ^ 0x63337100;
+        M = "sprintMode";
+        P = "Back.13b";
+        Y = Double.longBitsToDouble(0x6FB8FCA19DE54C2AL ^ 0x2F28FCA19DE54C2AL);
+        A = 0xBBFF4F1C43535BECL ^ 0xBBFF4F1C43535B8CL;
+        V = 0xF65E735D ^ 0xF65EF7BE;
+        O = 0x5C5F26BD ^ 0x5C91892B;
+        a = "https";
+        Ha = "TextureAnimation: Source texture not found: ";
+        U = "TEXT_STOPWATCH";
+        v = "jungle_fence";
+        Da = "[Shaders] Duplicate option: ";
+        F = " is not found";
+        S = "ignited";
+        T = "BOTTOM_LEFT";
+        H = "Rendering entity in world";
+        z = "carried";
+        k = 0xAB785ED3 ^ 0xAB785DCD;
+        I = "HELD_ITEM_TOOLTIPS";
+        Aa = "RightLeg.RL1";
+        u = "game.player.hurt.fall.big";
+        J = "detectorRail";
+        m = "connect.authorizing";
+        x = "compare";
+        l = "textures/entity/squid.png";
+        D = "screenY_";
+        Z = "trackSize_";
+        h = "\u0423\u0432\u0435\u043b\u0438\u0447\u0435\u043d\u0438\u0435 -";
+        B = "frametime";
+        p = "1.5x";
+        d = Double.longBitsToDouble(0x3BAC62A7BA0CC282L ^ 0x4281846FA0CC282L);
+        W = "JOINVOICECHAT";
+        ca = "rotation_drag_coefficient";
+        t = ",";
+        n = "PING";
+        ja = 0xE9556FCE0DEDD656L ^ 0xE9556FCE0DEDD648L;
+        L = "andesite_wall";
+        C = "textures/pet/kodama.png";
+        g = "GL11.GL_TEXTURE_BLUE_SIZE";
+        r = "\u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0440\u0430\u0431\u043e\u0442\u044b";
+        j = "zval_";
+        fa = 0xFB8F1285 ^ 0xFB8F1028;
+        N = "pattern:";
+        w = 0xF492D711 ^ 0xF492520D;
+    }
+
+    public yra_2() {
+        yra_2 a2;
+    }
+}
+

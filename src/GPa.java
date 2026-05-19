@@ -1,0 +1,135 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+public final class GPa {
+    public static final String Da;
+    public static final String ca;
+    public static final int Ja;
+    public static final String ja;
+    public static final String Ha;
+    public static final int Ga;
+    public static final double fa;
+    public static final String Ka;
+    public static final String Aa;
+    public static final String S;
+    public static final String Z;
+    public static final String Y;
+    public static final String r;
+    public static final String V;
+    public static final String z;
+    public static final String X;
+    public static final String y;
+    public static final String U;
+    public static final String P;
+    public static final String u;
+    public static final String O;
+    public static final String t;
+    public static final String R;
+    public static final String Q;
+    public static final String N;
+    public static final int T;
+    public static final String p;
+    public static final String n;
+    public static final String s;
+    public static final String w;
+    public static final double W;
+    public static final float q;
+    public static final String x;
+    public static final int v;
+    public static final String o;
+    public static final String h;
+    public static final String K;
+    public static final String H;
+    public static final String c;
+    public static final String B;
+    public static final String d;
+    public static final String a;
+    public static final int b;
+    public static final String l;
+    public static final String e;
+    public static final int G;
+    public static final String D;
+    public static final String f;
+    public static final String F;
+    public static final double g;
+    public static final String L;
+    public static final String E;
+    public static final String m;
+    public static final int C;
+    public static final String i;
+    public static final String M;
+    public static final String k;
+    public static final String j;
+    public static final String J;
+    public static final String A;
+    public static final String I;
+
+    public GPa() {
+        GPa a2;
+    }
+
+    static {
+        N = "SERVERBOUND";
+        n = "modelOffset_";
+        h = "pre beginRender";
+        v = 0x6F6878A1 ^ 0x6F928861;
+        D = "Head.16";
+        ja = "GL12.GL_PROXY_TEXTURE_3D";
+        s = "GL11.GL_PIXEL_MAP_A_TO_A";
+        C = 0x3CA3DEE8 ^ 0x3CA3DEDE;
+        u = "jungle_log";
+        w = "createWorld.customize.custom.presets";
+        M = "Failed to save options";
+        Y = "menu.game";
+        k = "GL11.GL_CLIP_PLANE2";
+        O = "ambient.cave.cave";
+        Ka = "double_rose";
+        E = "\u0412\u043a\u043b\u044e\u0447\u0435\u043d\u044b";
+        m = "mcpatcher/anim";
+        F = "recheckGaps";
+        I = "acrid";
+        c = "depthNoiseScaleExponent";
+        J = "0";
+        fa = Double.longBitsToDouble(0x8A60355B7D44E253L ^ 0xB589ACC2DD44E253L);
+        L = "FT d";
+        B = "TileEntities";
+        o = "slot_";
+        g = Double.longBitsToDouble(0x1546AD60D39A29F1L ^ 0x2AD2D78194343D8AL);
+        Q = "'from' specifier exceeds the allowed boundaries: ";
+        W = Double.longBitsToDouble(0x6B2771579FA60791L ^ 0x2AB0A6D39FA60791L);
+        j = "textures/pet/mushroom_red.png";
+        f = "GL13.GL_COMPRESSED_ALPHA";
+        R = "advMode.setCommand.success";
+        z = "port_";
+        A = "displayId";
+        Ga = 0x719CCD8A ^ 0x719CCFEE;
+        G = 0xDAE131C3 ^ 0xDAE13141;
+        S = "textures/pet/bedwars_2017_";
+        b = 0x9676F037 ^ 0x9676F2A3;
+        d = "NVFogDistance.GL_EYE_PLANE_ABSOLUTE_NV";
+        t = "untouching";
+        T = 0x80FB62E7 ^ 0x80FB6376;
+        p = " rs ";
+        e = "STOP_SLEEPING";
+        Da = "gl_caps[ARB_draw_buffers]";
+        l = "png";
+        i = "black";
+        Ja = 0xB4097FC0 ^ 0xB4097DA9;
+        U = "crimsonTrapdoor";
+        x = "oxygen";
+        V = "L";
+        Z = "flower_tulip_white";
+        Ha = "fireCoralBlock";
+        ca = "tts";
+        K = "Type: ";
+        a = "PLAYER";
+        Aa = "textures/font/ascii.png";
+        y = " is larger than protocol maximum of ";
+        H = "X90_Y0";
+        q = Float.intBitsToFloat(0x83B0F630 ^ 0x3CB164F0);
+        X = "diamond_horse_armor";
+        r = "stat.enderchestOpened";
+        P = "RightLeg.RL";
+    }
+}
+
